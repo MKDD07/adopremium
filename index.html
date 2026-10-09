@@ -7,7 +7,7 @@
 <title>Adopremium — Luxury Villa Portfolio</title>
 <link rel="icon" type="image/svg+xml" href="https://www.adopremium.com/adopremium.svg">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css">
-<link rel="stylesheet" href="assets/style.css">
+<link rel="stylesheet" href="assets/style.css?v=c0e8b59efbee">
 <link href="https://fonts.googleapis.com/css2?family=Poiret+One&family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
 <!-- Lucide Icons -->
 <script src="https://unpkg.com/lucide@latest"></script>
@@ -47,11 +47,11 @@
 
   <div class="header-right">
     <div class="header-contact-actions">
-      <button type="button" class="contact-action-btn call-btn" onclick="openContactModal('call')" aria-label="Call for reservations" title="Get In Touch">
+      <button type="button" class="contact-action-btn call-btn" data-contact="call" aria-label="Call for reservations" title="Get In Touch">
         <i data-lucide="phone" class="btn-icon"></i>
         <span class="btn-text">Call</span>
       </button>
-      <button type="button" class="contact-action-btn email-btn" onclick="openContactModal('email')" aria-label="Email our team" title="Get In Touch">
+      <button type="button" class="contact-action-btn email-btn" data-contact="email" aria-label="Email our team" title="Get In Touch">
         <i data-lucide="mail" class="btn-icon"></i>
         <span class="btn-text">Email</span>
       </button>
@@ -100,7 +100,7 @@
         <span class="contact-modal-kicker">Adopremium Concierge</span>
         <h2 class="contact-modal-title" id="contactModalTitle">Get In Touch with Our Expert</h2>
       </div>
-      <button type="button" class="contact-modal-close" id="contactModalClose" onclick="closeContactModal()" aria-label="Close modal">
+      <button type="button" class="contact-modal-close" id="contactModalClose" data-contact-close aria-label="Close modal">
         <i data-lucide="x"></i>
       </button>
     </div>
@@ -197,7 +197,7 @@
 
 <nav class="mob-bottom-nav" id="mobBottomNav" aria-label="Mobile bottom navigation"></nav>
 <script src="assets/data/portfolio-fallback.js"></script>
-<script src="assets/script.js"></script>
+<script src="assets/script.js?v=cdc299083eda"></script>
 
 </body>
 </html>

@@ -1023,8 +1023,8 @@ function renderMobBottomNav({ stateSlug = "", stateName = "", locSlug = "", locN
     `);
   }
 
-  items.push(`<button type="button" onclick="openContactModal('call')" class="mob-bottom-item"><i data-lucide="phone"></i><span>Call</span></button>`);
-  items.push(`<button type="button" onclick="openContactModal('email')" class="mob-bottom-item"><i data-lucide="mail"></i><span>Email</span></button>`);
+  items.push(`<button type="button" data-contact="call" class="mob-bottom-item"><i data-lucide="phone"></i><span>Call</span></button>`);
+  items.push(`<button type="button" data-contact="email" class="mob-bottom-item"><i data-lucide="mail"></i><span>Email</span></button>`);
   items.push(`<button type="button" class="mob-bottom-item" onclick="location.reload()"><i data-lucide="lock-keyhole"></i><span>Lock</span></button>`);
   el.innerHTML = items.join("");
   el.querySelectorAll(".active").forEach(a => a.setAttribute("aria-current", "page"));
@@ -2109,6 +2109,17 @@ function closeContactModal() {
   document.body.style.overflow = contactPreviousOverflow;
   contactOpener?.focus();
 }
+// Delegation also handles contact buttons recreated by the router.
+document.addEventListener('click', event => {
+  const trigger = event.target.closest('[data-contact]');
+  if (trigger) {
+    event.preventDefault();
+    openContactModal(trigger.dataset.contact);
+    return;
+  }
+  if (event.target.closest('[data-contact-close]')) closeContactModal();
+});
+
 document.getElementById('contactModal')?.addEventListener('click', e => {
   if (e.target.id === 'contactModal') closeContactModal();
 });
