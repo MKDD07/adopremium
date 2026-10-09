@@ -1,6 +1,6 @@
 {
   "title": "Cliff Side Villa | 3-BHK + Attic | Garden | Gazebo | Balconies | Scenic Views",
-  "summary": "Outstanding service from friendly and attentive staff",
+  "summary": "Based on 103 reviews Outstanding service from friendly and attentive staff Delicious food prepared by a talented chef Beautifully maintained villas with breathtaking views",
   "location": {
     "city": "Kasauli",
     "region": null,
@@ -72,7 +72,7 @@
       "floor": null,
       "size_sqft": null,
       "bed_type": null,
-      "features": "Elegant interiors with a fireplace & patio access",
+      "features": "fireplace & patio access",
       "attached_bathroom": null
     },
     {
@@ -80,7 +80,7 @@
       "floor": null,
       "size_sqft": null,
       "bed_type": null,
-      "features": "Relaxing lounge with a TV and private balcony",
+      "features": "TV and private balcony",
       "attached_bathroom": null
     },
     {
@@ -88,7 +88,7 @@
       "floor": null,
       "size_sqft": null,
       "bed_type": null,
-      "features": "Lush garden with a swing & scenic views",
+      "features": "swing & scenic views",
       "attached_bathroom": null
     },
     {
@@ -96,7 +96,7 @@
       "floor": null,
       "size_sqft": null,
       "bed_type": null,
-      "features": "Inviting seating area with warm lighting",
+      "features": "seating area with warm lighting",
       "attached_bathroom": null
     },
     {
@@ -104,7 +104,7 @@
       "floor": null,
       "size_sqft": null,
       "bed_type": null,
-      "features": "A cosy spot for unwinding amidst nature",
+      "features": "cosy spot for unwinding amidst nature",
       "attached_bathroom": null
     },
     {
@@ -112,7 +112,7 @@
       "floor": null,
       "size_sqft": null,
       "bed_type": null,
-      "features": "Spacious balcony with seating & hill view",
+      "features": "spacious balcony with seating & hill view",
       "attached_bathroom": null
     }
   ],
@@ -146,11 +146,7 @@
     },
     "garden": true,
     "gazebo": true,
-    "other": [
-      "Balcony",
-      "Patio",
-      "Swing"
-    ]
+    "other": []
   },
   "rules": {
     "check_in": "2 PM",
@@ -459,7 +455,48 @@
     "https://cpjlcwamma.cloudimg.io/K81_A6934_HDR_6fe93c7755.webp",
     "https://cpjlcwamma.cloudimg.io/K81_A6964_c552094937.webp",
     "https://cpjlcwamma.cloudimg.io/K81_A6814_HDR_d8c98cadd7.webp",
-    "https://cpjlcwamma.cloudimg.io/K81_A7039_HDR_026dd24637.webp"
+    "https://cpjlcwamma.cloudimg.io/K81_A7039_HDR_026dd24637.webp",
+    "https://cpjlcwamma.cloudimg.io/K81_A7128_b182ecd7d4.webp",
+    "https://cpjlcwamma.cloudimg.io/K81_A6874_HDR_3c8beb09d9.webp",
+    "https://cpjlcwamma.cloudimg.io/K81_A6854_HDR_9fb6840ae9.webp",
+    "https://cpjlcwamma.cloudimg.io/K81_A7044_HDR_e4a10a7154.webp",
+    "https://cpjlcwamma.cloudimg.io/IMG_5880_0ddce339ae.webp",
+    "https://cpjlcwamma.cloudimg.io/IMG_5885_0ad35c057b.webp",
+    "https://cpjlcwamma.cloudimg.io/IMG_5889_8ee9fe2cff.webp",
+    "https://cpjlcwamma.cloudimg.io/K81_A6899_HDR_fdf2361e74.webp",
+    "https://cpjlcwamma.cloudimg.io/K81_A6889_HDR_b281c614db.webp",
+    "https://cpjlcwamma.cloudimg.io/IMG_5825_bbcdbd05f3.webp",
+    "https://cpjlcwamma.cloudimg.io/IMG_5835_356eb43e58.webp",
+    "https://cpjlcwamma.cloudimg.io/K81_A6929_HDR_6fb21095fb.webp",
+    "https://cpjlcwamma.cloudimg.io/K81_A6944_HDR_ac04bc0cbb.webp",
+    "https://cpjlcwamma.cloudimg.io/K81_A6764_HDR_14c6be2ead.webp",
+    "https://cpjlcwamma.cloudimg.io/K81_A6759_HDR_17189a1645.webp",
+    "https://cpjlcwamma.cloudimg.io/K81_A6754_HDR_ddcc6defc3.webp",
+    "https://cpjlcwamma.cloudimg.io/IMG_5796_354ebf13e2.webp",
+    "https://cpjlcwamma.cloudimg.io/IMG_5794_c363db9ea0.webp",
+    "https://cpjlcwamma.cloudimg.io/IMG_5803_eeed97889d.webp",
+    "https://cpjlcwamma.cloudimg.io/K81_A6799_HDR_c4fa947d99.webp",
+    "https://cpjlcwamma.cloudimg.io/K81_A6809_HDR_1abbdd89f7.webp",
+    "https://cpjlcwamma.cloudimg.io/K81_A6789_HDR_255292ebe2.webp",
+    "https://cpjlcwamma.cloudimg.io/IMG_5790_d373aaae15.webp",
+    "https://cpjlcwamma.cloudimg.io/K81_A6729_HDR_3e5266963b.webp",
+    "https://cpjlcwamma.cloudimg.io/K81_A6714_HDR_1fad9ff51f.webp",
+    "https://cpjlcwamma.cloudimg.io/K81_A6724_HDR_d7834f7617.webp",
+    "https://cpjlcwamma.cloudimg.io/IMG_5808_335d47fadb.webp",
+    "https://cpjlcwamma.cloudimg.io/K81_A6834_HDR_979f9a2775.webp",
+    "https://cpjlcwamma.cloudimg.io/K81_A6839_HDR_b74837f072.webp",
+    "https://cpjlcwamma.cloudimg.io/K81_A6829_HDR_0e69b1f1a7.webp",
+    "https://cpjlcwamma.cloudimg.io/K81_A6994_HDR_3568fa5f1b.webp",
+    "https://cpjlcwamma.cloudimg.io/IMG_5863_47dd8492c5.webp",
+    "https://cpjlcwamma.cloudimg.io/K81_A6984_HDR_f38aa63dd7.webp",
+    "https://cpjlcwamma.cloudimg.io/K81_A7019_HDR_33299378a8.webp",
+    "https://cpjlcwamma.cloudimg.io/K81_A7004_HDR_d360ba7045.webp",
+    "https://cpjlcwamma.cloudimg.io/K81_A6999_HDR_459e4fd447.webp",
+    "https://cpjlcwamma.cloudimg.io/IMG_5815_a1beabd067.webp",
+    "https://cpjlcwamma.cloudimg.io/IMG_5818_a8d64554f4.webp",
+    "https://cpjlcwamma.cloudimg.io/IMG_5820_b7a05f00e4.webp",
+    "https://cpjlcwamma.cloudimg.io/K81_A6907_04f944bf29.webp",
+    "https://cpjlcwamma.cloudimg.io/K81_A7018_bc0051e8e6.webp"
   ],
-  "image_count": 5
+  "image_count": 46
 }

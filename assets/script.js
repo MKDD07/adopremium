@@ -363,7 +363,7 @@ function getHighlightIcon(text) {
 }
 
 function renderOverviewSection(v, spreadNum = 1) {
-  const overviewImgs = v.overview_imgs || (v.images && v.images.length >= 3 ? v.images.slice(0, 3) : (v.spaces && v.spaces[0] ? (v.spaces[0].img || v.spaces[0].images || []) : []));
+  const overviewImgs = (v.images && v.images.length > 0) ? v.images : ((v.overview_imgs && v.overview_imgs.length > 0) ? v.overview_imgs : (v.spaces && v.spaces[0] ? (v.spaces[0].img || v.spaces[0].images || []) : []));
   const overviewCount = overviewImgs.length > 0 ? overviewImgs.length : 1;
 
   // Curated highlights from v.counts
@@ -600,6 +600,67 @@ function renderSnapshotSection(snapshotList, spreadNum = 1) {
 
 
 
+function resolveLocationDetails(d) {
+  let rawCity = "";
+  let rawRegion = "";
+
+  if (typeof d.location === "string") {
+    const parts = d.location.split(",").map(p => p.trim()).filter(Boolean);
+    if (parts.length >= 2) {
+      rawCity = parts[0];
+      rawRegion = parts.slice(1).join(", ");
+    } else if (parts.length === 1) {
+      rawCity = parts[0];
+    }
+  } else if (d.location && typeof d.location === "object") {
+    rawCity = d.location.city || d.location.name || "";
+    rawRegion = d.location.region || d.location.state || "";
+  }
+
+  const title = (d.title || d.name || "").toLowerCase();
+  const summary = (d.summary || "").toLowerCase();
+  const fullText = (title + " " + rawCity + " " + rawRegion + " " + summary).toLowerCase();
+
+  let cityName = rawCity;
+  let stateName = rawRegion;
+  let isInternational = false;
+  let country = "India";
+
+  // 1. International Check (Dubai / UAE / Overseas)
+  if (/dubai|uae|creek|marina|emirates|abudhabi|abu dhabi|international/i.test(fullText)) {
+    isInternational = true;
+    country = "International";
+    cityName = rawCity || "Dubai";
+    stateName = "Dubai (International)";
+  }
+  // 2. Karnataka Check (Bengaluru / Bangalore)
+  else if (/bengaluru|bangalore|karnataka/i.test(fullText)) {
+    cityName = "Bengaluru";
+    stateName = "Karnataka";
+  }
+  // 3. Himachal Pradesh Check (Kasauli / Jabli / Solan)
+  else if (/kasauli|jabli|solan|shimla|manali|himachal/i.test(fullText)) {
+    cityName = rawCity || "Kasauli";
+    stateName = "Himachal Pradesh";
+  }
+  // 4. Goa Check (Candolim / Calangute / Panaji / Anjuna / Siolim)
+  else if (/goa|candolim|calangute|panaji|anjuna|siolim/i.test(fullText)) {
+    cityName = rawCity || "Candolim";
+    stateName = "Goa";
+  }
+  // 5. Delhi NCR Check (Gurugram / Faridabad / Delhi / Noida / Sohna)
+  else if (/gurugram|gurgaon|faridabad|noida|delhi|sohna|ncr/i.test(fullText)) {
+    cityName = rawCity || "Gurugram";
+    stateName = "Delhi NCR";
+  }
+  else {
+    cityName = rawCity || "Gurugram";
+    stateName = rawRegion || "Delhi NCR";
+  }
+
+  return { cityName, stateName, isInternational, country };
+}
+
 /* ============================================================
    DYNAMIC JSON PARSER FOR LOCATION/* FILES
    ============================================================ */
@@ -607,7 +668,7 @@ function convertDefaultJsonToVilla(d, filename = ""){
   const rawTitle = d.title || d.name || "Luxury Villa";
   const titleParts = rawTitle.split("|").map(p => p.trim()).filter(p => p && p.toLowerCase() !== "detail");
   const villaName = titleParts[0] || rawTitle;
-  const villaSlug = (filename ? filename.replace(/\.json$/, "") : "") || d.slug || slugify(villaName) || "luxury-villa";
+  const villaSlug = slugify(filename ? filename.replace(/\.json$/i, "") : d.slug || villaName) || "luxury-villa";
 
   const imgMap = {};
   (d.spaces || []).forEach(s => {
@@ -697,21 +758,9 @@ function convertDefaultJsonToVilla(d, filename = ""){
     };
   });
 
-  let cityName = "Gurugram";
-  let regionName = "Delhi NCR";
-  if (typeof d.location === "string") {
-    const parts = d.location.split(",").map(p => p.trim()).filter(Boolean);
-    if (parts.length >= 2) {
-      cityName = parts[0];
-      regionName = parts.slice(1).join(", ");
-    } else if (parts.length === 1) {
-      cityName = parts[0];
-      regionName = parts[0];
-    }
-  } else if (d.location && typeof d.location === "object") {
-    cityName = d.location.city || d.location.name || cityName;
-    regionName = d.location.region || d.location.state || regionName;
-  }
+  const locInfo = resolveLocationDetails(d);
+  const cityName = locInfo.cityName;
+  const regionName = locInfo.stateName;
 
   const lat = (d.location && d.location.latitude) || (d.coordinates && d.coordinates.latitude) || 28.31501;
   const lng = (d.location && d.location.longitude) || (d.coordinates && d.coordinates.longitude) || 77.18838;
@@ -769,6 +818,8 @@ function convertDefaultJsonToVilla(d, filename = ""){
     citySlug: slugify(cityName),
     stateName: regionName,
     stateSlug: slugify(regionName),
+    country: locInfo.country,
+    isInternational: locInfo.isInternational,
     tagA: [
       "A Private Realm of Elegance & Serenity",
       "Where Timeless Luxury Meets Boundless Comfort"
@@ -780,7 +831,7 @@ function convertDefaultJsonToVilla(d, filename = ""){
     hero: `${villaName} luxury swimming pool`,
     hero_img: heroImg,
     images: allImgs,
-    overview_imgs: allImgs.slice(0, 3),
+    overview_imgs: (allImgs && allImgs.length > 0) ? allImgs : [],
     summary: d.summary || "",
     std: stdOcc,
     max: maxOcc,
@@ -871,7 +922,11 @@ function buildPortfolioFromLocationJsons(jsonList){
       stateGroups[sSlug] = {
         name: v.stateName,
         slug: sSlug,
-        tagline: `Explore handpicked luxury villas and private estates in ${v.stateName}.`,
+        country: v.country || "India",
+        isInternational: !!v.isInternational,
+        tagline: v.isInternational
+          ? `Explore premier international estates and luxury residences in ${v.stateName}.`
+          : `Explore handpicked luxury villas and private estates in ${v.stateName}.`,
         hero: `${v.stateName} luxury travel architecture landscape`,
         locations: {}
       };
@@ -1031,8 +1086,59 @@ function renderMobBottomNav({ stateSlug = "", stateName = "", locSlug = "", locN
 }
 
 /* Shared destination directory: independent of the villa brochure layout. */
-function renderDirectory({eyebrow, title, description, back, items, searchLabel, stats}) {
+function renderDirectory({defaultCat = "all", isHomePage, localVillas, localStatesCount, intlVillas, intlStatesCount, eyebrow, title, description, back, items, searchLabel, stats}) {
   app.classList.remove("villa-brochure");
+
+  const heroCategoryCards = isHomePage ? `
+    <div class="category-cards-grid">
+      <a class="destination-card category-hero-card local-card no-bottom-border ${defaultCat === 'local' ? 'active-cat' : ''}" id="cardLocalBtn" data-category="local" href="javascript:void(0);" role="button" aria-label="Explore Local India Collection">
+        <div class="destination-media">
+          <div class="ph load destination-photo" data-target="India luxury travel landscape" data-destination="category-local" data-pexels="true"><span>Local (India)</span></div>
+          <span class="destination-number">01 / SELECTION</span>
+          <span class="destination-badge">${localVillas || 0} Villas · ${localStatesCount || 0} Regions</span>
+        </div>
+        <div class="destination-body">
+          <p class="destination-eyebrow">🇮🇳 Local Collection (India)</p>
+          <div class="destination-title">
+            <h2>Local Escapes (India)</h2>
+            <span class="destination-arrow" aria-hidden="true">↗</span>
+          </div>
+          <p>Explore handpicked private sanctuaries, hilltop manors &amp; poolside retreats across Delhi NCR, Karnataka, Himachal Pradesh, and Goa.</p>
+          <div class="destination-footer">
+            <span>${localStatesCount || 0} Regions to explore</span>
+            <span>Explore India Destinations <span aria-hidden="true">→</span></span>
+          </div>
+        </div>
+      </a>
+
+      <a class="destination-card category-hero-card intl-card no-bottom-border ${defaultCat === 'international' ? 'active-cat' : ''}" id="cardIntlBtn" data-category="international" href="javascript:void(0);" role="button" aria-label="Explore International Overseas Collection">
+        <div class="destination-media">
+          <div class="ph load destination-photo" data-target="Dubai luxury architecture" data-destination="category-intl" data-pexels="true"><span>International</span></div>
+          <span class="destination-number">02 / SELECTION</span>
+          <span class="destination-badge">${intlVillas || 0} Residences · ${intlStatesCount || 0} Destination</span>
+        </div>
+        <div class="destination-body">
+          <p class="destination-eyebrow">🌐 International Collection</p>
+          <div class="destination-title">
+            <h2>International Escapes</h2>
+            <span class="destination-arrow" aria-hidden="true">↗</span>
+          </div>
+          <p>Bespoke waterfront apartments, luxury residences &amp; beachside retreats in Dubai Creek Harbour and prime global locations.</p>
+          <div class="destination-footer">
+            <span>${intlStatesCount || 0} Global Destinations</span>
+            <span>Explore Overseas Destinations <span aria-hidden="true">→</span></span>
+          </div>
+        </div>
+      </a>
+    </div>
+
+    <div class="category-filter-tabs">
+      <button type="button" class="cat-tab-btn ${defaultCat === 'all' ? 'active' : ''}" data-cat-tab="all">All Destinations (${items.length})</button>
+      <button type="button" class="cat-tab-btn ${defaultCat === 'local' ? 'active' : ''}" data-cat-tab="local">🇮🇳 Local (India) (${localStatesCount || 0})</button>
+      <button type="button" class="cat-tab-btn ${defaultCat === 'international' ? 'active' : ''}" data-cat-tab="international">🌐 International (${intlStatesCount || 0})</button>
+    </div>
+  ` : "";
+
   app.innerHTML = `<section class="destination-directory">
     <div class="directory-intro">
       <div><a class="directory-back" href="${back.href}">${esc(back.label)} <span aria-hidden="true">↗</span></a>
@@ -1040,66 +1146,136 @@ function renderDirectory({eyebrow, title, description, back, items, searchLabel,
         <p class="directory-description">${esc(description)}</p></div>
       <div class="directory-stats">${stats.map(x=>`<div><strong>${x.value}</strong><span>${esc(x.label)}</span></div>`).join('')}</div>
     </div>
+    ${heroCategoryCards}
     <div class="directory-toolbar"><div><p class="kicker">Discover your next escape</p><p id="directoryCount" role="status" aria-live="polite"></p></div>
       <div class="directory-search"><i data-lucide="search" aria-hidden="true"></i><label class="visually-hidden" for="directorySearch">${esc(searchLabel)}</label><input id="directorySearch" type="search" placeholder="${esc(searchLabel)}" autocomplete="off"></div>
     </div>
-    <div class="destination-grid">${items.map((item,i)=>`<a class="destination-card" href="${item.href}" data-search="${esc((item.name+' '+(item.search||'')).toLowerCase())}">
+    <div class="destination-grid">${items.map((item,i)=>`<a class="destination-card" href="${item.href}" data-category="${item.category || 'local'}" data-search="${esc((item.name+' '+(item.search||'')).toLowerCase())}">
       <div class="destination-media">${item.query ? `<div class="ph load destination-photo" data-target="${esc(item.query)}" data-destination="${esc(item.href)}" data-pexels="true"><span>${esc(item.name)}</span></div>` : pic(item.name,0,'destination-photo',item.image||'',false)}<span class="destination-number">${String(i+1).padStart(2,'0')} / COLLECTION</span><span class="destination-badge">${esc(item.badge)}</span></div>
       <div class="destination-body"><p class="destination-eyebrow">${esc(item.eyebrow)}</p><div class="destination-title"><h2>${esc(item.name)}</h2><span class="destination-arrow" aria-hidden="true">↗</span></div><p>${esc(item.description)}</p><div class="destination-footer"><span>${esc(item.detail)}</span><span>${esc(item.cta)} <span aria-hidden="true">→</span></span></div></div>
     </a>`).join('')}</div>
     <div class="directory-empty" hidden><i data-lucide="search-x"></i><h2>No destinations found</h2><p>Try a different name or clear your search to explore the collection.</p><button type="button" id="clearDirectorySearch">Clear search</button></div>
     <p class="directory-note">A place for every kind of escape. A stay to make your own.</p>
   </section>`;
+
+  let activeCat = defaultCat || "all";
   const input = document.getElementById('directorySearch');
+
   const filter = () => {
     let count = 0;
-    app.querySelectorAll('.destination-card').forEach(card => {
-      card.hidden = !card.dataset.search.includes(input.value.trim().toLowerCase());
+    app.querySelectorAll('.destination-card:not(.category-hero-card)').forEach(card => {
+      const matchesSearch = card.dataset.search ? card.dataset.search.includes(input.value.trim().toLowerCase()) : true;
+      const matchesCat = activeCat === "all" || card.dataset.category === activeCat;
+      card.hidden = !(matchesSearch && matchesCat);
       if (!card.hidden) count++;
     });
     document.getElementById('directoryCount').textContent = `${count} of ${items.length} ${items.length === 1 ? 'destination' : 'destinations'}`;
     app.querySelector('.directory-empty').hidden = count > 0;
   };
-  input.addEventListener('input',filter);
-  document.getElementById('clearDirectorySearch').addEventListener('click',()=>{input.value='';filter();input.focus()});
+
+  input.addEventListener('input', filter);
+  document.getElementById('clearDirectorySearch').addEventListener('click', () => {
+    input.value = '';
+    activeCat = "all";
+    app.querySelectorAll('.cat-tab-btn').forEach(b => b.classList.toggle('active', b.dataset.catTab === 'all'));
+    app.querySelectorAll('.category-hero-card').forEach(c => c.classList.remove('active-cat'));
+    filter();
+    input.focus();
+  });
+
+  app.querySelectorAll('.cat-tab-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      activeCat = btn.dataset.catTab;
+      app.querySelectorAll('.cat-tab-btn').forEach(b => b.classList.toggle('active', b === btn));
+      app.querySelectorAll('.category-hero-card').forEach(c => c.classList.toggle('active-cat', c.dataset.category === activeCat));
+      filter();
+    });
+  });
+
+  app.querySelectorAll('.category-hero-card').forEach(card => {
+    const handleCatClick = (e) => {
+      if (e) e.preventDefault();
+      activeCat = card.dataset.category;
+      app.querySelectorAll('.cat-tab-btn').forEach(b => b.classList.toggle('active', b.dataset.catTab === activeCat));
+      app.querySelectorAll('.category-hero-card').forEach(c => c.classList.toggle('active-cat', c === card));
+      filter();
+      const toolbar = app.querySelector('.directory-toolbar');
+      if (toolbar) toolbar.scrollIntoView({ behavior: 'smooth' });
+    };
+    card.addEventListener('click', handleCatClick);
+    card.addEventListener('keydown', e => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); handleCatClick(e); } });
+  });
+
   filter();
   observe();
-  window.scrollTo(0,0);
+  window.scrollTo(0, 0);
 }
 
 /* 1. STATE-WISE MAIN PAGE (LEVEL 1) */
-function home(){
+function home(defaultCat = "all"){
   document.title = "Adopremium — Luxury Villa Portfolio";
-  const totalV = STATES_DATA.reduce((a, s) => a + s.total_villas, 0);
-  setSideHeader("Adopremium", `${STATES_DATA.length} ${STATES_DATA.length === 1 ? 'State' : 'States'} · ${totalV} ${totalV === 1 ? 'Villa' : 'Villas'}`);
+  const localStates = STATES_DATA.filter(s => !s.isInternational);
+  const intlStates = STATES_DATA.filter(s => s.isInternational);
+
+  const localVillas = localStates.reduce((a, s) => a + s.total_villas, 0);
+  const intlVillas = intlStates.reduce((a, s) => a + s.total_villas, 0);
+  const totalV = localVillas + intlVillas;
+
+  setSideHeader("Adopremium", `${STATES_DATA.length} Regions · ${totalV} Villas`);
   setHeaderBreadcrumb([
     { label: "States", url: "" }
   ]);
   renderMobBottomNav({ currentLevel: 'home' });
 
-  // Sidebar navigation lists states
+  // Sidebar navigation lists local & international states separately
   nav.innerHTML = `
     <div class="nav-section-title">
-      <span class="nav-icon"><i data-lucide="map"></i></span>
-      <span class="nav-text">States &amp; Regions</span>
+      <span class="nav-icon"><i data-lucide="map-pin"></i></span>
+      <span class="nav-text">🇮🇳 Local (India)</span>
     </div>
-    ${STATES_DATA.map(st=>`
+    ${localStates.map(st=>`
       <a href="#/state/${st.slug}" title="${esc(st.name)} (${st.total_villas})">
         <span class="nav-icon"><i data-lucide="map-pin"></i></span>
+        <span class="nav-text">${esc(st.name)} <small style="color:var(--mute)">(${st.total_villas})</small></span>
+      </a>
+    `).join("")}
+
+    <div class="nav-section-title" style="margin-top:20px;">
+      <span class="nav-icon"><i data-lucide="globe"></i></span>
+      <span class="nav-text">🌐 International</span>
+    </div>
+    ${intlStates.map(st=>`
+      <a href="#/state/${st.slug}" title="${esc(st.name)} (${st.total_villas})">
+        <span class="nav-icon"><i data-lucide="globe"></i></span>
         <span class="nav-text">${esc(st.name)} <small style="color:var(--mute)">(${st.total_villas})</small></span>
       </a>
     `).join("")}
   `;
 
   renderDirectory({
+    defaultCat,
+    isHomePage: true,
+    localVillas,
+    localStatesCount: localStates.length,
+    intlVillas,
+    intlStatesCount: intlStates.length,
     eyebrow: 'The ADO destination collection', title: 'Somewhere extraordinary.',
-    description: 'From slow mornings in the hills to sunlit days by the pool. Discover a destination, then find a place to call your own.',
-    back: {href:'#/',label:'Adopremium / India'}, searchLabel:'Search a state or location',
+    description: 'From slow mornings in the hills to sunlit days by the pool and international escapes. Discover a destination, then find a place to call your own.',
+    back: {href:'#/',label:'Adopremium Collection'}, searchLabel:'Search a state or location',
     stats:[{value:STATES_DATA.length,label:'States & regions'},{value:totalV,label:'Private villas'}],
-    items: STATES_DATA.map(st=>({name:st.name,href:`#/state/${st.slug}`,query:st.hero,
-      search:st.locations.map(l=>l.name).join(' '),badge:`${st.total_villas} ${st.total_villas===1?'villa':'villas'}`,
-      eyebrow:'India / State & region',description:st.locations.map(l=>l.name).join(' · '),
-      detail:`${st.total_locations} ${st.total_locations===1?'location':'locations'} to explore`,cta:'Explore region'}))
+    items: STATES_DATA.map(st=>({
+      name: st.name,
+      href: `#/state/${st.slug}`,
+      query: st.hero,
+      isInternational: st.isInternational,
+      category: st.isInternational ? 'international' : 'local',
+      search: `${st.name} ${st.isInternational ? 'international overseas dubai' : 'local india indian'} ${st.locations.map(l=>l.name).join(' ')}`,
+      badge: `${st.total_villas} ${st.total_villas===1?'villa':'villas'}`,
+      eyebrow: st.isInternational ? 'Overseas / International' : 'India / State & Region',
+      description: st.locations.map(l=>l.name).join(' · '),
+      detail: `${st.total_locations} ${st.total_locations===1?'location':'locations'} to explore`,
+      cta: 'Explore region'
+    }))
   });
 }
 
@@ -1802,6 +1978,16 @@ function renderRoute(){
     return home();
   }
 
+  if(hash === "local" || hash === "category/local"){
+    current = hash;
+    return home("local");
+  }
+
+  if(hash === "international" || hash === "category/international"){
+    current = hash;
+    return home("international");
+  }
+
   // Check for #/state/<slug>
   const stateMatch = hash.match(/^state\/([^/]+)/);
   if(stateMatch){
@@ -2136,7 +2322,7 @@ async function fetchPortfolioJson(url) {
   const controller = new AbortController();
   const timer = setTimeout(() => controller.abort(), 12000);
   try {
-    const response = await fetch(url, {signal:controller.signal});
+    const response = await fetch(url, {signal:controller.signal, cache:'no-store'});
     if (!response.ok) throw new Error(`Portfolio request failed (${response.status})`);
     return await response.json();
   } finally {clearTimeout(timer);}
@@ -2153,20 +2339,73 @@ function loadPortfolioFallback() {
   });
 }
 let portfolioRouterBound = false;
+
+function isVillaData(data) {
+  return data && typeof data === 'object' && !Array.isArray(data) &&
+    typeof (data.title || data.name) === 'string' &&
+    !!(data.location || data.rooms || data.spaces || data.capacity);
+}
+
+async function loadLocationJsons() {
+  if (location.protocol === 'file:') return loadPortfolioFallback();
+  const base = new URL('assets/data/location/', document.baseURI);
+  const filenames = new Set();
+  // Directory listings allow newly added files to appear without rebuilding an index.
+  const controller = new AbortController();
+  const timer = setTimeout(() => controller.abort(), 12000);
+  try {
+    const response = await fetch(base, {signal:controller.signal, cache:'no-store'});
+    if (response.ok) {
+      const listing = new DOMParser().parseFromString(await response.text(), 'text/html');
+      listing.querySelectorAll('a[href]').forEach(link => {
+        const url = new URL(link.getAttribute('href'), base);
+        if (url.origin !== base.origin || !url.pathname.startsWith(base.pathname)) return;
+        const relative = url.pathname.slice(base.pathname.length);
+        if (!relative.includes('/') && /\.json$/i.test(relative)) {
+          filenames.add(decodeURIComponent(relative));
+        }
+      });
+    }
+  } catch (error) {
+    console.info('Directory listing unavailable; using the location index.');
+  } finally { clearTimeout(timer); }
+
+  if (!filenames.size) {
+    try {
+      const manifest = await fetchPortfolioJson(new URL('index.json', base));
+      if (Array.isArray(manifest)) manifest.forEach(filename => {
+        if (typeof filename === 'string' && !/[\\/]/.test(filename) && /\.json$/i.test(filename)) {
+          filenames.add(filename);
+        }
+      });
+    } catch (error) {
+      console.warn('Location index unavailable:', error);
+    }
+  }
+  const loaded = await Promise.all([...filenames].sort().filter(name => name.toLowerCase() !== 'index.json').map(async filename => {
+    try {
+      const data = await fetchPortfolioJson(new URL(encodeURIComponent(filename), base));
+      return isVillaData(data) ? {filename, data} : null;
+    } catch (error) {
+      console.warn(`Unable to load villa ${filename}:`, error);
+      return null;
+    }
+  }));
+  const villas = loaded.filter(Boolean);
+  return villas.length ? villas : loadPortfolioFallback();
+}
 /* ============================================================
    INITIALIZATION — Auto-detects data from location/*
    ============================================================ */
 async function initPortfolio(){
   try {
-    // Load the packaged collection directly: works on static hosting and file previews.
-    // Keep this bundle synchronized with assets/data/location when villa data changes.
-    const loadedList = await loadPortfolioFallback();
+    const loadedList = await loadLocationJsons();
 
     // Filter valid objects that have title or data and deduplicate by title
     const validMap = new Map();
     loadedList.filter(Boolean).forEach(item => {
-      if(item.data && (item.data.title || item.data.name || item.data.spaces || item.data.rooms)){
-        const key = item.data.title || item.filename;
+      if(isVillaData(item.data)){
+        const key = JSON.stringify([String(item.data.title || item.data.name).trim().toLowerCase(), item.data.location || {}]);
         if(!validMap.has(key)){
           validMap.set(key, item);
         }

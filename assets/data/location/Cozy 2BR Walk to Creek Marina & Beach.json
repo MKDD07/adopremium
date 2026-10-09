@@ -1,0 +1,276 @@
+{
+  "title": "Cozy 2BR | Walk to Creek Marina & Beach",
+  "summary": "",
+  "location": {
+    "city": "Dubai",
+    "region": "Dubai Creek Harbor",
+    "points_of_interest": [
+      {
+        "name": "Festival City",
+        "distance_km": 6.2
+      },
+      {
+        "name": "Creek Metro Station",
+        "distance_km": 3.8
+      },
+      {
+        "name": "Al Sufouh Tram Station",
+        "distance_km": 25.8
+      },
+      {
+        "name": "Creek Beach",
+        "distance_km": 0.1
+      },
+      {
+        "name": "DXB Airport",
+        "distance_km": 7.9
+      }
+    ],
+    "latitude": 25.201543227708186,
+    "longitude": 55.347004475381965
+  },
+  "capacity": {
+    "standard_occupancy": null,
+    "maximum_occupancy": null,
+    "guests": 4,
+    "bedrooms": 2,
+    "beds": 2,
+    "bathrooms": 2
+  },
+  "pricing": null,
+  "rooms": [
+    {
+      "name": "Balcony",
+      "floor": null,
+      "size_sqft": null,
+      "bed_type": null,
+      "features": null,
+      "attached_bathroom": null
+    },
+    {
+      "name": "Living Area",
+      "floor": null,
+      "size_sqft": null,
+      "bed_type": null,
+      "features": null,
+      "attached_bathroom": null
+    },
+    {
+      "name": "Bedroom 1",
+      "floor": null,
+      "size_sqft": null,
+      "bed_type": null,
+      "features": null,
+      "attached_bathroom": null
+    },
+    {
+      "name": "Bedroom 2",
+      "floor": null,
+      "size_sqft": null,
+      "bed_type": null,
+      "features": null,
+      "attached_bathroom": null
+    }
+  ],
+  "amenities": [
+    "Microwave",
+    "Oven",
+    "Toaster",
+    "Refrigerator",
+    "Dishes and silverware",
+    "Kitchen",
+    "Airconditioning",
+    "Gas cooktop",
+    "Wifi",
+    "Gym",
+    "TV",
+    "Fire extinguisher",
+    "Washing machine",
+    "Bed linen",
+    "Iron",
+    "Towels",
+    "Parking",
+    "Hair dryer",
+    "Lift"
+  ],
+  "outdoor_spaces": {
+    "pool": {
+      "private": false,
+      "jacuzzi": false
+    },
+    "garden": false,
+    "gazebo": false,
+    "other": []
+  },
+  "rules": {
+    "check_in": "3:00 PM - 12:00 AM",
+    "check_out": "11:00 AM",
+    "noise": null,
+    "smoking": "Prohibited inside; allowed on balconies",
+    "chewing_tobacco": null,
+    "pets_allowed": false,
+    "pet_policy": null,
+    "security_deposit": null,
+    "damage_responsibility": null,
+    "cleanliness": null,
+    "safety_security": null,
+    "occupancy_limits": null
+  },
+  "contact_info": null,
+  "coordinates": {
+    "latitude": 25.201543227708186,
+    "longitude": 55.347004475381965
+  },
+  "spaces": [
+    {
+      "description": "",
+      "details": [],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/197347_32_8a93ec6680.jpg"
+      ],
+      "title": "Balcony"
+    },
+    {
+      "description": "",
+      "details": [],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/197347_18_a01cc329a3.jpg"
+      ],
+      "title": "Living Area"
+    },
+    {
+      "description": "",
+      "details": [],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/197347_17_41904b0cf4.jpg"
+      ],
+      "title": "Bedroom 1"
+    },
+    {
+      "description": "",
+      "details": [],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/197347_04_5b968cea41.jpg"
+      ],
+      "title": "Bedroom 2"
+    }
+  ],
+  "villa_snapshot": [
+    "Property Snapshot",
+    "Welcome to your stylish escape in the heart of Dubai Creek Harbour. Located in Summer at Creek Beach, this elegant 2-bedroom apartment offers a peaceful waterfront setting with access to premium amenities and vibrant surroundings — perfect for couples, families, or business travellers.",
+    "The Space",
+    "2 Bedrooms – Featuring soft neutral tones, large windows, and plush bedding for restful nights. Master bedroom includes en-suite and access to the balcony.",
+    "Stylish Living Area – Relax in a bright and open space with a comfy sectional sofa, smart TV, and elegant dining setup. Perfect for lounging or entertaining.",
+    "Fully Equipped Kitchen – Comes with all modern appliances including oven, stove, microwave, kettle, coffee machine, and cookware.",
+    "Private Balcony – Enjoy morning coffee or sunset views with cosy seating and a peaceful community vibe.",
+    "Location Perks",
+    "-2 mins walk to Creek Beach/ Lagoon.",
+    "-Steps away from Creek Marina with dining, yacht docks, and nightlife.",
+    "-Close to Vida Hotel, retail shops, and upcoming Creek Tower.",
+    "-Easy access to Downtown and DXB Airport.",
+    "Guests enjoy full private access to the apartment along with premium amenities, including:",
+    "- Private balcony with pool and courtyard views.",
+    "- Access to Swimming pool, Lagoon (Beach), gym, BBQ area, and community courtyard.",
+    "- Fast Wi-Fi, covered parking, and self check-in.",
+    "- Minutes from Creek Marina, Vida Hotel, and Creek Beach.",
+    "- Quick access to Downtown Dubai, Dubai Mall, and DXB Airport.",
+    "- Close to Dubai Festival City Mall, Ras Al Khor Wildlife Sanctuary, and family-friendly promenades.",
+    "Included: Wi-Fi, fresh linens, starter toiletries, dedicated guest support",
+    "Perfect for families, couples, or business travellers — experience resort-style living in a peaceful yet central Dubai location.",
+    "Show Less"
+  ],
+  "description_sections": [
+    {
+      "bullets": [],
+      "heading": "Overview",
+      "paragraphs": [
+        "Welcome to your stylish escape in the heart of Dubai Creek Harbour. Located in Summer at Creek Beach, this elegant 2-bedroom apartment offers a peaceful waterfront setting with access to premium amenities and vibrant surroundings — perfect for couples, families, or business travellers."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "The Space",
+      "paragraphs": [
+        "2 Bedrooms – Featuring soft neutral tones, large windows, and plush bedding for restful nights. Master bedroom includes en-suite and access to the balcony.",
+        "Stylish Living Area – Relax in a bright and open space with a comfy sectional sofa, smart TV, and elegant dining setup. Perfect for lounging or entertaining.",
+        "Fully Equipped Kitchen – Comes with all modern appliances including oven, stove, microwave, kettle, coffee machine, and cookware.",
+        "Private Balcony – Enjoy morning coffee or sunset views with cosy seating and a peaceful community vibe."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Location Perks",
+      "paragraphs": [
+        "-2 mins walk to Creek Beach/ Lagoon.",
+        "-Steps away from Creek Marina with dining, yacht docks, and nightlife.",
+        "-Close to Vida Hotel, retail shops, and upcoming Creek Tower.",
+        "-Easy access to Downtown and DXB Airport.",
+        "Guests enjoy full private access to the apartment along with premium amenities, including:",
+        "- Private balcony with pool and courtyard views.",
+        "- Access to Swimming pool, Lagoon (Beach), gym, BBQ area, and community courtyard.",
+        "- Fast Wi-Fi, covered parking, and self check-in.",
+        "- Minutes from Creek Marina, Vida Hotel, and Creek Beach.",
+        "- Quick access to Downtown Dubai, Dubai Mall, and DXB Airport.",
+        "- Close to Dubai Festival City Mall, Ras Al Khor Wildlife Sanctuary, and family-friendly promenades.",
+        "Included: Wi-Fi, fresh linens, starter toiletries, dedicated guest supportPerfect for families, couples, or business travellers — experience resort-style living in a peaceful yet central Dubai location."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Overview",
+      "paragraphs": [
+        "Standard Check-In time is 3:00 PM - 12:00 AM and Check-Out is 11:00 AM. Early Check-Ins and Late Check-Outs are subject to availability and additional cost. Primary guests are required to sign a rental agreement and pay a refundable deposit after booking (Before check-in)."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Security Deposit:",
+      "paragraphs": [
+        "2- 7 nights - 1000 AED",
+        "7 - 28 - 1500 AED",
+        "Over 28 nights - 2000 AED",
+        "The security deposit will be refunded. Deposit refunds will be issued within 7 business days of check-out, following a thorough inspection of the unit. For building registration purposes, we will require a copy of the passports for all guests occupying the unit prior to their arrival. Thank you for your cooperation.",
+        "We provide a starter pack of toiletries to make your arrival more comfortable. Please note that items like cooking condiments, cleaning products, and extra toiletries are not stocked in the apartment. We recommend planning accordingly for these essentials during your stay.",
+        "Please be aware that Dubai is constantly evolving, which may involve ongoing construction or renovations within the community or even within our building. This could potentially cause disruptions during your stay.",
+        "Please let us know in advance if you require a check-in outside of our standard hours. We will do our best to accommodate your request, depending on availability. Additional fees may apply. If you wish to request a late checkout, please note that this is subject to availability and additional fees. Please contact your agent at least 24 hours in advance to discuss.",
+        "Smoking is strictly prohibited inside the property. A fine of 2000 AED will be charged for smoking indoors. Smoking is permitted only on balconies, if available. A replacement fee of 500 AED will be charged for the loss of an access or parking card. As per the regulations set by Dubai's Department of Tourism and Commerce Marketing (DTCM), guests are required to pay a Tourism Dirham fee of 10 AED per night per bedroom which is not included in the total price of your booking and can be paid separately in advance or upon arrival.",
+        "Building amenities such as the swimming pool, gym, or other shared facilities are managed by the building management and are subject to maintenance or temporary closure without prior notice. While we always aim to provide accurate and up-to-date information, these amenities are not under our direct control, and availability cannot be guaranteed at all times."
+      ]
+    },
+    {
+      "bullets": [
+        "Festival City (6.2 km)",
+        "Creek Metro Station (3.8 km)",
+        "Al Sufouh Tram Station (25.8 km)",
+        "Creek Beach (0.1 km)",
+        "DXB Airport (7.9 km)"
+      ],
+      "heading": "Overview",
+      "paragraphs": []
+    }
+  ],
+  "images": [
+    "https://cpjlcwamma.cloudimg.io/Chat_GPT_Image_Jul_29_2026_05_05_21_PM_8b5d5493b2.png",
+    "https://cpjlcwamma.cloudimg.io/197347_09_34a3ccf23b.jpg",
+    "https://cpjlcwamma.cloudimg.io/197347_41_8bee23578b.jpg",
+    "https://cpjlcwamma.cloudimg.io/197347_37_b381004837.jpg",
+    "https://cpjlcwamma.cloudimg.io/197347_07_cc20f9efe4.jpg",
+    "https://cpjlcwamma.cloudimg.io/197347_18_a01cc329a3.jpg",
+    "https://cpjlcwamma.cloudimg.io/197347_27_5a399e940c.jpg",
+    "https://cpjlcwamma.cloudimg.io/197347_21_d5d18f1c05.jpg",
+    "https://cpjlcwamma.cloudimg.io/197347_22_8d4c1d5932.jpg",
+    "https://cpjlcwamma.cloudimg.io/197347_13_f7470a3fd8.jpg",
+    "https://cpjlcwamma.cloudimg.io/197347_39_f8d8040977.jpg",
+    "https://cpjlcwamma.cloudimg.io/197347_05_41cbb1a24c.jpg",
+    "https://cpjlcwamma.cloudimg.io/197347_29_1c58976b9b.jpg",
+    "https://cpjlcwamma.cloudimg.io/197347_16_c450478dd8.jpg",
+    "https://cpjlcwamma.cloudimg.io/197347_20_4c5230369e.jpg",
+    "https://cpjlcwamma.cloudimg.io/197347_23_45a847d36b.jpg",
+    "https://cpjlcwamma.cloudimg.io/197347_11_fd00e896a0.jpg",
+    "https://cpjlcwamma.cloudimg.io/197347_04_5b968cea41.jpg",
+    "https://cpjlcwamma.cloudimg.io/197347_31_3087c0db50.jpg",
+    "https://cpjlcwamma.cloudimg.io/197347_36_9860695dc0.jpg",
+    "https://cpjlcwamma.cloudimg.io/197347_43_690f371cca.jpg"
+  ],
+  "image_count": 21
+}

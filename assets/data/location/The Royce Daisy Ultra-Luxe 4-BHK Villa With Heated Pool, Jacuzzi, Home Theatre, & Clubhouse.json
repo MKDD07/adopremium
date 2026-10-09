@@ -1,0 +1,583 @@
+{
+  "title": "The Royce Daisy | Ultra-Luxe 4-BHK Villa With Heated Pool, Jacuzzi, Home Theatre, & Clubhouse",
+  "summary": "Outstanding service from attentive staff, especially Kajol and Parul. Clean, spacious, and well-maintained accommodations with beautiful views. Delicious food and a welcoming atmosphere make it a perfect family getaway.",
+  "location": {
+    "city": "Jabli",
+    "region": "Kasauli",
+    "points_of_interest": [
+      {
+        "name": "Kasauli Church",
+        "distance_km": 5.7
+      },
+      {
+        "name": "Kasauli Mall Road",
+        "distance_km": 5.8
+      },
+      {
+        "name": "Manki Point",
+        "distance_km": 9.4
+      }
+    ],
+    "latitude": 30.8787323,
+    "longitude": 76.9819662
+  },
+  "capacity": {
+    "standard_occupancy": 8,
+    "maximum_occupancy": 10,
+    "guests": 10,
+    "bedrooms": 4,
+    "beds": 4,
+    "bathrooms": 6
+  },
+  "pricing": null,
+  "rooms": [
+    {
+      "name": "Bedroom 1 - Golden Crest Suite",
+      "floor": null,
+      "size_sqft": null,
+      "bed_type": "king-sized",
+      "features": null,
+      "attached_bathroom": null
+    },
+    {
+      "name": "Bedroom 2 - Imperial Grove",
+      "floor": null,
+      "size_sqft": null,
+      "bed_type": "king-sized",
+      "features": null,
+      "attached_bathroom": null
+    },
+    {
+      "name": "Bedroom 3 - Skyline Chalet",
+      "floor": null,
+      "size_sqft": null,
+      "bed_type": "king-sized",
+      "features": null,
+      "attached_bathroom": null
+    },
+    {
+      "name": "Bedroom 4 - Horizon Loft",
+      "floor": null,
+      "size_sqft": null,
+      "bed_type": "king-sized",
+      "features": null,
+      "attached_bathroom": null
+    }
+  ],
+  "amenities": [
+    "TV",
+    "Wifi",
+    "Speaker",
+    "Indoor games",
+    "CCTV",
+    "Fire extinguisher",
+    "First aid kit",
+    "Terrace",
+    "Pool",
+    "Airconditioning",
+    "Ceiling fan",
+    "Jacuzzi",
+    "Hair dryer",
+    "Shower gel",
+    "Eco-friendly hygiene kit",
+    "Swimming pool",
+    "Loungers",
+    "Powder room",
+    "Hot water",
+    "Towels",
+    "Shower",
+    "Jet spray",
+    "Western commode",
+    "Shampoo",
+    "Soap",
+    "Conditioner",
+    "Gas cooktop",
+    "Induction",
+    "Crockery",
+    "Cutlery",
+    "Water purifier/RO",
+    "Coffee sachets",
+    "Rice Cooker",
+    "Chef on Call",
+    "Dining Table",
+    "Refrigerator",
+    "Microwave",
+    "Kettle",
+    "Oven",
+    "Bed linen",
+    "Extra pillows and blankets",
+    "Hangers",
+    "Iron",
+    "Housekeeping staff",
+    "Garden",
+    "Wardrobe space",
+    "Parking",
+    "Heated pool"
+  ],
+  "outdoor_spaces": {
+    "pool": {
+      "private": true,
+      "jacuzzi": true
+    },
+    "garden": false,
+    "gazebo": false,
+    "other": []
+  },
+  "rules": {
+    "check_in": "2 PM",
+    "check_out": "10 AM",
+    "noise": "Keep noise levels reasonable, especially between 10 pm and 7 am; no loud parties or events.",
+    "smoking": "Smoking is strictly prohibited inside the villa. Designated smoking areas are available outdoors.",
+    "chewing_tobacco": "Strictly prohibited with no exceptions.",
+    "pets_allowed": false,
+    "pet_policy": null,
+    "security_deposit": 30000,
+    "damage_responsibility": "Guests are responsible for any damages or breakages during their stay.",
+    "cleanliness": "Please keep the villa clean, use the designated trash bins and avoid littering the property.",
+    "safety_security": "Lock all doors and windows when leaving. We will not be responsible for any loss or theft of personal belongings.",
+    "occupancy_limits": "Follow maximum occupancy limits. Additional guests need prior approval."
+  },
+  "contact_info": null,
+  "coordinates": {
+    "latitude": 30.8787323,
+    "longitude": 76.9819662
+  },
+  "spaces": [
+    {
+      "description": "Exquisite space with a bar and a swimming pool",
+      "details": [
+        "Exquisite space with a bar and a swimming pool"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/P1038557_e00deb9585.jpg"
+      ],
+      "title": "Clubhouse"
+    },
+    {
+      "description": "Cool off in the pool with loungers & a shower",
+      "details": [
+        "Cool off in the pool with loungers & a shower"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/DSC_07656_1f30e98e90.webp"
+      ],
+      "title": "Aqua Lounge"
+    },
+    {
+      "description": "Spacious terrace with panoramic views",
+      "details": [
+        "Spacious terrace with panoramic views"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/DSC_07229_52b143a39a.webp"
+      ],
+      "title": "Sky Lounge"
+    },
+    {
+      "description": "Elegant decor with chandelier and scenic hill views",
+      "details": [
+        "Elegant decor with chandelier and scenic hill views"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/DSC_07555_HDR_078848518e.webp"
+      ],
+      "title": "Elysian Chamber"
+    },
+    {
+      "description": "An elegant black table with high-back chairs",
+      "details": [
+        "An elegant black table with high-back chairs"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/DSC_07315_98ce9a7926.webp"
+      ],
+      "title": "Dining area"
+    },
+    {
+      "description": "Open layout with premium finishes & central island",
+      "details": [
+        "Open layout with premium finishes & central island"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/DSC_07281_HDR_5025a343c3.webp"
+      ],
+      "title": "Kitchen"
+    },
+    {
+      "description": "Relax in the jacuzzi or cosy wooden steam room",
+      "details": [
+        "Relax in the jacuzzi or cosy wooden steam room"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/DSC_07213_b54052e191.webp"
+      ],
+      "title": "Spa Sanctuary"
+    },
+    {
+      "description": "1 king-sized bed",
+      "details": [
+        "1 king-sized bed"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/DSC_07151_HDR_de132e7d4a.webp"
+      ],
+      "title": "Bedroom 1 - Golden Crest Suite"
+    },
+    {
+      "description": "1 king-sized bed",
+      "details": [
+        "1 king-sized bed"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/DSC_07132_2adbc17aa9.webp"
+      ],
+      "title": "Bedroom 2 - Imperial Grove"
+    },
+    {
+      "description": "1 king-sized bed",
+      "details": [
+        "1 king-sized bed"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/DSC_07106_e54c57fd8a.webp"
+      ],
+      "title": "Bedroom 3 - Skyline Chalet"
+    },
+    {
+      "description": "1 king-sized bed",
+      "details": [
+        "1 king-sized bed"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/DSC_07186_db87cfc0c3.webp"
+      ],
+      "title": "Bedroom 4 - Horizon Loft"
+    }
+  ],
+  "villa_snapshot": [
+    "Villa snapshot",
+    "Tucked within a serene, gated hillside enclave, this luxe 4-BHK villa is designed for those who find joy in quiet luxury and thoughtful details!",
+    "Surrounded by pine-covered slopes and panoramic valley vistas, the villa blends Alpine-inspired architecture with natural stone elements that mirror the landscape. Cobbled pathways, bordered by manicured planters and softly lit by old-world street lamps, set a calming tone—best explored aboard a luxury golf cart.",
+    "A private pool sits just off the villa’s entrance, set against a striking mosaic feature wall. Encircled by a wooden deck, the poolside area is complete with sun loungers and a refreshing outdoor shower.",
+    "Stepping indoors, the living room is anchored by beige sofas and patterned armchairs, radiating understated elegance. A statement crystal chandelier glimmers overhead, along with stylish decor that includes a black console table, golden sculptures, and delicate arrangements.",
+    "Adjacent lies the dining area, centered around an eight-seater table with upholstered high-back chairs. The open kitchen features high-gloss taupe and cream cabinetry, a central island, and premium finishes.",
+    "Floor-to-ceiling windows frame expansive vistas from every bedroom, including a cosy attic with a balcony. The master bedroom on the first floor also has a private balcony and an ensuite bathroom with a temperature-controlled toilet seat for elevated comfort.",
+    "The home theatre boasts a high-definition projector paired with a large framed projection screen, premium sound system and leather recliners. Ideal for movie marathons, it offers an amazing entertainment experience in a private setting.",
+    "For a spa-like experience, relax in the jacuzzi by a large window with stunning hill views. Complementing this setting is a wooden steam room with a bench and dual dials for custom temperature and humidity controls.",
+    "Step onto the spacious terrace to enjoy panoramic 360° hill views. Settle into wicker armchairs with striped cushions to unwind under the open sky, surrounded by vibrant flowers that breathe color into the space.",
+    "A premium clubhouse for peaceful escapes and memorable evenings, with a serene pool, elegant bar, and more for refined indulgence.",
+    "To elevate this experience, a dedicated 5-star hospitality team is always on hand, ready to assist with a warm smile and genuine care, embodying the true essence of \"Atithi Devo Bhava.\" From a butler and chef-on-call to a premium welcome basket and a thoughtful farewell gift, every detail is arranged to make guests feel cared for and pampered!",
+    "Bedrooms",
+    "Aqua Lounge",
+    "A private heated pool sits just off the villa’s entrance, set against a striking mosaic feature wall. Encircled by a wooden deck, the poolside area is complete with sun loungers and a refreshing outdoor shower.",
+    "Spa Sanctuary",
+    "For a spa-like experience, relax in the jacuzzi by a large window with stunning hill views. Complementing this setting is a wooden steam room with a bench and dual dials for custom temperature and humidity controls.",
+    "Outdoor Serenity",
+    "A charming terrace garden adorned with ornamental plants and a cosy patio set, offering serene views of the landscape.",
+    "Sky Lounge",
+    "Enjoy 360° hill views from the spacious terrace, where wicker armchairs with striped cushions offer a relaxing spot under the open sky, surrounded by vibrant flowers.",
+    "Elysian Chamber",
+    "The living room, anchored by plush beige sofas and patterned armchairs, radiates understated elegance. A statement crystal chandelier glimmers overhead, reflecting off wood-paneled accents and stylish decor.",
+    "Bedroom 1 - Golden Crest Suite",
+    "A regal retreat on the first floor, this suite boasts floor-to-ceiling windows framing breathtaking views, a plush king-sized bed, central hot & cold AC, a 62” TV, private balcony, and an ensuite bathroom.",
+    "Bathroom 1",
+    "Designed with a shower, temperature-controlled toilet seat, signature organic toiletries, plush towels, and a hairdryer.",
+    "Bedroom 2 - Imperial Grove",
+    "Set against scenic hill vistas, this first-floor retreat includes a king-sized bed, a lounge chair with an ottoman, and an ensuite bathroom.",
+    "Bathroom 2",
+    "Features a shower, soft towels, a hairdryer, and premium organic essentials.",
+    "Bedroom 3 - Skyline Chalet",
+    "This ground-floor suite blends elegance with modern comfort, featuring a king-sized bed, tufted armchairs, floor-to-ceiling glass windows with hill views, and an ensuite bathroom.",
+    "Bathroom 3",
+    "Equipped with a shower, soft towels, a hairdryer, and organic toiletries.",
+    "Bedroom 4 - Horizon Loft",
+    "Located on the second floor, this cosy attic features a plush king-sized bed, large sliding doors opening to a scenic balcony, and an ensuite bathroom for complete comfort and privacy.",
+    "Bathroom 4",
+    "Offers a shower, soft towels, premium toiletries, and a hairdryer.",
+    "Kitchen",
+    "The open-concept kitchen is fully outfitted with state-of-the-art appliances including a refrigerator, oven, microwave, chimney and a central island.",
+    "Dining Delight",
+    "Adjacent lies the dining area, centered around an eight-seater table with upholstered high-back chairs.",
+    "Club house",
+    "Swimming Pool",
+    "Serene outdoor pool with clean, modern edges | Infinity-style waterline with scenic views | Lined with vibrant potted flowering plants | Calm, nature-facing pool setting | Indoor games: chess, mini table tennis | Ideal for relaxed dips and leisurely swims | Well-maintained pool and surroundings | Peaceful ambience with forested backdrop | Perfect spot for unwinding and photos | | Poolside plush seating | Umbrella patios",
+    "Restaurant",
+    "Sophisticated indoor-outdoor dining and lounge experience featuring luxurious furnishings, designer interiors, warm ambient lighting, stylish seating arrangements, seamless open-air integration, elegant alfresco dining under the stars, inviting social spaces, and an exclusive rooftop lounge offering breathtaking panoramic mountain views.",
+    "Bar & restaurant",
+    "Elegant wooden bar counter with classic panel detailing | Backlit display shelves for bottles and glassware | Warm ambient lighting with vintage chandelier | Rich wooden ceiling with exposed beams | Textured stone-finish accent walls | Spacious bar frontage for smooth service flow | Premium, old-world lounge vibe | Intimate and upscale drinking experience",
+    "Show Less"
+  ],
+  "description_sections": [
+    {
+      "bullets": [],
+      "heading": "Overview",
+      "paragraphs": [
+        "Tucked within a serene, gated hillside enclave, this luxe 4-BHK villa is designed for those who find joy in quiet luxury and thoughtful details!",
+        "Surrounded by pine-covered slopes and panoramic valley vistas, the villa blends Alpine-inspired architecture with natural stone elements that mirror the landscape. Cobbled pathways, bordered by manicured planters and softly lit by old-world street lamps, set a calming tone—best explored aboard a luxury golf cart.",
+        "A private pool sits just off the villa’s entrance, set against a striking mosaic feature wall. Encircled by a wooden deck, the poolside area is complete with sun loungers and a refreshing outdoor shower.",
+        "Stepping indoors, the living room is anchored by beige sofas and patterned armchairs, radiating understated elegance. A statement crystal chandelier glimmers overhead, along with stylish decor that includes a black console table, golden sculptures, and delicate arrangements.",
+        "Adjacent lies the dining area, centered around an eight-seater table with upholstered high-back chairs. The open kitchen features high-gloss taupe and cream cabinetry, a central island, and premium finishes.",
+        "Floor-to-ceiling windows frame expansive vistas from every bedroom, including a cosy attic with a balcony. The master bedroom on the first floor also has a private balcony and an ensuite bathroom with a temperature-controlled toilet seat for elevated comfort.",
+        "The home theatre boasts a high-definition projector paired with a large framed projection screen, premium sound system and leather recliners. Ideal for movie marathons, it offers an amazing entertainment experience in a private setting.",
+        "For a spa-like experience, relax in the jacuzzi by a large window with stunning hill views. Complementing this setting is a wooden steam room with a bench and dual dials for custom temperature and humidity controls.",
+        "Step onto the spacious terrace to enjoy panoramic 360° hill views. Settle into wicker armchairs with striped cushions to unwind under the open sky, surrounded by vibrant flowers that breathe color into the space.",
+        "A premium clubhouse for peaceful escapes and memorable evenings, with a serene pool, elegant bar, and more for refined indulgence.",
+        "To elevate this experience, a dedicated 5-star hospitality team is always on hand, ready to assist with a warm smile and genuine care, embodying the true essence of \"Atithi Devo Bhava.\" From a butler and chef-on-call to a premium welcome basket and a thoughtful farewell gift, every detail is arranged to make guests feel cared for and pampered!"
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Bedrooms — Aqua Lounge",
+      "paragraphs": [
+        "A private heated pool sits just off the villa’s entrance, set against a striking mosaic feature wall. Encircled by a wooden deck, the poolside area is complete with sun loungers and a refreshing outdoor shower."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Spa Sanctuary",
+      "paragraphs": [
+        "For a spa-like experience, relax in the jacuzzi by a large window with stunning hill views. Complementing this setting is a wooden steam room with a bench and dual dials for custom temperature and humidity controls."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Outdoor Serenity",
+      "paragraphs": [
+        "A charming terrace garden adorned with ornamental plants and a cosy patio set, offering serene views of the landscape."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Sky Lounge",
+      "paragraphs": [
+        "Enjoy 360° hill views from the spacious terrace, where wicker armchairs with striped cushions offer a relaxing spot under the open sky, surrounded by vibrant flowers."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Elysian Chamber",
+      "paragraphs": [
+        "The living room, anchored by plush beige sofas and patterned armchairs, radiates understated elegance. A statement crystal chandelier glimmers overhead, reflecting off wood-paneled accents and stylish decor."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Bedroom 1 - Golden Crest Suite",
+      "paragraphs": [
+        "A regal retreat on the first floor, this suite boasts floor-to-ceiling windows framing breathtaking views, a plush king-sized bed, central hot & cold AC, a 62” TV, private balcony, and an ensuite bathroom."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Bathroom 1",
+      "paragraphs": [
+        "Designed with a shower, temperature-controlled toilet seat, signature organic toiletries, plush towels, and a hairdryer."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Bedroom 2 - Imperial Grove",
+      "paragraphs": [
+        "Set against scenic hill vistas, this first-floor retreat includes a king-sized bed, a lounge chair with an ottoman, and an ensuite bathroom."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Bathroom 2",
+      "paragraphs": [
+        "Features a shower, soft towels, a hairdryer, and premium organic essentials."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Bedroom 3 - Skyline Chalet",
+      "paragraphs": [
+        "This ground-floor suite blends elegance with modern comfort, featuring a king-sized bed, tufted armchairs, floor-to-ceiling glass windows with hill views, and an ensuite bathroom."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Bathroom 3",
+      "paragraphs": [
+        "Equipped with a shower, soft towels, a hairdryer, and organic toiletries."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Bedroom 4 - Horizon Loft",
+      "paragraphs": [
+        "Located on the second floor, this cosy attic features a plush king-sized bed, large sliding doors opening to a scenic balcony, and an ensuite bathroom for complete comfort and privacy."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Bathroom 4",
+      "paragraphs": [
+        "Offers a shower, soft towels, premium toiletries, and a hairdryer."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Kitchen",
+      "paragraphs": [
+        "The open-concept kitchen is fully outfitted with state-of-the-art appliances including a refrigerator, oven, microwave, chimney and a central island."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Dining Delight",
+      "paragraphs": [
+        "Adjacent lies the dining area, centered around an eight-seater table with upholstered high-back chairs."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Club house — Swimming Pool",
+      "paragraphs": [
+        "Serene outdoor pool with clean, modern edges | Infinity-style waterline with scenic views | Lined with vibrant potted flowering plants | Calm, nature-facing pool setting | Indoor games: chess, mini table tennis | Ideal for relaxed dips and leisurely swims | Well-maintained pool and surroundings | Peaceful ambience with forested backdrop | Perfect spot for unwinding and photos | | Poolside plush seating | Umbrella patios"
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Restaurant",
+      "paragraphs": [
+        "Sophisticated indoor-outdoor dining and lounge experience featuring luxurious furnishings, designer interiors, warm ambient lighting, stylish seating arrangements, seamless open-air integration, elegant alfresco dining under the stars, inviting social spaces, and an exclusive rooftop lounge offering breathtaking panoramic mountain views."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Bar & restaurant",
+      "paragraphs": [
+        "Elegant wooden bar counter with classic panel detailing | Backlit display shelves for bottles and glassware | Warm ambient lighting with vintage chandelier | Rich wooden ceiling with exposed beams | Textured stone-finish accent walls | Spacious bar frontage for smooth service flow | Premium, old-world lounge vibe | Intimate and upscale drinking experience"
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Overview",
+      "paragraphs": [
+        "Bedrooms"
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Overview",
+      "paragraphs": [
+        "Club house"
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Overview",
+      "paragraphs": [
+        "Veg Non-veg"
+      ]
+    },
+    {
+      "bullets": [
+        "A chef-on-call service is available along with an exclusive in-house menu.",
+        "Guests are allowed to access the kitchen for light cooking.",
+        "Ordering food from outside is permitted."
+      ],
+      "heading": "Additional features:",
+      "paragraphs": []
+    },
+    {
+      "bullets": [],
+      "heading": "Overview",
+      "paragraphs": [
+        "Check-in Instructions: Check-in: 2 PM | Check-out: 10 AM",
+        "Refund Policy: For cancellations that comply with our policy terms, refunds will be processed as per the details below:",
+        "1. Refunds are only available if the full payment has been made; partial payments are non-refundable.",
+        "2. Refunds will be processed within 7-9 days post cancellation request.",
+        "3. Refunds are only available if the full payment has been made; partial payments are non-refundable.",
+        "**Refunds will be processed within 7-9 days post-cancellation request.",
+        "Security Deposit Amount: 30,000",
+        "Security Deposit Refund Policy: Refunds will be processed within 4-7 working days after property inspection. Your adherence to this timeline is appreciated.",
+        "Noise & disturbances: Keep noise levels reasonable, especially between 10 pm and 7 am; no loud parties or events.",
+        "Smoking: Smoking is strictly prohibited inside the villa. Designated smoking areas are available outdoors.",
+        "Chewing tobacco: Strictly prohibited with no exceptions.",
+        "Pets: Pets are NOT allowed on the property.",
+        "Occupancy: Follow maximum occupancy limits. Additional guests need prior approval.",
+        "Damages: Guests are responsible for any damages or breakages during their stay. Please report any incidents to the management promptly. Charges may apply for repairs or replacements.",
+        "Cleanliness: Please keep the villa clean, use the designated trash bins and avoid littering the property.",
+        "Safety & security: Lock all doors and windows when leaving. We will not be responsible for any loss or theft of personal belongings.",
+        "Amenities & facilities: Use the provided amenities responsibly and adhere to any posted guidelines.",
+        "Compliance: Follow local laws and regulations. Illegal activities will result in eviction and potential legal action.",
+        "Upkeep: Daily cleaning is compulsory. Kindly cooperate with our housekeeping team.",
+        "Standard occupancy: 8 guests​",
+        "Maximum occupancy: 10 guests (Additional charges apply for extra guests beyond standard occupancy.)"
+      ]
+    },
+    {
+      "bullets": [
+        "Kasauli Church - 5.7 km",
+        "Kasauli Mall Road - 5.8 km",
+        "Manki Point - 9.4 km"
+      ],
+      "heading": "Overview",
+      "paragraphs": []
+    }
+  ],
+  "images": [
+    "https://cpjlcwamma.cloudimg.io/2nd_580c51c9e6.jpg",
+    "https://cpjlcwamma.cloudimg.io/P1038557_e00deb9585.jpg",
+    "https://cpjlcwamma.cloudimg.io/DSC_07674_Edit_54b45a0fe8.webp",
+    "https://cpjlcwamma.cloudimg.io/New_Project_1_580063580b.webp",
+    "https://cpjlcwamma.cloudimg.io/DSC_07213_b54052e191.webp",
+    "https://cpjlcwamma.cloudimg.io/New_Project_1891841b8c.webp",
+    "https://cpjlcwamma.cloudimg.io/DSC_07555_HDR_078848518e.webp",
+    "https://cpjlcwamma.cloudimg.io/DSC_07355_HDR_6409196887.webp",
+    "https://cpjlcwamma.cloudimg.io/DSC_07281_HDR_5025a343c3.webp",
+    "https://cpjlcwamma.cloudimg.io/DSC_07151_HDR_de132e7d4a.webp",
+    "https://cpjlcwamma.cloudimg.io/DSC_07168_e31aa9aa58.webp",
+    "https://cpjlcwamma.cloudimg.io/New_Project_2_8528e28e29.webp",
+    "https://cpjlcwamma.cloudimg.io/DSC_07129_HDR_db689fc171.webp",
+    "https://cpjlcwamma.cloudimg.io/DSC_07109_HDR_1241fc3b01.webp",
+    "https://cpjlcwamma.cloudimg.io/DSC_07183_HDR_488b87598f.webp",
+    "https://cpjlcwamma.cloudimg.io/P1038499_68b220068d.jpg",
+    "https://cpjlcwamma.cloudimg.io/DSC_07573_HDR_a7c3871742.webp",
+    "https://cpjlcwamma.cloudimg.io/DSC_07574_HDR_5c9867edc6.webp",
+    "https://cpjlcwamma.cloudimg.io/royce_17_c3ac9f6858.jpg",
+    "https://cpjlcwamma.cloudimg.io/DSC_07315_98ce9a7926.webp",
+    "https://cpjlcwamma.cloudimg.io/DSC_07804_628e6f7fe0.webp",
+    "https://cpjlcwamma.cloudimg.io/royce_1_3388dc0bcd.jpg",
+    "https://cpjlcwamma.cloudimg.io/DSC_07440_69d34b49f9.webp",
+    "https://cpjlcwamma.cloudimg.io/New_Project_5_f1c0152a0a.webp",
+    "https://cpjlcwamma.cloudimg.io/DSC_07284_HDR_7452cb905d.webp",
+    "https://cpjlcwamma.cloudimg.io/DSC_07287_41a724bfeb.webp",
+    "https://cpjlcwamma.cloudimg.io/New_Project_6_4c4e72b8dc.webp",
+    "https://cpjlcwamma.cloudimg.io/New_Project_eb4cf380c6.webp",
+    "https://cpjlcwamma.cloudimg.io/New_Project_1_a0cf0fa29b.webp",
+    "https://cpjlcwamma.cloudimg.io/DSC_07248_e35dec469a.webp",
+    "https://cpjlcwamma.cloudimg.io/1_64e475b750.jpg",
+    "https://cpjlcwamma.cloudimg.io/3_0f1919d65f.jpg",
+    "https://cpjlcwamma.cloudimg.io/P1038566_9bcd15846f.jpg",
+    "https://cpjlcwamma.cloudimg.io/DSC_07477_61fb44234b.webp",
+    "https://cpjlcwamma.cloudimg.io/DSC_07490_a5b210744d.webp",
+    "https://cpjlcwamma.cloudimg.io/DSC_07491_b5c1772825.webp",
+    "https://cpjlcwamma.cloudimg.io/DSC_07689_Edit_6699e0c773.webp",
+    "https://cpjlcwamma.cloudimg.io/DSC_07655_HDR_86281ea2b1.webp",
+    "https://cpjlcwamma.cloudimg.io/DSC_07665_7ceccc17a1.webp",
+    "https://cpjlcwamma.cloudimg.io/royce_12_4dcae4a480.jpg",
+    "https://cpjlcwamma.cloudimg.io/New_Project_2_ce8e5169c4.webp",
+    "https://cpjlcwamma.cloudimg.io/DSC_07424_e6fd26d75a.webp",
+    "https://cpjlcwamma.cloudimg.io/DSC_07438_27cb3082c6.webp",
+    "https://cpjlcwamma.cloudimg.io/DSC_07209_HDR_d241bfa6e8.webp",
+    "https://cpjlcwamma.cloudimg.io/DSC_07159_HDR_Edit_2ad2ff7312.webp",
+    "https://cpjlcwamma.cloudimg.io/DSC_07132_2adbc17aa9.webp",
+    "https://cpjlcwamma.cloudimg.io/DSC_07123_HDR_34c2d02ff7.webp",
+    "https://cpjlcwamma.cloudimg.io/DSC_07115_e279cedcd7.webp",
+    "https://cpjlcwamma.cloudimg.io/DSC_07106_e54c57fd8a.webp",
+    "https://cpjlcwamma.cloudimg.io/DSC_07097_HDR_6d325c1ab6.webp",
+    "https://cpjlcwamma.cloudimg.io/DSC_07142_dd0ab8b3b3.webp",
+    "https://cpjlcwamma.cloudimg.io/DSC_07186_db87cfc0c3.webp",
+    "https://cpjlcwamma.cloudimg.io/DSC_07194_HDR_e53bd16aec.webp",
+    "https://cpjlcwamma.cloudimg.io/DSC_07200_bcd04dd508.webp",
+    "https://cpjlcwamma.cloudimg.io/DSC_07087_Edit_f613fc7a1d.webp",
+    "https://cpjlcwamma.cloudimg.io/DSC_07228_Edit_3f7904b0ae.webp",
+    "https://cpjlcwamma.cloudimg.io/DSC_07850_Edit_ffa33766ef.webp",
+    "https://cpjlcwamma.cloudimg.io/New_Project_4_7528ced2d6.webp",
+    "https://cpjlcwamma.cloudimg.io/DSC_07844_95f9f1f76c.webp"
+  ],
+  "image_count": 59
+}

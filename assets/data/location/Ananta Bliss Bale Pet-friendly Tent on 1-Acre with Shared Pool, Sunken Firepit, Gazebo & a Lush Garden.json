@@ -1,0 +1,393 @@
+{
+  "title": "Ananta Bliss Bale | Pet-friendly Tent on 1-Acre with Shared Pool, Sunken Firepit, Gazebo & a Lush Garden",
+  "summary": "Guests appreciate the peaceful environment. The luxurious amenities are highly praised. Ideal for a relaxing getaway.",
+  "location": {
+    "city": "Bengaluru",
+    "region": null,
+    "points_of_interest": [
+      {
+        "name": "Makali Durga Fort, Hiking Peak",
+        "distance_km": 14.9
+      },
+      {
+        "name": "Gundamagere Lake",
+        "distance_km": 17.4
+      },
+      {
+        "name": "Skandagairi Hills",
+        "distance_km": 31
+      },
+      {
+        "name": "Adiyogi Isha Foundation",
+        "distance_km": 37
+      }
+    ],
+    "latitude": 13.518215999999999,
+    "longitude": 77.54758799999999
+  },
+  "capacity": {
+    "standard_occupancy": 2,
+    "maximum_occupancy": 3,
+    "guests": 3,
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1
+  },
+  "pricing": null,
+  "rooms": [
+    {
+      "name": "Bedroom 1",
+      "floor": null,
+      "size_sqft": null,
+      "bed_type": "king-sized",
+      "features": null,
+      "attached_bathroom": null
+    }
+  ],
+  "amenities": [
+    "Chef on Call",
+    "Dining Table",
+    "Bed linen",
+    "Clothes drying rack",
+    "Extra pillows and blankets",
+    "Hangers",
+    "Iron",
+    "CCTV",
+    "Fire extinguisher",
+    "First aid kit",
+    "Private patio",
+    "Swimming pool",
+    "Gazebo",
+    "Airconditioning",
+    "Ceiling fan",
+    "Welcome basket",
+    "Eco-friendly hygiene kit",
+    "Wardrobe space",
+    "Housekeeping staff",
+    "Bathtub",
+    "Shower",
+    "Geyser",
+    "Jet spray",
+    "Western commode",
+    "Shampoo",
+    "Soap",
+    "Conditioner",
+    "Towels",
+    "Hot water",
+    "Garden",
+    "Wifi",
+    "Hair dryer",
+    "Shower gel",
+    "Coffee sachets",
+    "Parking",
+    "Common pool"
+  ],
+  "outdoor_spaces": {
+    "pool": {
+      "private": false,
+      "jacuzzi": false
+    },
+    "garden": true,
+    "gazebo": true,
+    "other": [
+      "Sunken firepit",
+      "Tropical patio with swing, wicker lounge & dining space",
+      "Palm-filled garden with Bali-style patios & wicker seating"
+    ]
+  },
+  "rules": {
+    "check_in": "2 PM",
+    "check_out": "11 AM",
+    "noise": "Keep noise levels reasonable, especially between 10 pm and 7 am; no loud parties or events.",
+    "smoking": "Smoking is strictly prohibited inside the villa. Designated smoking areas are available outdoors.",
+    "chewing_tobacco": "Strictly prohibited with no exceptions.",
+    "pets_allowed": true,
+    "pet_policy": {
+      "security_deposit_per_pet": {
+        "1 Pet": 10000,
+        "2 Pets": 15000
+      },
+      "sanitation_fee": {
+        "1BHK": 1000,
+        "2/3BHK": 2000,
+        "4/5BHK+": 3000,
+        "Prive Collection": 4000
+      },
+      "pool_restriction": "Pets are not allowed in the pool – A care charge of ₹10,000 will apply if this is overlooked."
+    },
+    "security_deposit": 10000,
+    "damage_responsibility": "Guests are responsible for any damages or breakages during their stay. Please report any incidents to the management promptly. Charges may apply for repairs or replacements.",
+    "cleanliness": "Please keep the villa clean, use the designated trash bins and avoid littering the property.",
+    "safety_security": "Lock all doors and windows when leaving. We will not be responsible for any loss or theft of personal belongings.",
+    "occupancy_limits": "Follow maximum occupancy limits. Additional guests need prior approval."
+  },
+  "contact_info": null,
+  "coordinates": {
+    "latitude": 13.518215999999999,
+    "longitude": 77.54758799999999
+  },
+  "spaces": [
+    {
+      "description": "2296 sq.ft Moroccan-style pool with lush tropical setting",
+      "details": [
+        "2296 sq.ft Moroccan-style pool with lush tropical setting"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/Villa_25_81_ddfdb3cce7.jpg"
+      ],
+      "title": "Shared swimming pool"
+    },
+    {
+      "description": "Palm-filled garden with Bali-style patios & wicker seating",
+      "details": [
+        "Palm-filled garden with Bali-style patios & wicker seating"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/Villa_25_91_d383ffc94f.jpg"
+      ],
+      "title": "Common garden"
+    },
+    {
+      "description": "Sunken stone firepit with circular seating & greenery",
+      "details": [
+        "Sunken stone firepit with circular seating & greenery"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/Villa_25_100_1010ee0edc.jpg"
+      ],
+      "title": "Sunken fireplaces"
+    },
+    {
+      "description": "Tropical patio with swing, wicker lounge & dining space",
+      "details": [
+        "Tropical patio with swing, wicker lounge & dining space"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/TENT_C1_27_33d2cdc5db.jpg"
+      ],
+      "title": "Outdoor sitting area"
+    },
+    {
+      "description": "Open-air Javanese gazebo with rattan chairs & deck flooring",
+      "details": [
+        "Open-air Javanese gazebo with rattan chairs & deck flooring"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/Villa_25_170_7c7bdcdc89.jpg"
+      ],
+      "title": "Gazebo"
+    },
+    {
+      "description": "1 king-sized bed",
+      "details": [
+        "1 king-sized bed"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/Villa_25_27_63d365aeaf.jpg"
+      ],
+      "title": "Bedroom 1"
+    }
+  ],
+  "villa_snapshot": [
+    "Property snapshot",
+    "Set on a quiet, 1-acre forest-framed stretch of tropical land, this pet-friendly tented hideaway offers a serene, open-air living experience rooted in rustic textures and bohemian charm. The bedroom is a light-washed sanctuary, featuring a four-poster canopy bed, rattan wardrobes, woven pendant lights, and sliding glass doors that blur the line between indoors and out. Paired with forest views, soft natural light, and layered organic accents, this 400 sq. ft. space invites deep rest and barefoot ease.",
+    "Step outside to your private patio, where a raw-wood dining table and wicker seating are arranged beneath a layered canopy roof. Thoughtful details like a sculptural Buddha head, potted palms, and a textured stone floor set the mood for long, lingering afternoons or candle-lit evenings surrounded by greenery.",
+    "The ensuite bath continues the earthy palette with a grey-stone tub, indoor plants, and warm ambient lighting. Sculptural wooden elements and a clean layout bring a meditative energy ideal for slow rituals and evening wind-downs.",
+    "Beyond the tent, guests have access to expansive shared spaces designed for both reflection and connection. A Moroccan-style pool sits at the heart of the estate, framed by tall palms and whitewashed decks dotted with loungers and sculptural accents. The garden paths are lined with swings, bamboo benches, and lush greenery that invites quiet exploration.",
+    "A charming thatched-roof gazebo with an elevated wooden deck and rattan seating offers a breezy open-air setting- perfect for slow mornings, quiet reading, or afternoon conversations. As dusk settles in, guests can gather by the sunken stone firepit, where wild landscaping and soft ambient lighting set the stage for starlit chats and fireside warmth.",
+    "Enhancing the stay is a warm, attentive hospitality team that embodies the spirit of Atithi Devo Bhava. From a dedicated butler to a thoughtfully curated welcome basket and a well-stocked fridge, every detail is seamlessly taken care of—ensuring guests feel effortlessly pampered and genuinely welcomed. This is a space for stillness, connection, and slow, soulful living.",
+    "Bedroom: Kamar Awan – “Room of the Clouds” → Draped in white canopies and diffused light, it’s a tranquil, floaty space with cloud-like softness.",
+    "One queen-sized poster canopy bed | Area: 400 sq. ft | Ensuite bathroom | Rattan sliding wardrobes | Woven pendant lights | Pair of wooden armchairs with woven backs | Large woven area rug | Glass sliding doors opening to the outdoors | Wooden bench | AC | Ceiling fan | White canopy | Electric kettle | Forest view | Surrounded by lush greenery | Sit-out area | Located on the ground floor",
+    "Outdoor seating area: Pandan Patio – Inspired by the tropical pandan plant→ A lush outdoor nook lined with greenery, grounded textures, and subtle fragrance",
+    "Canvas cloth tent structure with layered canopy roofing | Stone flooring | Wicker lounge chair with cushion | Wicker armchair & side table | A swing to relax | Raw wooden outdoor dining table with matching stools | Tall textured white outdoor planter | Large wicker basket as a decor piece | Dense tropical greenery with palm trees & potted plants",
+    "Bathroom: Santi Bath – “Peace” or “Tranquility” in Sanskrit/Indo-Bali → A minimalist, meditative space inspired by slow rituals and natural flow.",
+    "Grey-stoned Bathtub | Shower, geyser and hand bidet spray | Organic toiletries and towels | Western commode | Ceiling fan | Wooden mirrors | Indoor plants | Warm lights | Wooden sculpture and artwork",
+    "Common Spaces",
+    "Swimming pool: Nusa Blue - Nusa means island — a cool, laid-back tropical energy where the soul unwinds and flows with nature’s rhythm.",
+    "Shared, Moroccan-styled pool | Depth: 4ft. | 2296 sq ft. | White concrete deck | Wooden lounge chairs with cushions | Surrounded by lush greenery & palm trees | Unique sculptures around | Time: 8:00 A.M to 5:00 PM",
+    "Garden: Palméa – A stylish, coastal-sounding name inspired by palms; modern, airy, and elegant.",
+    "Shared lush oasis | Wicker furniture | Unique sculptures | Bali-theme based multiple patio seating | Bohemian & coastal elements with rustic charm | Lush greenery | Buddha statue | Multiple palm trees & plants | Lamp shades and lanterns",
+    "Firepit: Sinar Rasa- (Glow of Feeling)- a radiant space for heartfelt connection and shared energy.",
+    "Circular sunken firepit seating area | Smooth built-in concrete/stone seating | Surrounded by green landscaping & shrubs | Stone stepping path | Landscaping with trees, bushes, & potted plants",
+    "Gazebo: Joglo: a traditional Javanese-style house with a steeply pitched roof.",
+    "Thatched roof structure | Elevated wooden deck flooring | Rattan chairs with a wooden table | Cluster of hanging canes | Surrounded by lush greenery & landscaped plants | Open-air setup",
+    "Show Less"
+  ],
+  "description_sections": [
+    {
+      "bullets": [],
+      "heading": "Overview",
+      "paragraphs": [
+        "Set on a quiet, 1-acre forest-framed stretch of tropical land, this pet-friendly tented hideaway offers a serene, open-air living experience rooted in rustic textures and bohemian charm. The bedroom is a light-washed sanctuary, featuring a four-poster canopy bed, rattan wardrobes, woven pendant lights, and sliding glass doors that blur the line between indoors and out. Paired with forest views, soft natural light, and layered organic accents, this 400 sq. ft. space invites deep rest and barefoot ease.",
+        "Step outside to your private patio, where a raw-wood dining table and wicker seating are arranged beneath a layered canopy roof. Thoughtful details like a sculptural Buddha head, potted palms, and a textured stone floor set the mood for long, lingering afternoons or candle-lit evenings surrounded by greenery.",
+        "The ensuite bath continues the earthy palette with a grey-stone tub, indoor plants, and warm ambient lighting. Sculptural wooden elements and a clean layout bring a meditative energy ideal for slow rituals and evening wind-downs.",
+        "Beyond the tent, guests have access to expansive shared spaces designed for both reflection and connection. A Moroccan-style pool sits at the heart of the estate, framed by tall palms and whitewashed decks dotted with loungers and sculptural accents. The garden paths are lined with swings, bamboo benches, and lush greenery that invites quiet exploration.",
+        "A charming thatched-roof gazebo with an elevated wooden deck and rattan seating offers a breezy open-air setting- perfect for slow mornings, quiet reading, or afternoon conversations. As dusk settles in, guests can gather by the sunken stone firepit, where wild landscaping and soft ambient lighting set the stage for starlit chats and fireside warmth.",
+        "Enhancing the stay is a warm, attentive hospitality team that embodies the spirit of Atithi Devo Bhava. From a dedicated butler to a thoughtfully curated welcome basket and a well-stocked fridge, every detail is seamlessly taken care of—ensuring guests feel effortlessly pampered and genuinely welcomed. This is a space for stillness, connection, and slow, soulful living."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Bedroom: Kamar Awan – “Room of the Clouds” → Draped in white canopies and diffused light, it’s a tranquil, floaty space with cloud-like softness.",
+      "paragraphs": [
+        "One queen-sized poster canopy bed | Area: 400 sq. ft | Ensuite bathroom | Rattan sliding wardrobes | Woven pendant lights | Pair of wooden armchairs with woven backs | Large woven area rug | Glass sliding doors opening to the outdoors | Wooden bench | AC | Ceiling fan | White canopy | Electric kettle | Forest view | Surrounded by lush greenery | Sit-out area | Located on the ground floor"
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Outdoor seating area: Pandan Patio – Inspired by the tropical pandan plant→ A lush outdoor nook lined with greenery, grounded textures, and subtle fragrance",
+      "paragraphs": [
+        "Canvas cloth tent structure with layered canopy roofing | Stone flooring | Wicker lounge chair with cushion | Wicker armchair & side table | A swing to relax | Raw wooden outdoor dining table with matching stools | Tall textured white outdoor planter | Large wicker basket as a decor piece | Dense tropical greenery with palm trees & potted plants"
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Bathroom: Santi Bath – “Peace” or “Tranquility” in Sanskrit/Indo-Bali → A minimalist, meditative space inspired by slow rituals and natural flow.",
+      "paragraphs": [
+        "Grey-stoned Bathtub | Shower, geyser and hand bidet spray | Organic toiletries and towels | Western commode | Ceiling fan | Wooden mirrors | Indoor plants | Warm lights | Wooden sculpture and artwork"
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Common Spaces — Swimming pool: Nusa Blue - Nusa means island — a cool, laid-back tropical energy where the soul unwinds and flows with nature’s rhythm.",
+      "paragraphs": [
+        "Shared, Moroccan-styled pool | Depth: 4ft. | 2296 sq ft. | White concrete deck | Wooden lounge chairs with cushions | Surrounded by lush greenery & palm trees | Unique sculptures around | Time: 8:00 A.M to 5:00 PM"
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Garden: Palméa – A stylish, coastal-sounding name inspired by palms; modern, airy, and elegant.",
+      "paragraphs": [
+        "Shared lush oasis | Wicker furniture | Unique sculptures | Bali-theme based multiple patio seating | Bohemian & coastal elements with rustic charm | Lush greenery | Buddha statue | Multiple palm trees & plants | Lamp shades and lanterns"
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Firepit: Sinar Rasa- (Glow of Feeling)- a radiant space for heartfelt connection and shared energy.",
+      "paragraphs": [
+        "Circular sunken firepit seating area | Smooth built-in concrete/stone seating | Surrounded by green landscaping & shrubs | Stone stepping path | Landscaping with trees, bushes, & potted plants"
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Gazebo: Joglo: a traditional Javanese-style house with a steeply pitched roof.",
+      "paragraphs": [
+        "Thatched roof structure | Elevated wooden deck flooring | Rattan chairs with a wooden table | Cluster of hanging canes | Surrounded by lush greenery & landscaped plants | Open-air setup"
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Overview",
+      "paragraphs": [
+        "Common Spaces"
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Overview",
+      "paragraphs": [
+        "Veg",
+        "A fully equipped commercial kitchen ensures you can savour thoughtfully prepared vegetarian meals during your stay.",
+        "Note: This is a vegetarian property. Guests may bring non-vegetarian food from outside; however, cooking non-vegetarian food inside the property is strictly not allowed."
+      ]
+    },
+    {
+      "bullets": [
+        "Guests are not permitted to access the kitchen for safety reasons.",
+        "A chef-on-call service, along with an in-house menu, is available at additional cost."
+      ],
+      "heading": "Additional features",
+      "paragraphs": []
+    },
+    {
+      "bullets": [],
+      "heading": "Overview",
+      "paragraphs": [
+        "Check-in Instructions: Check-in: 2 PM | Check-out: 11 AM",
+        "Refund Policy: For cancellations that comply with our policy terms, refunds will be processed as per the details below:",
+        "1. Refunds are only available if the full payment has been made; partial payments are non-refundable.",
+        "2. Refunds will be processed within 7-9 days post cancellation request.",
+        "3. Refunds are only available if the full payment has been made; partial payments are non-refundable.",
+        "**Refunds will be processed within 7-9 days post-cancellation request.",
+        "Security Deposit Amount: 10,000",
+        "Noise & disturbances: Keep noise levels reasonable, especially between 10 pm and 7 am; no loud parties or events.",
+        "Smoking: Smoking is strictly prohibited inside the villa. Designated smoking areas are available outdoors.",
+        "Chewing tobacco: Strictly prohibited with no exceptions.",
+        "Pets: Pets are allowed on the property.",
+        "*Pet Friendly Property | Pet Policy*",
+        "Pets Are Family – And They’re Welcome Here!",
+        "We’re thrilled to host your furry friends at our pet-friendly homes. To ensure a safe and comfortable stay for all, here’s everything you need to know:",
+        "Pet Security Deposit",
+        "• 1 Pet – ₹10,000 (Refundable)",
+        "• 2 Pets – ₹15,000 (Refundable)",
+        "Collected in addition to the standard security deposit.",
+        "Pet Sanitation Fee (One-time, collected at check-in)",
+        "• 1BHK – ₹1,000",
+        "• 2/3BHK – ₹2,000",
+        "• 4/5BHK+ – ₹3,000",
+        "• Prive Collection – ₹4,000"
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Kindly Note",
+      "paragraphs": [
+        "• Pets are not allowed in the pool – A care charge of ₹10,000 will apply if this is overlooked.",
+        "• Clean-up is your responsibility – Please pick up after your pets.",
+        "• Damages, if any, will be charged at actuals.",
+        "We love pets—and we’re so glad you brought yours along! Thank you for helping us keep our spaces clean, safe, and welcoming for everyone",
+        "Occupancy: Follow maximum occupancy limits. Additional guests need prior approval.",
+        "Damages: Guests are responsible for any damages or breakages during their stay. Please report any incidents to the management promptly. Charges may apply for repairs or replacements.",
+        "Cleanliness: Please keep the villa clean, use the designated trash bins and avoid littering the property.",
+        "Safety & security: Lock all doors and windows when leaving. We will not be responsible for any loss or theft of personal belongings.",
+        "Amenities & facilities: Use the provided amenities responsibly and adhere to any posted guidelines.",
+        "Compliance: Follow local laws and regulations. Illegal activities will result in eviction and potential legal action.",
+        "Upkeep: Daily cleaning is compulsory. Kindly cooperate with our housekeeping team.",
+        "Standard occupancy: 2 guests​",
+        "Maximum occupancy: 3 guests (Additional charges apply for extra guests beyond standard occupancy.)"
+      ]
+    },
+    {
+      "bullets": [
+        "Makali Durga Fort, Hiking Peak - 14.9 km",
+        "Gundamagere Lake - 17.4 km",
+        "Skandagairi Hills - 31 km",
+        "Adiyogi Isha Foundation - 37 km"
+      ],
+      "heading": "Overview",
+      "paragraphs": []
+    }
+  ],
+  "images": [
+    "https://cpjlcwamma.cloudimg.io/Villa_25_159_b499dc1053.jpg",
+    "https://cpjlcwamma.cloudimg.io/Villa_25_83_82c6dd9f22.jpg",
+    "https://cpjlcwamma.cloudimg.io/V_Illa_25_C2_L_17_3ebfa8c768.jpg",
+    "https://cpjlcwamma.cloudimg.io/Villa_25_167_9421d559bc.jpg",
+    "https://cpjlcwamma.cloudimg.io/V_Illa_25_C2_L_6_a33faacccc.jpg",
+    "https://cpjlcwamma.cloudimg.io/Villa_25_168_368f887021.jpg",
+    "https://cpjlcwamma.cloudimg.io/Villa_25_170_7c7bdcdc89.jpg",
+    "https://cpjlcwamma.cloudimg.io/TENT_C1_29_000adbda91.jpg",
+    "https://cpjlcwamma.cloudimg.io/Villa_25_148_196a395d63.jpg",
+    "https://cpjlcwamma.cloudimg.io/TENT_C1_796bc4787c.jpg",
+    "https://cpjlcwamma.cloudimg.io/TENT_C1_12_4bbc5642a5.jpg",
+    "https://cpjlcwamma.cloudimg.io/New_Project_2_8528e28e29.webp",
+    "https://cpjlcwamma.cloudimg.io/TENT_C1_4_b7177df16e.jpg",
+    "https://cpjlcwamma.cloudimg.io/Villa_25_174_7abc8d3899.jpg",
+    "https://cpjlcwamma.cloudimg.io/Villa_25_180_63cc8ddd24.jpg",
+    "https://cpjlcwamma.cloudimg.io/Villa_25_92_a8ec2eb9ea.jpg",
+    "https://cpjlcwamma.cloudimg.io/Villa_25_102_e86630c66d.jpg",
+    "https://cpjlcwamma.cloudimg.io/Villa_25_175_92ae121149.jpg",
+    "https://cpjlcwamma.cloudimg.io/V_Illa_25_C2_L_7_1d03138ac6.jpg",
+    "https://cpjlcwamma.cloudimg.io/Villa_25_171_d438fe95eb.jpg",
+    "https://cpjlcwamma.cloudimg.io/Villa_25_161_07acc1134c.jpg",
+    "https://cpjlcwamma.cloudimg.io/TENT_C1_25_748984f712.jpg",
+    "https://cpjlcwamma.cloudimg.io/TENT_C2_14_5489c84e63.jpg",
+    "https://cpjlcwamma.cloudimg.io/TENT_C1_26_f272ae1e6b.jpg",
+    "https://cpjlcwamma.cloudimg.io/TENT_C2_8_45c12dfeb2.jpg",
+    "https://cpjlcwamma.cloudimg.io/Villa_25_126_e55eb3e223.jpg",
+    "https://cpjlcwamma.cloudimg.io/TENT_C2_3_c2ec669f53.jpg",
+    "https://cpjlcwamma.cloudimg.io/TENT_C1_13_030cd15ae6.jpg",
+    "https://cpjlcwamma.cloudimg.io/TENT_C1_27_33d2cdc5db.jpg"
+  ],
+  "image_count": 29
+}

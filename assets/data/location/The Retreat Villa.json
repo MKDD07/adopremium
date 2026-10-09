@@ -40,7 +40,7 @@
   "pricing": null,
   "rooms": [
     {
-      "name": "The Cedar Suite",
+      "name": "Bedroom 1: The Cedar Suite",
       "floor": null,
       "size_sqft": null,
       "bed_type": "king-sized",
@@ -48,7 +48,7 @@
       "attached_bathroom": null
     },
     {
-      "name": "The Timber Suite",
+      "name": "Bedroom 2: The Timber Suite",
       "floor": null,
       "size_sqft": null,
       "bed_type": "king-sized",
@@ -56,7 +56,7 @@
       "attached_bathroom": null
     },
     {
-      "name": "The Deodar Suite",
+      "name": "Bedroom 3: The Deodar Suite",
       "floor": null,
       "size_sqft": null,
       "bed_type": "king-sized",
@@ -64,7 +64,7 @@
       "attached_bathroom": null
     },
     {
-      "name": "The Oakwood Suite",
+      "name": "Bedroom 4: The Oakwood Suite",
       "floor": null,
       "size_sqft": null,
       "bed_type": "king-sized",
@@ -419,12 +419,52 @@
     }
   ],
   "images": [
-    "https://cpjlcwamma.cloudimg.io/ELIVAAS_prive_1_0452857cb6.svg",
     "https://cpjlcwamma.cloudimg.io/Hero_Image_jpg_ba7644fa35.jpeg",
     "https://cpjlcwamma.cloudimg.io/K81_A2935_7a504cdf5b.jpg",
     "https://cpjlcwamma.cloudimg.io/P1038236_94db4a15a9.jpg",
     "https://cpjlcwamma.cloudimg.io/P1038308_fdeb34584e.jpg",
-    "https://cpjlcwamma.cloudimg.io/P1038275_ba6d4fb8d3.jpg"
+    "https://cpjlcwamma.cloudimg.io/P1038275_ba6d4fb8d3.jpg",
+    "https://cpjlcwamma.cloudimg.io/P1038272_689161b16f.jpg",
+    "https://cpjlcwamma.cloudimg.io/K81_A2925_570f3f1deb.jpg",
+    "https://cpjlcwamma.cloudimg.io/P1038206_6b2f07d7e0.jpg",
+    "https://cpjlcwamma.cloudimg.io/K81_A5490_4b3550ce15.jpg",
+    "https://cpjlcwamma.cloudimg.io/DJI_20260318171325_0409_D_fd123bd081.jpg",
+    "https://cpjlcwamma.cloudimg.io/P1038452_843598af18.jpg",
+    "https://cpjlcwamma.cloudimg.io/K81_A2918_fa9d2626a2.jpg",
+    "https://cpjlcwamma.cloudimg.io/New_Project_2_8528e28e29.webp",
+    "https://cpjlcwamma.cloudimg.io/P1038214_14a064114e.jpg",
+    "https://cpjlcwamma.cloudimg.io/K81_A2893_941ba8e091.jpg",
+    "https://cpjlcwamma.cloudimg.io/P1038230_febd2b4613.jpg",
+    "https://cpjlcwamma.cloudimg.io/K81_A2920_0e76cc1550.jpg",
+    "https://cpjlcwamma.cloudimg.io/P1038416_31dde662f3.jpg",
+    "https://cpjlcwamma.cloudimg.io/P1038364_6724f7b383.jpg",
+    "https://cpjlcwamma.cloudimg.io/K81_A5428_67775120f4.jpg",
+    "https://cpjlcwamma.cloudimg.io/P1038362_89e595a5e2.jpg",
+    "https://cpjlcwamma.cloudimg.io/K81_A5475_35909094f8.jpg",
+    "https://cpjlcwamma.cloudimg.io/P1038392_ebb041c943.jpg",
+    "https://cpjlcwamma.cloudimg.io/K81_A5452_7c4e7531fc.jpg",
+    "https://cpjlcwamma.cloudimg.io/P1038396_30faefc463.jpg",
+    "https://cpjlcwamma.cloudimg.io/K81_A5482_92005dff9f.jpg",
+    "https://cpjlcwamma.cloudimg.io/P1038326_af343bfbc2.jpg",
+    "https://cpjlcwamma.cloudimg.io/P1038305_3555c9c4f4.jpg",
+    "https://cpjlcwamma.cloudimg.io/K81_A2939_4af084904d.jpg",
+    "https://cpjlcwamma.cloudimg.io/P1038249_336291cf8f.jpg",
+    "https://cpjlcwamma.cloudimg.io/P1038256_94441d17af.jpg",
+    "https://cpjlcwamma.cloudimg.io/P1038269_8c3060a6ae.jpg",
+    "https://cpjlcwamma.cloudimg.io/K81_A2924_f83a3b9781.jpg",
+    "https://cpjlcwamma.cloudimg.io/P1038238_e99f7afce6.jpg",
+    "https://cpjlcwamma.cloudimg.io/P1038425_0349c5a7b2.jpg",
+    "https://cpjlcwamma.cloudimg.io/K81_A2915_d48ae3b522.jpg",
+    "https://cpjlcwamma.cloudimg.io/K81_A5443_b9904fb903.jpg",
+    "https://cpjlcwamma.cloudimg.io/K81_A5467_bf6093db47.jpg",
+    "https://cpjlcwamma.cloudimg.io/P1038344_833dc77a0c.jpg",
+    "https://cpjlcwamma.cloudimg.io/K81_A5529_6b7b859654.jpg",
+    "https://cpjlcwamma.cloudimg.io/P1038284_d6fdd8bdea.jpg",
+    "https://cpjlcwamma.cloudimg.io/K81_A5519_901f6e5af1.jpg",
+    "https://cpjlcwamma.cloudimg.io/P1038318_fbbd8128e7.jpg",
+    "https://cpjlcwamma.cloudimg.io/1_f27e0fd9f8.png",
+    "https://cpjlcwamma.cloudimg.io/P1038447_74f19a8215.jpg",
+    "https://cpjlcwamma.cloudimg.io/P1038444_95d1f358af.jpg"
   ],
-  "image_count": 6
+  "image_count": 46
 }

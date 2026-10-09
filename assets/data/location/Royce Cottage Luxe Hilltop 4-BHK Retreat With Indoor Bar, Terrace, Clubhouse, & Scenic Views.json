@@ -36,7 +36,7 @@
       "floor": null,
       "size_sqft": null,
       "bed_type": null,
-      "features": "peaceful escape with a serene pool, elegant bar",
+      "features": "A peaceful escape with a serene pool, elegant bar",
       "attached_bathroom": null
     },
     {
@@ -91,32 +91,32 @@
       "name": "Solana Manor",
       "floor": null,
       "size_sqft": null,
-      "bed_type": "king-sized",
-      "features": null,
+      "bed_type": "king",
+      "features": "1 king-sized bed",
       "attached_bathroom": null
     },
     {
       "name": "Monte Suite",
       "floor": null,
       "size_sqft": null,
-      "bed_type": "king-sized",
-      "features": null,
+      "bed_type": "king",
+      "features": "1 king-sized bed",
       "attached_bathroom": null
     },
     {
       "name": "Celestial Chamber",
       "floor": null,
       "size_sqft": null,
-      "bed_type": "king-sized",
-      "features": null,
+      "bed_type": "king",
+      "features": "1 king-sized bed",
       "attached_bathroom": null
     },
     {
       "name": "Alpine Lodge",
       "floor": null,
       "size_sqft": null,
-      "bed_type": "king-sized",
-      "features": null,
+      "bed_type": "king",
+      "features": "1 king-sized bed",
       "attached_bathroom": null
     }
   ],
@@ -164,7 +164,9 @@
     "Wardrobe space",
     "Hair dryer",
     "Shower gel",
-    "Parking"
+    "Parking",
+    "Veg meals",
+    "Non-veg meals"
   ],
   "outdoor_spaces": {
     "pool": {
@@ -539,12 +541,53 @@
     }
   ],
   "images": [
-    "https://cpjlcwamma.cloudimg.io/ELIVAAS_prive_1_0452857cb6.svg",
     "https://cpjlcwamma.cloudimg.io/DJI_20250417165411_0307_D_Edit_1_7e7a5f66cd.jpg",
     "https://cpjlcwamma.cloudimg.io/P1038557_e00deb9585.jpg",
     "https://cpjlcwamma.cloudimg.io/DSC_06285_HDR_e8840b5555.webp",
     "https://cpjlcwamma.cloudimg.io/DSC_06466_d6a6dc0dff.webp",
-    "https://cpjlcwamma.cloudimg.io/DSC_06318_HDR_d1a586f7ad.webp"
+    "https://cpjlcwamma.cloudimg.io/DSC_06318_HDR_d1a586f7ad.webp",
+    "https://cpjlcwamma.cloudimg.io/New_Project_1891841b8c.webp",
+    "https://cpjlcwamma.cloudimg.io/New_Project_2_52f74d735f.webp",
+    "https://cpjlcwamma.cloudimg.io/DSC_06393_c63677d23a.webp",
+    "https://cpjlcwamma.cloudimg.io/DSC_06405_HDR_b8a78c9bc2.webp",
+    "https://cpjlcwamma.cloudimg.io/DSC_06429_d7ea7b5078.webp",
+    "https://cpjlcwamma.cloudimg.io/New_Project_2_8528e28e29.webp",
+    "https://cpjlcwamma.cloudimg.io/DSC_06368_2a8fb1cc4f.webp",
+    "https://cpjlcwamma.cloudimg.io/DSC_06377_7d738cd54d.webp",
+    "https://cpjlcwamma.cloudimg.io/DSC_06435_9cc3ba28e5.webp",
+    "https://cpjlcwamma.cloudimg.io/DSC_06442_a1813a59f1.webp",
+    "https://cpjlcwamma.cloudimg.io/DSC_06347_1c72e0aa6e.webp",
+    "https://cpjlcwamma.cloudimg.io/P1038566_9bcd15846f.jpg",
+    "https://cpjlcwamma.cloudimg.io/P1038545_e670085ddc.jpg",
+    "https://cpjlcwamma.cloudimg.io/DSC_06270_HDR_b22501a6ba.webp",
+    "https://cpjlcwamma.cloudimg.io/DSC_06291_02e52110f5.webp",
+    "https://cpjlcwamma.cloudimg.io/DSC_06273_HDR_a833a0f807.webp",
+    "https://cpjlcwamma.cloudimg.io/DSC_06451_c699ff9316.webp",
+    "https://cpjlcwamma.cloudimg.io/DSC_06464_73f9275e3c.webp",
+    "https://cpjlcwamma.cloudimg.io/DSC_06457_f257828c53.webp",
+    "https://cpjlcwamma.cloudimg.io/DSC_06473_84bcc33d93.webp",
+    "https://cpjlcwamma.cloudimg.io/DSC_06472_f616df6a5e.webp",
+    "https://cpjlcwamma.cloudimg.io/royce_1_3388dc0bcd.jpg",
+    "https://cpjlcwamma.cloudimg.io/royce_5_a42240cbc5.jpg",
+    "https://cpjlcwamma.cloudimg.io/P1038505_10778e7aa4.jpg",
+    "https://cpjlcwamma.cloudimg.io/DSC_06306_HDR_944a056137.webp",
+    "https://cpjlcwamma.cloudimg.io/DSC_06297_HDR_53bc0bd5ee.webp",
+    "https://cpjlcwamma.cloudimg.io/DSC_06382_80a28232fd.webp",
+    "https://cpjlcwamma.cloudimg.io/DSC_06425_ffcf1b9982.webp",
+    "https://cpjlcwamma.cloudimg.io/DSC_06433_d3d13eda7b.webp",
+    "https://cpjlcwamma.cloudimg.io/DSC_06389_0f649cb3ff.webp",
+    "https://cpjlcwamma.cloudimg.io/DSC_06374_77daebdc89.webp",
+    "https://cpjlcwamma.cloudimg.io/DSC_06367_95693c1a7d.webp",
+    "https://cpjlcwamma.cloudimg.io/DSC_06372_e72dc1a803.webp",
+    "https://cpjlcwamma.cloudimg.io/DSC_06436_42c679893b.webp",
+    "https://cpjlcwamma.cloudimg.io/DSC_06438_23b10a4852.webp",
+    "https://cpjlcwamma.cloudimg.io/DSC_06439_e1cc3cc5f3.webp",
+    "https://cpjlcwamma.cloudimg.io/DSC_06349_56bdde034f.webp",
+    "https://cpjlcwamma.cloudimg.io/DSC_06351_097f9cba2b.webp",
+    "https://cpjlcwamma.cloudimg.io/DSC_06355_29a8b1abed.webp",
+    "https://cpjlcwamma.cloudimg.io/New_Project_1_0af982ba97.webp",
+    "https://cpjlcwamma.cloudimg.io/New_Project_7d1b5c7ea2.webp",
+    "https://cpjlcwamma.cloudimg.io/DSC_07844_95f9f1f76c.webp"
   ],
-  "image_count": 6
+  "image_count": 47
 }

@@ -43,7 +43,7 @@
       "name": "Bedroom 1",
       "floor": null,
       "size_sqft": null,
-      "bed_type": "King",
+      "bed_type": "king-sized",
       "features": null,
       "attached_bathroom": null
     },
@@ -51,8 +51,64 @@
       "name": "Bedroom 2",
       "floor": null,
       "size_sqft": null,
-      "bed_type": "King",
+      "bed_type": "king-sized",
       "features": null,
+      "attached_bathroom": null
+    },
+    {
+      "name": "Living area",
+      "floor": null,
+      "size_sqft": null,
+      "bed_type": null,
+      "features": null,
+      "attached_bathroom": null
+    },
+    {
+      "name": "Library",
+      "floor": null,
+      "size_sqft": null,
+      "bed_type": null,
+      "features": null,
+      "attached_bathroom": null
+    },
+    {
+      "name": "Game zone",
+      "floor": null,
+      "size_sqft": null,
+      "bed_type": null,
+      "features": null,
+      "attached_bathroom": null
+    },
+    {
+      "name": "Gym",
+      "floor": null,
+      "size_sqft": 180,
+      "bed_type": null,
+      "features": "modern equipment",
+      "attached_bathroom": null
+    },
+    {
+      "name": "Sauna room",
+      "floor": null,
+      "size_sqft": null,
+      "bed_type": null,
+      "features": "relaxing space designed for warmth and rejuvenation",
+      "attached_bathroom": null
+    },
+    {
+      "name": "Reception",
+      "floor": null,
+      "size_sqft": null,
+      "bed_type": null,
+      "features": "cosy seating at the entrance",
+      "attached_bathroom": null
+    },
+    {
+      "name": "Restaurant",
+      "floor": null,
+      "size_sqft": null,
+      "bed_type": null,
+      "features": "spacious dining with cushioned seating for 60",
       "attached_bathroom": null
     }
   ],
@@ -100,19 +156,7 @@
     },
     "garden": true,
     "gazebo": true,
-    "other": [
-      "Common garden",
-      "Poolside gazebo",
-      "Reception",
-      "Restaurant",
-      "Game zone",
-      "Gym",
-      "Sauna room",
-      "Common pool",
-      "Gazebo",
-      "Living area",
-      "Library"
-    ]
+    "other": []
   },
   "rules": {
     "check_in": "2 PM",
@@ -135,7 +179,7 @@
       "pool_restriction": "Pets are not allowed in the pool – A care charge of ₹10,000 will apply if this is overlooked."
     },
     "security_deposit": 8000,
-    "damage_responsibility": "Guests are responsible for any damages or breakages during their stay. Please report any incidents to the management promptly. Charges may apply for repairs or replacements.",
+    "damage_responsibility": "Guests are responsible for any damages or breakages during their stay.",
     "cleanliness": "Please keep the villa clean, use the designated trash bins and avoid littering the property.",
     "safety_security": "Lock all doors and windows when leaving. We will not be responsible for any loss or theft of personal belongings.",
     "occupancy_limits": "Follow maximum occupancy limits. Additional guests need prior approval."
@@ -534,7 +578,49 @@
     "https://cpjlcwamma.cloudimg.io/DJI_20250825183815_0134_D_412c4ae6b6.jpg",
     "https://cpjlcwamma.cloudimg.io/DJI_20250824174046_0101_D_f95d322299.jpg",
     "https://cpjlcwamma.cloudimg.io/ELIVAAS_CARD_25be846f0f.jpg",
-    "https://cpjlcwamma.cloudimg.io/8_G9_A0617_0d255cab62.jpg"
+    "https://cpjlcwamma.cloudimg.io/8_G9_A0617_0d255cab62.jpg",
+    "https://cpjlcwamma.cloudimg.io/Alaya_complimentary_hightea_f985254015.png",
+    "https://cpjlcwamma.cloudimg.io/8_G9_A1200_7c10b59323.jpg",
+    "https://cpjlcwamma.cloudimg.io/8_G9_A0616_8866c4725b.jpg",
+    "https://cpjlcwamma.cloudimg.io/8_G9_A1219_b177b9f9c2.jpg",
+    "https://cpjlcwamma.cloudimg.io/8_G9_A1170_ecc0220585.jpg",
+    "https://cpjlcwamma.cloudimg.io/8_G9_A1175_5fcb997d94.jpg",
+    "https://cpjlcwamma.cloudimg.io/8_G9_A0927_700ad2b014.jpg",
+    "https://cpjlcwamma.cloudimg.io/8_G9_A0967_b7e74ac13f.jpg",
+    "https://cpjlcwamma.cloudimg.io/8_G9_A0939_78ad5c147c.jpg",
+    "https://cpjlcwamma.cloudimg.io/8_G9_A0935_0d13e529d0.jpg",
+    "https://cpjlcwamma.cloudimg.io/8_G9_A0956_7133a10e10.jpg",
+    "https://cpjlcwamma.cloudimg.io/8_G9_A0942_5a0d67c223.jpg",
+    "https://cpjlcwamma.cloudimg.io/2_V7_A0110_42ee2d5067.jpg",
+    "https://cpjlcwamma.cloudimg.io/8_G9_A1173_db65b71b4c.jpg",
+    "https://cpjlcwamma.cloudimg.io/8_G9_A0602_021707969b.jpg",
+    "https://cpjlcwamma.cloudimg.io/8_G9_A0587_0a7da2c74d.jpg",
+    "https://cpjlcwamma.cloudimg.io/K81_A3937_d827097be8.jpg",
+    "https://cpjlcwamma.cloudimg.io/8_G9_A0557_01ff6b67a0.jpg",
+    "https://cpjlcwamma.cloudimg.io/New_Project_1_81a370a31b.webp",
+    "https://cpjlcwamma.cloudimg.io/K81_A3978_c9422e1182.jpg",
+    "https://cpjlcwamma.cloudimg.io/K81_A4037_18d13ed0b6.jpg",
+    "https://cpjlcwamma.cloudimg.io/DSC_09959_d53d893856.JPG",
+    "https://cpjlcwamma.cloudimg.io/K81_A4322_d4b9230bf9.jpg",
+    "https://cpjlcwamma.cloudimg.io/8_G9_A1169_c8aed1847a.jpg",
+    "https://cpjlcwamma.cloudimg.io/8_G9_A0676_f7341532cd.jpg",
+    "https://cpjlcwamma.cloudimg.io/8_G9_A0928_08f5d59e07.jpg",
+    "https://cpjlcwamma.cloudimg.io/8_G9_A0989_b515d1c966.jpg",
+    "https://cpjlcwamma.cloudimg.io/K81_A4408_88ef6fce64.jpg",
+    "https://cpjlcwamma.cloudimg.io/8_G9_A0931_861f735236.jpg",
+    "https://cpjlcwamma.cloudimg.io/8_G9_A0945_f13190be8e.jpg",
+    "https://cpjlcwamma.cloudimg.io/8_G9_A0941_cf996b4f4e.jpg",
+    "https://cpjlcwamma.cloudimg.io/8_G9_A1167_72aeefb199.jpg",
+    "https://cpjlcwamma.cloudimg.io/8_G9_A0581_e849631001.jpg",
+    "https://cpjlcwamma.cloudimg.io/8_G9_A0572_9a5a1dbca0.jpg",
+    "https://cpjlcwamma.cloudimg.io/8_G9_A0592_cadab21a3b.jpg",
+    "https://cpjlcwamma.cloudimg.io/why_choose_us_2_72ef15dc18.webp",
+    "https://cpjlcwamma.cloudimg.io/K81_A3951_4e18d1f9eb.jpg",
+    "https://cpjlcwamma.cloudimg.io/K81_A3946_13aa6366de.jpg",
+    "https://cpjlcwamma.cloudimg.io/K81_A3996_5acceb5cdd.jpg",
+    "https://cpjlcwamma.cloudimg.io/K81_A3986_9d0a055d51.jpg",
+    "https://cpjlcwamma.cloudimg.io/Villa_of_the_year_7137f4a263.jpg",
+    "https://cpjlcwamma.cloudimg.io/8_G9_A0911_db85c21422.jpg"
   ],
-  "image_count": 5
+  "image_count": 47
 }

@@ -1,0 +1,396 @@
+{
+  "title": "Bali Bay Langit | Glass Tent on 2-Acres with Shared Pool, Jacuzzi, Firepits, & Bar Lounge",
+  "summary": "Stunning views and beautifully decorated rooms enhance the stay. Guests appreciate the delicious home-cooked meals and sweet staff service. The property provides a serene atmosphere perfect for family bonding and relaxation.",
+  "location": {
+    "city": "Bengaluru",
+    "region": null,
+    "points_of_interest": [
+      {
+        "name": "Makali Durga Fort, Hiking Peak",
+        "distance_km": 15
+      },
+      {
+        "name": "Gundamagere Lake",
+        "distance_km": 16
+      },
+      {
+        "name": "Adiyogi Isha Foundation",
+        "distance_km": 36
+      },
+      {
+        "name": "Nandi Hills Sunrise View Point",
+        "distance_km": 45
+      }
+    ],
+    "latitude": 13.5166712,
+    "longitude": 77.5479426
+  },
+  "capacity": {
+    "standard_occupancy": 2,
+    "maximum_occupancy": 2,
+    "guests": 2,
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1
+  },
+  "pricing": null,
+  "rooms": [
+    {
+      "name": "Tent 1",
+      "floor": null,
+      "size_sqft": null,
+      "bed_type": "queen-sized",
+      "features": null,
+      "attached_bathroom": null
+    }
+  ],
+  "amenities": [
+    "Bed linen",
+    "Clothes drying rack",
+    "Extra pillows and blankets",
+    "Hangers",
+    "Iron",
+    "TV",
+    "Wifi",
+    "Speaker",
+    "Games",
+    "CCTV",
+    "Fire extinguisher",
+    "First aid kit",
+    "Kitchen",
+    "Dining Table",
+    "Chef on Call",
+    "Private patio",
+    "Loungers",
+    "Swimming pool",
+    "Bar",
+    "Board games",
+    "Cabana",
+    "Outdoor Furniture",
+    "Airconditioning",
+    "Ceiling fan",
+    "Jacuzzi",
+    "Hair dryer",
+    "Shower gel",
+    "Welcome basket",
+    "Eco-friendly hygiene kit",
+    "Towels",
+    "Bathtub",
+    "Shower",
+    "Geyser",
+    "Jet spray",
+    "Western commode",
+    "Shampoo",
+    "Soap",
+    "Conditioner",
+    "Hot water",
+    "Wardrobe space",
+    "Garden",
+    "Housekeeping staff",
+    "Coffee sachets",
+    "Parking",
+    "Common pool"
+  ],
+  "outdoor_spaces": {
+    "pool": {
+      "private": false,
+      "jacuzzi": true
+    },
+    "garden": true,
+    "gazebo": false,
+    "other": [
+      "Private outdoor patio",
+      "Shared swimming pool",
+      "Common garden",
+      "Common sunken fireplaces",
+      "Common DJ cabana",
+      "Common bar kabana",
+      "Common pickleball court"
+    ]
+  },
+  "rules": {
+    "check_in": "2 PM",
+    "check_out": "11 AM",
+    "noise": "Keep noise levels reasonable, especially between 10 pm and 7 am; no loud parties or events.",
+    "smoking": "Smoking is strictly prohibited inside the villa. Designated smoking areas are available outdoors.",
+    "chewing_tobacco": "Strictly prohibited with no exceptions.",
+    "pets_allowed": false,
+    "pet_policy": null,
+    "security_deposit": 10000,
+    "damage_responsibility": "Guests are responsible for any damages or breakages during their stay. Please report any incidents to the management promptly. Charges may apply for repairs or replacements.",
+    "cleanliness": "Please keep the villa clean, use the designated trash bins and avoid littering the property.",
+    "safety_security": "Lock all doors and windows when leaving. We will not be responsible for any loss or theft of personal belongings.",
+    "occupancy_limits": "Follow maximum occupancy limits. Additional guests need prior approval."
+  },
+  "contact_info": null,
+  "coordinates": {
+    "latitude": 13.5166712,
+    "longitude": 77.5479426
+  },
+  "spaces": [
+    {
+      "description": "Cosy, secluded patio with wooden benches & warm lights",
+      "details": [
+        "Cosy, secluded patio with wooden benches & warm lights"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/Tent_1_16by9_Insta_Landscape_8_c3469e6114.jpg"
+      ],
+      "title": "Private outdoor patio"
+    },
+    {
+      "description": "Moroccan-style pool with jacuzzi and loungers",
+      "details": [
+        "Moroccan-style pool with jacuzzi and loungers"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/Pool_16by9_Insta_Post_Landscape_87f77e75e6.jpg"
+      ],
+      "title": "Shared swimming pool"
+    },
+    {
+      "description": "Bali-inspired lush greens with swings and daybeds",
+      "details": [
+        "Bali-inspired lush greens with swings and daybeds"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/Tent_1_4by5_Insta_Landscape_6_dca242961e.jpg"
+      ],
+      "title": "Common garden"
+    },
+    {
+      "description": "Circular stone firepits surrounded by greenery",
+      "details": [
+        "Circular stone firepits surrounded by greenery"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/Other_fixtures_16_d2b2f90a43.jpg"
+      ],
+      "title": "Common sunken fireplaces"
+    },
+    {
+      "description": "Tiled-roof cabana with wicker seats and DJ setup",
+      "details": [
+        "Tiled-roof cabana with wicker seats and DJ setup"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/Screenshot_2025_07_10_142150_942e7d0724.png"
+      ],
+      "title": "Common DJ cabana"
+    },
+    {
+      "description": "Wooden hut bar with cane lights and stone counter",
+      "details": [
+        "Wooden hut bar with cane lights and stone counter"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/Screenshot_2025_07_10_142354_c5d37de453.png"
+      ],
+      "title": "Common bar kabana"
+    },
+    {
+      "description": "Orange-blue court for multiple sports amid nature",
+      "details": [
+        "Orange-blue court for multiple sports amid nature"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/DSC_08181_de0c430d4b.jpg"
+      ],
+      "title": "Common pickleball court"
+    },
+    {
+      "description": "1 queen-sized bed",
+      "details": [
+        "1 queen-sized bed"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/Tent_1_4by5_Insta_Landscape_10_6b441a5959.jpg"
+      ],
+      "title": "Tent 1"
+    }
+  ],
+  "villa_snapshot": [
+    "Property snapshot",
+    "Set amidst two acres of verdant tropical landscape, this exquisite estate features a remarkable glass retreat- a sanctuary of refined simplicity and natural beauty. This boho tent offers a queen-sized wooden poster bed framed by lush indoor plants and expansive sliding glass doors dressed with sheer curtains, inviting the serene forest into the space. Carefully curated with artisanal driftwood sculptures, natural fiber lighting, and warm wooden furnishings, the retreat seamlessly balances rustic charm with modern comforts including air conditioning, a dedicated workstation, and boho-charm Outside, the Nyaman Patio provides a private oasis, where handcrafted wooden seating and softly glowing woven lanterns create an inviting atmosphere embraced by dense greenery and bamboo fencing.",
+    "Complementing this tranquil haven, the ensuite Lembah Bath exudes understated luxury- featuring a grey-stone bathtub, warm wooden accents, organic toiletries, and ambient skylight illumination, offering a serene space for rejuvenation.",
+    "Guests have access to expansive shared spaces that beautifully marry Moroccan and Balinese influences. The centerpiece is a stunning Moroccan-inspired pool complex, featuring a pristine 4-foot main pool, adjoining jacuzzi and all set on elegant white concrete decks surrounded by graceful palms and unique sculptural art. Plush wooden loungers and shaded umbrellas invite leisurely relaxation in this lush setting.",
+    "The Taman Sari Garden provides a thoughtfully designed retreat, with elegantly built-in benches, bamboo-lined walkways, swings, and curated greenery, perfect for moments of peaceful reflection.",
+    "Multiple shared patios embrace Bali’s effortless charm, featuring stylish wicker furnishings, cosy swings, bamboo daybeds with flowing curtains, and the sophisticated Bar Atara. This refined bar space emanates a soft, radiant ambience, accentuated by delicate teardrop lanterns. Nearby, the Ombak Boho Lounge (Ombak meaning “waves”) invites guests to unwind amid tropical rhythms, with wicker seating, intricate string décor, and an elevated DJ platform that sets the tone for elegant, music-filled evenings.",
+    "For active guests, the Arena Santai Pickleball Court offers a versatile sports experience, accommodating tennis, badminton, ping-pong, and basketball, all framed by lush greenery and mature trees.",
+    "As twilight deepens, the estate’s Ashāra Pits provide an intimate setting for evening gatherings. These sunken firepit areas featuring smooth stone seating and subtle ambient lighting offer a warm and inviting ambience for quiet conversations beneath the stars.",
+    "To enhance your stay, a dedicated 5-star hospitality team is always at your service, offering attentive care and warm smiles that embody the spirit of \"Atithi Devo Bhava.\" From a personal butler and chef-on-call to a well-stocked fridge and a premium welcome basket, every detail is meticulously curated to ensure that guests feel pampered, valued, and truly at home.",
+    "Tent - Langit, meaning sky in Indonesian, evokes a sense of openness, light, and freedom, perfectly reflecting the essence of a glass tent experience.",
+    "Bedroom: Casa Loka - Bohemian-inspired, meaning “house of the world,” embodies earthy, rustic warmth.",
+    "One queen-sized poster bed with a wooden frame | Ensuite bathroom | Wooden nightstand & bench | Indoor plants | Sliding glass doors & windows with sheer curtains | White rattan chair | Driftwood sculpture | Wooden shelves with woven panels | Natural fiber lamp & light fixture | AC | Ceiling fan | White canopy | Workstation | Electric kettle | Wooden console & table | Bean bag | Forest view | Surrounded by lush greenery",
+    "| Outdoor patio seating | Located on the ground floor",
+    "Outdoor area - Nyaman Patio - a cosy, laid-back outdoor haven where comfort meets boho vibes",
+    "Patio seating with wooden furniture | Surrounding dense greenery & bamboo fencing | Planted palm trees & small garden plants | Animal sculptures | Outdoor lamp post with a hanging woven lantern |  Natural wicker stools & wicker baskets",
+    "Lembah Bath - a serene retreat with natural stone, warm woods, and calming earthy touches.",
+    "Grey-stoned Bathtub | Shower, geyser and hand bidet spray | Hair dryer | Organic toiletries and towels | Western commode | Ceiling fan | Wooden mirrors | Wooden bench | Indoor plants | Skylight | Warm lightsWooden sculpture and artwork",
+    "Common spaces",
+    "Swimming pool - Hammam Waters- Inspired by Moroccan bathhouses -rich, sensorial, and rooted in tradition.",
+    "Shared, Moroccan-styled pool | Depth: 4ft. | 2296 sqft. | Jacuzzi | White concrete deck | Outdoor shower | Wooden lounge chairs with cushions | Patio umbrellas seating | Surrounded by lush greenery & palm trees |Unique sculptures around",
+    "Time: 8:00 A.M to 5:00 PM",
+    "Garden - Taman Sari (“Essence Garden” in Indonesian) embodies elegance and authenticity- perfect for a serene, thoughtfully curated garden experience.",
+    "Shared oasis | Wicker furniture | Unique sculptures |  Bali-theme based multiple patio seating | Bohemian & coastal elements with rustic charm | Outdoor Bar | Lush greenery | Thousands of palm trees & plants | Cosy swings | Built-in benches with soft lights | Bamboo daybeds with curtains | Outdoor sports area | Night lamps and lanterns",
+    "Bar Atara exudes a soft, radiant, and refined ambiance that complements the teardrop hanging décor beautifully.",
+    "Wooden stools with jute seating | Cane hanging lights | Hut-style ceiling- Wooden structure with a triangular roof | Long counter made of stone or concrete | Statues & sculptures | White teardrop-shaped hanging objects | Surrounded by trees and plants",
+    "Ombak Boho Lounge: ‘Ombak’ means “waves” in Indonesian, evoking rhythm, flow, and tropical vibes.",
+    "High-sloped tiled roof cabana structure | Ceiling fans | Intricate string décor suspended from ceiling beams | Large statement white vases/pillars | Wicker hanging chair & sofas with plush cushions | Wooden stools with white upholstery | Central thatched pendant light | Elevated DJ console platform | Soft ambient lighting | Surrounded by lush greenery & tall trees | Rattan coffee table as a central piece",
+    "Sunken firepits - The Ashāra Pits -Welcoming spaces designed for intimate gatherings and comforting warmth.",
+    "Circular sunken firepit seating area | Smooth built-in concrete/stone seating | Surrounded by green landscaping & shrubs | Stone stepping path | Landscaping with trees, bushes, & potted plants",
+    "Pickleball Court- Arena Santai: Santai means “relax” in Indonesian. A playful, casual name for leisure games in a lush setting.",
+    "An orange & blue court with a long net | Perfect for tennis, badminton & ping-pong games | Basketball ring | Surrounded by trees & greenery",
+    "Show Less"
+  ],
+  "description_sections": [
+    {
+      "bullets": [],
+      "heading": "Overview",
+      "paragraphs": [
+        "Set amidst two acres of verdant tropical landscape, this exquisite estate features a remarkable glass retreat- a sanctuary of refined simplicity and natural beauty. This boho tent offers a queen-sized wooden poster bed framed by lush indoor plants and expansive sliding glass doors dressed with sheer curtains, inviting the serene forest into the space. Carefully curated with artisanal driftwood sculptures, natural fiber lighting, and warm wooden furnishings, the retreat seamlessly balances rustic charm with modern comforts including air conditioning, a dedicated workstation, and boho-charm Outside, the Nyaman Patio provides a private oasis, where handcrafted wooden seating and softly glowing woven lanterns create an inviting atmosphere embraced by dense greenery and bamboo fencing.",
+        "Complementing this tranquil haven, the ensuite Lembah Bath exudes understated luxury- featuring a grey-stone bathtub, warm wooden accents, organic toiletries, and ambient skylight illumination, offering a serene space for rejuvenation.",
+        "Guests have access to expansive shared spaces that beautifully marry Moroccan and Balinese influences. The centerpiece is a stunning Moroccan-inspired pool complex, featuring a pristine 4-foot main pool, adjoining jacuzzi and all set on elegant white concrete decks surrounded by graceful palms and unique sculptural art. Plush wooden loungers and shaded umbrellas invite leisurely relaxation in this lush setting.",
+        "The Taman Sari Garden provides a thoughtfully designed retreat, with elegantly built-in benches, bamboo-lined walkways, swings, and curated greenery, perfect for moments of peaceful reflection.",
+        "Multiple shared patios embrace Bali’s effortless charm, featuring stylish wicker furnishings, cosy swings, bamboo daybeds with flowing curtains, and the sophisticated Bar Atara. This refined bar space emanates a soft, radiant ambience, accentuated by delicate teardrop lanterns. Nearby, the Ombak Boho Lounge (Ombak meaning “waves”) invites guests to unwind amid tropical rhythms, with wicker seating, intricate string décor, and an elevated DJ platform that sets the tone for elegant, music-filled evenings.",
+        "For active guests, the Arena Santai Pickleball Court offers a versatile sports experience, accommodating tennis, badminton, ping-pong, and basketball, all framed by lush greenery and mature trees.",
+        "As twilight deepens, the estate’s Ashāra Pits provide an intimate setting for evening gatherings. These sunken firepit areas featuring smooth stone seating and subtle ambient lighting offer a warm and inviting ambience for quiet conversations beneath the stars.",
+        "To enhance your stay, a dedicated 5-star hospitality team is always at your service, offering attentive care and warm smiles that embody the spirit of \"Atithi Devo Bhava.\" From a personal butler and chef-on-call to a well-stocked fridge and a premium welcome basket, every detail is meticulously curated to ensure that guests feel pampered, valued, and truly at home.",
+        "Tent - Langit, meaning sky in Indonesian, evokes a sense of openness, light, and freedom, perfectly reflecting the essence of a glass tent experience."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Bedroom: Casa Loka - Bohemian-inspired, meaning “house of the world,” embodies earthy, rustic warmth.",
+      "paragraphs": [
+        "One queen-sized poster bed with a wooden frame | Ensuite bathroom | Wooden nightstand & bench | Indoor plants | Sliding glass doors & windows with sheer curtains | White rattan chair | Driftwood sculpture | Wooden shelves with woven panels | Natural fiber lamp & light fixture | AC | Ceiling fan | White canopy | Workstation | Electric kettle | Wooden console & table | Bean bag | Forest view | Surrounded by lush greenery| Outdoor patio seating | Located on the ground floor",
+        "Outdoor area - Nyaman Patio - a cosy, laid-back outdoor haven where comfort meets boho vibes",
+        "Patio seating with wooden furniture | Surrounding dense greenery & bamboo fencing | Planted palm trees & small garden plants | Animal sculptures | Outdoor lamp post with a hanging woven lantern | Natural wicker stools & wicker baskets"
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Lembah Bath - a serene retreat with natural stone, warm woods, and calming earthy touches.",
+      "paragraphs": [
+        "Grey-stoned Bathtub | Shower, geyser and hand bidet spray | Hair dryer | Organic toiletries and towels | Western commode | Ceiling fan | Wooden mirrors | Wooden bench | Indoor plants | Skylight | Warm lightsWooden sculpture and artwork"
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Common spaces",
+      "paragraphs": [
+        "Swimming pool - Hammam Waters- Inspired by Moroccan bathhouses -rich, sensorial, and rooted in tradition.",
+        "Shared, Moroccan-styled pool | Depth: 4ft. | 2296 sqft. | Jacuzzi | White concrete deck | Outdoor shower | Wooden lounge chairs with cushions | Patio umbrellas seating | Surrounded by lush greenery & palm trees |Unique sculptures around",
+        "Time: 8:00 A.M to 5:00 PM"
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Garden - Taman Sari (“Essence Garden” in Indonesian) embodies elegance and authenticity- perfect for a serene, thoughtfully curated garden experience.",
+      "paragraphs": [
+        "Shared oasis | Wicker furniture | Unique sculptures | Bali-theme based multiple patio seating | Bohemian & coastal elements with rustic charm | Outdoor Bar | Lush greenery | Thousands of palm trees & plants | Cosy swings | Built-in benches with soft lights | Bamboo daybeds with curtains | Outdoor sports area | Night lamps and lanterns"
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Bar Atara exudes a soft, radiant, and refined ambiance that complements the teardrop hanging décor beautifully.",
+      "paragraphs": [
+        "Wooden stools with jute seating | Cane hanging lights | Hut-style ceiling- Wooden structure with a triangular roof | Long counter made of stone or concrete | Statues & sculptures | White teardrop-shaped hanging objects | Surrounded by trees and plants"
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Ombak Boho Lounge: ‘Ombak’ means “waves” in Indonesian, evoking rhythm, flow, and tropical vibes.",
+      "paragraphs": [
+        "High-sloped tiled roof cabana structure | Ceiling fans | Intricate string décor suspended from ceiling beams | Large statement white vases/pillars | Wicker hanging chair & sofas with plush cushions | Wooden stools with white upholstery | Central thatched pendant light | Elevated DJ console platform | Soft ambient lighting | Surrounded by lush greenery & tall trees | Rattan coffee table as a central piece"
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Sunken firepits - The Ashāra Pits -Welcoming spaces designed for intimate gatherings and comforting warmth.",
+      "paragraphs": [
+        "Circular sunken firepit seating area | Smooth built-in concrete/stone seating | Surrounded by green landscaping & shrubs | Stone stepping path | Landscaping with trees, bushes, & potted plants",
+        "Pickleball Court- Arena Santai: Santai means “relax” in Indonesian. A playful, casual name for leisure games in a lush setting.",
+        "An orange & blue court with a long net | Perfect for tennis, badminton & ping-pong games | Basketball ring | Surrounded by trees & greenery"
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Overview",
+      "paragraphs": [
+        "Common spaces"
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Overview",
+      "paragraphs": [
+        "Veg Non-veg",
+        "The on-site commercial kitchen serves both vegetarian and non-vegetarian dishes, which can be ordered from the provided menu."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Overview",
+      "paragraphs": [
+        "Check-in Instructions: Check-in: 2 PM | Check-out: 11 AM",
+        "Refund Policy: For cancellations that comply with our policy terms, refunds will be processed as per the details below:",
+        "1. Refunds are only available if the full payment has been made; partial payments are non-refundable.",
+        "2. Refunds will be processed within 7-9 days post cancellation request.",
+        "3. Refunds are only available if the full payment has been made; partial payments are non-refundable.",
+        "**Refunds will be processed within 7-9 days post-cancellation request.",
+        "Security Deposit Amount: 10,000",
+        "Security Deposit Refund Policy: Refunds will be processed within 4-7 working days after property inspection. Your adherence to this timeline is appreciated.",
+        "Noise & disturbances: Keep noise levels reasonable, especially between 10 pm and 7 am; no loud parties or events.",
+        "Smoking: Smoking is strictly prohibited inside the villa. Designated smoking areas are available outdoors.",
+        "Chewing tobacco: Strictly prohibited with no exceptions.",
+        "Pets: Pets are not allowed on the property.",
+        "Occupancy: Follow maximum occupancy limits. Additional guests need prior approval.",
+        "Damages: Guests are responsible for any damages or breakages during their stay. Please report any incidents to the management promptly. Charges may apply for repairs or replacements.",
+        "Cleanliness: Please keep the villa clean, use the designated trash bins and avoid littering the property.",
+        "Safety & security: Lock all doors and windows when leaving. We will not be responsible for any loss or theft of personal belongings.",
+        "Amenities & facilities: Use the provided amenities responsibly and adhere to any posted guidelines.",
+        "Compliance: Follow local laws and regulations. Illegal activities will result in eviction and potential legal action.",
+        "Upkeep: Daily cleaning is compulsory. Kindly cooperate with our housekeeping team.",
+        "Standard occupancy: 2 guests​",
+        "Maximum occupancy: 2 guests"
+      ]
+    },
+    {
+      "bullets": [
+        "Makali Durga Fort, Hiking Peak - 15 km",
+        "Gundamagere Lake - 16 km",
+        "Adiyogi Isha Foundation - 36 km",
+        "Nandi Hills Sunrise View Point - 45 km"
+      ],
+      "heading": "Overview",
+      "paragraphs": []
+    }
+  ],
+  "images": [
+    "https://cpjlcwamma.cloudimg.io/1_d9f8795966.jpg",
+    "https://cpjlcwamma.cloudimg.io/Tent_1_4by5_Insta_Landscape_4_7632db3abb.jpg",
+    "https://cpjlcwamma.cloudimg.io/Pool_16by9_Insta_Post_Landscape_87f77e75e6.jpg",
+    "https://cpjlcwamma.cloudimg.io/Pool_16by9_Insta_Post_Landscape_6_30c1274880.jpg",
+    "https://cpjlcwamma.cloudimg.io/Pool_4by5_Insta_Post_Landscape_13_0f8980b4bb.jpg",
+    "https://cpjlcwamma.cloudimg.io/Tent_1_4by5_Insta_Landscape_8_1d7d328259.jpg",
+    "https://cpjlcwamma.cloudimg.io/4_26973d0b13.jpg",
+    "https://cpjlcwamma.cloudimg.io/5_3f440b41de.jpg",
+    "https://cpjlcwamma.cloudimg.io/Tent_1_16by9_Insta_Landscape_6_dd7171b79f.jpg",
+    "https://cpjlcwamma.cloudimg.io/Tent_1_4by5_Insta_Landscape_7_97b280d683.jpg",
+    "https://cpjlcwamma.cloudimg.io/New_Project_2_8528e28e29.webp",
+    "https://cpjlcwamma.cloudimg.io/8_e058c4a4d1.jpg",
+    "https://cpjlcwamma.cloudimg.io/9_9b386a927b.jpg",
+    "https://cpjlcwamma.cloudimg.io/10_1e088e59a1.jpg",
+    "https://cpjlcwamma.cloudimg.io/11_e4056568e9.jpg",
+    "https://cpjlcwamma.cloudimg.io/12_b168de5060.jpg",
+    "https://cpjlcwamma.cloudimg.io/13_e300c56741.jpg",
+    "https://cpjlcwamma.cloudimg.io/14_79ceabd99b.jpg",
+    "https://cpjlcwamma.cloudimg.io/15_837f237619.jpg",
+    "https://cpjlcwamma.cloudimg.io/Pool_16by9_Insta_Post_Landscape_16_56f3e2c8e4.jpg",
+    "https://cpjlcwamma.cloudimg.io/DSC_08181_de0c430d4b.jpg",
+    "https://cpjlcwamma.cloudimg.io/Tent_1_4by5_Insta_Landscape_10_6b441a5959.jpg",
+    "https://cpjlcwamma.cloudimg.io/Tent_1_16by9_Insta_Landscape_7_b9ef4158fc.jpg"
+  ],
+  "image_count": 23
+}
