@@ -586,22 +586,22 @@ body{padding-bottom:calc(80px + env(safe-area-inset-bottom))}
 /* ADO brand: yellow surfaces, black typography, neutral supporting panels. */
 ::selection{background:#FDE300;color:#000}
 :focus-visible{outline-color:#000}
-.access-screen{background:radial-gradient(ellipse at 10% 5%,rgba(253,227,0,.16),transparent 50%),#000}
-.access-card{background:#111;border-color:#333;box-shadow:0 24px 90px #0008;color:#fff}
+.access-screen{background:#fff}
+.access-card{background:#fff;border-color:#e4e4e4;box-shadow:0 24px 90px #0000000a;color:#000}
 .access-monogram{width:200px;height:92px;padding:10px;margin:0 auto 28px;border:0;border-radius:12px;background:#fff}
 .access-monogram img{width:180px;height:72px;object-fit:contain}
-.access-card h1{color:#fff}
-.access-card .kicker{color:#FDE300}
-.access-copy,.access-footnote{color:#bdbdbd}
-.access-input-wrap{background:#1c1c1c;border-color:#555}
-.access-input-wrap input{color:#fff}
-.access-input-wrap button{color:#FDE300}
+.access-card h1{color:#000}
+.access-card .kicker{color:#000}
+.access-copy,.access-footnote{color:#666}
+.access-input-wrap{background:#fff;border-color:#ccc}
+.access-input-wrap input{color:#000}
+.access-input-wrap button{color:#000}
 .access-input-wrap:focus-within{outline-color:#FDE300}
 .access-submit{background:#FDE300;color:#000}
 .access-submit:hover{background:#e5cc00}
-.access-error{color:#ffb4ab}
-.access-card :focus-visible{outline-color:#FDE300}
-.loading-ring{border-color:#444;border-top-color:#FDE300}
+.access-error{color:#a33e30}
+.access-card :focus-visible{outline-color:#000}
+.loading-ring{border-color:#eee;border-top-color:#000}
 .contact-action-btn.whatsapp-btn,.contact-icon-btn.whatsapp-btn{background:#FDE300;border-color:#FDE300;color:#000}
 .contact-action-btn.whatsapp-btn:hover,.contact-action-btn.whatsapp-btn:active,.contact-icon-btn.whatsapp-btn:hover,.contact-icon-btn.whatsapp-btn:active{background:#000;border-color:#000;color:#FDE300}
 .mob-bottom-item.active{background:#FDE300;color:#000}
