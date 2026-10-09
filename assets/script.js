@@ -1420,7 +1420,7 @@ function villa(slug, sec){
       <div class="brochure-cover-content"><p class="cover-label">Adopremium / PRIVATE COLLECTION</p>
       <h1>${esc(v.name || v.code || 'Your private escape')}</h1>
       <p class="cover-location">${esc(v.config || 'Private villa')} <span>·</span> ${esc(v.place || locName)}</p>
-      <div class="cover-actions"><a class="brochure-button" href="#/${slug}/overview">Explore the villa <span aria-hidden="true">↗</span></a><button class="brochure-button d-none brochure-button-outline" type="button" id="printBrochure">Save brochure <i data-lucide="download"></i></button></div></div>
+      <div class="cover-actions"><a class="brochure-button" href="#/${slug}/overview">Explore the villa <span aria-hidden="true">↗</span></a></div></div>
       <div class="cover-caption"><span>${esc(v.code || 'ADO COLLECTION')}</span><span>A place to make your own.</span></div>
     </div>
   </section>
@@ -1500,7 +1500,6 @@ function villa(slug, sec){
       document.querySelectorAll(`[data-s="${id}"]`).forEach(link=>link.remove());
     }
   }
-  document.getElementById('printBrochure').addEventListener('click',()=>window.print());
   observe();
   refreshLucide();
   initAllSwipers();
