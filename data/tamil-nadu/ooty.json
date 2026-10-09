@@ -1,0 +1,23 @@
+{
+  "id": 27,
+  "slug": "ooty",
+  "name": "Ooty",
+  "villa_count": 2,
+  "villas": [
+    {
+      "id": 580,
+      "slug": "mihirkas-nirvana-5bhk-villa",
+      "name": "Mihirkas Nirvana 5BHK Villa",
+      "url": "https://www.elivaas.com/villa-in-ooty/mihirkas-nirvana-5bhk-villa"
+    },
+    {
+      "id": 581,
+      "slug": "cleft-3bhk-villa-in-ooty",
+      "name": "Cleft 3BHK Villa in Ooty",
+      "url": "https://www.elivaas.com/villa-in-ooty/cleft-3bhk-villa-in-ooty"
+    }
+  ],
+  "state_name": "Tamil Nadu",
+  "state_slug": "tamil-nadu",
+  "hero": "ooty nilgiri hills colonial luxury estate"
+}

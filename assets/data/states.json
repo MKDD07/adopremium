@@ -1,0 +1,408 @@
+{
+  "source": "elivaas.com",
+  "total_states": 10,
+  "total_locations": 35,
+  "total_villas": 662,
+  "states": [
+    {
+      "id": "dubai",
+      "slug": "dubai",
+      "name": "Dubai (UAE)",
+      "title": "Dubai Ultra-Luxury Residences & Palm Villas",
+      "tagline": "World-class skyline architecture, private beachfronts, and iconic luxury.",
+      "hero": "dubai palm jumeirah luxury villa private pool skyline",
+      "total_locations": 1,
+      "total_villas": 131,
+      "locations": [
+        {
+          "id": 11,
+          "slug": "dubai",
+          "name": "Dubai",
+          "villa_count": 131,
+          "hero": "dubai luxury villa palm jumeirah private pool skyline",
+          "file": "data/dubai/dubai.json"
+        }
+      ]
+    },
+    {
+      "id": "rajasthan",
+      "slug": "rajasthan",
+      "name": "Rajasthan",
+      "title": "Rajasthan Royal Palaces & Desert Estates",
+      "tagline": "Regal Rajput architecture, tranquil palace lakes, and opulent heritage stays.",
+      "hero": "udaipur jaipur luxury heritage palace pool rajasthan",
+      "total_locations": 6,
+      "total_villas": 94,
+      "locations": [
+        {
+          "id": 3,
+          "slug": "alwar",
+          "name": "Alwar",
+          "villa_count": 3,
+          "hero": "alwar heritage luxury fort palace",
+          "file": "data/rajasthan/alwar.json"
+        },
+        {
+          "id": 13,
+          "slug": "jaipur",
+          "name": "Jaipur",
+          "villa_count": 38,
+          "hero": "jaipur royal heritage palace luxury resort",
+          "file": "data/rajasthan/jaipur.json"
+        },
+        {
+          "id": 25,
+          "slug": "neemrana",
+          "name": "Neemrana",
+          "villa_count": 1,
+          "hero": "neemrana heritage fort luxury estate",
+          "file": "data/rajasthan/neemrana.json"
+        },
+        {
+          "id": 28,
+          "slug": "pushkar",
+          "name": "Pushkar",
+          "villa_count": 2,
+          "hero": "pushkar desert luxury camp resort",
+          "file": "data/rajasthan/pushkar.json"
+        },
+        {
+          "id": 30,
+          "slug": "ranthambore",
+          "name": "Ranthambore",
+          "villa_count": 5,
+          "hero": "ranthambore wildlife luxury jungle lodge",
+          "file": "data/rajasthan/ranthambore.json"
+        },
+        {
+          "id": 34,
+          "slug": "udaipur",
+          "name": "Udaipur",
+          "villa_count": 45,
+          "hero": "udaipur lake pichola luxury palace resort",
+          "file": "data/rajasthan/udaipur.json"
+        }
+      ]
+    },
+    {
+      "id": "goa",
+      "slug": "goa",
+      "name": "Goa",
+      "title": "Goa Luxury Coastal Sanctuaries",
+      "tagline": "Sun-kissed beaches, heritage Portuguese architecture, and private pool estates.",
+      "hero": "goa luxury private pool villa tropical palms sunset",
+      "total_locations": 2,
+      "total_villas": 92,
+      "locations": [
+        {
+          "id": 26,
+          "slug": "north-goa",
+          "name": "North Goa",
+          "villa_count": 83,
+          "hero": "tropical beaches palms private pool villa goa",
+          "file": "data/goa/north-goa.json"
+        },
+        {
+          "id": 33,
+          "slug": "south-goa",
+          "name": "South Goa",
+          "villa_count": 9,
+          "hero": "south goa luxury beach serene villa",
+          "file": "data/goa/south-goa.json"
+        }
+      ]
+    },
+    {
+      "id": "uttarakhand",
+      "slug": "uttarakhand",
+      "name": "Uttarakhand",
+      "title": "Uttarakhand Himalayan Mountain Retreats",
+      "tagline": "Misty pine forests, sacred riverbanks, and panoramic snow-capped vistas.",
+      "hero": "mussoorie nainital himalayan luxury mountain villa resort",
+      "total_locations": 8,
+      "total_villas": 80,
+      "locations": [
+        {
+          "id": 5,
+          "slug": "bhimtal",
+          "name": "Bhimtal",
+          "villa_count": 15,
+          "hero": "bhimtal lake view mountain villa",
+          "file": "data/uttarakhand/bhimtal.json"
+        },
+        {
+          "id": 8,
+          "slug": "dehradun",
+          "name": "Dehradun",
+          "villa_count": 11,
+          "hero": "dehradun hills doon valley luxury villa",
+          "file": "data/uttarakhand/dehradun.json"
+        },
+        {
+          "id": 14,
+          "slug": "jim-corbett",
+          "name": "Jim Corbett",
+          "villa_count": 13,
+          "hero": "jim corbett forest wilderness luxury resort",
+          "file": "data/uttarakhand/jim-corbett.json"
+        },
+        {
+          "id": 20,
+          "slug": "mukteshwar",
+          "name": "Mukteshwar",
+          "villa_count": 7,
+          "hero": "mukteshwar snow himalayan peaks villa",
+          "file": "data/uttarakhand/mukteshwar.json"
+        },
+        {
+          "id": 22,
+          "slug": "mussoorie",
+          "name": "Mussoorie",
+          "villa_count": 15,
+          "hero": "mussoorie hills queen misty luxury estate",
+          "file": "data/uttarakhand/mussoorie.json"
+        },
+        {
+          "id": 23,
+          "slug": "nainital",
+          "name": "Nainital",
+          "villa_count": 15,
+          "hero": "nainital lake hill station luxury retreat",
+          "file": "data/uttarakhand/nainital.json"
+        },
+        {
+          "id": 29,
+          "slug": "ranikhet",
+          "name": "Ranikhet",
+          "villa_count": 1,
+          "hero": "ranikhet pine forests pine view villa",
+          "file": "data/uttarakhand/ranikhet.json"
+        },
+        {
+          "id": 31,
+          "slug": "rishikesh",
+          "name": "Rishikesh",
+          "villa_count": 3,
+          "hero": "rishikesh ganges river luxury wellness retreat",
+          "file": "data/uttarakhand/rishikesh.json"
+        }
+      ]
+    },
+    {
+      "id": "delhi-ncr",
+      "slug": "delhi-ncr",
+      "name": "Delhi NCR",
+      "title": "Delhi NCR Farmhouses & Private Enclaves",
+      "tagline": "Sprawling private acres, pool farmhouses, and weekend luxury sanctuaries.",
+      "hero": "delhi ncr gurgaon luxury farmhouse pool night garden",
+      "total_locations": 1,
+      "total_villas": 69,
+      "locations": [
+        {
+          "id": 9,
+          "slug": "delhi-ncr",
+          "name": "Delhi NCR",
+          "villa_count": 69,
+          "hero": "delhi ncr gurgaon farmhouse luxury pool estate",
+          "file": "data/delhi-ncr/delhi-ncr.json"
+        }
+      ]
+    },
+    {
+      "id": "himachal-pradesh",
+      "slug": "himachal-pradesh",
+      "name": "Himachal Pradesh",
+      "title": "Himachal Pradesh Hill Stations & Pine Valleys",
+      "tagline": "Crisp mountain air, colonial heritage cottages, and peaceful highland valleys.",
+      "hero": "kasauli shimla luxury mountain cottage pine forest",
+      "total_locations": 3,
+      "total_villas": 69,
+      "locations": [
+        {
+          "id": 10,
+          "slug": "dharamshala",
+          "name": "Dharamshala",
+          "villa_count": 4,
+          "hero": "dharamshala dhauladhar mountain villa",
+          "file": "data/himachal-pradesh/dharamshala.json"
+        },
+        {
+          "id": 16,
+          "slug": "kasauli",
+          "name": "Kasauli",
+          "villa_count": 52,
+          "hero": "kasauli pine forest mountain luxury cottage",
+          "file": "data/himachal-pradesh/kasauli.json"
+        },
+        {
+          "id": 32,
+          "slug": "shimla",
+          "name": "Shimla",
+          "villa_count": 13,
+          "hero": "shimla snow peaks heritage luxury resort",
+          "file": "data/himachal-pradesh/shimla.json"
+        }
+      ]
+    },
+    {
+      "id": "maharashtra",
+      "slug": "maharashtra",
+      "name": "Maharashtra",
+      "title": "Maharashtra Getaways & Mountain Escapes",
+      "tagline": "Scenic Western Ghats, coastal beach villas, and lush vineyard sanctuaries.",
+      "hero": "lonavala alibaug luxury villa pool nature western ghats",
+      "total_locations": 6,
+      "total_villas": 58,
+      "locations": [
+        {
+          "id": 2,
+          "slug": "alibaug",
+          "name": "Alibaug",
+          "villa_count": 3,
+          "hero": "alibaug beach luxury private pool villa",
+          "file": "data/maharashtra/alibaug.json"
+        },
+        {
+          "id": 12,
+          "slug": "igatpuri",
+          "name": "Igatpuri",
+          "villa_count": 10,
+          "hero": "igatpuri hills nature estate villa",
+          "file": "data/maharashtra/igatpuri.json"
+        },
+        {
+          "id": 15,
+          "slug": "karjat",
+          "name": "Karjat",
+          "villa_count": 6,
+          "hero": "karjat mountain nature private villa",
+          "file": "data/maharashtra/karjat.json"
+        },
+        {
+          "id": 18,
+          "slug": "kolad",
+          "name": "Kolad",
+          "villa_count": 5,
+          "hero": "kolad riverside nature adventure villa",
+          "file": "data/maharashtra/kolad.json"
+        },
+        {
+          "id": 19,
+          "slug": "lonavala",
+          "name": "Lonavala",
+          "villa_count": 21,
+          "hero": "lonavala misty hills luxury villa pool",
+          "file": "data/maharashtra/lonavala.json"
+        },
+        {
+          "id": 24,
+          "slug": "nashik",
+          "name": "Nashik",
+          "villa_count": 13,
+          "hero": "nashik vineyard estate luxury villa",
+          "file": "data/maharashtra/nashik.json"
+        }
+      ]
+    },
+    {
+      "id": "karnataka",
+      "slug": "karnataka",
+      "name": "Karnataka",
+      "title": "Karnataka Plantation Estates & Garden Retreats",
+      "tagline": "Aromatic coffee estates in Coorg and boutique modern villas in Bengaluru.",
+      "hero": "coorg plantation luxury estate swimming pool nature",
+      "total_locations": 2,
+      "total_villas": 44,
+      "locations": [
+        {
+          "id": 4,
+          "slug": "bengaluru",
+          "name": "Bengaluru",
+          "villa_count": 36,
+          "hero": "bengaluru garden luxury retreat villa pool",
+          "file": "data/karnataka/bengaluru.json"
+        },
+        {
+          "id": 7,
+          "slug": "coorg",
+          "name": "Coorg",
+          "villa_count": 8,
+          "hero": "coorg coffee plantation luxury estate resort",
+          "file": "data/karnataka/coorg.json"
+        }
+      ]
+    },
+    {
+      "id": "kerala",
+      "slug": "kerala",
+      "name": "Kerala",
+      "title": "Kerala Backwater Sanctuaries & Coastal Havens",
+      "tagline": "Serene backwaters, swaying palm groves, and tranquil tropical waterfronts.",
+      "hero": "kerala backwaters luxury resort pool palm trees",
+      "total_locations": 4,
+      "total_villas": 17,
+      "locations": [
+        {
+          "id": 1,
+          "slug": "alappuzha",
+          "name": "Alappuzha",
+          "villa_count": 6,
+          "hero": "alappuzha kerala backwaters luxury houseboat villa",
+          "file": "data/kerala/alappuzha.json"
+        },
+        {
+          "id": 17,
+          "slug": "kochi",
+          "name": "Kochi",
+          "villa_count": 6,
+          "hero": "kochi fort kerala heritage luxury seaside villa",
+          "file": "data/kerala/kochi.json"
+        },
+        {
+          "id": 21,
+          "slug": "munnar",
+          "name": "Munnar",
+          "villa_count": 2,
+          "hero": "munnar tea gardens misty hills luxury retreat",
+          "file": "data/kerala/munnar.json"
+        },
+        {
+          "id": 35,
+          "slug": "varkala",
+          "name": "Varkala",
+          "villa_count": 3,
+          "hero": "varkala cliff beach arabian sea luxury villa",
+          "file": "data/kerala/varkala.json"
+        }
+      ]
+    },
+    {
+      "id": "tamil-nadu",
+      "slug": "tamil-nadu",
+      "name": "Tamil Nadu",
+      "title": "Tamil Nadu Coastal Estates & Highland Sanctuaries",
+      "tagline": "Colonial hill mansions in Ooty and breezy coastal retreats in Chennai.",
+      "hero": "ooty nilgiri mountains luxury colonial estate cottage",
+      "total_locations": 2,
+      "total_villas": 8,
+      "locations": [
+        {
+          "id": 6,
+          "slug": "chennai",
+          "name": "Chennai",
+          "villa_count": 6,
+          "hero": "chennai coastal luxury beach house resort",
+          "file": "data/tamil-nadu/chennai.json"
+        },
+        {
+          "id": 27,
+          "slug": "ooty",
+          "name": "Ooty",
+          "villa_count": 2,
+          "hero": "ooty nilgiri hills colonial luxury estate",
+          "file": "data/tamil-nadu/ooty.json"
+        }
+      ]
+    }
+  ]
+}

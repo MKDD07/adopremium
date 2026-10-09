@@ -1,0 +1,29 @@
+{
+  "id": 31,
+  "slug": "rishikesh",
+  "name": "Rishikesh",
+  "villa_count": 3,
+  "villas": [
+    {
+      "id": 590,
+      "slug": "indigo-suite-with-restaurant",
+      "name": "Indigo Suite with Restaurant",
+      "url": "https://www.elivaas.com/villa-in-rishikesh/indigo-suite-with-restaurant"
+    },
+    {
+      "id": 591,
+      "slug": "violet-triple-sharing-suite-with-restaurant",
+      "name": "Violet Triple Sharing Suite with Restaurant",
+      "url": "https://www.elivaas.com/villa-in-rishikesh/violet-triple-sharing-suite-with-restaurant"
+    },
+    {
+      "id": 592,
+      "slug": "vanasutra-one-room",
+      "name": "Vanasutra One Room",
+      "url": "https://www.elivaas.com/villa-in-rishikesh/vanasutra-one-room"
+    }
+  ],
+  "state_name": "Uttarakhand",
+  "state_slug": "uttarakhand",
+  "hero": "rishikesh ganges river luxury wellness retreat"
+}

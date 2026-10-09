@@ -1,0 +1,281 @@
+{
+  "id": 34,
+  "slug": "udaipur",
+  "name": "Udaipur",
+  "villa_count": 45,
+  "villas": [
+    {
+      "id": 615,
+      "slug": "mountain-creek-one-room-with-pool",
+      "name": "Mountain Creek One Room with Pool",
+      "url": "https://www.elivaas.com/villa-in-udaipur/mountain-creek-one-room-with-pool"
+    },
+    {
+      "id": 616,
+      "slug": "amber-royale-3bhk-villa-with-private-pool",
+      "name": "Amber Royale 3BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-udaipur/amber-royale-3bhk-villa-with-private-pool"
+    },
+    {
+      "id": 617,
+      "slug": "casa-llios-country-style-3-bhk-villa-with-private-pool",
+      "name": "Casa Llios Country Style 3 BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-udaipur/casa-llios-country-style-3-bhk-villa-with-private-pool"
+    },
+    {
+      "id": 618,
+      "slug": "casa-meraki-country-style-3-bhk-villa-with-private-pool",
+      "name": "Casa Meraki Country Style 3 BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-udaipur/casa-meraki-country-style-3-bhk-villa-with-private-pool"
+    },
+    {
+      "id": 619,
+      "slug": "cow-cuddles-4bhk-villa-with-private-pool",
+      "name": "Cow Cuddles 4BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-udaipur/cow-cuddles-4bhk-villa-with-private-pool"
+    },
+    {
+      "id": 620,
+      "slug": "shourya-sereno-4-bhk-villa-with-pvt-pool",
+      "name": "Shourya Sereno 4 BHK Villa with Pvt Pool",
+      "url": "https://www.elivaas.com/villa-in-udaipur/shourya-sereno-4-bhk-villa-with-pvt-pool"
+    },
+    {
+      "id": 621,
+      "slug": "festiva-mansion-3bhk-villa-with-private-pool",
+      "name": "Festiva Mansion 3BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-udaipur/festiva-mansion-3bhk-villa-with-private-pool"
+    },
+    {
+      "id": 622,
+      "slug": "godan-6-bhk-retreat-with-private-pool",
+      "name": "Godan 6 BHK Retreat with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-udaipur/godan-6-bhk-retreat-with-private-pool"
+    },
+    {
+      "id": 623,
+      "slug": "godan-10-bhk-riverside-retreat-with-pool",
+      "name": "Godan 10 BHK Riverside Retreat with Pool",
+      "url": "https://www.elivaas.com/villa-in-udaipur/godan-10-bhk-riverside-retreat-with-pool"
+    },
+    {
+      "id": 624,
+      "slug": "godan-1-room-suite-with-private-balcony",
+      "name": "Godan 1 Room Suite with Private Balcony",
+      "url": "https://www.elivaas.com/villa-in-udaipur/godan-1-room-suite-with-private-balcony"
+    },
+    {
+      "id": 625,
+      "slug": "heaven-in-hills-kahili-2bhk-villa-with-private-pool",
+      "name": "Heaven in Hills Kahili 2BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-udaipur/heaven-in-hills-kahili-2bhk-villa-with-private-pool"
+    },
+    {
+      "id": 626,
+      "slug": "heaven-in-hills-mountara-3bhk-villa-with-private-pool",
+      "name": "Heaven in Hills Mountara 3BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-udaipur/heaven-in-hills-mountara-3bhk-villa-with-private-pool"
+    },
+    {
+      "id": 627,
+      "slug": "lakemount-2-bhk-with-private-pool",
+      "name": "Lakemount 2 BHK with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-udaipur/lakemount-2-bhk-with-private-pool"
+    },
+    {
+      "id": 628,
+      "slug": "mandovar-mountain-valley-retreat-1-pet-friendly-suite-with-shared-pool",
+      "name": "Mandovar Mountain Valley Retreat 1 Pet Friendly Suite with Shared Pool",
+      "url": "https://www.elivaas.com/villa-in-udaipur/mandovar-mountain-valley-retreat-1-pet-friendly-suite-with-shared-pool"
+    },
+    {
+      "id": 629,
+      "slug": "mandovar-mountain-valley-retreat-4-room-pet-friendly-with-shared-pool",
+      "name": "Mandovar Mountain Valley Retreat 4 Room Pet Friendly with Shared Pool",
+      "url": "https://www.elivaas.com/villa-in-udaipur/mandovar-mountain-valley-retreat-4-room-pet-friendly-with-shared-pool"
+    },
+    {
+      "id": 630,
+      "slug": "miraan-by-the-lake-pet-friendly-boutique-room-in-a-retreat-with-pool",
+      "name": "Miraan by the Lake Pet Friendly Boutique Room in a Retreat with Pool",
+      "url": "https://www.elivaas.com/villa-in-udaipur/miraan-by-the-lake-pet-friendly-boutique-room-in-a-retreat-with-pool"
+    },
+    {
+      "id": 631,
+      "slug": "palazao-country-style-3-bhk-villa-with-private-pool",
+      "name": "Palazao Country Style 3 BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-udaipur/palazao-country-style-3-bhk-villa-with-private-pool"
+    },
+    {
+      "id": 632,
+      "slug": "raas-stays-4-bhk-retreat-with-private-pool",
+      "name": "Raas Stays 4 BHK Retreat with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-udaipur/raas-stays-4-bhk-retreat-with-private-pool"
+    },
+    {
+      "id": 633,
+      "slug": "raj-villas-alvora-pet-friendly-1-room-hotel-suite",
+      "name": "Raj Villas Alvora Pet Friendly 1 Room Hotel Suite",
+      "url": "https://www.elivaas.com/villa-in-udaipur/raj-villas-alvora-pet-friendly-1-room-hotel-suite"
+    },
+    {
+      "id": 634,
+      "slug": "raj-villas-astera-pet-friendly-1-room-with-pool",
+      "name": "Raj Villas Astera Pet Friendly 1 Room with Pool",
+      "url": "https://www.elivaas.com/villa-in-udaipur/raj-villas-astera-pet-friendly-1-room-with-pool"
+    },
+    {
+      "id": 635,
+      "slug": "raj-villas-aurelia-pet-friendly-1-room-with-jacuzzi",
+      "name": "Raj Villas Aurelia Pet Friendly 1 Room with Jacuzzi",
+      "url": "https://www.elivaas.com/villa-in-udaipur/raj-villas-aurelia-pet-friendly-1-room-with-jacuzzi"
+    },
+    {
+      "id": 636,
+      "slug": "shourya-aravalli-4bhk-villa-with-private-pool",
+      "name": "Shourya Aravalli 4BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-udaipur/shourya-aravalli-4bhk-villa-with-private-pool"
+    },
+    {
+      "id": 637,
+      "slug": "shourya-villa-3-bhk-villa-with-swimming-pool",
+      "name": "Shourya Villa 3 BHK Villa with Swimming Pool",
+      "url": "https://www.elivaas.com/villa-in-udaipur/shourya-villa-3-bhk-villa-with-swimming-pool"
+    },
+    {
+      "id": 638,
+      "slug": "shourya-3bhk-villa-with-private-pool",
+      "name": "Shourya 3BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-udaipur/shourya-3bhk-villa-with-private-pool"
+    },
+    {
+      "id": 639,
+      "slug": "celesta-luxury-3bhk-villa-with-private-pool",
+      "name": "Celesta Luxury 3BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-udaipur/celesta-luxury-3bhk-villa-with-private-pool"
+    },
+    {
+      "id": 640,
+      "slug": "shourya-eden-3bhk-villa-with-private-pool",
+      "name": "Shourya Eden 3BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-udaipur/shourya-eden-3bhk-villa-with-private-pool"
+    },
+    {
+      "id": 641,
+      "slug": "shourya-viola-3-bhk-villa-with-private-pool",
+      "name": "Shourya Viola 3 BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-udaipur/shourya-viola-3-bhk-villa-with-private-pool"
+    },
+    {
+      "id": 642,
+      "slug": "zenna-luxury-3bhk-villa-with-private-pool",
+      "name": "Zenna Luxury 3BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-udaipur/zenna-luxury-3bhk-villa-with-private-pool"
+    },
+    {
+      "id": 643,
+      "slug": "shreya-blossom-retreat-4-bhk",
+      "name": "Shreya Blossom Retreat 4 BHK",
+      "url": "https://www.elivaas.com/villa-in-udaipur/shreya-blossom-retreat-4-bhk"
+    },
+    {
+      "id": 644,
+      "slug": "abhimanyu-mansion-6bhk-villa-in-udaipur",
+      "name": "Abhimanyu Mansion 6BHK Villa in Udaipur",
+      "url": "https://www.elivaas.com/villa-in-udaipur/abhimanyu-mansion-6bhk-villa-in-udaipur"
+    },
+    {
+      "id": 645,
+      "slug": "abhimanyu-mansion-sapphire-4bhk-villa-in-udaipur",
+      "name": "Abhimanyu Mansion Sapphire 4BHK Villa in Udaipur",
+      "url": "https://www.elivaas.com/villa-in-udaipur/abhimanyu-mansion-sapphire-4bhk-villa-in-udaipur"
+    },
+    {
+      "id": 646,
+      "slug": "abhimanyu-mansion-topaz-2bhk-villa-in-udaipur",
+      "name": "Abhimanyu Mansion Topaz 2BHK Villa in Udaipur",
+      "url": "https://www.elivaas.com/villa-in-udaipur/abhimanyu-mansion-topaz-2bhk-villa-in-udaipur"
+    },
+    {
+      "id": 647,
+      "slug": "bluebell-2bhk-villa-with-private-pool",
+      "name": "Bluebell 2BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-udaipur/bluebell-2bhk-villa-with-private-pool"
+    },
+    {
+      "id": 648,
+      "slug": "colonel-retreat-3bhk-villa-with-private-pool",
+      "name": "Colonel Retreat 3BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-udaipur/colonel-retreat-3bhk-villa-with-private-pool"
+    },
+    {
+      "id": 649,
+      "slug": "mountain-creek-retreat-pet-friendly-7-bhk-with-pool",
+      "name": "Mountain Creek Retreat Pet Friendly 7 BHK with Pool",
+      "url": "https://www.elivaas.com/villa-in-udaipur/mountain-creek-retreat-pet-friendly-7-bhk-with-pool"
+    },
+    {
+      "id": 650,
+      "slug": "mountain-creek-retreat-pet-friendly-ultra-luxe-suite-with-pool",
+      "name": "Mountain Creek Retreat Pet Friendly Ultra Luxe Suite with Pool",
+      "url": "https://www.elivaas.com/villa-in-udaipur/mountain-creek-retreat-pet-friendly-ultra-luxe-suite-with-pool"
+    },
+    {
+      "id": 651,
+      "slug": "parvam-retreat-2bhk-villa-with-private-pool-in-udaipur",
+      "name": "Parvam Retreat 2BHK Villa with Private Pool in Udaipur",
+      "url": "https://www.elivaas.com/villa-in-udaipur/parvam-retreat-2bhk-villa-with-private-pool-in-udaipur"
+    },
+    {
+      "id": 652,
+      "slug": "roohmon-farm-5bhk-villa-with-private-pool-in-udaipur",
+      "name": "Roohmon Farm 5BHK Villa with Private Pool in Udaipur",
+      "url": "https://www.elivaas.com/villa-in-udaipur/roohmon-farm-5bhk-villa-with-private-pool-in-udaipur"
+    },
+    {
+      "id": 653,
+      "slug": "the-monolith-4-bhk-villa-with-private-pool",
+      "name": "The Monolith 4 BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-udaipur/the-monolith-4-bhk-villa-with-private-pool"
+    },
+    {
+      "id": 654,
+      "slug": "the-naori-suite-with-balcony",
+      "name": "The Naori Suite with Balcony",
+      "url": "https://www.elivaas.com/villa-in-udaipur/the-naori-suite-with-balcony"
+    },
+    {
+      "id": 655,
+      "slug": "the-naori-suite-without-balcony",
+      "name": "The Naori Suite Without Balcony",
+      "url": "https://www.elivaas.com/villa-in-udaipur/the-naori-suite-without-balcony"
+    },
+    {
+      "id": 656,
+      "slug": "aria-amar-villa-3-bhk-retreat-with-private-pool",
+      "name": "Aria Amar Villa 3 BHK Retreat with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-udaipur/aria-amar-villa-3-bhk-retreat-with-private-pool"
+    },
+    {
+      "id": 657,
+      "slug": "leora-amar-villa-6-bhk-retreat-with-private-pool",
+      "name": "Leora Amar Villa 6 BHK Retreat with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-udaipur/leora-amar-villa-6-bhk-retreat-with-private-pool"
+    },
+    {
+      "id": 658,
+      "slug": "miraan-by-the-lake-5-room-lakeside-pet-friendly-retreat-with-infinity-edge-pool",
+      "name": "Miraan by the Lake 5 Room Lakeside Pet Friendly Retreat with Infinity Edge Pool",
+      "url": "https://www.elivaas.com/villa-in-udaipur/miraan-by-the-lake-5-room-lakeside-pet-friendly-retreat-with-infinity-edge-pool"
+    },
+    {
+      "id": 659,
+      "slug": "riva-amar-villa-3-bhk-retreat-with-private-pool",
+      "name": "Riva Amar Villa 3 BHK Retreat with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-udaipur/riva-amar-villa-3-bhk-retreat-with-private-pool"
+    }
+  ],
+  "state_name": "Rajasthan",
+  "state_slug": "rajasthan",
+  "hero": "udaipur lake pichola luxury palace resort"
+}

@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>ADO Premium — Luxury Villa Portfolio</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css">
+<link rel="stylesheet" href="assets/style.css">
+<link href="https://fonts.googleapis.com/css2?family=Poiret+One&family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+<!-- Lucide Icons -->
+<script src="https://unpkg.com/lucide@latest"></script>
+<!-- Swiper JS -->
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+</head>
+<body class="access-locked">
+<div class="access-screen" id="accessScreen">
+  <div class="access-card">
+    <div class="access-monogram"><img src="https://www.adopremium.com/img/logo.webp" alt="ADO Premium" width="180" height="72"></div>
+    <p class="kicker">The private collection</p>
+    <h1 id="accessTitle">Exceptional stays.<br>By invitation.</h1>
+    <p class="access-copy" id="accessCopy">Enter your access password to explore our curated villa portfolio.</p>
+    <form id="accessForm">
+      <label for="accessPassword">Access password</label>
+      <div class="access-input-wrap">
+        <input id="accessPassword" type="password" autocomplete="current-password" required maxlength="128" aria-describedby="accessError" autofocus>
+        <button type="button" id="togglePassword" aria-label="Show password" aria-pressed="false">Show</button>
+      </div>
+      <p class="access-error" id="accessError" role="status" aria-live="polite"></p>
+      <button class="access-submit" id="accessSubmit" type="submit">Explore the collection &rarr;</button>
+    </form>
+    <div id="portfolioLoading" role="status" hidden><div class="loading-ring" aria-hidden="true"></div><p>Preparing your collection…</p></div>
+    <p class="access-footnote">ADO Premium · Private villa portfolio</p>
+    <noscript><p>Enable JavaScript to access this portfolio.</p></noscript>
+  </div>
+</div>
+
+<!-- MINIMAL EDITORIAL HEADER -->
+<header class="editorial-header" id="editorialHeader">
+  <div class="header-left">
+    <a class="header-brand" href="#/" aria-label="ADO Premium Home">
+      <img src="https://www.adopremium.com/img/logo.webp" alt="ADO Premium">
+    </a>
+    <nav class="header-breadcrumb d-none d-lg-block" id="headerBreadcrumb" aria-label="Breadcrumb"></nav>
+  </div>
+
+  <div class="header-right">
+    <div class="header-contact-actions">
+      <a href="tel:+919876543210" class="contact-action-btn call-btn" aria-label="Call for reservations" title="Call Us">
+        <i data-lucide="phone" class="btn-icon"></i>
+        <span class="btn-text">Call</span>
+      </a>
+      <a href="https://wa.me/919876543210" target="_blank" rel="noopener noreferrer" class="contact-action-btn whatsapp-btn" aria-label="WhatsApp enquiry" title="WhatsApp">
+        <i data-lucide="message-circle" class="btn-icon"></i>
+        <span class="btn-text">WhatsApp</span>
+      </a>
+    </div>
+    <button class="menu-btn" id="menuBtn" aria-label="Open navigation menu">
+      <i data-lucide="menu" class="menu-icon"></i>
+      <span class="menu-label">Index</span>
+    </button>
+  </div>
+</header>
+
+<aside class="side" id="side">
+
+  <nav id="nav"></nav>
+</aside>
+
+<main id="app"></main>
+
+<div id="lb" class="gal-modal" aria-hidden="true" role="dialog">
+  <div class="gal-modal-header">
+    <div class="gal-modal-counter" id="lbCounter">01 / 01</div>
+    <button type="button" class="gal-modal-close" id="lbCloseBtn" aria-label="Close photo view">
+      <i data-lucide="x"></i>
+    </button>
+  </div>
+  <div class="gal-modal-body">
+    <button type="button" class="gal-modal-nav gal-modal-prev" id="lbPrevBtn" aria-label="Previous photo">
+      <i data-lucide="chevron-left"></i>
+    </button>
+    <div class="gal-modal-stage">
+      <img id="lbMainImg" src="" alt="Enlarged villa photo" class="gal-modal-img">
+    </div>
+    <button type="button" class="gal-modal-nav gal-modal-next" id="lbNextBtn" aria-label="Next photo">
+      <i data-lucide="chevron-right"></i>
+    </button>
+  </div>
+  <div class="gal-modal-thumbs-bar">
+    <div class="gal-modal-thumbs-track" id="lbThumbsTrack"></div>
+  </div>
+</div>
+
+<nav class="mob-bottom-nav" id="mobBottomNav" aria-label="Mobile bottom navigation"></nav>
+<script src="assets/script.js"></script>
+
+</body>
+</html>

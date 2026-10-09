@@ -1,0 +1,47 @@
+{
+  "id": 17,
+  "slug": "kochi",
+  "name": "Kochi",
+  "villa_count": 6,
+  "villas": [
+    {
+      "id": 412,
+      "slug": "nedumbally-4-bhk",
+      "name": "Nedumbally 4 BHK",
+      "url": "https://www.elivaas.com/villa-in-kochi/nedumbally-4-bhk"
+    },
+    {
+      "id": 413,
+      "slug": "tales-by-tamarind-3-bhk",
+      "name": "Tales by Tamarind 3 BHK",
+      "url": "https://www.elivaas.com/villa-in-kochi/tales-by-tamarind-3-bhk"
+    },
+    {
+      "id": 414,
+      "slug": "valiyaveetil-mansion-5-bhk-villa-with-private-pool",
+      "name": "Valiyaveetil Mansion 5 BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-kochi/valiyaveetil-mansion-5-bhk-villa-with-private-pool"
+    },
+    {
+      "id": 415,
+      "slug": "vintage-retreat-5-bhk-riverfront-heritage-villa",
+      "name": "Vintage Retreat 5 BHK Riverfront Heritage Villa",
+      "url": "https://www.elivaas.com/villa-in-kochi/vintage-retreat-5-bhk-riverfront-heritage-villa"
+    },
+    {
+      "id": 416,
+      "slug": "mangaly-heritage-3bhk-heritage-villa",
+      "name": "Mangaly Heritage 3BHK Heritage Villa",
+      "url": "https://www.elivaas.com/villa-in-kochi/mangaly-heritage-3bhk-heritage-villa"
+    },
+    {
+      "id": 417,
+      "slug": "pochans-zen-3-bhk-heritage-home-with-banquet",
+      "name": "Pochans Zen 3 BHK Heritage Home with Banquet",
+      "url": "https://www.elivaas.com/villa-in-kochi/pochans-zen-3-bhk-heritage-home-with-banquet"
+    }
+  ],
+  "state_name": "Kerala",
+  "state_slug": "kerala",
+  "hero": "kochi fort kerala heritage luxury seaside villa"
+}

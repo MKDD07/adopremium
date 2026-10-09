@@ -1,0 +1,29 @@
+{
+  "id": 35,
+  "slug": "varkala",
+  "name": "Varkala",
+  "villa_count": 3,
+  "villas": [
+    {
+      "id": 660,
+      "slug": "still-waters-club-one-room-with-pool",
+      "name": "Still Waters Club One Room with Pool",
+      "url": "https://www.elivaas.com/villa-in-varkala/still-waters-club-one-room-with-pool"
+    },
+    {
+      "id": 661,
+      "slug": "still-waters-luxury-suite-two-room-with-pool",
+      "name": "Still Waters Luxury Suite Two Room with Pool",
+      "url": "https://www.elivaas.com/villa-in-varkala/still-waters-luxury-suite-two-room-with-pool"
+    },
+    {
+      "id": 662,
+      "slug": "still-waters-premium-one-room-with-pool",
+      "name": "Still Waters Premium One Room with Pool",
+      "url": "https://www.elivaas.com/villa-in-varkala/still-waters-premium-one-room-with-pool"
+    }
+  ],
+  "state_name": "Kerala",
+  "state_slug": "kerala",
+  "hero": "varkala cliff beach arabian sea luxury villa"
+}

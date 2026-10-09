@@ -1,0 +1,465 @@
+{
+  "title": "Cliff Side Villa | 3-BHK + Attic | Garden | Gazebo | Balconies | Scenic Views",
+  "summary": "Outstanding service from friendly and attentive staff",
+  "location": {
+    "city": "Kasauli",
+    "region": null,
+    "points_of_interest": [
+      {
+        "name": "Kasauli Mall Road",
+        "distance_km": 4.6
+      },
+      {
+        "name": "Baptist Church, Kasauli",
+        "distance_km": 3.3
+      },
+      {
+        "name": "Manki Point",
+        "distance_km": 8.2
+      },
+      {
+        "name": "Barog Railway Station",
+        "distance_km": 20.4
+      }
+    ],
+    "latitude": 30.898826,
+    "longitude": 76.952685
+  },
+  "capacity": {
+    "standard_occupancy": 9,
+    "maximum_occupancy": 12,
+    "guests": 12,
+    "bedrooms": 4,
+    "beds": 5,
+    "bathrooms": 5
+  },
+  "pricing": null,
+  "rooms": [
+    {
+      "name": "Bedroom 1",
+      "floor": null,
+      "size_sqft": null,
+      "bed_type": "king-sized",
+      "features": null,
+      "attached_bathroom": null
+    },
+    {
+      "name": "Bedroom 2",
+      "floor": null,
+      "size_sqft": null,
+      "bed_type": "king-sized",
+      "features": null,
+      "attached_bathroom": null
+    },
+    {
+      "name": "Bedroom 3",
+      "floor": null,
+      "size_sqft": null,
+      "bed_type": "king-sized",
+      "features": null,
+      "attached_bathroom": null
+    },
+    {
+      "name": "Attic",
+      "floor": null,
+      "size_sqft": null,
+      "bed_type": "king-sized + extra bed",
+      "features": null,
+      "attached_bathroom": null
+    },
+    {
+      "name": "Living room 1",
+      "floor": null,
+      "size_sqft": null,
+      "bed_type": null,
+      "features": "Elegant interiors with a fireplace & patio access",
+      "attached_bathroom": null
+    },
+    {
+      "name": "Living room 2",
+      "floor": null,
+      "size_sqft": null,
+      "bed_type": null,
+      "features": "Relaxing lounge with a TV and private balcony",
+      "attached_bathroom": null
+    },
+    {
+      "name": "Garden",
+      "floor": null,
+      "size_sqft": null,
+      "bed_type": null,
+      "features": "Lush garden with a swing & scenic views",
+      "attached_bathroom": null
+    },
+    {
+      "name": "Patio",
+      "floor": null,
+      "size_sqft": null,
+      "bed_type": null,
+      "features": "Inviting seating area with warm lighting",
+      "attached_bathroom": null
+    },
+    {
+      "name": "Gazebo",
+      "floor": null,
+      "size_sqft": null,
+      "bed_type": null,
+      "features": "A cosy spot for unwinding amidst nature",
+      "attached_bathroom": null
+    },
+    {
+      "name": "Balcony",
+      "floor": null,
+      "size_sqft": null,
+      "bed_type": null,
+      "features": "Spacious balcony with seating & hill view",
+      "attached_bathroom": null
+    }
+  ],
+  "amenities": [
+    "TV",
+    "Wifi",
+    "Games",
+    "Oven",
+    "Rice Cooker",
+    "Dining Table",
+    "Refrigerator",
+    "Microwave",
+    "Parking",
+    "First aid kit",
+    "Heater",
+    "Ceiling fan",
+    "Iron",
+    "Clothes Storage",
+    "Bed linen",
+    "Essentials",
+    "Geyser",
+    "Cleaning Products",
+    "Shower gel",
+    "Garden",
+    "Private patio"
+  ],
+  "outdoor_spaces": {
+    "pool": {
+      "private": false,
+      "jacuzzi": false
+    },
+    "garden": true,
+    "gazebo": true,
+    "other": [
+      "Balcony",
+      "Patio",
+      "Swing"
+    ]
+  },
+  "rules": {
+    "check_in": "2 PM",
+    "check_out": "10 AM",
+    "noise": "Keep noise levels reasonable, especially between 10 pm and 7 am; no loud parties or events.",
+    "smoking": "Smoking is strictly prohibited inside the villa. Designated smoking areas are available outdoors.",
+    "chewing_tobacco": "Strictly prohibited with no exceptions.",
+    "pets_allowed": false,
+    "pet_policy": null,
+    "security_deposit": 22000,
+    "damage_responsibility": "Guests are responsible for any damages or breakages during their stay.",
+    "cleanliness": "Please keep the villa clean, use the designated trash bins and avoid littering the property.",
+    "safety_security": "Lock all doors and windows when leaving. We will not be responsible for any loss or theft of personal belongings.",
+    "occupancy_limits": "Follow maximum occupancy limits. Additional guests need prior approval."
+  },
+  "contact_info": null,
+  "coordinates": {
+    "latitude": 30.898826,
+    "longitude": 76.952685
+  },
+  "spaces": [
+    {
+      "description": "1 king-sized bed",
+      "details": [
+        "1 king-sized bed"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/IMG_5803_eeed97889d.webp"
+      ],
+      "title": "Bedroom 1"
+    },
+    {
+      "description": "1 king-sized bed",
+      "details": [
+        "1 king-sized bed"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/IMG_5790_d373aaae15.webp"
+      ],
+      "title": "Bedroom 2"
+    },
+    {
+      "description": "1 king-sized bed",
+      "details": [
+        "1 king-sized bed"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/IMG_5808_335d47fadb.webp"
+      ],
+      "title": "Bedroom 3"
+    },
+    {
+      "description": "1 king-sized bed | Extra bed",
+      "details": [
+        "1 king-sized bed | Extra bed"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/K81_A6994_HDR_3568fa5f1b.webp"
+      ],
+      "title": "Attic"
+    },
+    {
+      "description": "Elegant interiors with a fireplace & patio access",
+      "details": [
+        "Elegant interiors with a fireplace & patio access"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/K81_A6764_HDR_14c6be2ead.webp"
+      ],
+      "title": "Living room 1"
+    },
+    {
+      "description": "Relaxing lounge with a TV and private balcony",
+      "details": [
+        "Relaxing lounge with a TV and private balcony"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/K81_A6929_HDR_6fb21095fb.webp"
+      ],
+      "title": "Living room 2"
+    },
+    {
+      "description": "Lush garden with a swing & scenic views",
+      "details": [
+        "Lush garden with a swing & scenic views"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/IMG_5876_d076c69cbe.webp"
+      ],
+      "title": "Garden"
+    },
+    {
+      "description": "Inviting seating area with warm lighting",
+      "details": [
+        "Inviting seating area with warm lighting"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/K81_A6849_HDR_8389a86f8d.webp"
+      ],
+      "title": "Patio"
+    },
+    {
+      "description": "A cosy spot for unwinding amidst nature",
+      "details": [
+        "A cosy spot for unwinding amidst nature"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/K81_A6899_HDR_fdf2361e74.webp"
+      ],
+      "title": "Gazebo"
+    },
+    {
+      "description": "Spacious balcony with seating & hill view",
+      "details": [
+        "Spacious balcony with seating & hill view"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/K81_A6964_c552094937.webp"
+      ],
+      "title": "Balcony"
+    }
+  ],
+  "villa_snapshot": [
+    "Villa snapshot",
+    "Perched on a picturesque hillside, this 3-BHK villa in Kasauli is your ultimate retreat to enjoy breathtaking sunsets and a break from the city’s hustle!",
+    "This hill retreat offers the perfect blend of peace and luxury, making it an ideal place for those looking to reconnect with nature. Whether it’s a family reunion or a gathering with friends, this villa caters to all with its premium amenities and heartfelt hospitality!",
+    "The villa’s elegant bedrooms, each with ensuite bathrooms, are designed for comfort and privacy. Two rooms share a balcony, perfect for sipping your morning tea, while the attic offers a private balcony with breathtaking views.",
+    "On the ground floor, unwind in the first living room with plush sofas and pouffes create the perfect space for relaxation. Enjoy the warmth of the heater and access to a lovely patio area, complemented by a powder room. Ascend to the first floor for the second living room, featuring comfortable sofas, a 52” TV, and an attached balcony.",
+    "Step outside to the lush 200 sq. ft garden, complete with a swing and a delightful gazebo that overlooks the picturesque hills.",
+    "Completing the experience is impeccable service by a 5-star hospitality team, embodying the spirit of “Atithi Devo Bhava.”",
+    "Bedrooms",
+    "Bedroom-1",
+    "One king-sized bed | Ensuite bathroom | 300 sq.ft | AC | Fan | Heater | Wardrobe space| Sofa chairs | Workstation | Dressing room | Attached balcony with seating | Hill view | Located on the first floor",
+    "Bedroom-2",
+    "One king-sized bed | Ensuite bathroom | 300 sq.ft | AC | Fan | Heater | Wardrobe space| Dressing room | Sofa chairs | Attached patio area | Hill view | Located on the ground floor",
+    "Bedroom-3",
+    "One king-sized bed | Ensuite bathroom | 300 sq.ft | AC | Fan | Heater | Wardrobe space| Sofa chairs | Workstation | Dressing room | Attached balcony with seating | Hill view | Located on the first floor",
+    "Attic",
+    "One king-sized bed | Extra bed | Ensuite bathroom | 250 sq.ft | Heater | Workstation | Wardrobe space | Attached balcony with seating | Hill view | Located on the second floor",
+    "Ensuite Bathrooms",
+    "Shower, geyser, and hand jet spray | Organic toiletries and towels | Western commode",
+    "Living Room-1",
+    "Sofa sets, chairs and a centre table | 400 sq.ft | Heater | Fan | Patio | Music system (on req) | Fireplace | Powder room | Located on the ground floor",
+    "Living Room-2",
+    "Lounge chairs, pouffes and a centre table | 200 sq. ft | 52” TV | Fan | Heater | Attached balcony with seating | Hill view | Book shelf | Mandir | Workstation | Located on the first floor",
+    "Kitchen",
+    "Ample storage space | Fully equipped with all the necessary appliances like refrigerator, microwave, oven, toaster, water purifier/ RO, kettle, air fryer, rice-cooker, crockery and cutlery | Located on the ground floor",
+    "Note: Guests are not allowed to access the kitchen to prepare their meals.",
+    "Dining",
+    "A 6-seater dining table near the living room | Located on the ground floor",
+    "Patio",
+    "Ample seating | Swing | Lights | Hill view",
+    "Garden",
+    "200 sq.ft | Seating | Swing | Hill view",
+    "Gazebo",
+    "Charming gazebo | Seating | Warm lights | Scenic views",
+    "Show Less"
+  ],
+  "description_sections": [
+    {
+      "bullets": [],
+      "heading": "Overview",
+      "paragraphs": [
+        "Perched on a picturesque hillside, this 3-BHK villa in Kasauli is your ultimate retreat to enjoy breathtaking sunsets and a break from the city’s hustle!",
+        "This hill retreat offers the perfect blend of peace and luxury, making it an ideal place for those looking to reconnect with nature. Whether it’s a family reunion or a gathering with friends, this villa caters to all with its premium amenities and heartfelt hospitality!",
+        "The villa’s elegant bedrooms, each with ensuite bathrooms, are designed for comfort and privacy. Two rooms share a balcony, perfect for sipping your morning tea, while the attic offers a private balcony with breathtaking views.",
+        "On the ground floor, unwind in the first living room with plush sofas and pouffes create the perfect space for relaxation. Enjoy the warmth of the heater and access to a lovely patio area, complemented by a powder room. Ascend to the first floor for the second living room, featuring comfortable sofas, a 52” TV, and an attached balcony.",
+        "Step outside to the lush 200 sq. ft garden, complete with a swing and a delightful gazebo that overlooks the picturesque hills.",
+        "Completing the experience is impeccable service by a 5-star hospitality team, embodying the spirit of “Atithi Devo Bhava.”"
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Bedrooms — Bedroom-1",
+      "paragraphs": [
+        "One king-sized bed | Ensuite bathroom | 300 sq.ft | AC | Fan | Heater | Wardrobe space| Sofa chairs | Workstation | Dressing room | Attached balcony with seating | Hill view | Located on the first floor"
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Bedroom-2",
+      "paragraphs": [
+        "One king-sized bed | Ensuite bathroom | 300 sq.ft | AC | Fan | Heater | Wardrobe space| Dressing room | Sofa chairs | Attached patio area | Hill view | Located on the ground floor"
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Bedroom-3",
+      "paragraphs": [
+        "One king-sized bed | Ensuite bathroom | 300 sq.ft | AC | Fan | Heater | Wardrobe space| Sofa chairs | Workstation | Dressing room | Attached balcony with seating | Hill view | Located on the first floor"
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Attic",
+      "paragraphs": [
+        "One king-sized bed | Extra bed | Ensuite bathroom | 250 sq.ft | Heater | Workstation | Wardrobe space | Attached balcony with seating | Hill view | Located on the second floor"
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Ensuite Bathrooms",
+      "paragraphs": [
+        "Shower, geyser, and hand jet spray | Organic toiletries and towels | Western commode"
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Living Room-1",
+      "paragraphs": [
+        "Sofa sets, chairs and a centre table | 400 sq.ft | Heater | Fan | Patio | Music system (on req) | Fireplace | Powder room | Located on the ground floor"
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Living Room-2",
+      "paragraphs": [
+        "Lounge chairs, pouffes and a centre table | 200 sq. ft | 52” TV | Fan | Heater | Attached balcony with seating | Hill view | Book shelf | Mandir | Workstation | Located on the first floor"
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Kitchen",
+      "paragraphs": [
+        "Ample storage space | Fully equipped with all the necessary appliances like refrigerator, microwave, oven, toaster, water purifier/ RO, kettle, air fryer, rice-cooker, crockery and cutlery | Located on the ground floor",
+        "Note: Guests are not allowed to access the kitchen to prepare their meals."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Dining",
+      "paragraphs": [
+        "A 6-seater dining table near the living room | Located on the ground floor"
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Patio",
+      "paragraphs": [
+        "Ample seating | Swing | Lights | Hill view"
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Garden",
+      "paragraphs": [
+        "200 sq.ft | Seating | Swing | Hill view"
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Gazebo",
+      "paragraphs": [
+        "Charming gazebo | Seating | Warm lights | Scenic views"
+      ]
+    },
+    {
+      "bullets": [
+        "A chef-on-call service is available at an additional charge with an exclusive in-house menu.",
+        "Guests are not allowed to access the kitchen to prepare their meals."
+      ],
+      "heading": "Overview",
+      "paragraphs": [
+        "Enjoy a selection of veg and non-veg meals during your stay.",
+        "Additional features:"
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Overview",
+      "paragraphs": [
+        "Check-in Instructions: Check-in: 2 PM | Check-out: 10 AM",
+        "Refund Policy: For cancellations that comply with our policy terms, refunds will be processed as per the details below:",
+        "1. Refunds are only available if the full payment has been made; partial payments are non-refundable.",
+        "2. Refunds will be processed within 7-9 days post cancellation request.",
+        "Security Deposit Amount: 22,000",
+        "Security Deposit Refund Policy: Refunds will be processed within 4-7 working days after property inspection. Your adherence to this timeline is appreciated.",
+        "Noise & disturbances: Keep noise levels reasonable, especially between 10 pm and 7 am; no loud parties or events.",
+        "Smoking: Smoking is strictly prohibited inside the villa. Designated smoking areas are available outdoors.",
+        "Chewing tobacco: Strictly prohibited with no exceptions.",
+        "Pets: Pets are NOT allowed on the property.",
+        "Occupancy: Follow maximum occupancy limits. Additional guests need prior approval.",
+        "Damages: Guests are responsible for any damages or breakages during their stay. Please report any incidents to the management promptly. Charges may apply for repairs or replacements.",
+        "Cleanliness: Please keep the villa clean, use the designated trash bins and avoid littering the property.",
+        "Safety & security: Lock all doors and windows when leaving. We will not be responsible for any loss or theft of personal belongings.",
+        "Amenities & facilities: Use the provided amenities responsibly and adhere to any posted guidelines.",
+        "Compliance: Follow local laws and regulations. Illegal activities will result in eviction and potential legal action.",
+        "Upkeep: Daily cleaning is compulsory. Kindly cooperate with our housekeeping team.",
+        "Standard occupancy: 9 guests​",
+        "Maximum occupancy: 12 guests (Additional charges apply for extra guests beyond standard occupancy.)"
+      ]
+    },
+    {
+      "bullets": [
+        "Kasauli Mall Road - 4.6 km",
+        "Baptist Church, Kasauli - 3.3 km",
+        "Manki Point - 8.2 km",
+        "Barog Railway Station - 20.4 km"
+      ],
+      "heading": "Overview",
+      "paragraphs": []
+    }
+  ],
+  "images": [
+    "https://cpjlcwamma.cloudimg.io/K81_A7174_HDR_411bd6e9f0.webp",
+    "https://cpjlcwamma.cloudimg.io/K81_A6934_HDR_6fe93c7755.webp",
+    "https://cpjlcwamma.cloudimg.io/K81_A6964_c552094937.webp",
+    "https://cpjlcwamma.cloudimg.io/K81_A6814_HDR_d8c98cadd7.webp",
+    "https://cpjlcwamma.cloudimg.io/K81_A7039_HDR_026dd24637.webp"
+  ],
+  "image_count": 5
+}

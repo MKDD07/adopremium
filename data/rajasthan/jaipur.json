@@ -1,0 +1,239 @@
+{
+  "id": 13,
+  "slug": "jaipur",
+  "name": "Jaipur",
+  "villa_count": 38,
+  "villas": [
+    {
+      "id": 303,
+      "slug": "24-carat-4-bhk-villa-with-private-pool",
+      "name": "24 Carat 4 BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-jaipur/24-carat-4-bhk-villa-with-private-pool"
+    },
+    {
+      "id": 304,
+      "slug": "abhinandan-farms-7-bhk-villa-with-private-pool",
+      "name": "Abhinandan Farms 7 BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-jaipur/abhinandan-farms-7-bhk-villa-with-private-pool"
+    },
+    {
+      "id": 305,
+      "slug": "angelos-farm-pet-friendly-8bhk-villa-with-private-pool",
+      "name": "Angelos Farm Pet Friendly 8BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-jaipur/angelos-farm-pet-friendly-8bhk-villa-with-private-pool"
+    },
+    {
+      "id": 306,
+      "slug": "shobhit-villa-4-bhk-villa",
+      "name": "Shobhit Villa 4 BHK Villa",
+      "url": "https://www.elivaas.com/villa-in-jaipur/shobhit-villa-4-bhk-villa"
+    },
+    {
+      "id": 307,
+      "slug": "casa-horizon-6-bhk-villa-with-pool",
+      "name": "Casa Horizon 6 BHK Villa with Pool",
+      "url": "https://www.elivaas.com/villa-in-jaipur/casa-horizon-6-bhk-villa-with-pool"
+    },
+    {
+      "id": 308,
+      "slug": "stone-age-home-4-bhk-stone-retreat-with-private-pool",
+      "name": "Stone Age Home 4 BHK Stone Retreat with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-jaipur/stone-age-home-4-bhk-stone-retreat-with-private-pool"
+    },
+    {
+      "id": 309,
+      "slug": "echoes-by-aravali-5bhk-villa-with-private-pool",
+      "name": "Echoes by Aravali 5BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-jaipur/echoes-by-aravali-5bhk-villa-with-private-pool"
+    },
+    {
+      "id": 310,
+      "slug": "el-bosque-sapcious-4-bhk-villa-with-private-pool",
+      "name": "El Bosque Sapcious 4 BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-jaipur/el-bosque-sapcious-4-bhk-villa-with-private-pool"
+    },
+    {
+      "id": 311,
+      "slug": "fernwood-6-bhk-bamboo-cottage",
+      "name": "Fernwood 6 BHK Bamboo Cottage",
+      "url": "https://www.elivaas.com/villa-in-jaipur/fernwood-6-bhk-bamboo-cottage"
+    },
+    {
+      "id": 312,
+      "slug": "giri-2bhk-penthouse",
+      "name": "Giri 2BHK Penthouse",
+      "url": "https://www.elivaas.com/villa-in-jaipur/giri-2bhk-penthouse"
+    },
+    {
+      "id": 313,
+      "slug": "hari-bagh-4bhk-villa",
+      "name": "Hari Bagh 4BHK Villa",
+      "url": "https://www.elivaas.com/villa-in-jaipur/hari-bagh-4bhk-villa"
+    },
+    {
+      "id": 314,
+      "slug": "hathnoda-bagh-cascade-cottage-with-open-shower-and-shared-pool",
+      "name": "Hathnoda Bagh Cascade Cottage with Open Shower and Shared Pool",
+      "url": "https://www.elivaas.com/villa-in-jaipur/hathnoda-bagh-cascade-cottage-with-open-shower-and-shared-pool"
+    },
+    {
+      "id": 315,
+      "slug": "hathnoda-bagh-lagoon-cottage-within-a-mini-resort-with-pool",
+      "name": "Hathnoda Bagh Lagoon Cottage Within a Mini Resort with Pool",
+      "url": "https://www.elivaas.com/villa-in-jaipur/hathnoda-bagh-lagoon-cottage-within-a-mini-resort-with-pool"
+    },
+    {
+      "id": 316,
+      "slug": "jamun-2bhk-villa-with-private-pool",
+      "name": "Jamun 2BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-jaipur/jamun-2bhk-villa-with-private-pool"
+    },
+    {
+      "id": 317,
+      "slug": "lush-haven-chic-4-bhk-retreat-with-private-pool",
+      "name": "Lush Haven Chic 4 BHK Retreat with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-jaipur/lush-haven-chic-4-bhk-retreat-with-private-pool"
+    },
+    {
+      "id": 318,
+      "slug": "nirvana-farms-5bhk-farmhouse-with-private-pool",
+      "name": "Nirvana Farms 5BHK Farmhouse with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-jaipur/nirvana-farms-5bhk-farmhouse-with-private-pool"
+    },
+    {
+      "id": 319,
+      "slug": "the-kanota-retreat-4bhk-villa-with-private-pool",
+      "name": "The Kanota Retreat 4BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-jaipur/the-kanota-retreat-4bhk-villa-with-private-pool"
+    },
+    {
+      "id": 320,
+      "slug": "fiorita-3bhk-villa-with-private-pool",
+      "name": "Fiorita 3BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-jaipur/fiorita-3bhk-villa-with-private-pool"
+    },
+    {
+      "id": 321,
+      "slug": "autum-villa-pet-friendly-4-bhk-villa-with-private-pool",
+      "name": "Autum Villa Pet Friendly 4 BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-jaipur/autum-villa-pet-friendly-4-bhk-villa-with-private-pool"
+    },
+    {
+      "id": 322,
+      "slug": "fable-farm-4-bhk-villa-with-private-pool",
+      "name": "Fable Farm 4 BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-jaipur/fable-farm-4-bhk-villa-with-private-pool"
+    },
+    {
+      "id": 323,
+      "slug": "gold-palm-granola-elegant-room-with-shared-pool",
+      "name": "Gold Palm Granola Elegant Room with Shared Pool",
+      "url": "https://www.elivaas.com/villa-in-jaipur/gold-palm-granola-elegant-room-with-shared-pool"
+    },
+    {
+      "id": 324,
+      "slug": "gold-palm-ivory-sophisticated-room-with-shared-pool",
+      "name": "Gold Palm Ivory Sophisticated Room with Shared Pool",
+      "url": "https://www.elivaas.com/villa-in-jaipur/gold-palm-ivory-sophisticated-room-with-shared-pool"
+    },
+    {
+      "id": 325,
+      "slug": "gold-palm-macaroon-family-suite-with-shared-pool",
+      "name": "Gold Palm Macaroon Family Suite with Shared Pool",
+      "url": "https://www.elivaas.com/villa-in-jaipur/gold-palm-macaroon-family-suite-with-shared-pool"
+    },
+    {
+      "id": 326,
+      "slug": "haven-villa-3-bhk-villa-with-pool",
+      "name": "Haven Villa 3 BHK Villa with Pool",
+      "url": "https://www.elivaas.com/villa-in-jaipur/haven-villa-3-bhk-villa-with-pool"
+    },
+    {
+      "id": 327,
+      "slug": "jsp-farm-4bhk-farmstay-with-private-pool",
+      "name": "Jsp Farm 4BHK Farmstay with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-jaipur/jsp-farm-4bhk-farmstay-with-private-pool"
+    },
+    {
+      "id": 328,
+      "slug": "kuber-vatika-6-bhk-pet-friendly-villa-with-private-pool",
+      "name": "Kuber Vatika 6 BHK Pet Friendly Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-jaipur/kuber-vatika-6-bhk-pet-friendly-villa-with-private-pool"
+    },
+    {
+      "id": 329,
+      "slug": "lamp-house-3-bhk-villa",
+      "name": "Lamp House 3 BHK Villa",
+      "url": "https://www.elivaas.com/villa-in-jaipur/lamp-house-3-bhk-villa"
+    },
+    {
+      "id": 330,
+      "slug": "ramalaya-8bhk-villa-in-jaipur",
+      "name": "Ramalaya 8BHK Villa in Jaipur",
+      "url": "https://www.elivaas.com/villa-in-jaipur/ramalaya-8bhk-villa-in-jaipur"
+    },
+    {
+      "id": 331,
+      "slug": "ramalaya-4bhk-villa-with-kitchen-in-jaipur",
+      "name": "Ramalaya 4BHK Villa with Kitchen in Jaipur",
+      "url": "https://www.elivaas.com/villa-in-jaipur/ramalaya-4bhk-villa-with-kitchen-in-jaipur"
+    },
+    {
+      "id": 332,
+      "slug": "ramalaya-one-room-in-jaipur",
+      "name": "Ramalaya One Room in Jaipur",
+      "url": "https://www.elivaas.com/villa-in-jaipur/ramalaya-one-room-in-jaipur"
+    },
+    {
+      "id": 333,
+      "slug": "ramgarh-wild-retreat-2bhk-villa-with-private-pool-in-jaipur",
+      "name": "Ramgarh Wild Retreat 2BHK Villa with Private Pool in Jaipur",
+      "url": "https://www.elivaas.com/villa-in-jaipur/ramgarh-wild-retreat-2bhk-villa-with-private-pool-in-jaipur"
+    },
+    {
+      "id": 334,
+      "slug": "aura-sky-urban-3-bhk-apartment-with-hill-view",
+      "name": "Aura Sky Urban 3 BHK Apartment with Hill View",
+      "url": "https://www.elivaas.com/villa-in-jaipur/aura-sky-urban-3-bhk-apartment-with-hill-view"
+    },
+    {
+      "id": 335,
+      "slug": "bargoti-villa-5-bhk-villa-with-private-swimming-pool",
+      "name": "Bargoti Villa 5 BHK Villa with Private Swimming Pool",
+      "url": "https://www.elivaas.com/villa-in-jaipur/bargoti-villa-5-bhk-villa-with-private-swimming-pool"
+    },
+    {
+      "id": 336,
+      "slug": "cabana-3-bhk-villa-with-private-pool",
+      "name": "Cabana 3 BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-jaipur/cabana-3-bhk-villa-with-private-pool"
+    },
+    {
+      "id": 337,
+      "slug": "hathnoda-bagh-calista-mini-resort-with-bathtub",
+      "name": "Hathnoda Bagh Calista Mini Resort with Bathtub",
+      "url": "https://www.elivaas.com/villa-in-jaipur/hathnoda-bagh-calista-mini-resort-with-bathtub"
+    },
+    {
+      "id": 338,
+      "slug": "laurels-villa-3-bhk-with-private-pool",
+      "name": "Laurels Villa 3 BHK with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-jaipur/laurels-villa-3-bhk-with-private-pool"
+    },
+    {
+      "id": 339,
+      "slug": "skylark-estate-5-bhk-forest-view-villa-with-private-pool",
+      "name": "Skylark Estate 5 BHK Forest View Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-jaipur/skylark-estate-5-bhk-forest-view-villa-with-private-pool"
+    },
+    {
+      "id": 340,
+      "slug": "vijaypura-bagh-heritage-style-6-bhk-retreat-with-private-swimming-pool",
+      "name": "Vijaypura Bagh Heritage Style 6 BHK Retreat with Private Swimming Pool",
+      "url": "https://www.elivaas.com/villa-in-jaipur/vijaypura-bagh-heritage-style-6-bhk-retreat-with-private-swimming-pool"
+    }
+  ],
+  "state_name": "Rajasthan",
+  "state_slug": "rajasthan",
+  "hero": "jaipur royal heritage palace luxury resort"
+}

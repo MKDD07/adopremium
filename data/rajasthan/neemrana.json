@@ -1,0 +1,17 @@
+{
+  "id": 25,
+  "slug": "neemrana",
+  "name": "Neemrana",
+  "villa_count": 1,
+  "villas": [
+    {
+      "id": 496,
+      "slug": "anantara-3bhk-villa-with-private-pool-in-neemrana",
+      "name": "Anantara 3BHK Villa with Private Pool in Neemrana",
+      "url": "https://www.elivaas.com/villa-in-neemrana/anantara-3bhk-villa-with-private-pool-in-neemrana"
+    }
+  ],
+  "state_name": "Rajasthan",
+  "state_slug": "rajasthan",
+  "hero": "neemrana heritage fort luxury estate"
+}

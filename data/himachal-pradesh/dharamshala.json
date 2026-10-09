@@ -1,0 +1,35 @@
+{
+  "id": 10,
+  "slug": "dharamshala",
+  "name": "Dharamshala",
+  "villa_count": 4,
+  "villas": [
+    {
+      "id": 158,
+      "slug": "esh-hazel-cottage-with-pool",
+      "name": "Esh Hazel Cottage with Pool",
+      "url": "https://www.elivaas.com/villa-in-dharamshala/esh-hazel-cottage-with-pool"
+    },
+    {
+      "id": 159,
+      "slug": "esh-willow-one-room-cottage-with-pool",
+      "name": "Esh Willow One Room Cottage with Pool",
+      "url": "https://www.elivaas.com/villa-in-dharamshala/esh-willow-one-room-cottage-with-pool"
+    },
+    {
+      "id": 160,
+      "slug": "esh-birch-4bhk-cottage-with-pool",
+      "name": "Esh Birch 4BHK Cottage with Pool",
+      "url": "https://www.elivaas.com/villa-in-dharamshala/esh-birch-4bhk-cottage-with-pool"
+    },
+    {
+      "id": 161,
+      "slug": "esh-moss-2bhk-villa-with-pool",
+      "name": "Esh Moss 2BHK Villa with Pool",
+      "url": "https://www.elivaas.com/villa-in-dharamshala/esh-moss-2bhk-villa-with-pool"
+    }
+  ],
+  "state_name": "Himachal Pradesh",
+  "state_slug": "himachal-pradesh",
+  "hero": "dharamshala dhauladhar mountain villa"
+}

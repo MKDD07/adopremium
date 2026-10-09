@@ -1,0 +1,53 @@
+{
+  "id": 20,
+  "slug": "mukteshwar",
+  "name": "Mukteshwar",
+  "villa_count": 7,
+  "villas": [
+    {
+      "id": 444,
+      "slug": "hill-homes-cottages-mallow-1-bhk-with-workstation-sit-out-area",
+      "name": "Hill Homes Cottages Mallow 1 BHK with Workstation Sit Out Area",
+      "url": "https://www.elivaas.com/villa-in-mukteshwar/hill-homes-cottages-mallow-1-bhk-with-workstation-sit-out-area"
+    },
+    {
+      "id": 445,
+      "slug": "hill-homes-cottages-mauve-1-room-suite-with-outdoor-sit-out-area",
+      "name": "Hill Homes Cottages Mauve 1 Room Suite with Outdoor Sit Out Area",
+      "url": "https://www.elivaas.com/villa-in-mukteshwar/hill-homes-cottages-mauve-1-room-suite-with-outdoor-sit-out-area"
+    },
+    {
+      "id": 446,
+      "slug": "hill-homes-cottages-mulberry-2-bhk-with-workstation-patios",
+      "name": "Hill Homes Cottages Mulberry 2 BHK with Workstation Patios",
+      "url": "https://www.elivaas.com/villa-in-mukteshwar/hill-homes-cottages-mulberry-2-bhk-with-workstation-patios"
+    },
+    {
+      "id": 447,
+      "slug": "trios-top-one-room-in-mukteshwar",
+      "name": "Trios Top One Room in Mukteshwar",
+      "url": "https://www.elivaas.com/villa-in-mukteshwar/trios-top-one-room-in-mukteshwar"
+    },
+    {
+      "id": 448,
+      "slug": "trios-top-1bhk-apartment-in-mukteshwar",
+      "name": "Trios Top 1BHK Apartment in Mukteshwar",
+      "url": "https://www.elivaas.com/villa-in-mukteshwar/trios-top-1bhk-apartment-in-mukteshwar"
+    },
+    {
+      "id": 449,
+      "slug": "trios-top-pet-friendly-2bhk-apartment-in-mukteshwar",
+      "name": "Trios Top Pet Friendly 2BHK Apartment in Mukteshwar",
+      "url": "https://www.elivaas.com/villa-in-mukteshwar/trios-top-pet-friendly-2bhk-apartment-in-mukteshwar"
+    },
+    {
+      "id": 450,
+      "slug": "trios-top-2bhk-apartment-in-mukteshwar",
+      "name": "Trios Top 2BHK Apartment in Mukteshwar",
+      "url": "https://www.elivaas.com/villa-in-mukteshwar/trios-top-2bhk-apartment-in-mukteshwar"
+    }
+  ],
+  "state_name": "Uttarakhand",
+  "state_slug": "uttarakhand",
+  "hero": "mukteshwar snow himalayan peaks villa"
+}

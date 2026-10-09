@@ -1,0 +1,41 @@
+{
+  "id": 30,
+  "slug": "ranthambore",
+  "name": "Ranthambore",
+  "villa_count": 5,
+  "villas": [
+    {
+      "id": 585,
+      "slug": "tiger-cave-suite-1-room-with-private-pool",
+      "name": "Tiger Cave Suite 1 Room with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-ranthambore/tiger-cave-suite-1-room-with-private-pool"
+    },
+    {
+      "id": 586,
+      "slug": "tiger-cave-suite-pet-friendly-room-with-shared-pool",
+      "name": "Tiger Cave Suite Pet Friendly Room with Shared Pool",
+      "url": "https://www.elivaas.com/villa-in-ranthambore/tiger-cave-suite-pet-friendly-room-with-shared-pool"
+    },
+    {
+      "id": 587,
+      "slug": "bagh-serai-cottage",
+      "name": "Bagh Serai Cottage",
+      "url": "https://www.elivaas.com/villa-in-ranthambore/bagh-serai-cottage"
+    },
+    {
+      "id": 588,
+      "slug": "bagh-serai-with-plunge-pool",
+      "name": "Bagh Serai with Plunge Pool",
+      "url": "https://www.elivaas.com/villa-in-ranthambore/bagh-serai-with-plunge-pool"
+    },
+    {
+      "id": 589,
+      "slug": "bagh-serai-tree-house",
+      "name": "Bagh Serai Tree House",
+      "url": "https://www.elivaas.com/villa-in-ranthambore/bagh-serai-tree-house"
+    }
+  ],
+  "state_name": "Rajasthan",
+  "state_slug": "rajasthan",
+  "hero": "ranthambore wildlife luxury jungle lodge"
+}

@@ -1,0 +1,89 @@
+{
+  "id": 32,
+  "slug": "shimla",
+  "name": "Shimla",
+  "villa_count": 13,
+  "villas": [
+    {
+      "id": 593,
+      "slug": "everly-1bhk-villa",
+      "name": "Everly 1BHK Villa",
+      "url": "https://www.elivaas.com/villa-in-shimla/everly-1bhk-villa"
+    },
+    {
+      "id": 594,
+      "slug": "silvana-3bhk-villa",
+      "name": "Silvana 3BHK Villa",
+      "url": "https://www.elivaas.com/villa-in-shimla/silvana-3bhk-villa"
+    },
+    {
+      "id": 595,
+      "slug": "skylounge-4bhk-villa",
+      "name": "Skylounge 4BHK Villa",
+      "url": "https://www.elivaas.com/villa-in-shimla/skylounge-4bhk-villa"
+    },
+    {
+      "id": 596,
+      "slug": "divine-1bhk-apartment-in-shimla",
+      "name": "Divine 1BHK Apartment in Shimla",
+      "url": "https://www.elivaas.com/villa-in-shimla/divine-1bhk-apartment-in-shimla"
+    },
+    {
+      "id": 597,
+      "slug": "utopia-1bhk-apartment-in-shimla",
+      "name": "Utopia 1BHK Apartment in Shimla",
+      "url": "https://www.elivaas.com/villa-in-shimla/utopia-1bhk-apartment-in-shimla"
+    },
+    {
+      "id": 598,
+      "slug": "fir-holiday-in-homestay-4-bhk-attic-apartment",
+      "name": "Fir Holiday in Homestay 4 BHK Attic Apartment",
+      "url": "https://www.elivaas.com/villa-in-shimla/fir-holiday-in-homestay-4-bhk-attic-apartment"
+    },
+    {
+      "id": 599,
+      "slug": "hill-top-farmstead-3bhk-villa-in-shimla",
+      "name": "Hill Top Farmstead 3BHK Villa in Shimla",
+      "url": "https://www.elivaas.com/villa-in-shimla/hill-top-farmstead-3bhk-villa-in-shimla"
+    },
+    {
+      "id": 600,
+      "slug": "juniper-holiday-in-homestay-3-bhk-valley-view-apartment",
+      "name": "Juniper Holiday in Homestay 3 BHK Valley View Apartment",
+      "url": "https://www.elivaas.com/villa-in-shimla/juniper-holiday-in-homestay-3-bhk-valley-view-apartment"
+    },
+    {
+      "id": 601,
+      "slug": "kail-holiday-in-homestay-1-bhk-hill-view-apartment",
+      "name": "Kail Holiday in Homestay 1 BHK Hill View Apartment",
+      "url": "https://www.elivaas.com/villa-in-shimla/kail-holiday-in-homestay-1-bhk-hill-view-apartment"
+    },
+    {
+      "id": 602,
+      "slug": "spurce-holiday-in-homestay-2-bhk-valley-view-apartment",
+      "name": "Spurce Holiday in Homestay 2 BHK Valley View Apartment",
+      "url": "https://www.elivaas.com/villa-in-shimla/spurce-holiday-in-homestay-2-bhk-valley-view-apartment"
+    },
+    {
+      "id": 603,
+      "slug": "the-ridgeview-retreat-amelia-hillside-2-room-suite",
+      "name": "The Ridgeview Retreat Amelia Hillside 2 Room Suite",
+      "url": "https://www.elivaas.com/villa-in-shimla/the-ridgeview-retreat-amelia-hillside-2-room-suite"
+    },
+    {
+      "id": 604,
+      "slug": "the-ridgeview-retreat-arabella-pet-friendly-hillside-room",
+      "name": "The Ridgeview Retreat Arabella Pet Friendly Hillside Room",
+      "url": "https://www.elivaas.com/villa-in-shimla/the-ridgeview-retreat-arabella-pet-friendly-hillside-room"
+    },
+    {
+      "id": 605,
+      "slug": "the-ridgeview-retreat-olivia-pet-friendly-room",
+      "name": "The Ridgeview Retreat Olivia Pet Friendly Room",
+      "url": "https://www.elivaas.com/villa-in-shimla/the-ridgeview-retreat-olivia-pet-friendly-room"
+    }
+  ],
+  "state_name": "Himachal Pradesh",
+  "state_slug": "himachal-pradesh",
+  "hero": "shimla snow peaks heritage luxury resort"
+}

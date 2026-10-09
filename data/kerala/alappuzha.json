@@ -1,0 +1,47 @@
+{
+  "id": 1,
+  "slug": "alappuzha",
+  "name": "Alappuzha",
+  "villa_count": 6,
+  "villas": [
+    {
+      "id": 1,
+      "slug": "breeze-and-grains-resort-3bhk",
+      "name": "Breeze and Grains Resort 3BHK",
+      "url": "https://www.elivaas.com/villa-in-alappuzha/breeze-and-grains-resort-3bhk"
+    },
+    {
+      "id": 2,
+      "slug": "palliath-house-one-room",
+      "name": "Palliath House One Room",
+      "url": "https://www.elivaas.com/villa-in-alappuzha/palliath-house-one-room"
+    },
+    {
+      "id": 3,
+      "slug": "palliath-house-3bhk-villa",
+      "name": "Palliath House 3BHK Villa",
+      "url": "https://www.elivaas.com/villa-in-alappuzha/palliath-house-3bhk-villa"
+    },
+    {
+      "id": 4,
+      "slug": "palm-dale-deluxe-suite-in-alappuzha",
+      "name": "Palm Dale Deluxe Suite in Alappuzha",
+      "url": "https://www.elivaas.com/villa-in-alappuzha/palm-dale-deluxe-suite-in-alappuzha"
+    },
+    {
+      "id": 5,
+      "slug": "palm-dale-premium-suite-in-alappuzha",
+      "name": "Palm Dale Premium Suite in Alappuzha",
+      "url": "https://www.elivaas.com/villa-in-alappuzha/palm-dale-premium-suite-in-alappuzha"
+    },
+    {
+      "id": 6,
+      "slug": "vembanad-house-4bhk-retreat-in-alappuzha",
+      "name": "Vembanad House 4BHK Retreat in Alappuzha",
+      "url": "https://www.elivaas.com/villa-in-alappuzha/vembanad-house-4bhk-retreat-in-alappuzha"
+    }
+  ],
+  "state_name": "Kerala",
+  "state_slug": "kerala",
+  "hero": "alappuzha kerala backwaters luxury houseboat villa"
+}

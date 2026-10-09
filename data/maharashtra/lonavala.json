@@ -1,0 +1,137 @@
+{
+  "id": 19,
+  "slug": "lonavala",
+  "name": "Lonavala",
+  "villa_count": 21,
+  "villas": [
+    {
+      "id": 423,
+      "slug": "villa-39-6bhk-villa-with-private-pool",
+      "name": "Villa 39 6BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-lonavala/villa-39-6bhk-villa-with-private-pool"
+    },
+    {
+      "id": 424,
+      "slug": "aamy-3bhk-villa-with-private-pool",
+      "name": "Aamy 3BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-lonavala/aamy-3bhk-villa-with-private-pool"
+    },
+    {
+      "id": 425,
+      "slug": "eulophia-luxurious-3-bhk-retreat-with-private-pool",
+      "name": "Eulophia Luxurious 3 BHK Retreat with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-lonavala/eulophia-luxurious-3-bhk-retreat-with-private-pool"
+    },
+    {
+      "id": 426,
+      "slug": "meraki-4-bhk-villa-with-private-pool",
+      "name": "Meraki 4 BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-lonavala/meraki-4-bhk-villa-with-private-pool"
+    },
+    {
+      "id": 427,
+      "slug": "nimishka-5bhk-villa-with-private-pool",
+      "name": "Nimishka 5BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-lonavala/nimishka-5bhk-villa-with-private-pool"
+    },
+    {
+      "id": 428,
+      "slug": "rk-villa-4-bhk-hideaway-with-private-pool",
+      "name": "RK Villa 4 BHK Hideaway with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-lonavala/rk-villa-4-bhk-hideaway-with-private-pool"
+    },
+    {
+      "id": 429,
+      "slug": "sakura-villa-japanese-themed-4-bhk-villa-with-pool",
+      "name": "Sakura Villa Japanese Themed 4 BHK Villa with Pool",
+      "url": "https://www.elivaas.com/villa-in-lonavala/sakura-villa-japanese-themed-4-bhk-villa-with-pool"
+    },
+    {
+      "id": 430,
+      "slug": "sk-villa-4-bhk-retreat-with-private-pool",
+      "name": "SK Villa 4 BHK Retreat with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-lonavala/sk-villa-4-bhk-retreat-with-private-pool"
+    },
+    {
+      "id": 431,
+      "slug": "adarsh-3bhk-villa-with-private-pool",
+      "name": "Adarsh 3BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-lonavala/adarsh-3bhk-villa-with-private-pool"
+    },
+    {
+      "id": 432,
+      "slug": "adarsh-3bhk-villa-in-lonavala",
+      "name": "Adarsh 3BHK Villa in Lonavala",
+      "url": "https://www.elivaas.com/villa-in-lonavala/adarsh-3bhk-villa-in-lonavala"
+    },
+    {
+      "id": 433,
+      "slug": "imperial-calista-4bhk-villa-with-pool-in-lonavala",
+      "name": "Imperial Calista 4BHK Villa with Pool in Lonavala",
+      "url": "https://www.elivaas.com/villa-in-lonavala/imperial-calista-4bhk-villa-with-pool-in-lonavala"
+    },
+    {
+      "id": 434,
+      "slug": "imperial-mystara-5bhk-villa-with-pool-in-lonavala",
+      "name": "Imperial Mystara 5BHK Villa with Pool in Lonavala",
+      "url": "https://www.elivaas.com/villa-in-lonavala/imperial-mystara-5bhk-villa-with-pool-in-lonavala"
+    },
+    {
+      "id": 435,
+      "slug": "imperial-serenia-3bhk-villa-with-pool-in-lonavala",
+      "name": "Imperial Serenia 3BHK Villa with Pool in Lonavala",
+      "url": "https://www.elivaas.com/villa-in-lonavala/imperial-serenia-3bhk-villa-with-pool-in-lonavala"
+    },
+    {
+      "id": 436,
+      "slug": "lavender-hills-3bhk-villa-with-private-pool-in-lonavala",
+      "name": "Lavender Hills 3BHK Villa with Private Pool in Lonavala",
+      "url": "https://www.elivaas.com/villa-in-lonavala/lavender-hills-3bhk-villa-with-private-pool-in-lonavala"
+    },
+    {
+      "id": 437,
+      "slug": "moonstone-meadows-1-room-with-shared-pool",
+      "name": "Moonstone Meadows 1 Room with Shared Pool",
+      "url": "https://www.elivaas.com/villa-in-lonavala/moonstone-meadows-1-room-with-shared-pool"
+    },
+    {
+      "id": 438,
+      "slug": "ayur-kutir-9-bhk-retreat-with-private-pool",
+      "name": "Ayur Kutir 9 BHK Retreat with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-lonavala/ayur-kutir-9-bhk-retreat-with-private-pool"
+    },
+    {
+      "id": 439,
+      "slug": "nest-4bhk-villa-with-private-pool-in-lonavala",
+      "name": "Nest 4BHK Villa with Private Pool in Lonavala",
+      "url": "https://www.elivaas.com/villa-in-lonavala/nest-4bhk-villa-with-private-pool-in-lonavala"
+    },
+    {
+      "id": 440,
+      "slug": "rainmist-villa-4-bhk-pet-friendly-villa-with-private-pool",
+      "name": "Rainmist Villa 4 BHK Pet Friendly Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-lonavala/rainmist-villa-4-bhk-pet-friendly-villa-with-private-pool"
+    },
+    {
+      "id": 441,
+      "slug": "rosilia-3-bhk-with-pool",
+      "name": "Rosilia 3 BHK with Pool",
+      "url": "https://www.elivaas.com/villa-in-lonavala/rosilia-3-bhk-with-pool"
+    },
+    {
+      "id": 442,
+      "slug": "aster-villa-pet-friendly-4-bhk-retreat-with-private-swimming-pool",
+      "name": "Aster Villa Pet Friendly 4 BHK Retreat with Private Swimming Pool",
+      "url": "https://www.elivaas.com/villa-in-lonavala/aster-villa-pet-friendly-4-bhk-retreat-with-private-swimming-pool"
+    },
+    {
+      "id": 443,
+      "slug": "begonia-paradise-3-bhk-with-private-pool",
+      "name": "Begonia Paradise 3 BHK with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-lonavala/begonia-paradise-3-bhk-with-private-pool"
+    }
+  ],
+  "state_name": "Maharashtra",
+  "state_slug": "maharashtra",
+  "hero": "lonavala misty hills luxury villa pool"
+}

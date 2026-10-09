@@ -1,0 +1,101 @@
+{
+  "id": 5,
+  "slug": "bhimtal",
+  "name": "Bhimtal",
+  "villa_count": 15,
+  "villas": [
+    {
+      "id": 49,
+      "slug": "antarmann-casa-ember-2bhk-apartment",
+      "name": "Antarmann Casa Ember 2BHK Apartment",
+      "url": "https://www.elivaas.com/villa-in-bhimtal/antarmann-casa-ember-2bhk-apartment"
+    },
+    {
+      "id": 50,
+      "slug": "antarmann-casa-mirage-3bhk-villa",
+      "name": "Antarmann Casa Mirage 3BHK Villa",
+      "url": "https://www.elivaas.com/villa-in-bhimtal/antarmann-casa-mirage-3bhk-villa"
+    },
+    {
+      "id": 51,
+      "slug": "antarmann-casa-nova-4bhk-villa",
+      "name": "Antarmann Casa Nova 4BHK Villa",
+      "url": "https://www.elivaas.com/villa-in-bhimtal/antarmann-casa-nova-4bhk-villa"
+    },
+    {
+      "id": 52,
+      "slug": "antarmann-casa-zenith-6bhk-villa",
+      "name": "Antarmann Casa Zenith 6BHK Villa",
+      "url": "https://www.elivaas.com/villa-in-bhimtal/antarmann-casa-zenith-6bhk-villa"
+    },
+    {
+      "id": 53,
+      "slug": "blushing-pines-3bhk-villa-with-pool",
+      "name": "Blushing Pines 3BHK Villa with Pool",
+      "url": "https://www.elivaas.com/villa-in-bhimtal/blushing-pines-3bhk-villa-with-pool"
+    },
+    {
+      "id": 54,
+      "slug": "casa-gaula-4-bhk-cottage-with-lawn",
+      "name": "Casa Gaula 4 BHK Cottage with Lawn",
+      "url": "https://www.elivaas.com/villa-in-bhimtal/casa-gaula-4-bhk-cottage-with-lawn"
+    },
+    {
+      "id": 55,
+      "slug": "lakeview-manor-5bhk-villa",
+      "name": "Lakeview Manor 5BHK Villa",
+      "url": "https://www.elivaas.com/villa-in-bhimtal/lakeview-manor-5bhk-villa"
+    },
+    {
+      "id": 56,
+      "slug": "elivaas-lakeview-manor-3-bhk",
+      "name": "Elivaas Lakeview Manor 3 BHK",
+      "url": "https://www.elivaas.com/villa-in-bhimtal/elivaas-lakeview-manor-3-bhk"
+    },
+    {
+      "id": 57,
+      "slug": "the-nakshatra-3-bhk-villa-near-kainchi-dham",
+      "name": "The Nakshatra 3 BHK Villa near Kainchi Dham",
+      "url": "https://www.elivaas.com/villa-in-bhimtal/the-nakshatra-3-bhk-villa-near-kainchi-dham"
+    },
+    {
+      "id": 58,
+      "slug": "cozy-nest-2bhk-villa-in-bhimtal",
+      "name": "Cozy Nest 2BHK Villa in Bhimtal",
+      "url": "https://www.elivaas.com/villa-in-bhimtal/cozy-nest-2bhk-villa-in-bhimtal"
+    },
+    {
+      "id": 59,
+      "slug": "irayna-4bhk-villa-in-bhimtal",
+      "name": "Irayna 4BHK Villa in Bhimtal",
+      "url": "https://www.elivaas.com/villa-in-bhimtal/irayna-4bhk-villa-in-bhimtal"
+    },
+    {
+      "id": 60,
+      "slug": "kingdom-heartz-studio-apartment-with-pool-in-bhimtal",
+      "name": "Kingdom Heartz Studio Apartment with Pool in Bhimtal",
+      "url": "https://www.elivaas.com/villa-in-bhimtal/kingdom-heartz-studio-apartment-with-pool-in-bhimtal"
+    },
+    {
+      "id": 61,
+      "slug": "kingdom-heartz-1bhk-apartment-with-pool-in-bhimtal",
+      "name": "Kingdom Heartz 1BHK Apartment with Pool in Bhimtal",
+      "url": "https://www.elivaas.com/villa-in-bhimtal/kingdom-heartz-1bhk-apartment-with-pool-in-bhimtal"
+    },
+    {
+      "id": 62,
+      "slug": "kingdom-heartz-2bhk-apartment-with-pool-in-bhimtal",
+      "name": "Kingdom Heartz 2BHK Apartment with Pool in Bhimtal",
+      "url": "https://www.elivaas.com/villa-in-bhimtal/kingdom-heartz-2bhk-apartment-with-pool-in-bhimtal"
+    },
+    {
+      "id": 63,
+      "slug": "thistle-house-4bhk-villa-in-bhimtal",
+      "name": "Thistle House 4BHK Villa in Bhimtal",
+      "url": "https://www.elivaas.com/villa-in-bhimtal/thistle-house-4bhk-villa-in-bhimtal"
+    }
+  ],
+  "state_name": "Uttarakhand",
+  "state_slug": "uttarakhand",
+  "hero": "bhimtal lake view mountain villa"
+}

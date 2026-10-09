@@ -1,0 +1,65 @@
+{
+  "id": 33,
+  "slug": "south-goa",
+  "name": "South Goa",
+  "villa_count": 9,
+  "villas": [
+    {
+      "id": 606,
+      "slug": "kensho-marigold-3bhk-villa-with-pool",
+      "name": "Kensho Marigold 3BHK Villa with Pool",
+      "url": "https://www.elivaas.com/villa-in-south-goa/kensho-marigold-3bhk-villa-with-pool"
+    },
+    {
+      "id": 607,
+      "slug": "kensho-daisy-5bhk-villa-with-private-pool",
+      "name": "Kensho Daisy 5BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-south-goa/kensho-daisy-5bhk-villa-with-private-pool"
+    },
+    {
+      "id": 608,
+      "slug": "kensho-hibiscus-3bhk-villa-with-pool",
+      "name": "Kensho Hibiscus 3BHK Villa with Pool",
+      "url": "https://www.elivaas.com/villa-in-south-goa/kensho-hibiscus-3bhk-villa-with-pool"
+    },
+    {
+      "id": 609,
+      "slug": "midpoint-uno-pet-friendly-7-bhk-villa-with-private-pool",
+      "name": "Midpoint Uno Pet Friendly 7 BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-south-goa/midpoint-uno-pet-friendly-7-bhk-villa-with-private-pool"
+    },
+    {
+      "id": 610,
+      "slug": "goan-bliss-deluxe-room-aesthetic-suite-with-pool",
+      "name": "Goan Bliss Deluxe Room Aesthetic Suite with Pool",
+      "url": "https://www.elivaas.com/villa-in-south-goa/goan-bliss-deluxe-room-aesthetic-suite-with-pool"
+    },
+    {
+      "id": 611,
+      "slug": "goan-bliss-executive-suite",
+      "name": "Goan Bliss Executive Suite",
+      "url": "https://www.elivaas.com/villa-in-south-goa/goan-bliss-executive-suite"
+    },
+    {
+      "id": 612,
+      "slug": "goan-bliss-junior-suite",
+      "name": "Goan Bliss Junior Suite",
+      "url": "https://www.elivaas.com/villa-in-south-goa/goan-bliss-junior-suite"
+    },
+    {
+      "id": 613,
+      "slug": "goan-bliss-premium-room",
+      "name": "Goan Bliss Premium Room",
+      "url": "https://www.elivaas.com/villa-in-south-goa/goan-bliss-premium-room"
+    },
+    {
+      "id": 614,
+      "slug": "midpoint-uno-suite-pet-friendly-1-room",
+      "name": "Midpoint Uno Suite Pet Friendly 1 Room",
+      "url": "https://www.elivaas.com/villa-in-south-goa/midpoint-uno-suite-pet-friendly-1-room"
+    }
+  ],
+  "state_name": "Goa",
+  "state_slug": "goa",
+  "hero": "south goa luxury beach serene villa"
+}

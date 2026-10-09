@@ -1,0 +1,23 @@
+{
+  "id": 21,
+  "slug": "munnar",
+  "name": "Munnar",
+  "villa_count": 2,
+  "villas": [
+    {
+      "id": 451,
+      "slug": "jai-hill-4-room-cottage-with-garden",
+      "name": "Jai Hill 4 Room Cottage with Garden",
+      "url": "https://www.elivaas.com/villa-in-munnar/jai-hill-4-room-cottage-with-garden"
+    },
+    {
+      "id": 452,
+      "slug": "kavyath-valley-4bhk-villa-with-pool",
+      "name": "Kavyath Valley 4BHK Villa with Pool",
+      "url": "https://www.elivaas.com/villa-in-munnar/kavyath-valley-4bhk-villa-with-pool"
+    }
+  ],
+  "state_name": "Kerala",
+  "state_slug": "kerala",
+  "hero": "munnar tea gardens misty hills luxury retreat"
+}

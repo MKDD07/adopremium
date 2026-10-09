@@ -1,0 +1,47 @@
+{
+  "id": 15,
+  "slug": "karjat",
+  "name": "Karjat",
+  "villa_count": 6,
+  "villas": [
+    {
+      "id": 354,
+      "slug": "aaraa-villa-4-bhk-luxury-villa-with-private-pool",
+      "name": "Aaraa Villa 4 BHK Luxury Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-karjat/aaraa-villa-4-bhk-luxury-villa-with-private-pool"
+    },
+    {
+      "id": 355,
+      "slug": "heavenly-homes-villa-2-bhk-villa-with-private-pool",
+      "name": "Heavenly Homes Villa 2 BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-karjat/heavenly-homes-villa-2-bhk-villa-with-private-pool"
+    },
+    {
+      "id": 356,
+      "slug": "lavender-crest-4-bhk-with-private-pool",
+      "name": "Lavender Crest 4 BHK with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-karjat/lavender-crest-4-bhk-with-private-pool"
+    },
+    {
+      "id": 357,
+      "slug": "ansh-villa-4-bhk-private-pool-retreat",
+      "name": "Ansh Villa 4 BHK Private Pool Retreat",
+      "url": "https://www.elivaas.com/villa-in-karjat/ansh-villa-4-bhk-private-pool-retreat"
+    },
+    {
+      "id": 358,
+      "slug": "soulskape-villa-4-bhk-villa-with-pool",
+      "name": "Soulskape Villa 4 BHK Villa with Pool",
+      "url": "https://www.elivaas.com/villa-in-karjat/soulskape-villa-4-bhk-villa-with-pool"
+    },
+    {
+      "id": 359,
+      "slug": "sreelakam-villa-4-bhk-hillside-hideaway-with-pool",
+      "name": "Sreelakam Villa 4 BHK Hillside Hideaway with Pool",
+      "url": "https://www.elivaas.com/villa-in-karjat/sreelakam-villa-4-bhk-hillside-hideaway-with-pool"
+    }
+  ],
+  "state_name": "Maharashtra",
+  "state_slug": "maharashtra",
+  "hero": "karjat mountain nature private villa"
+}

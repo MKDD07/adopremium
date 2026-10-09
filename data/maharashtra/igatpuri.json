@@ -1,0 +1,71 @@
+{
+  "id": 12,
+  "slug": "igatpuri",
+  "name": "Igatpuri",
+  "villa_count": 10,
+  "villas": [
+    {
+      "id": 293,
+      "slug": "vk-villa-10-bhk-villa-and-two-private-pools",
+      "name": "VK Villa 10 BHK Villa and Two Private Pools",
+      "url": "https://www.elivaas.com/villa-in-igatpuri/vk-villa-10-bhk-villa-and-two-private-pools"
+    },
+    {
+      "id": 294,
+      "slug": "lush-villa-6-bhk-pet-friendly-villa-with-pool",
+      "name": "Lush Villa 6 BHK Pet Friendly Villa with Pool",
+      "url": "https://www.elivaas.com/villa-in-igatpuri/lush-villa-6-bhk-pet-friendly-villa-with-pool"
+    },
+    {
+      "id": 295,
+      "slug": "white-house-3bhk-villa-with-pool",
+      "name": "White House 3BHK Villa with Pool",
+      "url": "https://www.elivaas.com/villa-in-igatpuri/white-house-3bhk-villa-with-pool"
+    },
+    {
+      "id": 296,
+      "slug": "white-house-4bhk-villa-with-pool",
+      "name": "White House 4BHK Villa with Pool",
+      "url": "https://www.elivaas.com/villa-in-igatpuri/white-house-4bhk-villa-with-pool"
+    },
+    {
+      "id": 297,
+      "slug": "white-house-7-bhk-with-panoramic-hill-views-with-pool",
+      "name": "White House 7 BHK with Panoramic Hill Views with Pool",
+      "url": "https://www.elivaas.com/villa-in-igatpuri/white-house-7-bhk-with-panoramic-hill-views-with-pool"
+    },
+    {
+      "id": 298,
+      "slug": "gauri-3bhk-villa-with-private-pool",
+      "name": "Gauri 3BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-igatpuri/gauri-3bhk-villa-with-private-pool"
+    },
+    {
+      "id": 299,
+      "slug": "timber-premium-suite-pet-friendly-bamboo-cottage",
+      "name": "Timber Premium Suite Pet Friendly Bamboo Cottage",
+      "url": "https://www.elivaas.com/villa-in-igatpuri/timber-premium-suite-pet-friendly-bamboo-cottage"
+    },
+    {
+      "id": 300,
+      "slug": "timber-standard-suite-pet-friendly-bamboo-cottage",
+      "name": "Timber Standard Suite Pet Friendly Bamboo Cottage",
+      "url": "https://www.elivaas.com/villa-in-igatpuri/timber-standard-suite-pet-friendly-bamboo-cottage"
+    },
+    {
+      "id": 301,
+      "slug": "vk-villa-galaxy-5-bhk-villa-with-private-indoor-pool",
+      "name": "VK Villa Galaxy 5 BHK Villa with Private Indoor Pool",
+      "url": "https://www.elivaas.com/villa-in-igatpuri/vk-villa-galaxy-5-bhk-villa-with-private-indoor-pool"
+    },
+    {
+      "id": 302,
+      "slug": "vk-villa-supreme-5-bhk-villa-with-private-indoor-pool",
+      "name": "VK Villa Supreme 5 BHK Villa with Private Indoor Pool",
+      "url": "https://www.elivaas.com/villa-in-igatpuri/vk-villa-supreme-5-bhk-villa-with-private-indoor-pool"
+    }
+  ],
+  "state_name": "Maharashtra",
+  "state_slug": "maharashtra",
+  "hero": "igatpuri hills nature estate villa"
+}

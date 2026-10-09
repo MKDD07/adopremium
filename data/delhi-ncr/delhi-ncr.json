@@ -1,0 +1,425 @@
+{
+  "id": 9,
+  "slug": "delhi-ncr",
+  "name": "Delhi NCR",
+  "villa_count": 69,
+  "villas": [
+    {
+      "id": 89,
+      "slug": "heaven-farm-pet-friendly-6-bhk",
+      "name": "Heaven Farm Pet Friendly 6 BHK",
+      "url": "https://www.elivaas.com/villa-in-delhi-ncr/heaven-farm-pet-friendly-6-bhk"
+    },
+    {
+      "id": 90,
+      "slug": "raha-farms-2bhk-farmhouse-with-pool",
+      "name": "Raha Farms 2BHK Farmhouse with Pool",
+      "url": "https://www.elivaas.com/villa-in-delhi-ncr/raha-farms-2bhk-farmhouse-with-pool"
+    },
+    {
+      "id": 91,
+      "slug": "aanandam-resort-suite-with-pool",
+      "name": "Aanandam Resort Suite with Pool",
+      "url": "https://www.elivaas.com/villa-in-delhi-ncr/aanandam-resort-suite-with-pool"
+    },
+    {
+      "id": 92,
+      "slug": "adhiva-retreat-5bhk-farmhouse-with-private-pool",
+      "name": "Adhiva Retreat 5BHK Farmhouse with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-delhi-ncr/adhiva-retreat-5bhk-farmhouse-with-private-pool"
+    },
+    {
+      "id": 93,
+      "slug": "aravalli-reserve-the-bliss-pet-friendly-3-bhk-villa-with-pool",
+      "name": "Aravalli Reserve the Bliss Pet Friendly 3 BHK Villa with Pool",
+      "url": "https://www.elivaas.com/villa-in-delhi-ncr/aravalli-reserve-the-bliss-pet-friendly-3-bhk-villa-with-pool"
+    },
+    {
+      "id": 94,
+      "slug": "gardenia-4-bhk-farmhouse",
+      "name": "Gardenia 4 BHK Farmhouse",
+      "url": "https://www.elivaas.com/villa-in-delhi-ncr/gardenia-4-bhk-farmhouse"
+    },
+    {
+      "id": 95,
+      "slug": "house-of-tvara-pet-friendly-3-bhk-villa-with-private-pool",
+      "name": "House of Tvara Pet Friendly 3 BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-delhi-ncr/house-of-tvara-pet-friendly-3-bhk-villa-with-private-pool"
+    },
+    {
+      "id": 96,
+      "slug": "kimaya-with-private-plunge-pool",
+      "name": "Kimaya with Private Plunge Pool",
+      "url": "https://www.elivaas.com/villa-in-delhi-ncr/kimaya-with-private-plunge-pool"
+    },
+    {
+      "id": 97,
+      "slug": "kimaya-kove-shared-pool-resort-1bhk",
+      "name": "Kimaya Kove Shared Pool Resort 1BHK",
+      "url": "https://www.elivaas.com/villa-in-delhi-ncr/kimaya-kove-shared-pool-resort-1bhk"
+    },
+    {
+      "id": 98,
+      "slug": "levante-farms-5-bhk-villa-with-private-pool",
+      "name": "Levante Farms 5 BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-delhi-ncr/levante-farms-5-bhk-villa-with-private-pool"
+    },
+    {
+      "id": 99,
+      "slug": "prassanam-vatika-pet-friendly-2-bhk-hillside-villa-with-private-pool",
+      "name": "Prassanam Vatika Pet Friendly 2 BHK Hillside Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-delhi-ncr/prassanam-vatika-pet-friendly-2-bhk-hillside-villa-with-private-pool"
+    },
+    {
+      "id": 100,
+      "slug": "raha-luxury-cottage-with-pool",
+      "name": "Raha Luxury Cottage with Pool",
+      "url": "https://www.elivaas.com/villa-in-delhi-ncr/raha-luxury-cottage-with-pool"
+    },
+    {
+      "id": 101,
+      "slug": "raha-farms-duplex-suite-with-pool",
+      "name": "Raha Farms Duplex Suite with Pool",
+      "url": "https://www.elivaas.com/villa-in-delhi-ncr/raha-farms-duplex-suite-with-pool"
+    },
+    {
+      "id": 102,
+      "slug": "raha-4bhk-villa-with-private-pool",
+      "name": "Raha 4BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-delhi-ncr/raha-4bhk-villa-with-private-pool"
+    },
+    {
+      "id": 103,
+      "slug": "raj-farms-3-bhk-villa-with-private-pool",
+      "name": "Raj Farms 3 BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-delhi-ncr/raj-farms-3-bhk-villa-with-private-pool"
+    },
+    {
+      "id": 104,
+      "slug": "varsha-greens-4bhk-farmhouse-with-private-pool",
+      "name": "Varsha Greens 4BHK Farmhouse with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-delhi-ncr/varsha-greens-4bhk-farmhouse-with-private-pool"
+    },
+    {
+      "id": 105,
+      "slug": "vedaaz-farms-4bhk-villa-with-private-pool",
+      "name": "Vedaaz Farms 4BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-delhi-ncr/vedaaz-farms-4bhk-villa-with-private-pool"
+    },
+    {
+      "id": 106,
+      "slug": "zenora-5bhk-farmhouse-with-private-pool",
+      "name": "Zenora 5BHK Farmhouse with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-delhi-ncr/zenora-5bhk-farmhouse-with-private-pool"
+    },
+    {
+      "id": 107,
+      "slug": "esh-luxury-6bhk-villa-with-private-swimming-pool",
+      "name": "Esh Luxury 6BHK Villa with Private Swimming Pool",
+      "url": "https://www.elivaas.com/villa-in-delhi-ncr/esh-luxury-6bhk-villa-with-private-swimming-pool"
+    },
+    {
+      "id": 108,
+      "slug": "aarul-farm-4bhk-farmhouse-with-private-pool",
+      "name": "Aarul Farm 4BHK Farmhouse with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-delhi-ncr/aarul-farm-4bhk-farmhouse-with-private-pool"
+    },
+    {
+      "id": 109,
+      "slug": "amber-3bhk-villa-with-private-pool",
+      "name": "Amber 3BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-delhi-ncr/amber-3bhk-villa-with-private-pool"
+    },
+    {
+      "id": 110,
+      "slug": "handa-getaway-3bhk-villa-with-private-pool",
+      "name": "Handa Getaway 3BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-delhi-ncr/handa-getaway-3bhk-villa-with-private-pool"
+    },
+    {
+      "id": 111,
+      "slug": "sanisa-farm-3bhk-farmhouse-with-private-pool",
+      "name": "Sanisa Farm 3BHK Farmhouse with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-delhi-ncr/sanisa-farm-3bhk-farmhouse-with-private-pool"
+    },
+    {
+      "id": 112,
+      "slug": "aanandam-villa-and-resrot-pool",
+      "name": "Aanandam Villa and Resrot Pool",
+      "url": "https://www.elivaas.com/villa-in-delhi-ncr/aanandam-villa-and-resrot-pool"
+    },
+    {
+      "id": 113,
+      "slug": "aanandam-villas-and-resort-executive-suite-with-pool",
+      "name": "Aanandam Villas and Resort Executive Suite with Pool",
+      "url": "https://www.elivaas.com/villa-in-delhi-ncr/aanandam-villas-and-resort-executive-suite-with-pool"
+    },
+    {
+      "id": 114,
+      "slug": "aanandam-villas-and-resort-premium-room",
+      "name": "Aanandam Villas and Resort Premium Room",
+      "url": "https://www.elivaas.com/villa-in-delhi-ncr/aanandam-villas-and-resort-premium-room"
+    },
+    {
+      "id": 115,
+      "slug": "aanandam-villas-and-resort-super-deluxe-room-with-pool",
+      "name": "Aanandam Villas and Resort Super Deluxe Room with Pool",
+      "url": "https://www.elivaas.com/villa-in-delhi-ncr/aanandam-villas-and-resort-super-deluxe-room-with-pool"
+    },
+    {
+      "id": 116,
+      "slug": "aravalli-reserve-the-isley-pet-friendly-3-bhk-villa-with-private-pool",
+      "name": "Aravalli Reserve the Isley Pet Friendly 3 BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-delhi-ncr/aravalli-reserve-the-isley-pet-friendly-3-bhk-villa-with-private-pool"
+    },
+    {
+      "id": 117,
+      "slug": "aravalli-reserve-the-lotus-pet-friendly-3-bhk-villa-with-private-pool",
+      "name": "Aravalli Reserve the Lotus Pet Friendly 3 BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-delhi-ncr/aravalli-reserve-the-lotus-pet-friendly-3-bhk-villa-with-private-pool"
+    },
+    {
+      "id": 118,
+      "slug": "aravali-woods-4bhk-villa",
+      "name": "Aravali Woods 4BHK Villa",
+      "url": "https://www.elivaas.com/villa-in-delhi-ncr/aravali-woods-4bhk-villa"
+    },
+    {
+      "id": 119,
+      "slug": "ashirwad-5bhk-farm-with-private-pool-in-delhi-ncr",
+      "name": "Ashirwad 5BHK Farm with Private Pool in Delhi Ncr",
+      "url": "https://www.elivaas.com/villa-in-delhi-ncr/ashirwad-5bhk-farm-with-private-pool-in-delhi-ncr"
+    },
+    {
+      "id": 120,
+      "slug": "dacha-3bhk-villa-in-delhi-ncr",
+      "name": "Dacha 3BHK Villa in Delhi Ncr",
+      "url": "https://www.elivaas.com/villa-in-delhi-ncr/dacha-3bhk-villa-in-delhi-ncr"
+    },
+    {
+      "id": 121,
+      "slug": "fortezza-6bhk-farmhouse-with-private-pool-gurugram",
+      "name": "Fortezza 6BHK Farmhouse with Private Pool Gurugram",
+      "url": "https://www.elivaas.com/villa-in-delhi-ncr/fortezza-6bhk-farmhouse-with-private-pool-gurugram"
+    },
+    {
+      "id": 122,
+      "slug": "luxe-farmacre-4bhk-villa-in-delhi-ncr",
+      "name": "Luxe Farmacre 4BHK Villa in Delhi Ncr",
+      "url": "https://www.elivaas.com/villa-in-delhi-ncr/luxe-farmacre-4bhk-villa-in-delhi-ncr"
+    },
+    {
+      "id": 123,
+      "slug": "raga-2bhk-villa-with-private-pool-in-delhi-ncr",
+      "name": "Raga 2BHK Villa with Private Pool in Delhi Ncr",
+      "url": "https://www.elivaas.com/villa-in-delhi-ncr/raga-2bhk-villa-with-private-pool-in-delhi-ncr"
+    },
+    {
+      "id": 124,
+      "slug": "sheilma-farm-4bhk-private-pool-farmhouse-in-delhi-ncr",
+      "name": "Sheilma Farm 4BHK Private Pool Farmhouse in Delhi Ncr",
+      "url": "https://www.elivaas.com/villa-in-delhi-ncr/sheilma-farm-4bhk-private-pool-farmhouse-in-delhi-ncr"
+    },
+    {
+      "id": 125,
+      "slug": "tranquil-medows-5bhk-farmhouse-with-private-pool-delhi-ncr",
+      "name": "Tranquil Medows 5BHK Farmhouse with Private Pool Delhi Ncr",
+      "url": "https://www.elivaas.com/villa-in-delhi-ncr/tranquil-medows-5bhk-farmhouse-with-private-pool-delhi-ncr"
+    },
+    {
+      "id": 126,
+      "slug": "ask-farms-Refined-4-bhk-villa-with-pool",
+      "name": "ASK Farms Refined 4 BHK Villa with Pool",
+      "url": "https://www.elivaas.com/villa-in-delhi-ncr/ask-farms-Refined-4-bhk-villa-with-pool"
+    },
+    {
+      "id": 127,
+      "slug": "amaltas-aravali-4bhk-villa-with-private-pool",
+      "name": "Amaltas Aravali 4BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-delhi-ncr/amaltas-aravali-4bhk-villa-with-private-pool"
+    },
+    {
+      "id": 128,
+      "slug": "aravale-farm-4bhk-farmhouse-with-private-pool",
+      "name": "Aravale Farm 4BHK Farmhouse with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-delhi-ncr/aravale-farm-4bhk-farmhouse-with-private-pool"
+    },
+    {
+      "id": 129,
+      "slug": "aurea-4bhk-farmhouse-with-private-pool",
+      "name": "Aurea 4BHK Farmhouse with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-delhi-ncr/aurea-4bhk-farmhouse-with-private-pool"
+    },
+    {
+      "id": 130,
+      "slug": "daffodil-3bhk-villa-with-private-pool-in-delhi-ncr",
+      "name": "Daffodil 3BHK Villa with Private Pool in Delhi Ncr",
+      "url": "https://www.elivaas.com/villa-in-delhi-ncr/daffodil-3bhk-villa-with-private-pool-in-delhi-ncr"
+    },
+    {
+      "id": 131,
+      "slug": "emperor-palms-emperor-suite-apartment-in-delhi-ncr",
+      "name": "Emperor Palms Emperor Suite Apartment in Delhi Ncr",
+      "url": "https://www.elivaas.com/villa-in-delhi-ncr/emperor-palms-emperor-suite-apartment-in-delhi-ncr"
+    },
+    {
+      "id": 132,
+      "slug": "emperor-palms-executive-apartment-in-delhi-ncr",
+      "name": "Emperor Palms Executive Apartment in Delhi Ncr",
+      "url": "https://www.elivaas.com/villa-in-delhi-ncr/emperor-palms-executive-apartment-in-delhi-ncr"
+    },
+    {
+      "id": 133,
+      "slug": "emperor-palms-premium-suite-apartment-in-delhi-ncr",
+      "name": "Emperor Palms Premium Suite Apartment in Delhi Ncr",
+      "url": "https://www.elivaas.com/villa-in-delhi-ncr/emperor-palms-premium-suite-apartment-in-delhi-ncr"
+    },
+    {
+      "id": 134,
+      "slug": "freesia-3bhk-apartment",
+      "name": "Freesia 3BHK Apartment",
+      "url": "https://www.elivaas.com/villa-in-delhi-ncr/freesia-3bhk-apartment"
+    },
+    {
+      "id": 135,
+      "slug": "kv-ventures-fable-pet-friendly-cottage-with-shared-pool",
+      "name": "KV Ventures Fable Pet Friendly Cottage with Shared Pool",
+      "url": "https://www.elivaas.com/villa-in-delhi-ncr/kv-ventures-fable-pet-friendly-cottage-with-shared-pool"
+    },
+    {
+      "id": 136,
+      "slug": "kv-ventures-mirage-3-bhk-villa-with-common-pool",
+      "name": "KV Ventures Mirage 3 BHK Villa with Common Pool",
+      "url": "https://www.elivaas.com/villa-in-delhi-ncr/kv-ventures-mirage-3-bhk-villa-with-common-pool"
+    },
+    {
+      "id": 137,
+      "slug": "liv-regalia-serviced-apartments-1-bhk-suite-with-restaurant",
+      "name": "Liv Regalia Serviced Apartments 1 BHK Suite with Restaurant",
+      "url": "https://www.elivaas.com/villa-in-delhi-ncr/liv-regalia-serviced-apartments-1-bhk-suite-with-restaurant"
+    },
+    {
+      "id": 138,
+      "slug": "liv-regalia-serviced-apartments-2-room-suite-with-restaurant",
+      "name": "Liv Regalia Serviced Apartments 2 Room Suite with Restaurant",
+      "url": "https://www.elivaas.com/villa-in-delhi-ncr/liv-regalia-serviced-apartments-2-room-suite-with-restaurant"
+    },
+    {
+      "id": 139,
+      "slug": "liv-regalia-serviced-apartments-1-bhk-suite-with-restaurant-and-lift",
+      "name": "Liv Regalia Serviced Apartments 1 BHK Suite with Restaurant and Lift",
+      "url": "https://www.elivaas.com/villa-in-delhi-ncr/liv-regalia-serviced-apartments-1-bhk-suite-with-restaurant-and-lift"
+    },
+    {
+      "id": 140,
+      "slug": "vijeta-farms-3-bhk-with-private-pool",
+      "name": "Vijeta Farms 3 BHK with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-delhi-ncr/vijeta-farms-3-bhk-with-private-pool"
+    },
+    {
+      "id": 141,
+      "slug": "luxora-1-bhk-apartment",
+      "name": "Luxora 1 BHK Apartment",
+      "url": "https://www.elivaas.com/villa-in-delhi-ncr/luxora-1-bhk-apartment"
+    },
+    {
+      "id": 142,
+      "slug": "luxora-1-bhk-apartment-with-balcony",
+      "name": "Luxora 1 BHK Apartment with Balcony",
+      "url": "https://www.elivaas.com/villa-in-delhi-ncr/luxora-1-bhk-apartment-with-balcony"
+    },
+    {
+      "id": 143,
+      "slug": "pranita-farm-4-bhk-villa-with-private-pool",
+      "name": "Pranita Farm 4 BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-delhi-ncr/pranita-farm-4-bhk-villa-with-private-pool"
+    },
+    {
+      "id": 144,
+      "slug": "radhika-villa-2-bhk",
+      "name": "Radhika Villa 2 BHK",
+      "url": "https://www.elivaas.com/villa-in-delhi-ncr/radhika-villa-2-bhk"
+    },
+    {
+      "id": 145,
+      "slug": "rathore-3bhk-farmhouse-with-private-pool",
+      "name": "Rathore 3BHK Farmhouse with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-delhi-ncr/rathore-3bhk-farmhouse-with-private-pool"
+    },
+    {
+      "id": 146,
+      "slug": "ratikara-ullaas-2-bhk-with-private-pool",
+      "name": "Ratikara Ullaas 2 BHK with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-delhi-ncr/ratikara-ullaas-2-bhk-with-private-pool"
+    },
+    {
+      "id": 147,
+      "slug": "saroja-farm-3bhk",
+      "name": "Saroja Farm 3BHK",
+      "url": "https://www.elivaas.com/villa-in-delhi-ncr/saroja-farm-3bhk"
+    },
+    {
+      "id": 148,
+      "slug": "zinnia-2bhk-apartment",
+      "name": "Zinnia 2BHK Apartment",
+      "url": "https://www.elivaas.com/villa-in-delhi-ncr/zinnia-2bhk-apartment"
+    },
+    {
+      "id": 149,
+      "slug": "aarisha-villa-3-bhk-villa-with-private-pool",
+      "name": "Aarisha Villa 3 BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-delhi-ncr/aarisha-villa-3-bhk-villa-with-private-pool"
+    },
+    {
+      "id": 150,
+      "slug": "aroma-green-4-bhk-pet-friendly-farmhouse-with-private-pool",
+      "name": "Aroma Green 4 BHK Pet Friendly Farmhouse with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-delhi-ncr/aroma-green-4-bhk-pet-friendly-farmhouse-with-private-pool"
+    },
+    {
+      "id": 151,
+      "slug": "dsg-farm-pet-friendly-modern-house-inspired-3-bhk-with-bar",
+      "name": "DSG Farm Pet Friendly Modern House Inspired 3 BHK with Bar",
+      "url": "https://www.elivaas.com/villa-in-delhi-ncr/dsg-farm-pet-friendly-modern-house-inspired-3-bhk-with-bar"
+    },
+    {
+      "id": 152,
+      "slug": "jp-farm-stay-5-bhk-villa-featuring-kids-room",
+      "name": "JP Farm Stay 5 BHK Villa Featuring Kids Room",
+      "url": "https://www.elivaas.com/villa-in-delhi-ncr/jp-farm-stay-5-bhk-villa-featuring-kids-room"
+    },
+    {
+      "id": 153,
+      "slug": "jp-farm-6-bhk-pet-friendly-farmhouse-with-private-pool",
+      "name": "JP Farm 6 BHK Pet Friendly Farmhouse with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-delhi-ncr/jp-farm-6-bhk-pet-friendly-farmhouse-with-private-pool"
+    },
+    {
+      "id": 154,
+      "slug": "luxora-atrium-1bhk-with-restro-lift-gym",
+      "name": "Luxora Atrium 1BHK with Restro Lift Gym",
+      "url": "https://www.elivaas.com/villa-in-delhi-ncr/luxora-atrium-1bhk-with-restro-lift-gym"
+    },
+    {
+      "id": 155,
+      "slug": "malik-farms-countryside-wooden-cottage",
+      "name": "Malik Farms Countryside Wooden Cottage",
+      "url": "https://www.elivaas.com/villa-in-delhi-ncr/malik-farms-countryside-wooden-cottage"
+    },
+    {
+      "id": 156,
+      "slug": "royal-green-farm-2-bhk-farmhouse",
+      "name": "Royal Green Farm 2 BHK Farmhouse",
+      "url": "https://www.elivaas.com/villa-in-delhi-ncr/royal-green-farm-2-bhk-farmhouse"
+    },
+    {
+      "id": 157,
+      "slug": "shivoham-farm-9-bhk-pet-friendly-farmhouse-with-private-pool",
+      "name": "Shivoham Farm 9 BHK Pet Friendly Farmhouse with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-delhi-ncr/shivoham-farm-9-bhk-pet-friendly-farmhouse-with-private-pool"
+    }
+  ],
+  "state_name": "Delhi NCR",
+  "state_slug": "delhi-ncr",
+  "hero": "delhi ncr gurgaon farmhouse luxury pool estate"
+}

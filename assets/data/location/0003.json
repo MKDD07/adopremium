@@ -1,0 +1,430 @@
+{
+  "title": "The Retreat Villa",
+  "summary": "",
+  "location": {
+    "city": "Kasauli",
+    "region": null,
+    "points_of_interest": [
+      {
+        "name": "Kasauli Hill Station",
+        "distance_km": 9.5
+      },
+      {
+        "name": "Manki Point (Air Force Station)",
+        "distance_km": 12
+      },
+      {
+        "name": "Dagshai Jail Museum",
+        "distance_km": 16
+      },
+      {
+        "name": "Shaheed Bhagat Singh International Airport",
+        "distance_km": 71
+      },
+      {
+        "name": "Dharmpur Railway Station",
+        "distance_km": 11.5
+      }
+    ],
+    "latitude": 30.9343873,
+    "longitude": 76.9634632
+  },
+  "capacity": {
+    "standard_occupancy": 8,
+    "maximum_occupancy": 8,
+    "guests": 8,
+    "bedrooms": 4,
+    "beds": 4,
+    "bathrooms": 4
+  },
+  "pricing": null,
+  "rooms": [
+    {
+      "name": "The Cedar Suite",
+      "floor": null,
+      "size_sqft": null,
+      "bed_type": "king-sized",
+      "features": null,
+      "attached_bathroom": null
+    },
+    {
+      "name": "The Timber Suite",
+      "floor": null,
+      "size_sqft": null,
+      "bed_type": "king-sized",
+      "features": null,
+      "attached_bathroom": null
+    },
+    {
+      "name": "The Deodar Suite",
+      "floor": null,
+      "size_sqft": null,
+      "bed_type": "king-sized",
+      "features": null,
+      "attached_bathroom": null
+    },
+    {
+      "name": "The Oakwood Suite",
+      "floor": null,
+      "size_sqft": null,
+      "bed_type": "king-sized",
+      "features": null,
+      "attached_bathroom": null
+    }
+  ],
+  "amenities": [
+    "Chef on Call",
+    "Cooking basics",
+    "Rice Cooker",
+    "Microwave",
+    "Refrigerator",
+    "Toaster",
+    "Kettle",
+    "Dining Table",
+    "Oven",
+    "Bed linen",
+    "Extra pillows and blankets",
+    "Hangers",
+    "Iron",
+    "TV",
+    "Wifi",
+    "Private Pool",
+    "Speaker",
+    "Indoor games",
+    "Airconditioning",
+    "Ceiling fan",
+    "Jacuzzi",
+    "Hair dryer",
+    "Shower gel",
+    "Welcome basket",
+    "Eco-friendly hygiene kit",
+    "Gas cooktop",
+    "Mixer/grinder",
+    "Crockery",
+    "Cutlery",
+    "Water purifier/RO",
+    "Coffee sachets",
+    "Wardrobe space",
+    "Fire extinguisher",
+    "First aid kit",
+    "Balcony",
+    "Workstation",
+    "Caretaker",
+    "Housekeeping staff",
+    "Bathtub",
+    "Powder room",
+    "Shower",
+    "Geyser",
+    "Jet spray",
+    "Western commode",
+    "Shampoo",
+    "Soap",
+    "Conditioner",
+    "Towels",
+    "Hot water",
+    "Parking"
+  ],
+  "outdoor_spaces": {
+    "pool": {
+      "private": true,
+      "jacuzzi": true
+    },
+    "garden": false,
+    "gazebo": false,
+    "other": []
+  },
+  "rules": {
+    "check_in": "2 PM",
+    "check_out": "11 AM",
+    "noise": "Keep noise levels reasonable, especially between 10 pm and 7 am; no loud parties or events.",
+    "smoking": "Smoking is strictly prohibited inside the villa. Designated smoking areas are available outdoors.",
+    "chewing_tobacco": "Strictly prohibited with no exceptions.",
+    "pets_allowed": false,
+    "pet_policy": null,
+    "security_deposit": 22000,
+    "damage_responsibility": "Guests are responsible for any damages or breakages during their stay.",
+    "cleanliness": "Please keep the villa clean, use the designated trash bins and avoid littering the property.",
+    "safety_security": "Lock all doors and windows when leaving. We will not be responsible for any loss or theft of personal belongings.",
+    "occupancy_limits": "Follow maximum occupancy limits. Additional guests need prior approval."
+  },
+  "contact_info": null,
+  "coordinates": {
+    "latitude": 30.9343873,
+    "longitude": 76.9634632
+  },
+  "spaces": [
+    {
+      "description": "Indoor pool with scenic green views & warm ambience",
+      "details": [
+        "Indoor pool with scenic green views & warm ambience"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/K81_A5519_901f6e5af1.jpg"
+      ],
+      "title": "Private pool: The Warm Spring"
+    },
+    {
+      "description": "Spacious, airy room with plush seating, fireplace, & views",
+      "details": [
+        "Spacious, airy room with plush seating, fireplace, & views"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/P1038249_336291cf8f.jpg"
+      ],
+      "title": "Living area: The Aurelia Lounge"
+    },
+    {
+      "description": "A cosy, elegant dining space for up to 8 guests",
+      "details": [
+        "A cosy, elegant dining space for up to 8 guests"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/P1038256_94441d17af.jpg"
+      ],
+      "title": "Dining: The Ember Table"
+    },
+    {
+      "description": "Fully equipped open kitchen connected to the dining & living areas",
+      "details": [
+        "Fully equipped open kitchen connected to the dining & living areas"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/K81_A2925_570f3f1deb.jpg"
+      ],
+      "title": "Kitchen: The Savoury Studio"
+    },
+    {
+      "description": "1 king-sized bed",
+      "details": [
+        "1 king-sized bed"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/P1038407_3fedbcc5a7.jpg"
+      ],
+      "title": "Bedroom 1: The Cedar Suite"
+    },
+    {
+      "description": "1 king-sized bed",
+      "details": [
+        "1 king-sized bed"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/K81_A2906_b90f86985f.jpg"
+      ],
+      "title": "Bedroom 2: The Timber Suite"
+    },
+    {
+      "description": "1 king-sized bed",
+      "details": [
+        "1 king-sized bed"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/K81_A5433_d7d3645e8f.jpg"
+      ],
+      "title": "Bedroom 3: The Deodar Suite"
+    },
+    {
+      "description": "1 King-sized bed",
+      "details": [
+        "1 King-sized bed"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/P1038387_d77c62f018.jpg"
+      ],
+      "title": "Bedroom 4: The Oakwood Suite"
+    }
+  ],
+  "villa_snapshot": [
+    "Property snapshot",
+    "Nestled amidst verdant hills, this 4-BHK villa unfolds like a private sanctuary where every corner whispers sophistication and comfort. At its heart lies a lower-ground retreat where warm wooden accents meet plush, king-sized serenity. Sunlight filters through large glass doors onto a private balcony, where a signature swing chair sways gently against panoramic hill views. Bespoke interiors, lounge-style seating, and ambient cove lighting create a haven for both repose and reflection, complemented by a multi-zone bathing sanctuary of glass, wood, and marble, featuring a soaking tub, rain shower, and curated luxury amenities.",
+    "On the upper ground level, another bedroom blends rustic brick and exposed beams with modern elegance, its balcony framing sweeping views of the hills. Its en-suite bath offers a spa-like retreat with warm wood and glass finishes. On the lower level, two additional bedrooms showcase a mix of sleek minimalism and earthy charm, each paired with beautifully designed bathrooms where stone, wood, and ambient lighting elevate daily rituals.",
+    "The estate’s social spaces rival its private quarters. A luminous 500 sq. ft. living room accommodates up to ten guests in plush comfort, with a fireplace corner exuding quiet grandeur. Adjacent, the dining area invites intimate gatherings around a solid wood table, bathed in warm light through expansive windows. Culinary experiences unfold in a fully equipped modern kitchen with high-end appliances, while a chef-on-call service transforms dining into an art form.",
+    "For recreation, a private indoor pool (hot and cold) offers a serene retreat, where rustic-modern finishes meet spa-like tranquillity, complemented by scenic green vistas. The estate promises a symphony of luxury, space, and privacy—perfect for families or groups seeking a refined escape, enveloped by fresh mountain air, sweeping landscapes, and an ambience that is both timeless and effortlessly indulgent.",
+    "Bedrooms",
+    "Bedroom 1: The Cedar Suite",
+    "A spacious 300 sq. ft room with a king-sized bed, elegant lounge seating, warm wooden interiors, a private balcony with a signature swing, and panoramic hill views—offering a refined and tranquil stay.",
+    "Bathroom 1: Cedar Soak",
+    "A spacious, well-zoned bathroom with a soaking bathtub, jacuzzi, walk-in rain shower, large glass windows, premium fittings, and thoughtful amenities for a comfortable, refined experience.",
+    "Bedroom 2: The Timber Suite",
+    "A spacious 300 sq. ft room with a king-sized bed, lounge-style seating, exposed brick and wooden accents, a private balcony with a signature swing, and panoramic hill views—offering a warm, refined, and tranquil stay.",
+    "Bathroom 2: Timber Soak",
+    "A spacious, well-planned bathroom with separate wet and dry areas, a soaking bathtub jacuzzi, a walk-in rain shower, large glass windows, and premium fittings, designed for a comfortable and elevated experience.",
+    "Bedroom 3: The Deodar Suite",
+    "A well-appointed 300 sq. ft room with a king-sized bed, cosy seating, and warm lighting, featuring a private balcony with scenic hill views for a relaxed and comfortable stay.",
+    "Bathroom 3: Deodar Soak",
+    "A stylish bathroom featuring a glass-enclosed shower, bathtub, warm wood and stone finishes, and soft ambient lighting, designed for a modern and comfortable experience.",
+    "Bedroom 4: The Oakwood Suite",
+    "A thoughtfully designed 300 sq. ft room with a king-sized bed, exposed brick and wooden accents, cosy seating, and a private balcony with scenic views—offering a warm, boutique, nature-inspired stay.",
+    "Bathroom 4:Oakwood Soak",
+    "A stylish bathroom with a glass-enclosed shower, bathtub, warm wood and stone finishes, and soft ambient lighting, offering a refined and comfortable experience.",
+    "Living room: The Aurelia Lounge",
+    "A 500 sq. ft. bright and airy living room with seating for up to 10 guests, styled with plush sofas, floral accent chairs, a cosy fireplace corner, and a scenic outdoor view offering a warm, modern, and inviting space to relax.",
+    "Kitchen: The Savoury Studio",
+    "A fully equipped open kitchen with high-end appliances, including an oven, microwave, cooktop, chimney, and refrigerator, seamlessly connected to the dining and living areas for a smooth and convenient cooking experience.",
+    "Dining area: The Ember Table",
+    "A warm and inviting dining area with seating for up to 8 guests, featuring a solid wooden table, soft ambient lighting, and large windows, seamlessly connected to the living room for an elegant dining experience.",
+    "Indoor pool: The Warm Spring",
+    "A private indoor pool (hot and cold) with a rustic-modern, spa-like design, low seating setup, warm ambient lighting, and scenic green views offering a serene and relaxing retreat.",
+    "Show Less"
+  ],
+  "description_sections": [
+    {
+      "bullets": [],
+      "heading": "Overview",
+      "paragraphs": [
+        "Nestled amidst verdant hills, this 4-BHK villa unfolds like a private sanctuary where every corner whispers sophistication and comfort. At its heart lies a lower-ground retreat where warm wooden accents meet plush, king-sized serenity. Sunlight filters through large glass doors onto a private balcony, where a signature swing chair sways gently against panoramic hill views. Bespoke interiors, lounge-style seating, and ambient cove lighting create a haven for both repose and reflection, complemented by a multi-zone bathing sanctuary of glass, wood, and marble, featuring a soaking tub, rain shower, and curated luxury amenities.",
+        "On the upper ground level, another bedroom blends rustic brick and exposed beams with modern elegance, its balcony framing sweeping views of the hills. Its en-suite bath offers a spa-like retreat with warm wood and glass finishes. On the lower level, two additional bedrooms showcase a mix of sleek minimalism and earthy charm, each paired with beautifully designed bathrooms where stone, wood, and ambient lighting elevate daily rituals.",
+        "The estate’s social spaces rival its private quarters. A luminous 500 sq. ft. living room accommodates up to ten guests in plush comfort, with a fireplace corner exuding quiet grandeur. Adjacent, the dining area invites intimate gatherings around a solid wood table, bathed in warm light through expansive windows. Culinary experiences unfold in a fully equipped modern kitchen with high-end appliances, while a chef-on-call service transforms dining into an art form.",
+        "For recreation, a private indoor pool (hot and cold) offers a serene retreat, where rustic-modern finishes meet spa-like tranquillity, complemented by scenic green vistas. The estate promises a symphony of luxury, space, and privacy—perfect for families or groups seeking a refined escape, enveloped by fresh mountain air, sweeping landscapes, and an ambience that is both timeless and effortlessly indulgent."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Bedrooms",
+      "paragraphs": [
+        "Bedroom 1: The Cedar Suite A spacious 300 sq. ft room with a king-sized bed, elegant lounge seating, warm wooden interiors, a private balcony with a signature swing, and panoramic hill views—offering a refined and tranquil stay.",
+        "Bathroom 1: Cedar SoakA spacious, well-zoned bathroom with a soaking bathtub, jacuzzi, walk-in rain shower, large glass windows, premium fittings, and thoughtful amenities for a comfortable, refined experience."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Bedroom 2: The Timber Suite",
+      "paragraphs": [
+        "A spacious 300 sq. ft room with a king-sized bed, lounge-style seating, exposed brick and wooden accents, a private balcony with a signature swing, and panoramic hill views—offering a warm, refined, and tranquil stay."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Bathroom 2: Timber Soak",
+      "paragraphs": [
+        "A spacious, well-planned bathroom with separate wet and dry areas, a soaking bathtub jacuzzi, a walk-in rain shower, large glass windows, and premium fittings, designed for a comfortable and elevated experience."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Bedroom 3: The Deodar Suite",
+      "paragraphs": [
+        "A well-appointed 300 sq. ft room with a king-sized bed, cosy seating, and warm lighting, featuring a private balcony with scenic hill views for a relaxed and comfortable stay."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Bathroom 3: Deodar Soak",
+      "paragraphs": [
+        "A stylish bathroom featuring a glass-enclosed shower, bathtub, warm wood and stone finishes, and soft ambient lighting, designed for a modern and comfortable experience."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Bedroom 4: The Oakwood Suite",
+      "paragraphs": [
+        "A thoughtfully designed 300 sq. ft room with a king-sized bed, exposed brick and wooden accents, cosy seating, and a private balcony with scenic views—offering a warm, boutique, nature-inspired stay."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Bathroom 4:Oakwood Soak",
+      "paragraphs": [
+        "A stylish bathroom with a glass-enclosed shower, bathtub, warm wood and stone finishes, and soft ambient lighting, offering a refined and comfortable experience."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Living room: The Aurelia Lounge",
+      "paragraphs": [
+        "A 500 sq. ft. bright and airy living room with seating for up to 10 guests, styled with plush sofas, floral accent chairs, a cosy fireplace corner, and a scenic outdoor view offering a warm, modern, and inviting space to relax."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Kitchen: The Savoury Studio",
+      "paragraphs": [
+        "A fully equipped open kitchen with high-end appliances, including an oven, microwave, cooktop, chimney, and refrigerator, seamlessly connected to the dining and living areas for a smooth and convenient cooking experience."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Dining area: The Ember Table",
+      "paragraphs": [
+        "A warm and inviting dining area with seating for up to 8 guests, featuring a solid wooden table, soft ambient lighting, and large windows, seamlessly connected to the living room for an elegant dining experience."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Indoor pool: The Warm Spring",
+      "paragraphs": [
+        "A private indoor pool (hot and cold) with a rustic-modern, spa-like design, low seating setup, warm ambient lighting, and scenic green views offering a serene and relaxing retreat."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Overview",
+      "paragraphs": [
+        "Bedrooms"
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Overview",
+      "paragraphs": [
+        "Vegetarian and non-vegetarian meal options are available.",
+        "Veg Non-veg"
+      ]
+    },
+    {
+      "bullets": [
+        "Non-vegetarian consumption is allowed; however, cooking is not permitted.",
+        "Fully functional commercial kitchen for order-based dining",
+        "Chef-on-call service available with a curated in-house menu.",
+        "Guests have access to the first-floor kitchen for reheating only.",
+        "A fully functional commercial kitchen supports order-based dining."
+      ],
+      "heading": "Additional features:",
+      "paragraphs": []
+    },
+    {
+      "bullets": [],
+      "heading": "Check-in Instructions: — Check-in: 2 PM — Check-out: 11 AM — Refund Policy",
+      "paragraphs": [
+        "For cancellations that comply with our policy terms, refunds will be processed as per the details below:",
+        "1. Refunds are only available if the full payment has been made; partial payments are non-refundable.",
+        "2. Refunds will be processed within 7-9 days post-cancellation request.",
+        "Security Deposit Amount: 22,000",
+        "Security Deposit Refund Policy: Refunds will be processed within 4-7 working days after property inspection. Your adherence to this timeline is appreciated.",
+        "Noise & disturbances: Keep noise levels reasonable, especially between 10 pm and 7 am; no loud parties or events.",
+        "Smoking: Smoking is strictly prohibited inside the villa. Designated smoking areas are available outdoors.",
+        "Chewing tobacco: Strictly prohibited with no exceptions.",
+        "Pets: Pets are not allowed on the property.",
+        "Occupancy: Follow maximum occupancy limits. Additional guests need prior approval.",
+        "Damages: Guests are responsible for any damages or breakages during their stay. Please report any incidents to the management promptly. Charges may apply for repairs or replacements.",
+        "Cleanliness: Please keep the villa clean, use the designated trash bins and avoid littering the property.",
+        "Safety & security: Lock all doors and windows when leaving. We will not be responsible for any loss or theft of personal belongings.",
+        "Amenities & facilities: Use the provided amenities responsibly and adhere to any posted guidelines.",
+        "Compliance: Follow local laws and regulations. Illegal activities will result in eviction and potential legal action.",
+        "Upkeep: Daily cleaning is compulsory. Kindly cooperate with our housekeeping team.",
+        "Standard occupancy: 8 guests​",
+        "Maximum occupancy: 8 guests"
+      ]
+    },
+    {
+      "bullets": [
+        "Kasauli Hill Station - 9.5km",
+        "Manki Point (Air Force Station) -12km",
+        "Dagshai Jail Museum - 16km",
+        "Nearest airport - Shaheed Bhagat Singh International Airport - 71km",
+        "Nearest railway station Dharmpur - 11.5km"
+      ],
+      "heading": "Overview",
+      "paragraphs": []
+    }
+  ],
+  "images": [
+    "https://cpjlcwamma.cloudimg.io/ELIVAAS_prive_1_0452857cb6.svg",
+    "https://cpjlcwamma.cloudimg.io/Hero_Image_jpg_ba7644fa35.jpeg",
+    "https://cpjlcwamma.cloudimg.io/K81_A2935_7a504cdf5b.jpg",
+    "https://cpjlcwamma.cloudimg.io/P1038236_94db4a15a9.jpg",
+    "https://cpjlcwamma.cloudimg.io/P1038308_fdeb34584e.jpg",
+    "https://cpjlcwamma.cloudimg.io/P1038275_ba6d4fb8d3.jpg"
+  ],
+  "image_count": 6
+}

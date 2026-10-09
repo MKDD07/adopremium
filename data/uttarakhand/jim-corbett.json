@@ -1,0 +1,89 @@
+{
+  "id": 14,
+  "slug": "jim-corbett",
+  "name": "Jim Corbett",
+  "villa_count": 13,
+  "villas": [
+    {
+      "id": 341,
+      "slug": "aranya-library-aria-3-bhk-villa-with-kids-room-private-pool",
+      "name": "Aranya Library Aria 3 BHK Villa with Kids Room Private Pool",
+      "url": "https://www.elivaas.com/villa-in-jim-corbett/aranya-library-aria-3-bhk-villa-with-kids-room-private-pool"
+    },
+    {
+      "id": 342,
+      "slug": "aranya-library-maison-6-bhk-villa-with-private-pool",
+      "name": "Aranya Library Maison 6 BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-jim-corbett/aranya-library-maison-6-bhk-villa-with-private-pool"
+    },
+    {
+      "id": 343,
+      "slug": "aranya-library-zuri-3-bhk-villa-with-private-pool",
+      "name": "Aranya Library Zuri 3 BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-jim-corbett/aranya-library-zuri-3-bhk-villa-with-private-pool"
+    },
+    {
+      "id": 344,
+      "slug": "puvalgarh-farms-thistle-cottage-style-suite-with-shared-pool",
+      "name": "Puvalgarh Farms Thistle Cottage Style Suite with Shared Pool",
+      "url": "https://www.elivaas.com/villa-in-jim-corbett/puvalgarh-farms-thistle-cottage-style-suite-with-shared-pool"
+    },
+    {
+      "id": 345,
+      "slug": "puvalgarh-farms-4-bhk-villa",
+      "name": "Puvalgarh Farms 4 BHK Villa",
+      "url": "https://www.elivaas.com/villa-in-jim-corbett/puvalgarh-farms-4-bhk-villa"
+    },
+    {
+      "id": 346,
+      "slug": "sylvaara-private-pool-cottage-with-restaurant",
+      "name": "Sylvaara Private Pool Cottage with Restaurant",
+      "url": "https://www.elivaas.com/villa-in-jim-corbett/sylvaara-private-pool-cottage-with-restaurant"
+    },
+    {
+      "id": 347,
+      "slug": "sylvaara-standard-room-with-restaurant",
+      "name": "Sylvaara Standard Room with Restaurant",
+      "url": "https://www.elivaas.com/villa-in-jim-corbett/sylvaara-standard-room-with-restaurant"
+    },
+    {
+      "id": 348,
+      "slug": "sylvaara-suite-room-with-restaurant",
+      "name": "Sylvaara Suite Room with Restaurant",
+      "url": "https://www.elivaas.com/villa-in-jim-corbett/sylvaara-suite-room-with-restaurant"
+    },
+    {
+      "id": 349,
+      "slug": "dhela-jungle-retreat-cobblestone-duplex-2-bhk-with-pool",
+      "name": "Dhela Jungle Retreat Cobblestone Duplex 2 BHK with Pool",
+      "url": "https://www.elivaas.com/villa-in-jim-corbett/dhela-jungle-retreat-cobblestone-duplex-2-bhk-with-pool"
+    },
+    {
+      "id": 350,
+      "slug": "dhela-jungle-pet-friendly",
+      "name": "Dhela Jungle Pet Friendly",
+      "url": "https://www.elivaas.com/villa-in-jim-corbett/dhela-jungle-pet-friendly"
+    },
+    {
+      "id": 351,
+      "slug": "dhela-jungle-retreat-pet-friendly-2-bhk-resort-with-pool",
+      "name": "Dhela Jungle Retreat Pet Friendly 2 BHK Resort with Pool",
+      "url": "https://www.elivaas.com/villa-in-jim-corbett/dhela-jungle-retreat-pet-friendly-2-bhk-resort-with-pool"
+    },
+    {
+      "id": 352,
+      "slug": "farm-naturelle-3bhk-farmhouse-in-jim-corbett",
+      "name": "Farm Naturelle 3BHK Farmhouse in Jim Corbett",
+      "url": "https://www.elivaas.com/villa-in-jim-corbett/farm-naturelle-3bhk-farmhouse-in-jim-corbett"
+    },
+    {
+      "id": 353,
+      "slug": "mannat-villa-4-bhk-english-style-forest-view-villa-with-covered-deck",
+      "name": "Mannat Villa 4 BHK English Style Forest View Villa with Covered Deck",
+      "url": "https://www.elivaas.com/villa-in-jim-corbett/mannat-villa-4-bhk-english-style-forest-view-villa-with-covered-deck"
+    }
+  ],
+  "state_name": "Uttarakhand",
+  "state_slug": "uttarakhand",
+  "hero": "jim corbett forest wilderness luxury resort"
+}

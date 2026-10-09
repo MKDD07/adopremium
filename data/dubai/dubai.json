@@ -1,0 +1,797 @@
+{
+  "id": 11,
+  "slug": "dubai",
+  "name": "Dubai",
+  "villa_count": 131,
+  "villas": [
+    {
+      "id": 162,
+      "slug": "1b-by-marasi-drive-close-to-downtown-attractions",
+      "name": "1B by Marasi Drive Close to Downtown Attractions",
+      "url": "https://www.elivaas.com/villa-in-dubai/1b-by-marasi-drive-close-to-downtown-attractions"
+    },
+    {
+      "id": 163,
+      "slug": "livbnb-coastal-2b-with-marina-view-walk-to-beach",
+      "name": "Livbnb Coastal 2B with Marina View Walk to Beach",
+      "url": "https://www.elivaas.com/villa-in-dubai/livbnb-coastal-2b-with-marina-view-walk-to-beach"
+    },
+    {
+      "id": 164,
+      "slug": "1-bhk-with-marina-and-partial-sea-views",
+      "name": "1 BHK with Marina and Partial Sea Views",
+      "url": "https://www.elivaas.com/villa-in-dubai/1-bhk-with-marina-and-partial-sea-views"
+    },
+    {
+      "id": 165,
+      "slug": "1-br-by-the-beach-marina-view",
+      "name": "1 BR by the Beach Marina View",
+      "url": "https://www.elivaas.com/villa-in-dubai/1-br-by-the-beach-marina-view"
+    },
+    {
+      "id": 166,
+      "slug": "livbnb-suites-marina-1br",
+      "name": "Livbnb Suites Marina 1BR",
+      "url": "https://www.elivaas.com/villa-in-dubai/livbnb-suites-marina-1br"
+    },
+    {
+      "id": 167,
+      "slug": "1br-paragon-tower-burj-khalifa-canal-views",
+      "name": "1BR Paragon Tower Burj Khalifa Canal Views",
+      "url": "https://www.elivaas.com/villa-in-dubai/1br-paragon-tower-burj-khalifa-canal-views"
+    },
+    {
+      "id": 168,
+      "slug": "1br-retreat-in-binghatti-nova-jvc",
+      "name": "1BR Retreat in Binghatti Nova JVC",
+      "url": "https://www.elivaas.com/villa-in-dubai/1br-retreat-in-binghatti-nova-jvc"
+    },
+    {
+      "id": 169,
+      "slug": "1br-retreat-with-free-access-to-creek-lagoon",
+      "name": "1BR Retreat with Free Access to Creek Lagoon",
+      "url": "https://www.elivaas.com/villa-in-dubai/1br-retreat-with-free-access-to-creek-lagoon"
+    },
+    {
+      "id": 170,
+      "slug": "1br-sea-and-skyline-views-in-seven-palm",
+      "name": "1BR Sea and Skyline Views in Seven Palm",
+      "url": "https://www.elivaas.com/villa-in-dubai/1br-sea-and-skyline-views-in-seven-palm"
+    },
+    {
+      "id": 171,
+      "slug": "spectacular-1br",
+      "name": "Spectacular 1BR",
+      "url": "https://www.elivaas.com/villa-in-dubai/spectacular-1br"
+    },
+    {
+      "id": 172,
+      "slug": "1br-with-sea-view-in-palm-tower",
+      "name": "1BR with Sea View in Palm Tower",
+      "url": "https://www.elivaas.com/villa-in-dubai/1br-with-sea-view-in-palm-tower"
+    },
+    {
+      "id": 173,
+      "slug": "2b-maid-in-dunya-5-min-walk-to-dubai-mall",
+      "name": "2B Maid in Dunya 5 Min Walk to Dubai Mall",
+      "url": "https://www.elivaas.com/villa-in-dubai/2b-maid-in-dunya-5-min-walk-to-dubai-mall"
+    },
+    {
+      "id": 174,
+      "slug": "livbnb-2b-in-shams-walk-to-beach",
+      "name": "Livbnb 2B in Shams Walk to Beach",
+      "url": "https://www.elivaas.com/villa-in-dubai/livbnb-2b-in-shams-walk-to-beach"
+    },
+    {
+      "id": 175,
+      "slug": "2b-stunner-with-iconic-ain-dubai-view",
+      "name": "2B Stunner with Iconic Ain Dubai View",
+      "url": "https://www.elivaas.com/villa-in-dubai/2b-stunner-with-iconic-ain-dubai-view"
+    },
+    {
+      "id": 176,
+      "slug": "2b-with-skyline-views-steps-to-creek-marina",
+      "name": "2B with Skyline Views Steps to Creek Marina",
+      "url": "https://www.elivaas.com/villa-in-dubai/2b-with-skyline-views-steps-to-creek-marina"
+    },
+    {
+      "id": 177,
+      "slug": "2-br-apartment-with-breathtaking-marina-view",
+      "name": "2 BR Apartment with Breathtaking Marina View",
+      "url": "https://www.elivaas.com/villa-in-dubai/2-br-apartment-with-breathtaking-marina-view"
+    },
+    {
+      "id": 178,
+      "slug": "2br-beachfront-living-stunning-marina-views",
+      "name": "2BR Beachfront Living Stunning Marina Views",
+      "url": "https://www.elivaas.com/villa-in-dubai/2br-beachfront-living-stunning-marina-views"
+    },
+    {
+      "id": 179,
+      "slug": "2-br-in-central-marina",
+      "name": "2 BR in Central Marina",
+      "url": "https://www.elivaas.com/villa-in-dubai/2-br-in-central-marina"
+    },
+    {
+      "id": 180,
+      "slug": "stylish-2br-near-dubai-mall-and-burj-khalifa",
+      "name": "Stylish 2BR near Dubai Mall and Burj Khalifa",
+      "url": "https://www.elivaas.com/villa-in-dubai/stylish-2br-near-dubai-mall-and-burj-khalifa"
+    },
+    {
+      "id": 181,
+      "slug": "2br-in-safi",
+      "name": "2BR in Safi",
+      "url": "https://www.elivaas.com/villa-in-dubai/2br-in-safi"
+    },
+    {
+      "id": 182,
+      "slug": "bright-2-bedroom-suite-in-bluewaters",
+      "name": "Bright 2 Bedroom Suite in Bluewaters",
+      "url": "https://www.elivaas.com/villa-in-dubai/bright-2-bedroom-suite-in-bluewaters"
+    },
+    {
+      "id": 183,
+      "slug": "2br-sunset-view-suite-jumeirah-living-marina-gate",
+      "name": "2BR Sunset View Suite Jumeirah Living Marina Gate",
+      "url": "https://www.elivaas.com/villa-in-dubai/2br-sunset-view-suite-jumeirah-living-marina-gate"
+    },
+    {
+      "id": 184,
+      "slug": "2br-with-iconic-burj-and-dubai-fountain-views",
+      "name": "2BR with Iconic Burj and Dubai Fountain Views",
+      "url": "https://www.elivaas.com/villa-in-dubai/2br-with-iconic-burj-and-dubai-fountain-views"
+    },
+    {
+      "id": 185,
+      "slug": "2br-full-panoramic-sea-view-and-beach-access",
+      "name": "2BR Full Panoramic Sea View and Beach Access",
+      "url": "https://www.elivaas.com/villa-in-dubai/2br-full-panoramic-sea-view-and-beach-access"
+    },
+    {
+      "id": 186,
+      "slug": "livbnb-3b-with-marina-views-near-beach",
+      "name": "Livbnb 3B with Marina Views near Beach",
+      "url": "https://www.elivaas.com/villa-in-dubai/livbnb-3b-with-marina-views-near-beach"
+    },
+    {
+      "id": 187,
+      "slug": "livbnb-3-br-with-burh-and-fountain-view",
+      "name": "Livbnb 3 BR with Burh and Fountain View",
+      "url": "https://www.elivaas.com/villa-in-dubai/livbnb-3-br-with-burh-and-fountain-view"
+    },
+    {
+      "id": 188,
+      "slug": "3br-at-address-jbr-with-sea-ain-dubai-views",
+      "name": "3BR at Address JBR with Sea Ain Dubai Views",
+      "url": "https://www.elivaas.com/villa-in-dubai/3br-at-address-jbr-with-sea-ain-dubai-views"
+    },
+    {
+      "id": 189,
+      "slug": "3br-suite-next-to-dubai-mall-with-burj-view",
+      "name": "3BR Suite next to Dubai Mall with Burj View",
+      "url": "https://www.elivaas.com/villa-in-dubai/3br-suite-next-to-dubai-mall-with-burj-view"
+    },
+    {
+      "id": 190,
+      "slug": "3-br-suite-with-burj-abd-fountain-views",
+      "name": "3 BR Suite with Burj Abd Fountain Views",
+      "url": "https://www.elivaas.com/villa-in-dubai/3-br-suite-with-burj-abd-fountain-views"
+    },
+    {
+      "id": 191,
+      "slug": "3br-townhouse-rooftop-terrace-just-cavalli",
+      "name": "3BR Townhouse Rooftop Terrace just Cavalli",
+      "url": "https://www.elivaas.com/villa-in-dubai/3br-townhouse-rooftop-terrace-just-cavalli"
+    },
+    {
+      "id": 192,
+      "slug": "live-the-dubai-dream",
+      "name": "Live the Dubai Dream",
+      "url": "https://www.elivaas.com/villa-in-dubai/live-the-dubai-dream"
+    },
+    {
+      "id": 193,
+      "slug": "3br-with-marina-skyline-view-and-private-beach",
+      "name": "3BR with Marina Skyline View and Private Beach",
+      "url": "https://www.elivaas.com/villa-in-dubai/3br-with-marina-skyline-view-and-private-beach"
+    },
+    {
+      "id": 194,
+      "slug": "3br-with-marina-skyline-views",
+      "name": "3BR with Marina Skyline Views",
+      "url": "https://www.elivaas.com/villa-in-dubai/3br-with-marina-skyline-views"
+    },
+    {
+      "id": 195,
+      "slug": "4br-dubai-sea-view",
+      "name": "4BR Dubai Sea View",
+      "url": "https://www.elivaas.com/villa-in-dubai/4br-dubai-sea-view"
+    },
+    {
+      "id": 196,
+      "slug": "ain-dubai-panorama-3br-with-maids-room",
+      "name": "Ain Dubai Panorama 3BR with Maids Room",
+      "url": "https://www.elivaas.com/villa-in-dubai/ain-dubai-panorama-3br-with-maids-room"
+    },
+    {
+      "id": 197,
+      "slug": "livbnb-bluewaters-suite-alluring-3br-1-with-sea-ain-dubai-view",
+      "name": "Livbnb Bluewaters Suite Alluring 3BR 1 with Sea Ain Dubai View",
+      "url": "https://www.elivaas.com/villa-in-dubai/livbnb-bluewaters-suite-alluring-3br-1-with-sea-ain-dubai-view"
+    },
+    {
+      "id": 198,
+      "slug": "livbnb-beachfront-2b",
+      "name": "Livbnb Beachfront 2B",
+      "url": "https://www.elivaas.com/villa-in-dubai/livbnb-beachfront-2b"
+    },
+    {
+      "id": 199,
+      "slug": "beachfront-2br-with-palm-and-sea-views",
+      "name": "Beachfront 2BR with Palm and Sea Views",
+      "url": "https://www.elivaas.com/villa-in-dubai/beachfront-2br-with-palm-and-sea-views"
+    },
+    {
+      "id": 200,
+      "slug": "beachfront-2br-plus-maid-one-jbr-sea-and-palm-views",
+      "name": "Beachfront 2BR plus Maid One JBR Sea and Palm Views",
+      "url": "https://www.elivaas.com/villa-in-dubai/beachfront-2br-plus-maid-one-jbr-sea-and-palm-views"
+    },
+    {
+      "id": 201,
+      "slug": "beachfront-studio-with-dining-and-leisure-steps-away",
+      "name": "Beachfront Studio with Dining and Leisure Steps Away",
+      "url": "https://www.elivaas.com/villa-in-dubai/beachfront-studio-with-dining-and-leisure-steps-away"
+    },
+    {
+      "id": 202,
+      "slug": "beachfront-ultra-4br-duplex-sea-and-burj-views",
+      "name": "Beachfront Ultra 4BR Duplex Sea and Burj Views",
+      "url": "https://www.elivaas.com/villa-in-dubai/beachfront-ultra-4br-duplex-sea-and-burj-views"
+    },
+    {
+      "id": 203,
+      "slug": "bluewaters-2b-iconic-ain-dubai-and-sea-view",
+      "name": "Bluewaters 2B Iconic Ain Dubai and Sea View",
+      "url": "https://www.elivaas.com/villa-in-dubai/bluewaters-2b-iconic-ain-dubai-and-sea-view"
+    },
+    {
+      "id": 204,
+      "slug": "elegant-bluewaters-3br-maids-w-sea-view",
+      "name": "Elegant Bluewaters 3BR Maids w Sea View",
+      "url": "https://www.elivaas.com/villa-in-dubai/elegant-bluewaters-3br-maids-w-sea-view"
+    },
+    {
+      "id": 205,
+      "slug": "bright-1-br-suite-in-merano-tower",
+      "name": "Bright 1 BR Suite in Merano Tower",
+      "url": "https://www.elivaas.com/villa-in-dubai/bright-1-br-suite-in-merano-tower"
+    },
+    {
+      "id": 206,
+      "slug": "bright-1br-with-marina-and-city-views",
+      "name": "Bright 1BR with Marina and City Views",
+      "url": "https://www.elivaas.com/villa-in-dubai/bright-1br-with-marina-and-city-views"
+    },
+    {
+      "id": 207,
+      "slug": "your-beachfront-escape-modern-1br",
+      "name": "Your Beachfront Escape Modern 1BR",
+      "url": "https://www.elivaas.com/villa-in-dubai/your-beachfront-escape-modern-1br"
+    },
+    {
+      "id": 208,
+      "slug": "spacious-1-br-steps-to-burj-khalifa",
+      "name": "Spacious 1 BR Steps to Burj Khalifa",
+      "url": "https://www.elivaas.com/villa-in-dubai/spacious-1-br-steps-to-burj-khalifa"
+    },
+    {
+      "id": 209,
+      "slug": "bright-2br-in-jvc-pool-gym-and-modern-comfort",
+      "name": "Bright 2BR in JVC Pool Gym and Modern Comfort",
+      "url": "https://www.elivaas.com/villa-in-dubai/bright-2br-in-jvc-pool-gym-and-modern-comfort"
+    },
+    {
+      "id": 210,
+      "slug": "bright-studio-with-balcony-close-to-downtown-dubai",
+      "name": "Bright Studio with Balcony Close to Downtown Dubai",
+      "url": "https://www.elivaas.com/villa-in-dubai/bright-studio-with-balcony-close-to-downtown-dubai"
+    },
+    {
+      "id": 211,
+      "slug": "wake-up-to-burj-khalifa-elegant-2-br",
+      "name": "Wake Up to Burj Khalifa Elegant 2 BR",
+      "url": "https://www.elivaas.com/villa-in-dubai/wake-up-to-burj-khalifa-elegant-2-br"
+    },
+    {
+      "id": 212,
+      "slug": "analfront-gem-1br-in-zada-tower-by-livbnb",
+      "name": "Analfront Gem 1BR in Zada Tower by Livbnb",
+      "url": "https://www.elivaas.com/villa-in-dubai/analfront-gem-1br-in-zada-tower-by-livbnb"
+    },
+    {
+      "id": 213,
+      "slug": "casa-aruri-1b-marina-escape",
+      "name": "Casa Aruri 1B Marina Escape",
+      "url": "https://www.elivaas.com/villa-in-dubai/casa-aruri-1b-marina-escape"
+    },
+    {
+      "id": 214,
+      "slug": "centrally-located-1br-near-dubai-canal-and-downtown",
+      "name": "Centrally Located 1BR near Dubai Canal and Downtown",
+      "url": "https://www.elivaas.com/villa-in-dubai/centrally-located-1br-near-dubai-canal-and-downtown"
+    },
+    {
+      "id": 215,
+      "slug": "chic-1b-by-dubai-canal-marasi-drive-with-pool",
+      "name": "Chic 1B by Dubai Canal Marasi Drive with Pool",
+      "url": "https://www.elivaas.com/villa-in-dubai/chic-1b-by-dubai-canal-marasi-drive-with-pool"
+    },
+    {
+      "id": 216,
+      "slug": "chic-1b-in-nobles-city-views-prime-location",
+      "name": "Chic 1B in Nobles City Views Prime Location",
+      "url": "https://www.elivaas.com/villa-in-dubai/chic-1b-in-nobles-city-views-prime-location"
+    },
+    {
+      "id": 217,
+      "slug": "beachfront-1br-with-marina-and-city-views",
+      "name": "Beachfront 1BR with Marina and City Views",
+      "url": "https://www.elivaas.com/villa-in-dubai/beachfront-1br-with-marina-and-city-views"
+    },
+    {
+      "id": 218,
+      "slug": "chic-studio-with-pool-and-jacuzzi",
+      "name": "Chic Studio with Pool and Jacuzzi",
+      "url": "https://www.elivaas.com/villa-in-dubai/chic-studio-with-pool-and-jacuzzi"
+    },
+    {
+      "id": 219,
+      "slug": "classy-2-b-with-jacuzzi-and-burj-khalifa-view",
+      "name": "Classy 2 B with Jacuzzi and Burj Khalifa View",
+      "url": "https://www.elivaas.com/villa-in-dubai/classy-2-b-with-jacuzzi-and-burj-khalifa-view"
+    },
+    {
+      "id": 220,
+      "slug": "1-br-by-canal-view",
+      "name": "1 BR by Canal View",
+      "url": "https://www.elivaas.com/villa-in-dubai/1-br-by-canal-view"
+    },
+    {
+      "id": 221,
+      "slug": "convenient-loft-type-1b-dubai-sports-city",
+      "name": "Convenient Loft Type 1B Dubai Sports City",
+      "url": "https://www.elivaas.com/villa-in-dubai/convenient-loft-type-1b-dubai-sports-city"
+    },
+    {
+      "id": 222,
+      "slug": "cozy-2br-walk-to-creek-marina-and-beach",
+      "name": "Cozy 2BR Walk to Creek Marina and Beach",
+      "url": "https://www.elivaas.com/villa-in-dubai/cozy-2br-walk-to-creek-marina-and-beach"
+    },
+    {
+      "id": 223,
+      "slug": "upgraded-suite-with-marina-views",
+      "name": "Upgraded Suite with Marina Views",
+      "url": "https://www.elivaas.com/villa-in-dubai/upgraded-suite-with-marina-views"
+    },
+    {
+      "id": 224,
+      "slug": "designer-1br-at-emaar-beachfront",
+      "name": "Designer 1BR at Emaar Beachfront",
+      "url": "https://www.elivaas.com/villa-in-dubai/designer-1br-at-emaar-beachfront"
+    },
+    {
+      "id": 225,
+      "slug": "elegant-1br-in-jvc-with-pool",
+      "name": "Elegant 1BR in JVC with Pool",
+      "url": "https://www.elivaas.com/villa-in-dubai/elegant-1br-in-jvc-with-pool"
+    },
+    {
+      "id": 226,
+      "slug": "elegant-1br-with-balcony-and-skyline-views",
+      "name": "Elegant 1BR with Balcony and Skyline Views",
+      "url": "https://www.elivaas.com/villa-in-dubai/elegant-1br-with-balcony-and-skyline-views"
+    },
+    {
+      "id": 227,
+      "slug": "relaxing-2br-close-to-creek-beach-with-pool",
+      "name": "Relaxing 2BR Close to Creek Beach with Pool",
+      "url": "https://www.elivaas.com/villa-in-dubai/relaxing-2br-close-to-creek-beach-with-pool"
+    },
+    {
+      "id": 228,
+      "slug": "elegant-designer-studio-balcony-rooftop-pool",
+      "name": "Elegant Designer Studio Balcony Rooftop Pool",
+      "url": "https://www.elivaas.com/villa-in-dubai/elegant-designer-studio-balcony-rooftop-pool"
+    },
+    {
+      "id": 229,
+      "slug": "embrace-luxury-and-comfort-in-prime-1br-jlt",
+      "name": "Embrace Luxury and Comfort in Prime 1BR JLT",
+      "url": "https://www.elivaas.com/villa-in-dubai/embrace-luxury-and-comfort-in-prime-1br-jlt"
+    },
+    {
+      "id": 230,
+      "slug": "exquisite-studio-near-nakheel-mall",
+      "name": "Exquisite Studio near Nakheel Mall",
+      "url": "https://www.elivaas.com/villa-in-dubai/exquisite-studio-near-nakheel-mall"
+    },
+    {
+      "id": 231,
+      "slug": "glam-studio-next-to-marina-walk",
+      "name": "Glam Studio next to Marina Walk",
+      "url": "https://www.elivaas.com/villa-in-dubai/glam-studio-next-to-marina-walk"
+    },
+    {
+      "id": 232,
+      "slug": "livbnb-high-floor-2b-marina-view-walk-to-beach",
+      "name": "Livbnb High Floor 2B Marina View Walk to Beach",
+      "url": "https://www.elivaas.com/villa-in-dubai/livbnb-high-floor-2b-marina-view-walk-to-beach"
+    },
+    {
+      "id": 233,
+      "slug": "high-end-1br-bluewaters-luxury-near-ain-dubai",
+      "name": "High End 1BR Bluewaters Luxury near Ain Dubai",
+      "url": "https://www.elivaas.com/villa-in-dubai/high-end-1br-bluewaters-luxury-near-ain-dubai"
+    },
+    {
+      "id": 234,
+      "slug": "high-floor-1br-with-burj-khalifa-view",
+      "name": "High Floor 1BR with Burj Khalifa View",
+      "url": "https://www.elivaas.com/villa-in-dubai/high-floor-1br-with-burj-khalifa-view"
+    },
+    {
+      "id": 235,
+      "slug": "high-floor-2-br-skyline-sea-burj-khalifa-view",
+      "name": "High Floor 2 BR Skyline Sea Burj Khalifa View",
+      "url": "https://www.elivaas.com/villa-in-dubai/high-floor-2-br-skyline-sea-burj-khalifa-view"
+    },
+    {
+      "id": 236,
+      "slug": "homey-1b-with-spacious-terrace-in-jvc",
+      "name": "Homey 1B with Spacious Terrace in JVC",
+      "url": "https://www.elivaas.com/villa-in-dubai/homey-1b-with-spacious-terrace-in-jvc"
+    },
+    {
+      "id": 237,
+      "slug": "livbnb-suites-lavish-1-br-in-j-one-tower",
+      "name": "Livbnb Suites Lavish 1 BR in J One Tower",
+      "url": "https://www.elivaas.com/villa-in-dubai/livbnb-suites-lavish-1-br-in-j-one-tower"
+    },
+    {
+      "id": 238,
+      "slug": "lavish-2-bedroom-suite-with-burj-khalifa-view",
+      "name": "Lavish 2 Bedroom Suite with Burj Khalifa View",
+      "url": "https://www.elivaas.com/villa-in-dubai/lavish-2-bedroom-suite-with-burj-khalifa-view"
+    },
+    {
+      "id": 239,
+      "slug": "lush-2br-with-sea-and-ain-view",
+      "name": "Lush 2BR with Sea and Ain View",
+      "url": "https://www.elivaas.com/villa-in-dubai/lush-2br-with-sea-and-ain-view"
+    },
+    {
+      "id": 240,
+      "slug": "luxury-3-b-and-maid-with-burj-view",
+      "name": "Luxury 3 B and Maid with Burj View",
+      "url": "https://www.elivaas.com/villa-in-dubai/luxury-3-b-and-maid-with-burj-view"
+    },
+    {
+      "id": 241,
+      "slug": "livbnb-luxury-3b-with-maids-room-partial-sea-view",
+      "name": "Livbnb Luxury 3B with Maids Room Partial Sea View",
+      "url": "https://www.elivaas.com/villa-in-dubai/livbnb-luxury-3b-with-maids-room-partial-sea-view"
+    },
+    {
+      "id": 242,
+      "slug": "modern-1-bed-in-merano-tower",
+      "name": "Modern 1 Bed in Merano Tower",
+      "url": "https://www.elivaas.com/villa-in-dubai/modern-1-bed-in-merano-tower"
+    },
+    {
+      "id": 243,
+      "slug": "modern-1bhk-with-private-balcony",
+      "name": "Modern 1BHK with Private Balcony",
+      "url": "https://www.elivaas.com/villa-in-dubai/modern-1bhk-with-private-balcony"
+    },
+    {
+      "id": 244,
+      "slug": "modern-1br-oasis-with-stunning-terrace-jvc",
+      "name": "Modern 1BR Oasis with Stunning Terrace JVC",
+      "url": "https://www.elivaas.com/villa-in-dubai/modern-1br-oasis-with-stunning-terrace-jvc"
+    },
+    {
+      "id": 245,
+      "slug": "modern-2br-in-shams-marina-views",
+      "name": "Modern 2BR in Shams Marina Views",
+      "url": "https://www.elivaas.com/villa-in-dubai/modern-2br-in-shams-marina-views"
+    },
+    {
+      "id": 246,
+      "slug": "modern-2br-with-partial-burj-khalifa-view",
+      "name": "Modern 2BR with Partial Burj Khalifa View",
+      "url": "https://www.elivaas.com/villa-in-dubai/modern-2br-with-partial-burj-khalifa-view"
+    },
+    {
+      "id": 247,
+      "slug": "home-above-marina-3-br-with-sunset-views",
+      "name": "Home Above Marina 3 BR with Sunset Views",
+      "url": "https://www.elivaas.com/villa-in-dubai/home-above-marina-3-br-with-sunset-views"
+    },
+    {
+      "id": 248,
+      "slug": "modern-living-1-bhk-apartment",
+      "name": "Modern Living 1 BHK Apartment",
+      "url": "https://www.elivaas.com/villa-in-dubai/modern-living-1-bhk-apartment"
+    },
+    {
+      "id": 249,
+      "slug": "modern-loft-1br-next-to-metro-marina-walk",
+      "name": "Modern Loft 1BR next to Metro Marina Walk",
+      "url": "https://www.elivaas.com/villa-in-dubai/modern-loft-1br-next-to-metro-marina-walk"
+    },
+    {
+      "id": 250,
+      "slug": "modern-retreat-in-the-views-with-balcony-and-pool",
+      "name": "Modern Retreat in the Views with Balcony and Pool",
+      "url": "https://www.elivaas.com/villa-in-dubai/modern-retreat-in-the-views-with-balcony-and-pool"
+    },
+    {
+      "id": 251,
+      "slug": "modern-studio-in-jvc-near-parks-and-highways",
+      "name": "Modern Studio in JVC near Parks and Highways",
+      "url": "https://www.elivaas.com/villa-in-dubai/modern-studio-in-jvc-near-parks-and-highways"
+    },
+    {
+      "id": 252,
+      "slug": "modern-studio-near-dubai-mall",
+      "name": "Modern Studio near Dubai Mall",
+      "url": "https://www.elivaas.com/villa-in-dubai/modern-studio-near-dubai-mall"
+    },
+    {
+      "id": 253,
+      "slug": "oceanic-1br-sea-view-beach-access",
+      "name": "Oceanic 1BR Sea View Beach Access",
+      "url": "https://www.elivaas.com/villa-in-dubai/oceanic-1br-sea-view-beach-access"
+    },
+    {
+      "id": 254,
+      "slug": "penthouse-in-signature-jvc-with-huge-balcony",
+      "name": "Penthouse in Signature JVC with Huge Balcony",
+      "url": "https://www.elivaas.com/villa-in-dubai/penthouse-in-signature-jvc-with-huge-balcony"
+    },
+    {
+      "id": 255,
+      "slug": "perfect-1br-retreat-in-the-heart-of-jvc",
+      "name": "Perfect 1BR Retreat in the Heart of JVC",
+      "url": "https://www.elivaas.com/villa-in-dubai/perfect-1br-retreat-in-the-heart-of-jvc"
+    },
+    {
+      "id": 256,
+      "slug": "premium-3b-with-skyline-view",
+      "name": "Premium 3B with Skyline View",
+      "url": "https://www.elivaas.com/villa-in-dubai/premium-3b-with-skyline-view"
+    },
+    {
+      "id": 257,
+      "slug": "prime-1br-with-marina-views-and-beach-access",
+      "name": "Prime 1BR with Marina Views and Beach Access",
+      "url": "https://www.elivaas.com/villa-in-dubai/prime-1br-with-marina-views-and-beach-access"
+    },
+    {
+      "id": 258,
+      "slug": "prime-3br-1-suite-with-full-ain-dubai-view",
+      "name": "Prime 3BR 1 Suite with Full Ain Dubai View",
+      "url": "https://www.elivaas.com/villa-in-dubai/prime-3br-1-suite-with-full-ain-dubai-view"
+    },
+    {
+      "id": 259,
+      "slug": "relaxing-1br-peaceful-family-living-in-jvc",
+      "name": "Relaxing 1BR Peaceful Family Living in JVC",
+      "url": "https://www.elivaas.com/villa-in-dubai/relaxing-1br-peaceful-family-living-in-jvc"
+    },
+    {
+      "id": 260,
+      "slug": "sea-view-2b-beachfront-luxury-emaar-beachfront",
+      "name": "Sea View 2B Beachfront Luxury Emaar Beachfront",
+      "url": "https://www.elivaas.com/villa-in-dubai/sea-view-2b-beachfront-luxury-emaar-beachfront"
+    },
+    {
+      "id": 261,
+      "slug": "seaside-studio-in-pam-jumeirah",
+      "name": "Seaside Studio in Pam Jumeirah",
+      "url": "https://www.elivaas.com/villa-in-dubai/seaside-studio-in-pam-jumeirah"
+    },
+    {
+      "id": 262,
+      "slug": "serene-1br-canalfront-living-in-al-wasl",
+      "name": "Serene 1BR Canalfront Living in Al Wasl",
+      "url": "https://www.elivaas.com/villa-in-dubai/serene-1br-canalfront-living-in-al-wasl"
+    },
+    {
+      "id": 263,
+      "slug": "livbnb-serene-2b-marina-sea-view",
+      "name": "Livbnb Serene 2B Marina Sea View",
+      "url": "https://www.elivaas.com/villa-in-dubai/livbnb-serene-2b-marina-sea-view"
+    },
+    {
+      "id": 264,
+      "slug": "serene-studio-with-private-terrace-in-jvc",
+      "name": "Serene Studio with Private Terrace in JVC",
+      "url": "https://www.elivaas.com/villa-in-dubai/serene-studio-with-private-terrace-in-jvc"
+    },
+    {
+      "id": 265,
+      "slug": "sky-high-duplex-penthouse-marina-sea-views",
+      "name": "Sky High Duplex Penthouse Marina Sea Views",
+      "url": "https://www.elivaas.com/villa-in-dubai/sky-high-duplex-penthouse-marina-sea-views"
+    },
+    {
+      "id": 266,
+      "slug": "spacious-1br-in-shoreline-near-palm-mall",
+      "name": "Spacious 1BR in Shoreline near Palm Mall",
+      "url": "https://www.elivaas.com/villa-in-dubai/spacious-1br-in-shoreline-near-palm-mall"
+    },
+    {
+      "id": 267,
+      "slug": "spacious-2br-in-dubai-marina-with-balcony",
+      "name": "Spacious 2BR in Dubai Marina with Balcony",
+      "url": "https://www.elivaas.com/villa-in-dubai/spacious-2br-in-dubai-marina-with-balcony"
+    },
+    {
+      "id": 268,
+      "slug": "spacious-3br-in-marina-steps-to-the-beach",
+      "name": "Spacious 3BR in Marina Steps to the Beach",
+      "url": "https://www.elivaas.com/villa-in-dubai/spacious-3br-in-marina-steps-to-the-beach"
+    },
+    {
+      "id": 269,
+      "slug": "spacious-jvc-studio-prime-location",
+      "name": "Spacious JVC Studio Prime Location",
+      "url": "https://www.elivaas.com/villa-in-dubai/spacious-jvc-studio-prime-location"
+    },
+    {
+      "id": 270,
+      "slug": "feel-at-home-marina-view-studio-with-balcony",
+      "name": "Feel at Home Marina View Studio with Balcony",
+      "url": "https://www.elivaas.com/villa-in-dubai/feel-at-home-marina-view-studio-with-balcony"
+    },
+    {
+      "id": 271,
+      "slug": "stunning-1br-w-sea-view-beach-palm-jumeirah",
+      "name": "Stunning 1BR w Sea View Beach Palm Jumeirah",
+      "url": "https://www.elivaas.com/villa-in-dubai/stunning-1br-w-sea-view-beach-palm-jumeirah"
+    },
+    {
+      "id": 272,
+      "slug": "stylish-1b-with-spacious-balcony-in-jvc",
+      "name": "Stylish 1B with Spacious Balcony in JVC",
+      "url": "https://www.elivaas.com/villa-in-dubai/stylish-1b-with-spacious-balcony-in-jvc"
+    },
+    {
+      "id": 273,
+      "slug": "wake-up-to-sea-views-stylish-1br-in-jbr",
+      "name": "Wake Up to Sea Views Stylish 1BR in JBR",
+      "url": "https://www.elivaas.com/villa-in-dubai/wake-up-to-sea-views-stylish-1br-in-jbr"
+    },
+    {
+      "id": 274,
+      "slug": "stylish-1br-near-dubai-hills-mall-and-park",
+      "name": "Stylish 1BR near Dubai Hills Mall and Park",
+      "url": "https://www.elivaas.com/villa-in-dubai/stylish-1br-near-dubai-hills-mall-and-park"
+    },
+    {
+      "id": 275,
+      "slug": "stylish-1br-retreat-with-pool-stunning-city-view",
+      "name": "Stylish 1BR Retreat with Pool Stunning City View",
+      "url": "https://www.elivaas.com/villa-in-dubai/stylish-1br-retreat-with-pool-stunning-city-view"
+    },
+    {
+      "id": 276,
+      "slug": "stylish-2br-paramount-apt-near-downtown",
+      "name": "Stylish 2BR Paramount Apt near Downtown",
+      "url": "https://www.elivaas.com/villa-in-dubai/stylish-2br-paramount-apt-near-downtown"
+    },
+    {
+      "id": 277,
+      "slug": "stylish-and-spacious-1b-with-private-balcony",
+      "name": "Stylish and Spacious 1B with Private Balcony",
+      "url": "https://www.elivaas.com/villa-in-dubai/stylish-and-spacious-1b-with-private-balcony"
+    },
+    {
+      "id": 278,
+      "slug": "stylish-studio-in-jvc-near-parks-and-shops",
+      "name": "Stylish Studio in JVC near Parks and Shops",
+      "url": "https://www.elivaas.com/villa-in-dubai/stylish-studio-in-jvc-near-parks-and-shops"
+    },
+    {
+      "id": 279,
+      "slug": "livbnb-suites-2-bedroom-tranquillity-in-bluewaters",
+      "name": "Livbnb Suites 2 Bedroom Tranquillity in Bluewaters",
+      "url": "https://www.elivaas.com/villa-in-dubai/livbnb-suites-2-bedroom-tranquillity-in-bluewaters"
+    },
+    {
+      "id": 280,
+      "slug": "tranquil-family-home-4br-with-maids-room",
+      "name": "Tranquil Family Home 4BR with Maids Room",
+      "url": "https://www.elivaas.com/villa-in-dubai/tranquil-family-home-4br-with-maids-room"
+    },
+    {
+      "id": 281,
+      "slug": "stylish-1br-with-ain-dubai-and-sea-views-jbr",
+      "name": "Stylish 1BR with Ain Dubai and Sea Views JBR",
+      "url": "https://www.elivaas.com/villa-in-dubai/stylish-1br-with-ain-dubai-and-sea-views-jbr"
+    },
+    {
+      "id": 282,
+      "slug": "upgraded-1bhk-with-stunning-marina-views",
+      "name": "Upgraded 1BHK with Stunning Marina Views",
+      "url": "https://www.elivaas.com/villa-in-dubai/upgraded-1bhk-with-stunning-marina-views"
+    },
+    {
+      "id": 283,
+      "slug": "livbnb-upgraded-2br-maid's-room-with-sea-view",
+      "name": "Livbnb Upgraded 2BR Maid's Room with Sea View",
+      "url": "https://www.elivaas.com/villa-in-dubai/livbnb-upgraded-2br-maid's-room-with-sea-view"
+    },
+    {
+      "id": 284,
+      "slug": "upgraded-2br-near-shopping-and-dining-hubs",
+      "name": "Upgraded 2BR near Shopping and Dining Hubs",
+      "url": "https://www.elivaas.com/villa-in-dubai/upgraded-2br-near-shopping-and-dining-hubs"
+    },
+    {
+      "id": 285,
+      "slug": "upgraded-3b-with-marina-view-near-promenade",
+      "name": "Upgraded 3B with Marina View near Promenade",
+      "url": "https://www.elivaas.com/villa-in-dubai/upgraded-3b-with-marina-view-near-promenade"
+    },
+    {
+      "id": 286,
+      "slug": "studio-with-big-balcony-walk-to-beach",
+      "name": "Studio with Big Balcony Walk to Beach",
+      "url": "https://www.elivaas.com/villa-in-dubai/studio-with-big-balcony-walk-to-beach"
+    },
+    {
+      "id": 287,
+      "slug": "waterfront-2br-with-dubai-skyline-views",
+      "name": "Waterfront 2BR with Dubai Skyline Views",
+      "url": "https://www.elivaas.com/villa-in-dubai/waterfront-2br-with-dubai-skyline-views"
+    },
+    {
+      "id": 288,
+      "slug": "chic-high-floor-1br-in-the-greens-skyline-views",
+      "name": "Chic High Floor 1BR in the Greens Skyline Views",
+      "url": "https://www.elivaas.com/villa-in-dubai/chic-high-floor-1br-in-the-greens-skyline-views"
+    },
+    {
+      "id": 289,
+      "slug": "luxury-2br-with-sea",
+      "name": "Luxury 2BR with Sea",
+      "url": "https://www.elivaas.com/villa-in-dubai/luxury-2br-with-sea"
+    },
+    {
+      "id": 290,
+      "slug": "scenic-2bhk-with-amazing-marina-views",
+      "name": "Scenic 2BHK with Amazing Marina Views",
+      "url": "https://www.elivaas.com/villa-in-dubai/scenic-2bhk-with-amazing-marina-views"
+    },
+    {
+      "id": 291,
+      "slug": "wake-up-to-sea",
+      "name": "Wake Up to Sea",
+      "url": "https://www.elivaas.com/villa-in-dubai/wake-up-to-sea"
+    },
+    {
+      "id": 292,
+      "slug": "upgraded-1br-with-balcony-near-nakheel-mall",
+      "name": "Upgraded 1BR with Balcony near Nakheel Mall",
+      "url": "https://www.elivaas.com/villa-in-dubai/upgraded-1br-with-balcony-near-nakheel-mall"
+    }
+  ],
+  "state_name": "Dubai (UAE)",
+  "state_slug": "dubai",
+  "hero": "dubai luxury villa palm jumeirah private pool skyline"
+}

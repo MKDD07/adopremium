@@ -1,0 +1,29 @@
+{
+  "id": 2,
+  "slug": "alibaug",
+  "name": "Alibaug",
+  "villa_count": 3,
+  "villas": [
+    {
+      "id": 7,
+      "slug": "casa-mocha-5bhk-villa-with-private-pool",
+      "name": "Casa Mocha 5BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-alibaug/casa-mocha-5bhk-villa-with-private-pool"
+    },
+    {
+      "id": 8,
+      "slug": "the-fernstead-5bhk-villa-with-priavte-pool",
+      "name": "The Fernstead 5BHK Villa with Priavte Pool",
+      "url": "https://www.elivaas.com/villa-in-alibaug/the-fernstead-5bhk-villa-with-priavte-pool"
+    },
+    {
+      "id": 9,
+      "slug": "valdivian-villa-3-bhk-with-verandah",
+      "name": "Valdivian Villa 3 BHK with Verandah",
+      "url": "https://www.elivaas.com/villa-in-alibaug/valdivian-villa-3-bhk-with-verandah"
+    }
+  ],
+  "state_name": "Maharashtra",
+  "state_slug": "maharashtra",
+  "hero": "alibaug beach luxury private pool villa"
+}

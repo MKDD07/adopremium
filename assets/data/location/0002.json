@@ -1,0 +1,544 @@
+{
+  "title": "Detail | Villa Fleuve | 6-BHK Getaway By the River With Infinity Pool, Lift & Bar Lounge",
+  "summary": "Spacious and immaculately clean interiors with a modern kitchen. Private pool surrounded by lush gardens and a cozy patio area. Top-notch service from friendly staff, including a private chef experience.",
+  "location": {
+    "city": "Candolim",
+    "region": "North Goa",
+    "points_of_interest": [
+      {
+        "name": "Dolphins Ride Coco Beach",
+        "distance_km": 3.4
+      },
+      {
+        "name": "Candolim Beach",
+        "distance_km": 3.4
+      },
+      {
+        "name": "Coco Beach",
+        "distance_km": 5.2
+      },
+      {
+        "name": "Calangute Beach",
+        "distance_km": 6.3
+      },
+      {
+        "name": "Anjuna Beach",
+        "distance_km": 12.7
+      },
+      {
+        "name": "Thivim Railway Station",
+        "distance_km": 22.2
+      },
+      {
+        "name": "Manohar International Airport",
+        "distance_km": 30.5
+      }
+    ],
+    "latitude": 15.5226184,
+    "longitude": 73.7447712
+  },
+  "capacity": {
+    "standard_occupancy": 12,
+    "maximum_occupancy": 14,
+    "guests": 14,
+    "bedrooms": 6,
+    "beds": 6,
+    "bathrooms": 8
+  },
+  "pricing": null,
+  "rooms": [
+    {
+      "name": "Bedroom 1 - The Lush Retreat",
+      "floor": null,
+      "size_sqft": null,
+      "bed_type": "king-sized",
+      "features": null,
+      "attached_bathroom": null
+    },
+    {
+      "name": "Bedroom 2 - Rosewood Cove",
+      "floor": null,
+      "size_sqft": null,
+      "bed_type": "king-sized",
+      "features": null,
+      "attached_bathroom": null
+    },
+    {
+      "name": "Bedroom 3 - Riverine Suite",
+      "floor": null,
+      "size_sqft": null,
+      "bed_type": "king-sized",
+      "features": null,
+      "attached_bathroom": null
+    },
+    {
+      "name": "Bedroom 4 - Skyward Gaze",
+      "floor": null,
+      "size_sqft": null,
+      "bed_type": "king-sized",
+      "features": null,
+      "attached_bathroom": null
+    },
+    {
+      "name": "Bedroom 5 - Rhapsody in Blue",
+      "floor": null,
+      "size_sqft": null,
+      "bed_type": "king-sized",
+      "features": null,
+      "attached_bathroom": null
+    },
+    {
+      "name": "Bedroom 6 - Emerald Eden",
+      "floor": null,
+      "size_sqft": null,
+      "bed_type": "king-sized",
+      "features": null,
+      "attached_bathroom": null
+    }
+  ],
+  "amenities": [
+    "All Reviews",
+    "4.9",
+    "Airbnb",
+    "Booking.com",
+    "1.0",
+    "MakeMyTrip",
+    "Google",
+    "5.0",
+    "Overall Rating",
+    "(67)",
+    "Write a Review",
+    "parshva jhaveri",
+    "3 months ago",
+    "Read more",
+    "Avatar stub icon",
+    "Owner Reply",
+    "akhil darda",
+    "Jeetendra Bothra",
+    "Adesh Surana",
+    "Exclent property good staff",
+    "hiral jhaveri",
+    "4 months ago",
+    "Highly recommend the Villa for a luxury stay at goa",
+    "Angela Sebastian",
+    "5 months ago",
+    "Parking",
+    "Wifi",
+    "Lift",
+    "Swimming pool",
+    "Meals"
+  ],
+  "outdoor_spaces": {
+    "pool": {
+      "private": true,
+      "jacuzzi": false
+    },
+    "garden": true,
+    "gazebo": false,
+    "other": [
+      "Infinity Cascade",
+      "Terrace lounge"
+    ]
+  },
+  "rules": {
+    "check_in": "2 PM",
+    "check_out": "10 AM",
+    "noise": "Keep noise levels reasonable, especially between 10 pm and 7 am; no loud parties or events.",
+    "smoking": "Smoking is strictly prohibited inside the villa. Designated smoking areas are available outdoors.",
+    "chewing_tobacco": "Strictly prohibited with no exceptions.",
+    "pets_allowed": false,
+    "pet_policy": null,
+    "security_deposit": 30000,
+    "damage_responsibility": "Guests are responsible for any damages or breakages during their stay.",
+    "cleanliness": "Please keep the villa clean, use the designated trash bins and avoid littering the property.",
+    "safety_security": "Lock all doors and windows when leaving. We will not be responsible for any loss or theft of personal belongings.",
+    "occupancy_limits": "Follow maximum occupancy limits. Additional guests need prior approval."
+  },
+  "contact_info": null,
+  "coordinates": {
+    "latitude": 15.5226184,
+    "longitude": 73.7447712
+  },
+  "spaces": [
+    {
+      "description": "Private pool blending with the river & lush greenery",
+      "details": [
+        "Private pool blending with the river & lush greenery"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/DSC_06990_a3f447fa71.jpg"
+      ],
+      "title": "Outdoor pool- The Infinity Cascade"
+    },
+    {
+      "description": "Terrace lounge with river views and plush couches",
+      "details": [
+        "Terrace lounge with river views and plush couches"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/DSC_06584_bcdafd6039.jpg"
+      ],
+      "title": "Lounge area: Regalia Lounge"
+    },
+    {
+      "description": "Exquisite lounge with uninterruped views & plush seating",
+      "details": [
+        "Exquisite lounge with uninterruped views & plush seating"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/DSC_06765_Edit_6e4209075a.jpg"
+      ],
+      "title": "Living area 1 - Azure Reverie"
+    },
+    {
+      "description": "Space with wooden furniture & bar nook overlooking the river",
+      "details": [
+        "Space with wooden furniture & bar nook overlooking the river"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/DSC_06539_HDR_2a113983bb.jpg"
+      ],
+      "title": "Living area 2 - Riverfront Retreat"
+    },
+    {
+      "description": "Elegant dining set up with pool access by the river",
+      "details": [
+        "Elegant dining set up with pool access by the river"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/DSC_06704_8901f00765.jpg"
+      ],
+      "title": "Dining area - River's Edge Bistro"
+    },
+    {
+      "description": "1 king-sized bed",
+      "details": [
+        "1 king-sized bed"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/DSC_06617_HDR_a54a78c856.jpg"
+      ],
+      "title": "Bedroom 1- The Lush Retreat"
+    },
+    {
+      "description": "1 king-sized bed",
+      "details": [
+        "1 king-sized bed"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/DSC_06505_22e9de55e2.jpg"
+      ],
+      "title": "Bedroom 2 - Rosewood Cove"
+    },
+    {
+      "description": "1 king-sized bed",
+      "details": [
+        "1 king-sized bed"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/DSC_06400_e4688353eb.jpg"
+      ],
+      "title": "Bedroom-3 - Riverine Suite"
+    },
+    {
+      "description": "1 king-sized bed",
+      "details": [
+        "1 king-sized bed"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/DSC_06453_5e8d57b0bf.jpg"
+      ],
+      "title": "Bedroom 4 - Skyward Gaze"
+    },
+    {
+      "description": "1 king-sized bed",
+      "details": [
+        "1 king-sized bed"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/DSC_06428_08785a734d.jpg"
+      ],
+      "title": "Bedroom 5 - Rhapsody in Blue"
+    },
+    {
+      "description": "1 king-sized bed",
+      "details": [
+        "1 king-sized bed"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/DSC_06487_ad2556e0f6.jpg"
+      ],
+      "title": "Bedroom 6 -Emerald Eden"
+    }
+  ],
+  "villa_snapshot": [
+    "Villa snapshot",
+    "Set along the gentle curve of a slow-moving Goan river & just a short 3-4 km drive from Candolim Beach, this six-bedroom private villa unfolds like a quiet revelation. From the moment you step inside, a deep sense of calm takes over as if the noise of the world has been softened to a whisper. Every detail feels deliberate, curated, & quietly confident.",
+    "The infinity pool is the first to draw you in - sleek, elongated, & perfectly aligned with the river’s edge. It mirrors the shifting sky above & blurs the boundary between land & water. Be it swimming at sunrise or reclining with a drink at dusk, the experience is elemental yet indulgent, as though nature itself were crafted for your utmost comfort.",
+    "At the heart of the home lies an expansive living room, where texture, light, & proportion come together in thoughtful harmony. Earthy tones, handcrafted details, & sculptural accents flow seamlessly into a refined dining space & a streamlined, fully equipped kitchen built for slow mornings, long conversations, & everything in between.",
+    "Each of the six bedrooms is a private haven, layered with natural materials, handcrafted furnishings, & floor-to-ceiling glass that draws in the surrounding green. Bathtubs in select rooms offer an added layer of calm, while river-facing balconies in every room bring the gift of pure, complete stillness. From soft linens to ambient lighting, every touchpoint is designed to soothe, not overwhelm.",
+    "For added ease & comfort, a private lift connects all levels of the villa, ensuring effortless access throughout the home without ever breaking the flow of its relaxed rhythm.",
+    "With uninterrupted vistas, the villa offers multiple spaces to retreat t,o including a quiet indoor lounge and an upper-level area that feels almost cinematic. The first intimate space completes the experience, air-conditioned yet intimately connected to the outdoors through expansive windows, layered foliage, and a thoughtfully designed bar nook. From bespoke light fixtures to finely crafted joinery, every detail reflects a quiet dedication to refined taste.",
+    "With a picturesque balcony overlooking the river and skies that shift from gold to indigo, the elevated terrace lounge becomes a place where time stretches, ideal for leisurely breakfasts, quiet reading, or evenings that linger well past sunset.",
+    "To enhance your stay, an exceptional 5-star hospitality team is at your service, offering seamless attention with warmth and grace. From a dedicated butler and chef-on-call to an expertly curated welcome basket and fully stocked fridge, every detail has been carefully designed to ensure comfort and indulgence. With a commitment to excellence, the essence of \"Atithi Devo Bhava\" is embodied in every moment, ensuring you feel truly cherished throughout your stay.",
+    "Discreet, graceful, & deeply restorative, this villa is not just a place to stay it’s a place to relive.",
+    "Note:",
+    "Curbside parking is available for your convenience.",
+    "Please refrain from swimming in the river for safety purposes.",
+    "Outdoor Pool: The Infinity Cascade",
+    "A tranquil outdoor pool that flows into the river’s edge, framed by lush greenery, elegant loungers, and direct access from the living room, offering uninterrupted views and quiet immersion in nature.",
+    "Living Area: Azure Reverie",
+    "An exquisite ground-floor lounge with vibrant seating, 75” TV, premium sound system, ACs, chandelier, and antique touches—opening to serene river and pool views, with a staircase leading upstairs.",
+    "Dining Space: River's Edge Bistro",
+    "Elegant dining featuring a refined table with plush blue chairs, statement chandelier, and designer sideboard, opening to stunning river and pool views.",
+    "Living Room 2: Riverfront Retreat",
+    "A cosy first-floor retreat featuring beige sofas, wooden details, a chic bar nook, and a compact kitchenette. French windows offer seamless river views, all set within a calm, natural palette.",
+    "Lounge Area: Regalia Lounge",
+    "Bright & inviting, this second-floor lounge features bold accents & sweeping river views through floor-to-ceiling windows. TV 55\". Balcony access & an ensuite bathroom complete this refined retreat.",
+    "Bedrooms",
+    "Bedroom 1: The Lush Retreat",
+    "Discover refined comfort in this serene first-floor suite, featuring a king bed, ensuite bath, and direct pool access. Soft green accents, ambient lighting, and expansive windows frame picturesque river vistas, offering a perfect blend of calm and understated luxury.",
+    "Bathroom 1",
+    "Refined bathroom with a sizzling bathtub, glass-enclosed shower with hand jet spray, ceramic basin, bespoke vanity, organic toiletries, plush towels, hairdryer, Western commode, and elegant mirror.",
+    "Bedroom 2: Rosewood Cove",
+    "Step into refined comfort in this ground-floor suite, featuring a king bed, ensuite bath, and direct pool access. Calming green tones, ambient lighting, and expansive windows with river views create an atmosphere of quiet elegance.",
+    "Bathroom 2",
+    "Elegant bathroom featuring a bathtub, glass-enclosed shower with geyser and hand jet spray, ceramic sink, vanity storage, organic toiletries, plush towels, hairdryer, Western commode, and a stylish mirror.",
+    "Bedroom 3: Riverine Suite",
+    "A tranquil ground-floor haven featuring a king bed, an ensuite bath, and seamless pool access. With calming green accents & large windows framing stunning river views, it’s a serene retreat designed for total relaxation.",
+    "Bathroom 3",
+    "Luxurious bathroom with shower, geyser, hand jet spray, ceramic basin, bespoke vanity, organic toiletries, plush towels, Western commode, hairdryer, and elegant mirror.",
+    "Bedroom 4: Skyward Gaze",
+    "This airy first-floor suite offers a king-sized bed, an ensuite bath, & a private balcony framing stunning river views. Soft blue tones, curated artwork, and a refined workstation blend comfort and calm, creating a space ideal for both rest & focused work.",
+    "Bathroom 4",
+    "Well-appointed bathroom featuring a shower with geyser and hand jet spray, hairdryer, ceramic sink, vanity storage, organic toiletries and towels, Western commode, and mirror.",
+    "Bedroom 5: Rhapsody in Blue",
+    "Beautifully designed, this first-floor suite features a king bed, ensuite bath, and a balcony with scenic river views. Soft lighting, curated art, and warm wooden accents create a tranquil space for rest and reflection.",
+    "Bathroom 5",
+    "Modern bathroom with a glass shower cubicle, geyser, hand jet spray, hairdryer, ceramic basin, vanity storage, organic toiletries, towels, mirror, and Western commode.",
+    "Bedroom 6: Emerald Eden",
+    "Thoughtfully appointed, this first-floor suite features a king bed, ensuite bath, 55” TV, and a refined seating area with a dedicated workstation. Sliding glass doors open to a private balcony, where uninterrupted river views and soft natural light complete the sense of calm and comfort.",
+    "Bathroom 6",
+    "Luxuriously equipped bathroom with a bathtub, glass shower cubicle, geyser, hand jet spray, ceramic basin, vanity storage, organic toiletries, hairdryer, mirror, and Western commode.",
+    "Kitchen: The Gourmet Studio",
+    "A thoughtfully designed ground-floor kitchen featuring generous storage, ambient ceiling lighting, and a full suite of modern appliances—ranging from oven and dishwasher to RO system, cookware, and curated essentials—offering both function and finesse for seamless culinary experiences.",
+    "Show Less"
+  ],
+  "description_sections": [
+    {
+      "bullets": [],
+      "heading": "Overview",
+      "paragraphs": [
+        "Set along the gentle curve of a slow-moving Goan river & just a short 3-4 km drive from Candolim Beach, this six-bedroom private villa unfolds like a quiet revelation. From the moment you step inside, a deep sense of calm takes over as if the noise of the world has been softened to a whisper. Every detail feels deliberate, curated, & quietly confident.",
+        "The infinity pool is the first to draw you in - sleek, elongated, & perfectly aligned with the river’s edge. It mirrors the shifting sky above & blurs the boundary between land & water. Be it swimming at sunrise or reclining with a drink at dusk, the experience is elemental yet indulgent, as though nature itself were crafted for your utmost comfort.",
+        "At the heart of the home lies an expansive living room, where texture, light, & proportion come together in thoughtful harmony. Earthy tones, handcrafted details, & sculptural accents flow seamlessly into a refined dining space & a streamlined, fully equipped kitchen built for slow mornings, long conversations, & everything in between.",
+        "Each of the six bedrooms is a private haven, layered with natural materials, handcrafted furnishings, & floor-to-ceiling glass that draws in the surrounding green. Bathtubs in select rooms offer an added layer of calm, while river-facing balconies in every room bring the gift of pure, complete stillness. From soft linens to ambient lighting, every touchpoint is designed to soothe, not overwhelm.",
+        "For added ease & comfort, a private lift connects all levels of the villa, ensuring effortless access throughout the home without ever breaking the flow of its relaxed rhythm.",
+        "With uninterrupted vistas, the villa offers multiple spaces to retreat t,o including a quiet indoor lounge and an upper-level area that feels almost cinematic. The first intimate space completes the experience, air-conditioned yet intimately connected to the outdoors through expansive windows, layered foliage, and a thoughtfully designed bar nook. From bespoke light fixtures to finely crafted joinery, every detail reflects a quiet dedication to refined taste.",
+        "With a picturesque balcony overlooking the river and skies that shift from gold to indigo, the elevated terrace lounge becomes a place where time stretches, ideal for leisurely breakfasts, quiet reading, or evenings that linger well past sunset.",
+        "To enhance your stay, an exceptional 5-star hospitality team is at your service, offering seamless attention with warmth and grace. From a dedicated butler and chef-on-call to an expertly curated welcome basket and fully stocked fridge, every detail has been carefully designed to ensure comfort and indulgence. With a commitment to excellence, the essence of \"Atithi Devo Bhava\" is embodied in every moment, ensuring you feel truly cherished throughout your stay.",
+        "Discreet, graceful, & deeply restorative, this villa is not just a place to stay it’s a place to relive."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Note:",
+      "paragraphs": [
+        "Curbside parking is available for your convenience.",
+        "Please refrain from swimming in the river for safety purposes."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Outdoor Pool: The Infinity Cascade",
+      "paragraphs": [
+        "A tranquil outdoor pool that flows into the river’s edge, framed by lush greenery, elegant loungers, and direct access from the living room, offering uninterrupted views and quiet immersion in nature."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Living Area: Azure Reverie",
+      "paragraphs": [
+        "An exquisite ground-floor lounge with vibrant seating, 75” TV, premium sound system, ACs, chandelier, and antique touches—opening to serene river and pool views, with a staircase leading upstairs."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Dining Space: River's Edge Bistro",
+      "paragraphs": [
+        "Elegant dining featuring a refined table with plush blue chairs, statement chandelier, and designer sideboard, opening to stunning river and pool views."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Living Room 2: Riverfront Retreat",
+      "paragraphs": [
+        "A cosy first-floor retreat featuring beige sofas, wooden details, a chic bar nook, and a compact kitchenette. French windows offer seamless river views, all set within a calm, natural palette."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Lounge Area: Regalia Lounge",
+      "paragraphs": [
+        "Bright & inviting, this second-floor lounge features bold accents & sweeping river views through floor-to-ceiling windows. TV 55\". Balcony access & an ensuite bathroom complete this refined retreat."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Bedrooms — Bedroom 1: The Lush Retreat",
+      "paragraphs": [
+        "Discover refined comfort in this serene first-floor suite, featuring a king bed, ensuite bath, and direct pool access. Soft green accents, ambient lighting, and expansive windows frame picturesque river vistas, offering a perfect blend of calm and understated luxury."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Bathroom 1",
+      "paragraphs": [
+        "Refined bathroom with a sizzling bathtub, glass-enclosed shower with hand jet spray, ceramic basin, bespoke vanity, organic toiletries, plush towels, hairdryer, Western commode, and elegant mirror."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Bedroom 2: Rosewood Cove",
+      "paragraphs": [
+        "Step into refined comfort in this ground-floor suite, featuring a king bed, ensuite bath, and direct pool access. Calming green tones, ambient lighting, and expansive windows with river views create an atmosphere of quiet elegance."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Bathroom 2",
+      "paragraphs": [
+        "Elegant bathroom featuring a bathtub, glass-enclosed shower with geyser and hand jet spray, ceramic sink, vanity storage, organic toiletries, plush towels, hairdryer, Western commode, and a stylish mirror."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Bedroom 3: Riverine Suite",
+      "paragraphs": [
+        "A tranquil ground-floor haven featuring a king bed, an ensuite bath, and seamless pool access. With calming green accents & large windows framing stunning river views, it’s a serene retreat designed for total relaxation."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Bathroom 3",
+      "paragraphs": [
+        "Luxurious bathroom with shower, geyser, hand jet spray, ceramic basin, bespoke vanity, organic toiletries, plush towels, Western commode, hairdryer, and elegant mirror."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Bedroom 4: Skyward Gaze",
+      "paragraphs": [
+        "This airy first-floor suite offers a king-sized bed, an ensuite bath, & a private balcony framing stunning river views. Soft blue tones, curated artwork, and a refined workstation blend comfort and calm, creating a space ideal for both rest & focused work."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Bathroom 4",
+      "paragraphs": [
+        "Well-appointed bathroom featuring a shower with geyser and hand jet spray, hairdryer, ceramic sink, vanity storage, organic toiletries and towels, Western commode, and mirror."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Bedroom 5: Rhapsody in Blue",
+      "paragraphs": [
+        "Beautifully designed, this first-floor suite features a king bed, ensuite bath, and a balcony with scenic river views. Soft lighting, curated art, and warm wooden accents create a tranquil space for rest and reflection."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Bathroom 5",
+      "paragraphs": [
+        "Modern bathroom with a glass shower cubicle, geyser, hand jet spray, hairdryer, ceramic basin, vanity storage, organic toiletries, towels, mirror, and Western commode."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Bedroom 6: Emerald Eden",
+      "paragraphs": [
+        "Thoughtfully appointed, this first-floor suite features a king bed, ensuite bath, 55” TV, and a refined seating area with a dedicated workstation. Sliding glass doors open to a private balcony, where uninterrupted river views and soft natural light complete the sense of calm and comfort."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Bathroom 6",
+      "paragraphs": [
+        "Luxuriously equipped bathroom with a bathtub, glass shower cubicle, geyser, hand jet spray, ceramic basin, vanity storage, organic toiletries, hairdryer, mirror, and Western commode."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Kitchen: The Gourmet Studio",
+      "paragraphs": [
+        "A thoughtfully designed ground-floor kitchen featuring generous storage, ambient ceiling lighting, and a full suite of modern appliances—ranging from oven and dishwasher to RO system, cookware, and curated essentials—offering both function and finesse for seamless culinary experiences."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Overview",
+      "paragraphs": [
+        "Veg Non-veg",
+        "Savour a curated selection of vegetarian and non-vegetarian meals during your stay."
+      ]
+    },
+    {
+      "bullets": [
+        "A skilled chef is available on call, along with a curated menu to cater to your culinary preferences.",
+        "Guests are welcome to use the kitchen for light cooking.",
+        "Ordering food from outside is permitted."
+      ],
+      "heading": "Additional features",
+      "paragraphs": []
+    },
+    {
+      "bullets": [],
+      "heading": "Overview",
+      "paragraphs": [
+        "Check-in Instructions: Check-in: 2 PM | Check-out: 10 AM",
+        "Refund Policy: For cancellations that comply with our policy terms, refunds will be processed as per the details below:",
+        "1. Refunds are only available if the full payment has been made; partial payments are non-refundable.",
+        "2. Refunds will be processed within 7-9 days post cancellation request.",
+        "3. Refunds are only available if the full payment has been made; partial payments are non-refundable.",
+        "**Refunds will be processed within 7-9 days post-cancellation request.",
+        "Security Deposit Amount: 30,000",
+        "Security Deposit Refund Policy: Refunds will be processed within 4-7 working days after property inspection. Your adherence to this timeline is appreciated.",
+        "Noise & disturbances: Keep noise levels reasonable, especially between 10 pm and 7 am; no loud parties or events.",
+        "Smoking: Smoking is strictly prohibited inside the villa. Designated smoking areas are available outdoors.",
+        "Chewing tobacco: Strictly prohibited with no exceptions.",
+        "Pets: Pets are not allowed on the property.",
+        "Occupancy: Follow maximum occupancy limits. Additional guests need prior approval.",
+        "Damages: Guests are responsible for any damages or breakages during their stay. Please report any incidents to the management promptly. Charges may apply for repairs or replacements.",
+        "Cleanliness: Please keep the villa clean, use the designated trash bins and avoid littering the property.",
+        "Safety & security: Lock all doors and windows when leaving. We will not be responsible for any loss or theft of personal belongings.",
+        "Amenities & facilities: Use the provided amenities responsibly and adhere to any posted guidelines.",
+        "Compliance: Follow local laws and regulations. Illegal activities will result in eviction and potential legal action.",
+        "Upkeep: Daily cleaning is compulsory. Kindly cooperate with our housekeeping team.",
+        "Standard occupancy: 12 guests​",
+        "Maximum occupancy: 14 guests (Additional charges apply for extra guests beyond standard occupancy.)"
+      ]
+    },
+    {
+      "bullets": [
+        "Dolphins Ride Coco Beach - 3.4 km",
+        "Candolim Beach - 3.4 km",
+        "Coco Beach - 5.2 km",
+        "Calangute Beach - 6.3 km",
+        "Anjuna Beach - 12.7 km",
+        "Thivim Railway Station - 22.2 km",
+        "Manohar International Airport - 30.5 km"
+      ],
+      "heading": "Overview",
+      "paragraphs": []
+    }
+  ],
+  "images": [
+    "https://cpjlcwamma.cloudimg.io/ELIVAAS_prive_1_0452857cb6.svg",
+    "https://cpjlcwamma.cloudimg.io/hero_86e06637c4.webp",
+    "https://cpjlcwamma.cloudimg.io/DSC_07028_885456c8ef.jpg",
+    "https://cpjlcwamma.cloudimg.io/hero_1_50d3f65fe4.webp",
+    "https://cpjlcwamma.cloudimg.io/DSC_06990_a3f447fa71.jpg",
+    "https://cpjlcwamma.cloudimg.io/hero_2_51e5c7ed4c.webp"
+  ],
+  "image_count": 6
+}

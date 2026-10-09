@@ -1,0 +1,710 @@
+{
+  "title": "  | Pet-friendly 6-BHK Manor With Private Pool, Gazebo, Indoor Bar, Jacuzzis & Garden",
+  "summary": "Pet-friendly 6-BHK manor in Gurugram, Delhi NCR featuring private pool, gazebo, indoor bar, jacuzzis, garden, and multiple indoor/outdoor spaces. Accommodates up to 18 guests with 6 bedrooms, 6 beds, and 7 bathrooms.",
+  "location": {
+    "city": "Gurugram",
+    "region": "Delhi NCR",
+    "points_of_interest": [
+      {
+        "name": "Westin Sohna",
+        "distance_km": 2
+      },
+      {
+        "name": "Damdama Lake",
+        "distance_km": 7
+      },
+      {
+        "name": "Airia Mall",
+        "distance_km": 17
+      },
+      {
+        "name": "Nearest Railway Station – Ballabhgarh",
+        "distance_km": 28
+      },
+      {
+        "name": "Nearest Airport – IGI Airport",
+        "distance_km": 60
+      }
+    ],
+    "latitude": 28.250760044961442,
+    "longitude": 77.13249117852905
+  },
+  "capacity": {
+    "standard_occupancy": 12,
+    "maximum_occupancy": 18,
+    "guests": 18,
+    "bedrooms": 6,
+    "beds": 6,
+    "bathrooms": 7
+  },
+  "pricing": null,
+  "rooms": [
+    {
+      "name": "Serene Jacuzzi Suite",
+      "floor": null,
+      "size_sqft": null,
+      "bed_type": "Queen",
+      "features": null,
+      "attached_bathroom": null
+    },
+    {
+      "name": "Stillwater Spa Suite",
+      "floor": null,
+      "size_sqft": null,
+      "bed_type": "Queen",
+      "features": null,
+      "attached_bathroom": null
+    },
+    {
+      "name": "Halo Suite",
+      "floor": null,
+      "size_sqft": null,
+      "bed_type": "King",
+      "features": null,
+      "attached_bathroom": null
+    },
+    {
+      "name": "Morning Mist",
+      "floor": null,
+      "size_sqft": null,
+      "bed_type": "Queen",
+      "features": null,
+      "attached_bathroom": null
+    },
+    {
+      "name": "Cloud Nine",
+      "floor": null,
+      "size_sqft": null,
+      "bed_type": "King",
+      "features": null,
+      "attached_bathroom": null
+    },
+    {
+      "name": "Soft Dawn",
+      "floor": null,
+      "size_sqft": null,
+      "bed_type": "Queen",
+      "features": null,
+      "attached_bathroom": null
+    }
+  ],
+  "amenities": [
+    "Bed linen",
+    "Clothes drying rack",
+    "Extra pillows and blankets",
+    "Hangers",
+    "Iron",
+    "Bathtub",
+    "Shower",
+    "Geyser",
+    "Jet spray",
+    "Western commode",
+    "Shampoo",
+    "Soap",
+    "Conditioner",
+    "Towels",
+    "Hot water",
+    "Airconditioning",
+    "Ceiling fan",
+    "Leisure SpacesSwimming poolSwimming poolBarBarGazeboGazebo",
+    "Swimming pool",
+    "Bar",
+    "Gazebo",
+    "Gas cooktop",
+    "Water purifier/RO",
+    "Crockery",
+    "Cutlery",
+    "Coffee machine",
+    "Dishwasher",
+    "Scenic viewsGarden Garden",
+    "Garden",
+    "Bedroom ComfortsWardrobe spaceWardrobe space",
+    "Wardrobe space",
+    "Refrigerator",
+    "Microwave",
+    "Toaster",
+    "Kettle",
+    "Dining Table",
+    "Chef on Call",
+    "Dishes and silverware",
+    "BathroomHair dryerHair dryerShower gelShower gel",
+    "Hair dryer",
+    "Shower gel",
+    "EntertainmentWifiWifiTVTV",
+    "Wifi",
+    "TV",
+    "First aid kit",
+    "Fire extinguisher",
+    "CCTV",
+    "Additional ServicesHousekeeping staffHousekeeping staff",
+    "Housekeeping staff",
+    "OutdoorTerraceTerrace",
+    "Terrace",
+    "Parking and facilitiesParkingParking",
+    "Parking",
+    "Welcome basket",
+    "Eco-friendly hygiene kit"
+  ],
+  "outdoor_spaces": {
+    "pool": {
+      "private": true,
+      "jacuzzi": true
+    },
+    "garden": true,
+    "gazebo": true,
+    "other": [
+      "Bluewater Retreat",
+      "Horizon Patio",
+      "Twilight Pavilion",
+      "Meadow Grounds",
+      "Wicker Deck",
+      "Leisure Club",
+      "Botanica Studio",
+      "Oak Chamber",
+      "The Cask",
+      "The Sandstone Manor",
+      "The Beaumont Lounge"
+    ]
+  },
+  "rules": {
+    "check_in": "2 PM",
+    "check_out": "11 AM",
+    "noise": "No loud parties or events between 10 pm and 7 am",
+    "smoking": "Prohibited inside; designated outdoor areas",
+    "chewing_tobacco": "Prohibited",
+    "pets_allowed": true,
+    "pet_policy": {
+      "security_deposit_per_pet": {
+        "1": 10000,
+        "2": 15000
+      },
+      "sanitation_fee": {
+        "1BHK": 1000,
+        "2/3BHK": 2000,
+        "4/5BHK+": 3000,
+        "Prive Collection": 4000
+      },
+      "pool_restriction": "Pets not allowed in pool; ₹10,000 charge if violated"
+    },
+    "security_deposit": 25000,
+    "damage_responsibility": "Guests responsible for damages; charges apply",
+    "cleanliness": "Daily cleaning required; keep villa clean",
+    "safety_security": "Lock doors/windows; owner not liable for loss",
+    "occupancy_limits": "Standard 12 guests, maximum 18 guests; additional guests need approval"
+  },
+  "contact_info": null,
+  "coordinates": {
+    "latitude": 28.250760044961442,
+    "longitude": 77.13249117852905
+  },
+  "spaces": [
+    {
+      "description": "Private pool with jacuzzi indulgence",
+      "details": [
+        "Private pool with jacuzzi indulgence"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/712_A4099_0693d7d31e.jpeg"
+      ],
+      "title": "Bluewater Retreat"
+    },
+    {
+      "description": "Quiet outdoor retreat with scenic views",
+      "details": [
+        "Quiet outdoor retreat with scenic views"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/712_A4976_3546b80dcf.jpeg"
+      ],
+      "title": "Horizon Patio"
+    },
+    {
+      "description": "Serene pavilion amidst lush greenery",
+      "details": [
+        "Serene pavilion amidst lush greenery"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/712_A4271_80fcc8bb18.jpeg"
+      ],
+      "title": "Twilight Pavilion"
+    },
+    {
+      "description": "Expansive lawns for grand celebrations",
+      "details": [
+        "Expansive lawns for grand celebrations"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/1_H7_A8275_2d0f197c01.jpeg"
+      ],
+      "title": "Meadow Grounds"
+    },
+    {
+      "description": "Alfresco lounging with scenic views",
+      "details": [
+        "Alfresco lounging with scenic views"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/1_H7_A8341_b217ab4449.JPEG"
+      ],
+      "title": "Wicker Deck"
+    },
+    {
+      "description": "Luxury gaming and leisure lounge",
+      "details": [
+        "Luxury gaming and leisure lounge"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/1_H7_A8339_fb7784cf94.JPEG"
+      ],
+      "title": "Leisure Club"
+    },
+    {
+      "description": "Gourmet kitchen for culinary indulgence",
+      "details": [
+        "Gourmet kitchen for culinary indulgence"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/712_A4884_6f1a736d55.jpeg"
+      ],
+      "title": "Botanica Studio"
+    },
+    {
+      "description": "Elegant dining amidst garden views",
+      "details": [
+        "Elegant dining amidst garden views"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/1_H7_A8227_1_3c2e1f3f9c.jpeg"
+      ],
+      "title": "Oak Chamber"
+    },
+    {
+      "description": "Sophisticated evenings over handcrafted cocktails",
+      "details": [
+        "Sophisticated evenings over handcrafted cocktails"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/712_A3897_3ac5d54688.jpeg"
+      ],
+      "title": "The Cask"
+    },
+    {
+      "description": "Refined retreat for effortless relaxation",
+      "details": [
+        "Refined retreat for effortless relaxation"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/712_A4008_912240949c.jpeg"
+      ],
+      "title": "The Sandstone Manor"
+    },
+    {
+      "description": "Grand entertaining with timeless elegance",
+      "details": [
+        "Grand entertaining with timeless elegance"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/1_H7_A8229_97c2648fec.jpeg"
+      ],
+      "title": "The Beaumont Lounge"
+    },
+    {
+      "description": "Queen sized bed",
+      "details": [
+        "Queen sized bed"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/712_A4484_ac0a6495ee.jpeg"
+      ],
+      "title": "Serene Jacuzzi Suite"
+    },
+    {
+      "description": "Queen sized bed",
+      "details": [
+        "Queen sized bed"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/712_A3779_6af87339f8.jpeg"
+      ],
+      "title": "Stillwater Spa Suite"
+    },
+    {
+      "description": "King sized bed",
+      "details": [
+        "King sized bed"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/712_A4356_e8469f3494.jpeg"
+      ],
+      "title": "Halo Suite"
+    },
+    {
+      "description": "Queen sized bed",
+      "details": [
+        "Queen sized bed"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/712_A4636_2e41b4b39a.jpeg"
+      ],
+      "title": "Morning Mist"
+    },
+    {
+      "description": "King sized bed",
+      "details": [
+        "King sized bed"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/712_A3616_b2ef775735.jpeg"
+      ],
+      "title": "Cloud Nine"
+    },
+    {
+      "description": "Queen sized bed",
+      "details": [
+        "Queen sized bed"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/712_A3689_671ac3352c.jpeg"
+      ],
+      "title": "Soft Dawn"
+    }
+  ],
+  "villa_snapshot": [
+    "Villa Snapshot",
+    "Hidden amidst expansive emerald lawns and framed by nature, this extraordinary six-bedroom luxury farmhouse is a destination where timeless elegance meets effortless living. Designed for discerning travellers seeking privacy, space, and impeccable comfort, the residence offers an idyllic escape where every detail has been thoughtfully curated to elevate the experience.",
+    "A harmonious blend of Mediterranean-inspired architecture and contemporary sophistication, the farmhouse is defined by soaring ceilings, graceful arched openings, rich natural textures & light-filled interiors that flow seamlessly into beautifully landscaped outdoor spaces. Expansive lounges, an elegant dining room, a refined indoor bar & a stylish recreation lounge create inviting settings for intimate conversations, lively celebrations & unforgettable moments shared with family and friends.",
+    "Each ensuite bedroom is a private sanctuary, thoughtfully appointed with bespoke furnishings, serene palettes, and tranquil garden or pool views. Select suites feature indulgent jacuzzis, while spa-inspired bathrooms, premium finishes, and warm contemporary design evoke the ambience of an exclusive boutique retreat.",
+    "Beyond the interiors, the experience unfolds across nearly 40,000 sq. ft. of manicured gardens. A private swimming pool with an integrated jacuzzi, elegant gazebo, alfresco lounges, outdoor bar, children's play area, and sweeping lawns offer endless possibilities—from leisurely afternoons under the sun to sophisticated evening gatherings beneath the stars.",
+    "Exceptional hospitality lies at the heart of every stay. A chef-operated kitchen, personalised service & carefully curated comforts ensure every moment is effortless, whether you're hosting a milestone celebration, a corporate retreat, or an intimate weekend escape.",
+    "More than a luxury farmhouse, this is a private sanctuary where refined design, boundless space & unforgettable experiences come together to create a stay that lingers long after you leave.",
+    "Bedroom 1-  Serene Jacuzzi Suite First Floor",
+    "180 sq. ft. first-floor bedroom features warm minimalist interiors and a private balcony overlooking the garden. It offers a queen-sized bed with plush bedding, an ensuite bathroom, AC, ceiling fan and heater for year-round comfort. Large arched windows bring in ample natural light, while a cosy lounge seating area, spacious wardrobe, elegant lighting and contemporary décor create a comfortable and relaxing retreat.",
+    "Bathroom 1",
+    "Spa-inspired ensuite bathroom is designed for a luxurious experience, featuring a jacuzzi bathtub, walk-in shower and elegant natural stone interiors with designer stone walls. It also includes a dedicated dressing space, premium bath essentials, a hair dryer, a Western commode with bidet, and modern conveniences such as a geyser, fan and exhaust for a comfortable stay.",
+    "Bedroom 2- Stillwater Spa Suite",
+    "180 sq. ft. first-floor bedroom offers a spacious suite-style layout with warm neutral interiors and sophisticated décor. It features a queen-sized bed, ensuite bathroom, 55-inch TV, AC, ceiling fan, heater, and a spacious wardrobe with hangers. Ambient cove lighting, designer pendant lights, and large arched openings create a bright, airy ambience, while the private balcony overlooks serene forest and pool views.",
+    "Living area ( bedroom 3 )",
+    "Moonstone",
+    "Elegant lounge seating area with plush sofas",
+    "Stylish coffee table at the centre",
+    "Has ambient lighting",
+    "Large arched windows offering abundant natural light",
+    "Warm neutral palette with contemporary interiors",
+    "Located on the first floor",
+    "Bathroom 2",
+    "Spa-inspired ensuite bathroom is designed for a luxurious bathing experience, featuring a private jacuzzi, a spacious glass-enclosed rain shower, and elegant designer tiles with warm ambient lighting. It also includes a separate dressing area, twin countertop wash basins with a wooden vanity, premium brass fixtures, modern sanitaryware, premium bath essentials, a hair dryer, a Western commode with bidet, and conveniences such as a geyser, fan, and exhaust.",
+    "Bedroom 3– Halo Suite, First Floor",
+    "Spacious 380 sq. ft. first-floor bedroom blends Mediterranean-inspired architecture with elegant contemporary interiors, warm neutral tones and curated décor accents. It features a king-sized bed, AC, ceiling fan, heater, dedicated work desk and a wardrobe with hangers. Floor-to-ceiling arched windows fill the room with natural light, while a cosy lounge seating area, designer pendant lighting, handcrafted feature wall, premium finishes and a private balcony with outdoor seating overlooking serene garden views create a refined resort-style retreat.",
+    "Bathroom 3",
+    "The contemporary ensuite bathroom is thoughtfully designed with elegant finishes and abundant natural light from a large arched window. It features a glass-enclosed shower, floating vanity with a countertop wash basin, woven-framed mirror with warm ambient lighting, premium brass fixtures and modern sanitaryware. Guests are also provided with premium bath essentials, a hair dryer, a Western commode with bidet, and conveniences such as a geyser, fan and exhaust.",
+    "Bedroom 4- Morning Mist",
+    "180 sq. ft. first-floor bedroom features contemporary interiors with warm neutral tones and an airy, open layout filled with natural light. It offers a queen-sized bed with plush bedding and an upholstered headboard, an ensuite bathroom, AC, ceiling fan, heater, and a spacious wardrobe with hangers. Designer pendant lights, recessed ceiling lighting, a dedicated vanity area, upholstered bench seating, a soft area rug, and a private balcony overlooking serene forest and pool views complete the space.",
+    "Bathroom 4",
+    "The contemporary ensuite bathroom is elegantly designed with a double vanity featuring dual wash basins, an elegant stone countertop with floating cabinetry, plush vanity seating, and backlit designer mirrors with warm ambient lighting. It also includes premium brass fixtures, modern sanitaryware, premium bath essentials, a hair dryer, a Western commode with bidet, and conveniences such as a geyser, fan, and exhaust for a comfortable stay.",
+    "Bedroom 5 - Cloud Nine",
+    "Spacious 380 sq. ft. ground-floor bedroom features elegant contemporary interiors with warm earthy tones, premium furnishings and refined finishes. It offers a king-sized four-poster bed, 55-inch TV, AC, ceiling fan, heater, dedicated work desk, and a spacious wardrobe with hangers. Large windows and floor-to-ceiling glass doors fill the room with natural light and serene garden views, while exposed wooden beams, wooden flooring, a cosy lounge seating area, and minimalist décor create a bright, airy and luxurious retreat.",
+    "Bathroom 5",
+    "The contemporary ensuite bathroom is thoughtfully designed with a spacious walk-in rain shower enclosed by glass, an elegant stone vanity with a countertop wash basin, and a framed designer mirror with warm ambient lighting. A large arched window fills the space with natural light, while premium brass fixtures and modern sanitaryware enhance its refined appeal. Guests are also provided with premium bath essentials, a hair dryer, a Western commode with bidet, and conveniences such as a geyser, fan, and exhaust.",
+    "Bedroom 6- Soft Dawn",
+    "This elegant 180 sq. ft. ground-floor bedroom features warm neutral interiors, minimalist décor and a spacious, light-filled layout. It offers a queen-sized bed, wall-mounted TV, ensuite bathroom, AC, ceiling fan, heater, and a spacious wardrobe with hangers. Large floor-to-ceiling windows and sliding glass doors open to a private balcony overlooking serene garden views, while a cosy window-side seating area, wooden flooring, soft area rugs, designer pendant lighting and refined décor create a peaceful resort-style retreat.",
+    "Bathroom 6",
+    "The contemporary ensuite bathroom is elegantly designed with minimalist interiors and refined natural finishes. It features a spacious walk-in rain shower, an elegant stone vanity with an integrated wash basin, and a designer woven-framed mirror illuminated by warm wall sconces. Premium brass fixtures and modern sanitaryware enhance the space, while a Western commode with bidet, hair dryer, geyser, fan, and exhaust ensure a comfortable and convenient stay.",
+    "Living room 1-The Beaumont Lounge",
+    "This expansive 1,200 sq. ft. ground-floor living room features elegant contemporary interiors with high ceilings, warm neutral décor and abundant natural light. Designed for comfort and entertaining, it offers spacious seating for up to 12 guests with a large sectional sofa and plush accent chairs, along with 4 AC units, a 75-inch Smart TV, and a premium music system. Expansive arched windows, a designer chandelier, ambient recessed lighting, textured feature walls, stylish centre tables, soft area rugs, and a nearby powder room complete this inviting space.",
+    "Living Room 2- The Sandstone Manor",
+    "This spacious 350 sq. ft. lounge features elegant contemporary interiors with high ceilings, minimalist décor and abundant natural light. Designed for relaxation, it offers comfortable seating for up to 8 guests with plush sofas and accent armchairs, along with an AC for added comfort. Expansive arched floor-to-ceiling windows, sheer curtains, a designer chandelier, recessed lighting, stylish centre table, soft area rug and curated décor create a bright, sophisticated ambience. A nearby powder room adds to the convenience.",
+    "Bar-The Cask",
+    "This elegant ground-floor indoor bar features a stone-finished counter with stylish upholstered bar chairs, creating the perfect space to unwind over drinks and conversations. Contemporary interiors, sophisticated neutral-toned décor, designer display shelving, and warm ambient lighting enhance its inviting atmosphere, making it an ideal social gathering spot.",
+    "Dining area- Oak Chamber",
+    "This elegant ground-floor dining area features a contemporary dining table with plush upholstered chairs, comfortably seating up to 8 guests. Expansive arched windows frame serene garden views and fill the space with natural light, creating a warm and inviting setting for memorable meals.",
+    "Kitchen- Botanica Studio",
+    "The open-plan kitchen on the ground floor is fully equipped for a seamless self-catering experience. It features a gas cooktop, double-door refrigerator, toaster, mixer-grinder, water purifier, electric kettle, along with crockery, cutlery and other premium kitchen essentials, making meal preparation both convenient and enjoyable.",
+    "Entertainment lounge-Leisure Club",
+    "The first-floor recreational area offers a spacious open-plan setting with a full-sized pool table, perfect for friendly games and gatherings. High ceilings, large arched windows, and scenic outdoor views create a bright and airy ambience, while comfortable lounge chairs and elegant pendant lighting make it an inviting space to relax and unwind.",
+    "Terrace-Wicker Deck",
+    "This elegant alfresco terrace offers a spacious open-air setting with comfortable wicker lounge chairs and a central coffee table. Overlooking the pool and lush gardens, it provides a serene backdrop for morning coffee, evening drinks, or intimate conversations in a peaceful outdoor ambience.",
+    "Swimming pool- Bluewater Retreat",
+    "The private outdoor pool, spanning approximately 250 sq. ft. with a depth of 4.5 ft., offers a refreshing retreat amidst landscaped gardens and open green views. It features a dedicated jacuzzi section, comfortable poolside loungers for relaxation, an outdoor shower, and a spacious pool deck that's perfect for lounging, unwinding, or gathering with friends and family.",
+    "Garden-Meadow Grounds",
+    "The expansive 40,000 sq. ft. landscaped lawn offers a picturesque outdoor setting for relaxation and celebrations. With seating for up to 18 guests, a charming gazebo, an outdoor bar, a children's play area, and outdoor sports facilities, it provides the perfect space for gatherings, special occasions, and memorable experiences amidst lush greenery.",
+    "Gazebo-Twilight Pavilion",
+    "This covered outdoor sit-out features a warm wooden pavilion design with a high timber ceiling, stylish pendant lights, and a ceiling fan for added comfort. Comfortable lounge seating with a coffee table, an open-sided layout overlooking the lush lawn, and abundant natural light create a spacious alfresco setting, perfect for relaxing amidst a peaceful green landscape.",
+    "Sit-out area- Horizon Patio",
+    "This cosy outdoor sit-out features comfortable wicker lounge seating with an intimate coffee table, making it the perfect spot for tea, coffee, or relaxed conversations. Framed by an elegant arched façade, it overlooks the beautifully landscaped surroundings and offers a seamless indoor-outdoor connection through large glass windows and flowing curtains.",
+    "Show Less"
+  ],
+  "description_sections": [
+    {
+      "bullets": [],
+      "heading": "Overview",
+      "paragraphs": [
+        "Hidden amidst expansive emerald lawns and framed by nature, this extraordinary six-bedroom luxury farmhouse is a destination where timeless elegance meets effortless living. Designed for discerning travellers seeking privacy, space, and impeccable comfort, the residence offers an idyllic escape where every detail has been thoughtfully curated to elevate the experience.",
+        "A harmonious blend of Mediterranean-inspired architecture and contemporary sophistication, the farmhouse is defined by soaring ceilings, graceful arched openings, rich natural textures & light-filled interiors that flow seamlessly into beautifully landscaped outdoor spaces. Expansive lounges, an elegant dining room, a refined indoor bar & a stylish recreation lounge create inviting settings for intimate conversations, lively celebrations & unforgettable moments shared with family and friends.",
+        "Each ensuite bedroom is a private sanctuary, thoughtfully appointed with bespoke furnishings, serene palettes, and tranquil garden or pool views. Select suites feature indulgent jacuzzis, while spa-inspired bathrooms, premium finishes, and warm contemporary design evoke the ambience of an exclusive boutique retreat.",
+        "Beyond the interiors, the experience unfolds across nearly 40,000 sq. ft. of manicured gardens. A private swimming pool with an integrated jacuzzi, elegant gazebo, alfresco lounges, outdoor bar, children's play area, and sweeping lawns offer endless possibilities—from leisurely afternoons under the sun to sophisticated evening gatherings beneath the stars.",
+        "Exceptional hospitality lies at the heart of every stay. A chef-operated kitchen, personalised service & carefully curated comforts ensure every moment is effortless, whether you're hosting a milestone celebration, a corporate retreat, or an intimate weekend escape.",
+        "More than a luxury farmhouse, this is a private sanctuary where refined design, boundless space & unforgettable experiences come together to create a stay that lingers long after you leave."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Bedroom 1- Serene Jacuzzi Suite First Floor",
+      "paragraphs": [
+        "180 sq. ft. first-floor bedroom features warm minimalist interiors and a private balcony overlooking the garden. It offers a queen-sized bed with plush bedding, an ensuite bathroom, AC, ceiling fan and heater for year-round comfort. Large arched windows bring in ample natural light, while a cosy lounge seating area, spacious wardrobe, elegant lighting and contemporary décor create a comfortable and relaxing retreat."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Bathroom 1",
+      "paragraphs": [
+        "Spa-inspired ensuite bathroom is designed for a luxurious experience, featuring a jacuzzi bathtub, walk-in shower and elegant natural stone interiors with designer stone walls. It also includes a dedicated dressing space, premium bath essentials, a hair dryer, a Western commode with bidet, and modern conveniences such as a geyser, fan and exhaust for a comfortable stay."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Bedroom 2- Stillwater Spa Suite",
+      "paragraphs": [
+        "180 sq. ft. first-floor bedroom offers a spacious suite-style layout with warm neutral interiors and sophisticated décor. It features a queen-sized bed, ensuite bathroom, 55-inch TV, AC, ceiling fan, heater, and a spacious wardrobe with hangers. Ambient cove lighting, designer pendant lights, and large arched openings create a bright, airy ambience, while the private balcony overlooks serene forest and pool views."
+      ]
+    },
+    {
+      "bullets": [
+        "Elegant lounge seating area with plush sofas",
+        "Stylish coffee table at the centre",
+        "Has ambient lighting",
+        "Large arched windows offering abundant natural light",
+        "Warm neutral palette with contemporary interiors",
+        "Located on the first floor"
+      ],
+      "heading": "Living area ( bedroom 3 ) — Moonstone",
+      "paragraphs": []
+    },
+    {
+      "bullets": [],
+      "heading": "Bathroom 2",
+      "paragraphs": [
+        "Spa-inspired ensuite bathroom is designed for a luxurious bathing experience, featuring a private jacuzzi, a spacious glass-enclosed rain shower, and elegant designer tiles with warm ambient lighting. It also includes a separate dressing area, twin countertop wash basins with a wooden vanity, premium brass fixtures, modern sanitaryware, premium bath essentials, a hair dryer, a Western commode with bidet, and conveniences such as a geyser, fan, and exhaust."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Bedroom 3– Halo Suite, First Floor",
+      "paragraphs": [
+        "Spacious 380 sq. ft. first-floor bedroom blends Mediterranean-inspired architecture with elegant contemporary interiors, warm neutral tones and curated décor accents. It features a king-sized bed, AC, ceiling fan, heater, dedicated work desk and a wardrobe with hangers. Floor-to-ceiling arched windows fill the room with natural light, while a cosy lounge seating area, designer pendant lighting, handcrafted feature wall, premium finishes and a private balcony with outdoor seating overlooking serene garden views create a refined resort-style retreat."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Bathroom 3",
+      "paragraphs": [
+        "The contemporary ensuite bathroom is thoughtfully designed with elegant finishes and abundant natural light from a large arched window. It features a glass-enclosed shower, floating vanity with a countertop wash basin, woven-framed mirror with warm ambient lighting, premium brass fixtures and modern sanitaryware. Guests are also provided with premium bath essentials, a hair dryer, a Western commode with bidet, and conveniences such as a geyser, fan and exhaust."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Bedroom 4- Morning Mist",
+      "paragraphs": [
+        "180 sq. ft. first-floor bedroom features contemporary interiors with warm neutral tones and an airy, open layout filled with natural light. It offers a queen-sized bed with plush bedding and an upholstered headboard, an ensuite bathroom, AC, ceiling fan, heater, and a spacious wardrobe with hangers. Designer pendant lights, recessed ceiling lighting, a dedicated vanity area, upholstered bench seating, a soft area rug, and a private balcony overlooking serene forest and pool views complete the space."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Bathroom 4",
+      "paragraphs": [
+        "The contemporary ensuite bathroom is elegantly designed with a double vanity featuring dual wash basins, an elegant stone countertop with floating cabinetry, plush vanity seating, and backlit designer mirrors with warm ambient lighting. It also includes premium brass fixtures, modern sanitaryware, premium bath essentials, a hair dryer, a Western commode with bidet, and conveniences such as a geyser, fan, and exhaust for a comfortable stay."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Bedroom 5 - Cloud Nine",
+      "paragraphs": [
+        "Spacious 380 sq. ft. ground-floor bedroom features elegant contemporary interiors with warm earthy tones, premium furnishings and refined finishes. It offers a king-sized four-poster bed, 55-inch TV, AC, ceiling fan, heater, dedicated work desk, and a spacious wardrobe with hangers. Large windows and floor-to-ceiling glass doors fill the room with natural light and serene garden views, while exposed wooden beams, wooden flooring, a cosy lounge seating area, and minimalist décor create a bright, airy and luxurious retreat."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Bathroom 5",
+      "paragraphs": [
+        "The contemporary ensuite bathroom is thoughtfully designed with a spacious walk-in rain shower enclosed by glass, an elegant stone vanity with a countertop wash basin, and a framed designer mirror with warm ambient lighting. A large arched window fills the space with natural light, while premium brass fixtures and modern sanitaryware enhance its refined appeal. Guests are also provided with premium bath essentials, a hair dryer, a Western commode with bidet, and conveniences such as a geyser, fan, and exhaust."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Bedroom 6- Soft Dawn",
+      "paragraphs": [
+        "This elegant 180 sq. ft. ground-floor bedroom features warm neutral interiors, minimalist décor and a spacious, light-filled layout. It offers a queen-sized bed, wall-mounted TV, ensuite bathroom, AC, ceiling fan, heater, and a spacious wardrobe with hangers. Large floor-to-ceiling windows and sliding glass doors open to a private balcony overlooking serene garden views, while a cosy window-side seating area, wooden flooring, soft area rugs, designer pendant lighting and refined décor create a peaceful resort-style retreat."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Bathroom 6",
+      "paragraphs": [
+        "The contemporary ensuite bathroom is elegantly designed with minimalist interiors and refined natural finishes. It features a spacious walk-in rain shower, an elegant stone vanity with an integrated wash basin, and a designer woven-framed mirror illuminated by warm wall sconces. Premium brass fixtures and modern sanitaryware enhance the space, while a Western commode with bidet, hair dryer, geyser, fan, and exhaust ensure a comfortable and convenient stay."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Living room 1-The Beaumont Lounge",
+      "paragraphs": [
+        "This expansive 1,200 sq. ft. ground-floor living room features elegant contemporary interiors with high ceilings, warm neutral décor and abundant natural light. Designed for comfort and entertaining, it offers spacious seating for up to 12 guests with a large sectional sofa and plush accent chairs, along with 4 AC units, a 75-inch Smart TV, and a premium music system. Expansive arched windows, a designer chandelier, ambient recessed lighting, textured feature walls, stylish centre tables, soft area rugs, and a nearby powder room complete this inviting space."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Living Room 2- The Sandstone Manor",
+      "paragraphs": [
+        "This spacious 350 sq. ft. lounge features elegant contemporary interiors with high ceilings, minimalist décor and abundant natural light. Designed for relaxation, it offers comfortable seating for up to 8 guests with plush sofas and accent armchairs, along with an AC for added comfort. Expansive arched floor-to-ceiling windows, sheer curtains, a designer chandelier, recessed lighting, stylish centre table, soft area rug and curated décor create a bright, sophisticated ambience. A nearby powder room adds to the convenience."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Bar-The Cask",
+      "paragraphs": [
+        "This elegant ground-floor indoor bar features a stone-finished counter with stylish upholstered bar chairs, creating the perfect space to unwind over drinks and conversations. Contemporary interiors, sophisticated neutral-toned décor, designer display shelving, and warm ambient lighting enhance its inviting atmosphere, making it an ideal social gathering spot."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Dining area- Oak Chamber",
+      "paragraphs": [
+        "This elegant ground-floor dining area features a contemporary dining table with plush upholstered chairs, comfortably seating up to 8 guests. Expansive arched windows frame serene garden views and fill the space with natural light, creating a warm and inviting setting for memorable meals."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Kitchen- Botanica Studio",
+      "paragraphs": [
+        "The open-plan kitchen on the ground floor is fully equipped for a seamless self-catering experience. It features a gas cooktop, double-door refrigerator, toaster, mixer-grinder, water purifier, electric kettle, along with crockery, cutlery and other premium kitchen essentials, making meal preparation both convenient and enjoyable."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Entertainment lounge-Leisure Club",
+      "paragraphs": [
+        "The first-floor recreational area offers a spacious open-plan setting with a full-sized pool table, perfect for friendly games and gatherings. High ceilings, large arched windows, and scenic outdoor views create a bright and airy ambience, while comfortable lounge chairs and elegant pendant lighting make it an inviting space to relax and unwind."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Terrace-Wicker Deck",
+      "paragraphs": [
+        "This elegant alfresco terrace offers a spacious open-air setting with comfortable wicker lounge chairs and a central coffee table. Overlooking the pool and lush gardens, it provides a serene backdrop for morning coffee, evening drinks, or intimate conversations in a peaceful outdoor ambience."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Swimming pool- Bluewater Retreat",
+      "paragraphs": [
+        "The private outdoor pool, spanning approximately 250 sq. ft. with a depth of 4.5 ft., offers a refreshing retreat amidst landscaped gardens and open green views. It features a dedicated jacuzzi section, comfortable poolside loungers for relaxation, an outdoor shower, and a spacious pool deck that's perfect for lounging, unwinding, or gathering with friends and family."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Garden-Meadow Grounds",
+      "paragraphs": [
+        "The expansive 40,000 sq. ft. landscaped lawn offers a picturesque outdoor setting for relaxation and celebrations. With seating for up to 18 guests, a charming gazebo, an outdoor bar, a children's play area, and outdoor sports facilities, it provides the perfect space for gatherings, special occasions, and memorable experiences amidst lush greenery."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Gazebo-Twilight Pavilion",
+      "paragraphs": [
+        "This covered outdoor sit-out features a warm wooden pavilion design with a high timber ceiling, stylish pendant lights, and a ceiling fan for added comfort. Comfortable lounge seating with a coffee table, an open-sided layout overlooking the lush lawn, and abundant natural light create a spacious alfresco setting, perfect for relaxing amidst a peaceful green landscape."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Sit-out area- Horizon Patio",
+      "paragraphs": [
+        "This cosy outdoor sit-out features comfortable wicker lounge seating with an intimate coffee table, making it the perfect spot for tea, coffee, or relaxed conversations. Framed by an elegant arched façade, it overlooks the beautifully landscaped surroundings and offers a seamless indoor-outdoor connection through large glass windows and flowing curtains."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Overview",
+      "paragraphs": [
+        "Both vegetarian and non-vegetarian cuisine can be enjoyed throughout your stay."
+      ]
+    },
+    {
+      "bullets": [
+        "Guests have access to basic reheating only",
+        "An on-call chef is available with an in-house menu"
+      ],
+      "heading": "Additional Features:",
+      "paragraphs": []
+    },
+    {
+      "bullets": [],
+      "heading": "Check-in Instructions: — Check-in: 2 PM — Check-out: 11 AM — Refund Policy",
+      "paragraphs": [
+        "For cancellations that comply with our policy terms, refunds will be processed as per the details below:",
+        "1. Refunds are only available if the full payment has been made; partial payments are non-refundable.",
+        "2. Refunds will be processed within 7-9 days post-cancellation request.",
+        "Security Deposit Amount: 25,000",
+        "Security Deposit Refund Policy: Refunds will be processed within 4-7 working days after property inspection. Your adherence to this timeline is appreciated.",
+        "Noise & disturbances: Keep noise levels reasonable, especially between 10 pm and 7 am; no loud parties or events.",
+        "Smoking: Smoking is strictly prohibited inside the villa. Designated smoking areas are available outdoors.",
+        "Chewing tobacco: Strictly prohibited with no exceptions.",
+        "Pets: Pets are allowed on the property.",
+        "*Pet Friendly Property | Pet Policy*",
+        "Pets Are Family – And They’re Welcome Here!",
+        "We’re thrilled to host your furry friends at our pet-friendly homes. To ensure a safe and comfortable stay for all, here’s everything you need to know:",
+        "Pet Security Deposit",
+        "• 1 Pet – ₹10,000 (Refundable)",
+        "• 2 Pets – ₹15,000 (Refundable)",
+        "Collected in addition to the standard security deposit.",
+        "Pet Sanitation Fee (One-time, collected at check-in)",
+        "• 1BHK – ₹1,000",
+        "• 2/3BHK – ₹2,000",
+        "• 4/5BHK+ – ₹3,000",
+        "• Prive Collection – ₹4,000",
+        "Kindly Note",
+        "• Pets are not allowed in the pool – A care charge of ₹10,000 will apply if this is overlooked.",
+        "• Clean-up is your responsibility – Please pick up after your pets.",
+        "• Damages, if any, will be charged at actuals.",
+        "We love pets—and we’re so glad you brought yours along! Thank you for helping us keep our spaces clean, safe, and welcoming for everyone.",
+        "Occupancy: Follow maximum occupancy limits. Additional guests need prior approval.",
+        "Damages: Guests are responsible for any damages or breakages during their stay. Please report any incidents to the management promptly. Charges may apply for repairs or replacements.",
+        "Cleanliness: Please keep the villa clean, use the designated trash bins and avoid littering the property.",
+        "Safety & security: Lock all doors and windows when leaving. We will not be responsible for any loss or theft of personal belongings.",
+        "Amenities & facilities: Use the provided amenities responsibly and adhere to any posted guidelines.",
+        "Compliance: Follow local laws and regulations. Illegal activities will result in eviction and potential legal action.",
+        "Upkeep: Daily cleaning is compulsory. Kindly cooperate with our housekeeping team.",
+        "Standard occupancy: 12 guests​",
+        "Maximum occupancy: 18 guests"
+      ]
+    },
+    {
+      "bullets": [
+        "Westin Sohna — 2 km",
+        "Damdama Lake — 7 km",
+        "Airia Mall — 17 km",
+        "Nearest Railway Station – Ballabhgarh — 28 km",
+        "Nearest Airport – IGI Airport — 60 km"
+      ],
+      "heading": "Overview",
+      "paragraphs": []
+    }
+  ],
+  "images": [
+    "https://cpjlcwamma.cloudimg.io/712_A4099_0693d7d31e.jpeg",
+    "https://cpjlcwamma.cloudimg.io/712_A4976_3546b80dcf.jpeg",
+    "https://cpjlcwamma.cloudimg.io/712_A4271_80fcc8bb18.jpeg",
+    "https://cpjlcwamma.cloudimg.io/1_H7_A8275_2d0f197c01.jpeg",
+    "https://cpjlcwamma.cloudimg.io/1_H7_A8341_b217ab4449.JPEG",
+    "https://cpjlcwamma.cloudimg.io/1_H7_A8339_fb7784cf94.JPEG",
+    "https://cpjlcwamma.cloudimg.io/712_A4884_6f1a736d55.jpeg",
+    "https://cpjlcwamma.cloudimg.io/1_H7_A8227_1_3c2e1f3f9c.jpeg",
+    "https://cpjlcwamma.cloudimg.io/712_A3897_3ac5d54688.jpeg",
+    "https://cpjlcwamma.cloudimg.io/712_A4008_912240949c.jpeg",
+    "https://cpjlcwamma.cloudimg.io/1_H7_A8229_97c2648fec.jpeg",
+    "https://cpjlcwamma.cloudimg.io/712_A4484_ac0a6495ee.jpeg",
+    "https://cpjlcwamma.cloudimg.io/712_A3779_6af87339f8.jpeg",
+    "https://cpjlcwamma.cloudimg.io/712_A4356_e8469f3494.jpeg",
+    "https://cpjlcwamma.cloudimg.io/712_A4636_2e41b4b39a.jpeg",
+    "https://cpjlcwamma.cloudimg.io/712_A3616_b2ef775735.jpeg",
+    "https://cpjlcwamma.cloudimg.io/712_A3689_671ac3352c.jpeg"
+  ],
+  "image_count": 17
+}

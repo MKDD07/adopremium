@@ -1,0 +1,101 @@
+{
+  "id": 23,
+  "slug": "nainital",
+  "name": "Nainital",
+  "villa_count": 15,
+  "villas": [
+    {
+      "id": 468,
+      "slug": "the-meadows-luxury-3bhk-villa",
+      "name": "The Meadows Luxury 3BHK Villa",
+      "url": "https://www.elivaas.com/villa-in-nainital/the-meadows-luxury-3bhk-villa"
+    },
+    {
+      "id": 469,
+      "slug": "twin-chalets-4bhk-villa",
+      "name": "Twin Chalets 4BHK Villa",
+      "url": "https://www.elivaas.com/villa-in-nainital/twin-chalets-4bhk-villa"
+    },
+    {
+      "id": 470,
+      "slug": "aether-1bhk-villa-in-nainital",
+      "name": "Aether 1BHK Villa in Nainital",
+      "url": "https://www.elivaas.com/villa-in-nainital/aether-1bhk-villa-in-nainital"
+    },
+    {
+      "id": 471,
+      "slug": "dawn-4bhk-villa-in-nainital",
+      "name": "Dawn 4BHK Villa in Nainital",
+      "url": "https://www.elivaas.com/villa-in-nainital/dawn-4bhk-villa-in-nainital"
+    },
+    {
+      "id": 472,
+      "slug": "dusk-4bhk-villa-in-nainital",
+      "name": "Dusk 4BHK Villa in Nainital",
+      "url": "https://www.elivaas.com/villa-in-nainital/dusk-4bhk-villa-in-nainital"
+    },
+    {
+      "id": 473,
+      "slug": "twilight-2bhk-villa-in-nainital",
+      "name": "Twilight 2BHK Villa in Nainital",
+      "url": "https://www.elivaas.com/villa-in-nainital/twilight-2bhk-villa-in-nainital"
+    },
+    {
+      "id": 474,
+      "slug": "farsauli-3bhk-cottage-in-bhowali",
+      "name": "Farsauli 3BHK Cottage in Bhowali",
+      "url": "https://www.elivaas.com/villa-in-nainital/farsauli-3bhk-cottage-in-bhowali"
+    },
+    {
+      "id": 475,
+      "slug": "headingly-suite-apartment-in-nainital",
+      "name": "Headingly Suite Apartment in Nainital",
+      "url": "https://www.elivaas.com/villa-in-nainital/headingly-suite-apartment-in-nainital"
+    },
+    {
+      "id": 476,
+      "slug": "karinya-villa-fennel-2-bhk-villa-in-talla-nainital",
+      "name": "Karinya Villa Fennel 2 BHK Villa in Talla Nainital",
+      "url": "https://www.elivaas.com/villa-in-nainital/karinya-villa-fennel-2-bhk-villa-in-talla-nainital"
+    },
+    {
+      "id": 477,
+      "slug": "karinya-villas-fern-1-bhk-villa-in-talla",
+      "name": "Karinya Villas Fern 1 BHK Villa in Talla",
+      "url": "https://www.elivaas.com/villa-in-nainital/karinya-villas-fern-1-bhk-villa-in-talla"
+    },
+    {
+      "id": 478,
+      "slug": "karinya-villas-frond-scenic-hill-view-3bhk-villa-with-gazebo",
+      "name": "Karinya Villas Frond Scenic Hill View 3BHK Villa with Gazebo",
+      "url": "https://www.elivaas.com/villa-in-nainital/karinya-villas-frond-scenic-hill-view-3bhk-villa-with-gazebo"
+    },
+    {
+      "id": 479,
+      "slug": "harmony-2bhk-villa-in-bhowali",
+      "name": "Harmony 2BHK Villa in Bhowali",
+      "url": "https://www.elivaas.com/villa-in-nainital/harmony-2bhk-villa-in-bhowali"
+    },
+    {
+      "id": 480,
+      "slug": "woodbury-mansion-3-bhk-villa-with-naini-valley-views",
+      "name": "Woodbury Mansion 3 BHK Villa with Naini Valley Views",
+      "url": "https://www.elivaas.com/villa-in-nainital/woodbury-mansion-3-bhk-villa-with-naini-valley-views"
+    },
+    {
+      "id": 481,
+      "slug": "key-shree-bhawan-2-bhk-apartment-with-balcony",
+      "name": "Key Shree Bhawan 2 BHK Apartment with Balcony",
+      "url": "https://www.elivaas.com/villa-in-nainital/key-shree-bhawan-2-bhk-apartment-with-balcony"
+    },
+    {
+      "id": 482,
+      "slug": "key-shree-bhawan-elegant-1-bhk-hill-home-with-balcony",
+      "name": "Key Shree Bhawan Elegant 1 BHK Hill Home with Balcony",
+      "url": "https://www.elivaas.com/villa-in-nainital/key-shree-bhawan-elegant-1-bhk-hill-home-with-balcony"
+    }
+  ],
+  "state_name": "Uttarakhand",
+  "state_slug": "uttarakhand",
+  "hero": "nainital lake hill station luxury retreat"
+}

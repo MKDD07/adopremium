@@ -1,0 +1,323 @@
+{
+  "id": 16,
+  "slug": "kasauli",
+  "name": "Kasauli",
+  "villa_count": 52,
+  "villas": [
+    {
+      "id": 360,
+      "slug": "cliff-side-3bhk-villa",
+      "name": "Cliff Side 3BHK Villa",
+      "url": "https://www.elivaas.com/villa-in-kasauli/cliff-side-3bhk-villa"
+    },
+    {
+      "id": 361,
+      "slug": "royce-4bhk-cottage",
+      "name": "Royce 4BHK Cottage",
+      "url": "https://www.elivaas.com/villa-in-kasauli/royce-4bhk-cottage"
+    },
+    {
+      "id": 362,
+      "slug": "the-retreat-villa-4-bhk-hillside-retreat-with-indoor-pool",
+      "name": "The Retreat Villa 4 BHK Hillside Retreat with Indoor Pool",
+      "url": "https://www.elivaas.com/villa-in-kasauli/the-retreat-villa-4-bhk-hillside-retreat-with-indoor-pool"
+    },
+    {
+      "id": 363,
+      "slug": "royce-4bhk-villa-with-private-pool",
+      "name": "Royce 4BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-kasauli/royce-4bhk-villa-with-private-pool"
+    },
+    {
+      "id": 364,
+      "slug": "the-royce-lily-4-bhk",
+      "name": "The Royce Lily 4 BHK",
+      "url": "https://www.elivaas.com/villa-in-kasauli/the-royce-lily-4-bhk"
+    },
+    {
+      "id": 365,
+      "slug": "royce-orchid-4bk-villa-private-pool",
+      "name": "Royce Orchid 4BHK Villa Private Pool",
+      "url": "https://www.elivaas.com/villa-in-kasauli/royce-orchid-4bk-villa-private-pool"
+    },
+    {
+      "id": 366,
+      "slug": "the-royce-rose-4bhk-villa-with-private-pool",
+      "name": "The Royce Rose 4BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-kasauli/the-royce-rose-4bhk-villa-with-private-pool"
+    },
+    {
+      "id": 367,
+      "slug": "royce-silver-oak-pet-friendly-4-bhk-apartment-with-pool",
+      "name": "Royce Silver Oak Pet Friendly 4 BHK Apartment with Pool",
+      "url": "https://www.elivaas.com/villa-in-kasauli/royce-silver-oak-pet-friendly-4-bhk-apartment-with-pool"
+    },
+    {
+      "id": 368,
+      "slug": "royce-silver-oak-opal-pet-friendly-2-bhk-apartment-with-pool",
+      "name": "Royce Silver Oak Opal Pet Friendly 2 BHK Apartment with Pool",
+      "url": "https://www.elivaas.com/villa-in-kasauli/royce-silver-oak-opal-pet-friendly-2-bhk-apartment-with-pool"
+    },
+    {
+      "id": 369,
+      "slug": "aaram-bagh-pet-friendly-4-bhk-escape",
+      "name": "Aaram Bagh Pet Friendly 4 BHK Escape",
+      "url": "https://www.elivaas.com/villa-in-kasauli/aaram-bagh-pet-friendly-4-bhk-escape"
+    },
+    {
+      "id": 370,
+      "slug": "aashiyana-secret-escape-pet-friendly-2-bhk-retreat-with-patio",
+      "name": "Aashiyana Secret Escape Pet Friendly 2 BHK Retreat with Patio",
+      "url": "https://www.elivaas.com/villa-in-kasauli/aashiyana-secret-escape-pet-friendly-2-bhk-retreat-with-patio"
+    },
+    {
+      "id": 371,
+      "slug": "alpenglow-luxury-4bhk-villa",
+      "name": "Alpenglow Luxury 4BHK Villa",
+      "url": "https://www.elivaas.com/villa-in-kasauli/alpenglow-luxury-4bhk-villa"
+    },
+    {
+      "id": 372,
+      "slug": "bask-and-blessings-highlands-pet-friendly-7-bhk-retreat",
+      "name": "Bask and Blessings Highlands Pet Friendly 7 BHK Retreat",
+      "url": "https://www.elivaas.com/villa-in-kasauli/bask-and-blessings-highlands-pet-friendly-7-bhk-retreat"
+    },
+    {
+      "id": 373,
+      "slug": "bask-and-blessings-meadows-3-bhk-pet-friendly-villa-with-jacuzzi",
+      "name": "Bask and Blessings Meadows 3 BHK Pet Friendly Villa with Jacuzzi",
+      "url": "https://www.elivaas.com/villa-in-kasauli/bask-and-blessings-meadows-3-bhk-pet-friendly-villa-with-jacuzzi"
+    },
+    {
+      "id": 374,
+      "slug": "bask-and-blessings-mist-pet-friendly-suite-with-jacuzzi",
+      "name": "Bask and Blessings Mist Pet Friendly Suite with Jacuzzi",
+      "url": "https://www.elivaas.com/villa-in-kasauli/bask-and-blessings-mist-pet-friendly-suite-with-jacuzzi"
+    },
+    {
+      "id": 375,
+      "slug": "beyond-the-curb-3-bhk-villa-with-private-jacuzzi",
+      "name": "Beyond the Curb 3 BHK Villa with Private Jacuzzi",
+      "url": "https://www.elivaas.com/villa-in-kasauli/beyond-the-curb-3-bhk-villa-with-private-jacuzzi"
+    },
+    {
+      "id": 376,
+      "slug": "dilli-3bhk-villa-private-pool",
+      "name": "Dilli 3BHK Villa Private Pool",
+      "url": "https://www.elivaas.com/villa-in-kasauli/dilli-3bhk-villa-private-pool"
+    },
+    {
+      "id": 377,
+      "slug": "fleur-de-lis-luxury-4bhk-villa",
+      "name": "Fleur De Lis Luxury 4BHK Villa",
+      "url": "https://www.elivaas.com/villa-in-kasauli/fleur-de-lis-luxury-4bhk-villa"
+    },
+    {
+      "id": 378,
+      "slug": "goldencrest-6bhk-villa",
+      "name": "Goldencrest 6BHK Villa",
+      "url": "https://www.elivaas.com/villa-in-kasauli/goldencrest-6bhk-villa"
+    },
+    {
+      "id": 379,
+      "slug": "ivory-ridge-9bhk-villa",
+      "name": "Ivory Ridge 9BHK Villa",
+      "url": "https://www.elivaas.com/villa-in-kasauli/ivory-ridge-9bhk-villa"
+    },
+    {
+      "id": 380,
+      "slug": "kavya-villa-4-bhk-pet-friendly-villa-with-lounge",
+      "name": "Kavya Villa 4 BHK Pet Friendly Villa with Lounge",
+      "url": "https://www.elivaas.com/villa-in-kasauli/kavya-villa-4-bhk-pet-friendly-villa-with-lounge"
+    },
+    {
+      "id": 381,
+      "slug": "konifer-greyvine-9bhk-villa",
+      "name": "Konifer Greyvine 9BHK Villa",
+      "url": "https://www.elivaas.com/villa-in-kasauli/konifer-greyvine-9bhk-villa"
+    },
+    {
+      "id": 382,
+      "slug": "konifer-pinegrove-3bhk-villa",
+      "name": "Konifer Pinegrove 3BHK Villa",
+      "url": "https://www.elivaas.com/villa-in-kasauli/konifer-pinegrove-3bhk-villa"
+    },
+    {
+      "id": 383,
+      "slug": "konifer-rosewood-one-room",
+      "name": "Konifer Rosewood One Room",
+      "url": "https://www.elivaas.com/villa-in-kasauli/konifer-rosewood-one-room"
+    },
+    {
+      "id": 384,
+      "slug": "konifer-wildfern-2bhk-villa",
+      "name": "Konifer Wildfern 2BHK Villa",
+      "url": "https://www.elivaas.com/villa-in-kasauli/konifer-wildfern-2bhk-villa"
+    },
+    {
+      "id": 385,
+      "slug": "kosh-villa-glenhaven-3-bhk-villa-with-private-balcnoies",
+      "name": "Kosh Villa Glenhaven 3 BHK Villa with Private Balcnoies",
+      "url": "https://www.elivaas.com/villa-in-kasauli/kosh-villa-glenhaven-3-bhk-villa-with-private-balcnoies"
+    },
+    {
+      "id": 386,
+      "slug": "kosh-villa-pinevale-2-bhk-with-pool-table",
+      "name": "Kosh Villa Pinevale 2 BHK with Pool Table",
+      "url": "https://www.elivaas.com/villa-in-kasauli/kosh-villa-pinevale-2-bhk-with-pool-table"
+    },
+    {
+      "id": 387,
+      "slug": "kosh-5-bhk-villa",
+      "name": "Kosh 5 BHK Villa",
+      "url": "https://www.elivaas.com/villa-in-kasauli/kosh-5-bhk-villa"
+    },
+    {
+      "id": 388,
+      "slug": "swaran-secret-escape-luxury-pet-friendly-room-with-private-balcony",
+      "name": "Swaran Secret Escape Luxury Pet Friendly Room with Private Balcony",
+      "url": "https://www.elivaas.com/villa-in-kasauli/swaran-secret-escape-luxury-pet-friendly-room-with-private-balcony"
+    },
+    {
+      "id": 389,
+      "slug": "panchvati-veloraa-pet-friendly-3-bhk-apartment",
+      "name": "Panchvati Veloraa Pet Friendly 3 BHK Apartment",
+      "url": "https://www.elivaas.com/villa-in-kasauli/panchvati-veloraa-pet-friendly-3-bhk-apartment"
+    },
+    {
+      "id": 390,
+      "slug": "panchvati-veloraa-spacious-pet-friendly-6-bhk-apartment",
+      "name": "Panchvati Veloraa Spacious Pet Friendly 6 BHK Apartment",
+      "url": "https://www.elivaas.com/villa-in-kasauli/panchvati-veloraa-spacious-pet-friendly-6-bhk-apartment"
+    },
+    {
+      "id": 391,
+      "slug": "pine-view-resort-1-suite",
+      "name": "Pine View Resort 1 Suite",
+      "url": "https://www.elivaas.com/villa-in-kasauli/pine-view-resort-1-suite"
+    },
+    {
+      "id": 392,
+      "slug": "pinehill-manor-6bhk-villa",
+      "name": "Pinehill Manor 6BHK Villa",
+      "url": "https://www.elivaas.com/villa-in-kasauli/pinehill-manor-6bhk-villa"
+    },
+    {
+      "id": 393,
+      "slug": "stars-and-windsong-terrace-suite-with-pool",
+      "name": "Stars and Windsong Terrace Suite with Pool",
+      "url": "https://www.elivaas.com/villa-in-kasauli/stars-and-windsong-terrace-suite-with-pool"
+    },
+    {
+      "id": 394,
+      "slug": "stars-and-windsongs-suite-with-shared-pool",
+      "name": "Stars and Windsongs Suite with Shared Pool",
+      "url": "https://www.elivaas.com/villa-in-kasauli/stars-and-windsongs-suite-with-shared-pool"
+    },
+    {
+      "id": 395,
+      "slug": "swaran-secret-escape-pet-friendly-2-bhk-apartment-with-valley-view",
+      "name": "Swaran Secret Escape Pet Friendly 2 BHK Apartment with Valley View",
+      "url": "https://www.elivaas.com/villa-in-kasauli/swaran-secret-escape-pet-friendly-2-bhk-apartment-with-valley-view"
+    },
+    {
+      "id": 396,
+      "slug": "golden-meadow-3bhk-villa",
+      "name": "Golden Meadow 3BHK Villa",
+      "url": "https://www.elivaas.com/villa-in-kasauli/golden-meadow-3bhk-villa"
+    },
+    {
+      "id": 397,
+      "slug": "archee-6bhk-villa-in-kasauli",
+      "name": "Archee 6BHK Villa in Kasauli",
+      "url": "https://www.elivaas.com/villa-in-kasauli/archee-6bhk-villa-in-kasauli"
+    },
+    {
+      "id": 398,
+      "slug": "captain-nest-3bhk-cottage-in-kasauli",
+      "name": "Captain Nest 3BHK Cottage in Kasauli",
+      "url": "https://www.elivaas.com/villa-in-kasauli/captain-nest-3bhk-cottage-in-kasauli"
+    },
+    {
+      "id": 399,
+      "slug": "chalet-vie-4bhk-villa-in-kasauli",
+      "name": "Chalet Vie 4BHK Villa in Kasauli",
+      "url": "https://www.elivaas.com/villa-in-kasauli/chalet-vie-4bhk-villa-in-kasauli"
+    },
+    {
+      "id": 400,
+      "slug": "cloudcatcher-4bhk-villa",
+      "name": "Cloudcatcher 4BHK Villa",
+      "url": "https://www.elivaas.com/villa-in-kasauli/cloudcatcher-4bhk-villa"
+    },
+    {
+      "id": 401,
+      "slug": "dilli-villa-suite",
+      "name": "Dilli Villa Suite",
+      "url": "https://www.elivaas.com/villa-in-kasauli/dilli-villa-suite"
+    },
+    {
+      "id": 402,
+      "slug": "woods-cottage-3bhk-villa-in-kasauli",
+      "name": "Woods Cottage 3BHK Villa in Kasauli",
+      "url": "https://www.elivaas.com/villa-in-kasauli/woods-cottage-3bhk-villa-in-kasauli"
+    },
+    {
+      "id": 403,
+      "slug": "live-life-cottage-2bhk-apartment-in-kasauli",
+      "name": "Live Life Cottage 2BHK Apartment in Kasauli",
+      "url": "https://www.elivaas.com/villa-in-kasauli/live-life-cottage-2bhk-apartment-in-kasauli"
+    },
+    {
+      "id": 404,
+      "slug": "mehar-3bhk-villa-in-kasauli",
+      "name": "Mehar 3BHK Villa in Kasauli",
+      "url": "https://www.elivaas.com/villa-in-kasauli/mehar-3bhk-villa-in-kasauli"
+    },
+    {
+      "id": 405,
+      "slug": "mist-manor-cedar-pet-friendly-3-bhk-apartment",
+      "name": "Mist Manor Cedar Pet Friendly 3 BHK Apartment",
+      "url": "https://www.elivaas.com/villa-in-kasauli/mist-manor-cedar-pet-friendly-3-bhk-apartment"
+    },
+    {
+      "id": 406,
+      "slug": "mist-and-manor-maple-pet-friendly-6-bhk-apartment",
+      "name": "Mist and Manor Maple Pet Friendly 6 BHK Apartment",
+      "url": "https://www.elivaas.com/villa-in-kasauli/mist-and-manor-maple-pet-friendly-6-bhk-apartment"
+    },
+    {
+      "id": 407,
+      "slug": "pine-view-3bhk-cottage-in-kasauli",
+      "name": "Pine View 3BHK Cottage in Kasauli",
+      "url": "https://www.elivaas.com/villa-in-kasauli/pine-view-3bhk-cottage-in-kasauli"
+    },
+    {
+      "id": 408,
+      "slug": "querencia-5bhk-villa-in-kasauli",
+      "name": "Querencia 5BHK Villa in Kasauli",
+      "url": "https://www.elivaas.com/villa-in-kasauli/querencia-5bhk-villa-in-kasauli"
+    },
+    {
+      "id": 409,
+      "slug": "serene-woods-one-room-with-balcony-in-kasauli",
+      "name": "Serene Woods One Room with Balcony in Kasauli",
+      "url": "https://www.elivaas.com/villa-in-kasauli/serene-woods-one-room-with-balcony-in-kasauli"
+    },
+    {
+      "id": 410,
+      "slug": "woodbine-chalet-1bedroom-cottage-in-shimla",
+      "name": "Woodbine Chalet 1bedroom Cottage in Shimla",
+      "url": "https://www.elivaas.com/villa-in-kasauli/woodbine-chalet-1bedroom-cottage-in-shimla"
+    },
+    {
+      "id": 411,
+      "slug": "woodcrest-chalet-1bedroom-cottage-in-shimla",
+      "name": "Woodcrest Chalet 1bedroom Cottage in Shimla",
+      "url": "https://www.elivaas.com/villa-in-kasauli/woodcrest-chalet-1bedroom-cottage-in-shimla"
+    }
+  ],
+  "state_name": "Himachal Pradesh",
+  "state_slug": "himachal-pradesh",
+  "hero": "kasauli pine forest mountain luxury cottage"
+}

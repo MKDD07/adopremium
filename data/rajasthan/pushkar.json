@@ -1,0 +1,23 @@
+{
+  "id": 28,
+  "slug": "pushkar",
+  "name": "Pushkar",
+  "villa_count": 2,
+  "villas": [
+    {
+      "id": 582,
+      "slug": "tuscun-villa-5-bhk-pet-friendly-retreat-with-private-pool",
+      "name": "Tuscun Villa 5 BHK Pet Friendly Retreat with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-pushkar/tuscun-villa-5-bhk-pet-friendly-retreat-with-private-pool"
+    },
+    {
+      "id": 583,
+      "slug": "krishna-serenity-villa-pet-friendly-7-bhk-farmhouse-with-private-pool",
+      "name": "Krishna Serenity Villa Pet Friendly 7 BHK Farmhouse with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-pushkar/krishna-serenity-villa-pet-friendly-7-bhk-farmhouse-with-private-pool"
+    }
+  ],
+  "state_name": "Rajasthan",
+  "state_slug": "rajasthan",
+  "hero": "pushkar desert luxury camp resort"
+}

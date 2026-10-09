@@ -1,0 +1,29 @@
+{
+  "id": 3,
+  "slug": "alwar",
+  "name": "Alwar",
+  "villa_count": 3,
+  "villas": [
+    {
+      "id": 10,
+      "slug": "riveira-hills-3bhk-wooden-cottage-with-private-pool",
+      "name": "Riveira Hills 3BHK Wooden Cottage with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-alwar/riveira-hills-3bhk-wooden-cottage-with-private-pool"
+    },
+    {
+      "id": 11,
+      "slug": "ms-valley-blossoms-3-bhk-villa-with-private-pool",
+      "name": "MS Valley Blossoms 3 BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-alwar/ms-valley-blossoms-3-bhk-villa-with-private-pool"
+    },
+    {
+      "id": 12,
+      "slug": "ms-valley-groves-2-bhk-villa-with-private-pool",
+      "name": "MS Valley Groves 2 BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-alwar/ms-valley-groves-2-bhk-villa-with-private-pool"
+    }
+  ],
+  "state_name": "Rajasthan",
+  "state_slug": "rajasthan",
+  "hero": "alwar heritage luxury fort palace"
+}

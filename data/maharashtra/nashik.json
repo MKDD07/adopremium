@@ -1,0 +1,89 @@
+{
+  "id": 24,
+  "slug": "nashik",
+  "name": "Nashik",
+  "villa_count": 13,
+  "villas": [
+    {
+      "id": 483,
+      "slug": "energise-soul-resort-aranya-angan-4bhk-villa",
+      "name": "Energise Soul Resort Aranya Angan 4BHK Villa",
+      "url": "https://www.elivaas.com/villa-in-nashik/energise-soul-resort-aranya-angan-4bhk-villa"
+    },
+    {
+      "id": 484,
+      "slug": "energise-soul-ajna-3bhk-villa-with-pool",
+      "name": "Energise Soul Ajna 3BHK Villa with Pool",
+      "url": "https://www.elivaas.com/villa-in-nashik/energise-soul-ajna-3bhk-villa-with-pool"
+    },
+    {
+      "id": 485,
+      "slug": "energise-soul-resort-anahata-aalaya-3bhk-villa",
+      "name": "Energise Soul Resort Anahata Aalaya 3BHK Villa",
+      "url": "https://www.elivaas.com/villa-in-nashik/energise-soul-resort-anahata-aalaya-3bhk-villa"
+    },
+    {
+      "id": 486,
+      "slug": "enrgise-soul-retreat-karuna-kutir-villa-2bhk",
+      "name": "Enrgise Soul Retreat Karuna Kutir Villa 2BHK",
+      "url": "https://www.elivaas.com/villa-in-nashik/enrgise-soul-retreat-karuna-kutir-villa-2bhk"
+    },
+    {
+      "id": 487,
+      "slug": "energise-soul-retreat-premium-room-1bhk-villa",
+      "name": "Energise Soul Retreat Premium Room 1BHK Villa",
+      "url": "https://www.elivaas.com/villa-in-nashik/energise-soul-retreat-premium-room-1bhk-villa"
+    },
+    {
+      "id": 488,
+      "slug": "energise-soul-retreat-standard-room",
+      "name": "Energise Soul Retreat Standard Room",
+      "url": "https://www.elivaas.com/villa-in-nashik/energise-soul-retreat-standard-room"
+    },
+    {
+      "id": 489,
+      "slug": "energise-soul-retreat-vasudha-3bhk-villa-with-pool",
+      "name": "Energise Soul Retreat Vasudha 3BHK Villa with Pool",
+      "url": "https://www.elivaas.com/villa-in-nashik/energise-soul-retreat-vasudha-3bhk-villa-with-pool"
+    },
+    {
+      "id": 490,
+      "slug": "energise-soul-retreat-3-bhk",
+      "name": "Energise Soul Retreat 3 BHK",
+      "url": "https://www.elivaas.com/villa-in-nashik/energise-soul-retreat-3-bhk"
+    },
+    {
+      "id": 491,
+      "slug": "advay-villa-by-phalke-luxurious-3-bhk-retreat-with-private-swimming-pool",
+      "name": "Advay Villa by Phalke Luxurious 3 BHK Retreat with Private Swimming Pool",
+      "url": "https://www.elivaas.com/villa-in-nashik/advay-villa-by-phalke-luxurious-3-bhk-retreat-with-private-swimming-pool"
+    },
+    {
+      "id": 492,
+      "slug": "bahava-villa-4-bhk-heritage-laterite-stone-villa-with-private-pool",
+      "name": "Bahava Villa 4 BHK Heritage Laterite Stone Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-nashik/bahava-villa-4-bhk-heritage-laterite-stone-villa-with-private-pool"
+    },
+    {
+      "id": 493,
+      "slug": "sierra-vista-anjaneri-3-rooms-with-hill-view",
+      "name": "Sierra Vista Anjaneri 3 Rooms with Hill View",
+      "url": "https://www.elivaas.com/villa-in-nashik/sierra-vista-anjaneri-3-rooms-with-hill-view"
+    },
+    {
+      "id": 494,
+      "slug": "sierra-vista-brahmagiri-cottage-with-bathtub",
+      "name": "Sierra Vista Brahmagiri Cottage with Bathtub",
+      "url": "https://www.elivaas.com/villa-in-nashik/sierra-vista-brahmagiri-cottage-with-bathtub"
+    },
+    {
+      "id": 495,
+      "slug": "sierra-vista-dhodap-cottage-with-hill-view",
+      "name": "Sierra Vista Dhodap Cottage with Hill View",
+      "url": "https://www.elivaas.com/villa-in-nashik/sierra-vista-dhodap-cottage-with-hill-view"
+    }
+  ],
+  "state_name": "Maharashtra",
+  "state_slug": "maharashtra",
+  "hero": "nashik vineyard estate luxury villa"
+}

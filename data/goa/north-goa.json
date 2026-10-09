@@ -1,0 +1,509 @@
+{
+  "id": 26,
+  "slug": "north-goa",
+  "name": "North Goa",
+  "villa_count": 83,
+  "villas": [
+    {
+      "id": 497,
+      "slug": "fleuve-6bhk-villa-with-infinity-pool",
+      "name": "Fleuve 6BHK Villa with Infinity Pool",
+      "url": "https://www.elivaas.com/villa-in-north-goa/fleuve-6bhk-villa-with-infinity-pool"
+    },
+    {
+      "id": 498,
+      "slug": "bellavie-3bhk-villa-with-private-pool",
+      "name": "Bellavie 3BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-north-goa/bellavie-3bhk-villa-with-private-pool"
+    },
+    {
+      "id": 499,
+      "slug": "waves-cloud-7-luxury-villas-4bhk",
+      "name": "Waves Cloud 7 Luxury Villas 4BHK",
+      "url": "https://www.elivaas.com/villa-in-north-goa/waves-cloud-7-luxury-villas-4bhk"
+    },
+    {
+      "id": 500,
+      "slug": "house-of-neptune-3-bhk-cottage-with-gazebo",
+      "name": "House of Neptune 3 BHK Cottage with Gazebo",
+      "url": "https://www.elivaas.com/villa-in-north-goa/house-of-neptune-3-bhk-cottage-with-gazebo"
+    },
+    {
+      "id": 501,
+      "slug": "yashgeet-4bhk-villa-with-private-pool",
+      "name": "Yashgeet 4BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-north-goa/yashgeet-4bhk-villa-with-private-pool"
+    },
+    {
+      "id": 502,
+      "slug": "amayah-rasa-4bhk-villa-with-private-pool",
+      "name": "Amayah Rasa 4BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-north-goa/amayah-rasa-4bhk-villa-with-private-pool"
+    },
+    {
+      "id": 503,
+      "slug": "casa-zyra-4bhk-villa-with-private-pool",
+      "name": "Casa Zyra 4BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-north-goa/casa-zyra-4bhk-villa-with-private-pool"
+    },
+    {
+      "id": 504,
+      "slug": "celest-4bhk-villa-with-private-pool",
+      "name": "Celest 4BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-north-goa/celest-4bhk-villa-with-private-pool"
+    },
+    {
+      "id": 505,
+      "slug": "mirai-aries-3bhk-villa-with-private-pool",
+      "name": "Mirai Aries 3BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-north-goa/mirai-aries-3bhk-villa-with-private-pool"
+    },
+    {
+      "id": 506,
+      "slug": "serenica-4bhk-villa-with-private-pool",
+      "name": "Serenica 4BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-north-goa/serenica-4bhk-villa-with-private-pool"
+    },
+    {
+      "id": 507,
+      "slug": "paraiso-4bhk-villa-with-private-pool",
+      "name": "Paraiso 4BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-north-goa/paraiso-4bhk-villa-with-private-pool"
+    },
+    {
+      "id": 508,
+      "slug": "orion-3bhk-villa-with-private-pool",
+      "name": "Orion 3BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-north-goa/orion-3bhk-villa-with-private-pool"
+    },
+    {
+      "id": 509,
+      "slug": "mirai-taurus-luxury-3bhk-villa-with-private-pool",
+      "name": "Mirai Taurus Luxury 3BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-north-goa/mirai-taurus-luxury-3bhk-villa-with-private-pool"
+    },
+    {
+      "id": 510,
+      "slug": "casa-ikkebana-luxury-4bhk-villa-with-private-pool",
+      "name": "Casa Ikkebana Luxury 4BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-north-goa/casa-ikkebana-luxury-4bhk-villa-with-private-pool"
+    },
+    {
+      "id": 511,
+      "slug": "casa-iris-luxury-4bhk-villa-with-private-pool",
+      "name": "Casa Iris Luxury 4BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-north-goa/casa-iris-luxury-4bhk-villa-with-private-pool"
+    },
+    {
+      "id": 512,
+      "slug": "the-suntuarios-casa-ivy-4bhk-villa-with-private-pool",
+      "name": "The Suntuarios Casa Ivy 4BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-north-goa/the-suntuarios-casa-ivy-4bhk-villa-with-private-pool"
+    },
+    {
+      "id": 513,
+      "slug": "valerie-3bhk-villa-with-private-pool",
+      "name": "Valerie 3BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-north-goa/valerie-3bhk-villa-with-private-pool"
+    },
+    {
+      "id": 514,
+      "slug": "amayah-neer-3bhk-villa",
+      "name": "Amayah Neer 3BHK Villa",
+      "url": "https://www.elivaas.com/villa-in-north-goa/amayah-neer-3bhk-villa"
+    },
+    {
+      "id": 515,
+      "slug": "amayah-vayu-6bhk-villa-with-pool",
+      "name": "Amayah Vayu 6BHK Villa with Pool",
+      "url": "https://www.elivaas.com/villa-in-north-goa/amayah-vayu-6bhk-villa-with-pool"
+    },
+    {
+      "id": 516,
+      "slug": "azalea-luxury-3bhk-villa-with-private-pool",
+      "name": "Azalea Luxury 3BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-north-goa/azalea-luxury-3bhk-villa-with-private-pool"
+    },
+    {
+      "id": 517,
+      "slug": "bauhinia-5bhk-villa-with-private-pool",
+      "name": "Bauhinia 5BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-north-goa/bauhinia-5bhk-villa-with-private-pool"
+    },
+    {
+      "id": 518,
+      "slug": "bogen-3bhk-villa-with-private-pool",
+      "name": "Bogen 3BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-north-goa/bogen-3bhk-villa-with-private-pool"
+    },
+    {
+      "id": 519,
+      "slug": "casa-boa-vida-4bhk-villa-with-private-pool",
+      "name": "Casa Boa Vida 4BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-north-goa/casa-boa-vida-4bhk-villa-with-private-pool"
+    },
+    {
+      "id": 520,
+      "slug": "casa-bonita-4bhk-villa-with-private-pool",
+      "name": "Casa Bonita 4BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-north-goa/casa-bonita-4bhk-villa-with-private-pool"
+    },
+    {
+      "id": 521,
+      "slug": "casa-da-sol-3bhk-villa-with-private-pool",
+      "name": "Casa Da Sol 3BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-north-goa/casa-da-sol-3bhk-villa-with-private-pool"
+    },
+    {
+      "id": 522,
+      "slug": "casa-del-mer-4bhk-villa-with-pool",
+      "name": "Casa Del Mer 4BHK Villa with Pool",
+      "url": "https://www.elivaas.com/villa-in-north-goa/casa-del-mer-4bhk-villa-with-pool"
+    },
+    {
+      "id": 523,
+      "slug": "casa-del-mundo-4bhk-villa-with-private-pool",
+      "name": "Casa Del Mundo 4BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-north-goa/casa-del-mundo-4bhk-villa-with-private-pool"
+    },
+    {
+      "id": 524,
+      "slug": "casa-florencia-2-exotic-3-bhk-retreats-with-pool",
+      "name": "Casa Florencia 2 Exotic 3 BHK Retreats with Pool",
+      "url": "https://www.elivaas.com/villa-in-north-goa/casa-florencia-2-exotic-3-bhk-retreats-with-pool"
+    },
+    {
+      "id": 525,
+      "slug": "casa-lotus-3bhk-villa-with-private-pool",
+      "name": "Casa Lotus 3BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-north-goa/casa-lotus-3bhk-villa-with-private-pool"
+    },
+    {
+      "id": 526,
+      "slug": "casa-mandala-4-bhk",
+      "name": "Casa Mandala 4 BHK",
+      "url": "https://www.elivaas.com/villa-in-north-goa/casa-mandala-4-bhk"
+    },
+    {
+      "id": 527,
+      "slug": "casa-ritzy-5bhk-villa-with-private-pool",
+      "name": "Casa Ritzy 5BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-north-goa/casa-ritzy-5bhk-villa-with-private-pool"
+    },
+    {
+      "id": 528,
+      "slug": "casa-verdea-4bhk-villa-with-private-pool",
+      "name": "Casa Verdea 4BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-north-goa/casa-verdea-4bhk-villa-with-private-pool"
+    },
+    {
+      "id": 529,
+      "slug": "casa-eden-3-bhk-villa-with-private-pool",
+      "name": "Casa Eden 3 BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-north-goa/casa-eden-3-bhk-villa-with-private-pool"
+    },
+    {
+      "id": 530,
+      "slug": "cygnus-4bhk-villa-with-private-pool",
+      "name": "Cygnus 4BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-north-goa/cygnus-4bhk-villa-with-private-pool"
+    },
+    {
+      "id": 531,
+      "slug": "elysium-villa-portuguese-Inspired-3-bhk-villa-with-jacuzzi-pool",
+      "name": "Elysium Villa Portuguese Inspired 3 BHK Villa with Jacuzzi Pool",
+      "url": "https://www.elivaas.com/villa-in-north-goa/elysium-villa-portuguese-Inspired-3-bhk-villa-with-jacuzzi-pool"
+    },
+    {
+      "id": 532,
+      "slug": "fernweh-4bhk-villa-with-private-pool",
+      "name": "Fernweh 4BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-north-goa/fernweh-4bhk-villa-with-private-pool"
+    },
+    {
+      "id": 533,
+      "slug": "lumin-luxury-4bhk-villa-with-private-swimming-pool",
+      "name": "Lumin Luxury 4BHK Villa with Private Swimming Pool",
+      "url": "https://www.elivaas.com/villa-in-north-goa/lumin-luxury-4bhk-villa-with-private-swimming-pool"
+    },
+    {
+      "id": 534,
+      "slug": "mainsion10-4bhk-villa-with-private-pool",
+      "name": "Mainsion10 4BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-north-goa/mainsion10-4bhk-villa-with-private-pool"
+    },
+    {
+      "id": 535,
+      "slug": "mirai-gemini-luxury-3bhk-villa-with-private-pool",
+      "name": "Mirai Gemini Luxury 3BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-north-goa/mirai-gemini-luxury-3bhk-villa-with-private-pool"
+    },
+    {
+      "id": 536,
+      "slug": "mirai-sukoon-3bhk-villa-with-private-pool",
+      "name": "Mirai Sukoon 3BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-north-goa/mirai-sukoon-3bhk-villa-with-private-pool"
+    },
+    {
+      "id": 537,
+      "slug": "ayada-3bhk-villa-with-private-pool",
+      "name": "Ayada 3BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-north-goa/ayada-3bhk-villa-with-private-pool"
+    },
+    {
+      "id": 538,
+      "slug": "panache-3bhk-villa-with-private-pool",
+      "name": "Panache 3BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-north-goa/panache-3bhk-villa-with-private-pool"
+    },
+    {
+      "id": 539,
+      "slug": "pinksky-4bhk-villa-with-private-pool",
+      "name": "Pinksky 4BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-north-goa/pinksky-4bhk-villa-with-private-pool"
+    },
+    {
+      "id": 540,
+      "slug": "purosol-3bhk-villa-with-private-pool",
+      "name": "Purosol 3BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-north-goa/purosol-3bhk-villa-with-private-pool"
+    },
+    {
+      "id": 541,
+      "slug": "purple-coral-5bhk-villa-with-private-pool",
+      "name": "Purple Coral 5BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-north-goa/purple-coral-5bhk-villa-with-private-pool"
+    },
+    {
+      "id": 542,
+      "slug": "solace-aquavista-5bhk-villa-with-private-pool",
+      "name": "Solace Aquavista 5BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-north-goa/solace-aquavista-5bhk-villa-with-private-pool"
+    },
+    {
+      "id": 543,
+      "slug": "solace-teal-5bhk-villa-with-private-pool",
+      "name": "Solace Teal 5BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-north-goa/solace-teal-5bhk-villa-with-private-pool"
+    },
+    {
+      "id": 544,
+      "slug": "vacasa-a-luxurious-5bhk-villa-with-a-private-pool",
+      "name": "Vacasa a Luxurious 5BHK Villa with a Private Pool",
+      "url": "https://www.elivaas.com/villa-in-north-goa/vacasa-a-luxurious-5bhk-villa-with-a-private-pool"
+    },
+    {
+      "id": 545,
+      "slug": "valley-view",
+      "name": "Valley View",
+      "url": "https://www.elivaas.com/villa-in-north-goa/valley-view"
+    },
+    {
+      "id": 546,
+      "slug": "elysee-3bhk-villa-with-private-pool",
+      "name": "Elysee 3BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-north-goa/elysee-3bhk-villa-with-private-pool"
+    },
+    {
+      "id": 547,
+      "slug": "euphoria-4bhk-villa-with-private-pool",
+      "name": "Euphoria 4BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-north-goa/euphoria-4bhk-villa-with-private-pool"
+    },
+    {
+      "id": 548,
+      "slug": "frienders-5bhk-villa-with-private-pool",
+      "name": "Frienders 5BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-north-goa/frienders-5bhk-villa-with-private-pool"
+    },
+    {
+      "id": 549,
+      "slug": "judiline-luxury-3bhk-villa-with-a-private-pool",
+      "name": "Judiline Luxury 3BHK Villa with a Private Pool",
+      "url": "https://www.elivaas.com/villa-in-north-goa/judiline-luxury-3bhk-villa-with-a-private-pool"
+    },
+    {
+      "id": 550,
+      "slug": "seine-villa-3bhk",
+      "name": "Seine Villa 3BHK",
+      "url": "https://www.elivaas.com/villa-in-north-goa/seine-villa-3bhk"
+    },
+    {
+      "id": 551,
+      "slug": "shai-luxury-4bhk-villa-with-private-pool",
+      "name": "Shai Luxury 4BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-north-goa/shai-luxury-4bhk-villa-with-private-pool"
+    },
+    {
+      "id": 552,
+      "slug": "villa-verde-4-bhk-villa-with-private-pool",
+      "name": "Villa Verde 4 BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-north-goa/villa-verde-4-bhk-villa-with-private-pool"
+    },
+    {
+      "id": 553,
+      "slug": "mirai-leo-3bhk-villa-with-private-pool",
+      "name": "Mirai Leo 3BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-north-goa/mirai-leo-3bhk-villa-with-private-pool"
+    },
+    {
+      "id": 554,
+      "slug": "amayah-tattva-3bhk-villa-with-private-pool",
+      "name": "Amayah Tattva 3BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-north-goa/amayah-tattva-3bhk-villa-with-private-pool"
+    },
+    {
+      "id": 555,
+      "slug": "casa-bella-vista-3bhk-villa-with-plunge-pool-in-goa",
+      "name": "Casa Bella Vista 3BHK Villa with Plunge Pool in Goa",
+      "url": "https://www.elivaas.com/villa-in-north-goa/casa-bella-vista-3bhk-villa-with-plunge-pool-in-goa"
+    },
+    {
+      "id": 556,
+      "slug": "casa-do-mar-4bhk-villa-with-private-pool-in-goa",
+      "name": "Casa Do Mar 4BHK Villa with Private Pool in Goa",
+      "url": "https://www.elivaas.com/villa-in-north-goa/casa-do-mar-4bhk-villa-with-private-pool-in-goa"
+    },
+    {
+      "id": 557,
+      "slug": "cavalo-marinho-3bhk-villa-with-private-pool-in-goa",
+      "name": "Cavalo Marinho 3BHK Villa with Private Pool in Goa",
+      "url": "https://www.elivaas.com/villa-in-north-goa/cavalo-marinho-3bhk-villa-with-private-pool-in-goa"
+    },
+    {
+      "id": 558,
+      "slug": "emperor-ozran-2bhk-villa-with-pool-in-goa",
+      "name": "Emperor Ozran 2BHK Villa with Pool in Goa",
+      "url": "https://www.elivaas.com/villa-in-north-goa/emperor-ozran-2bhk-villa-with-pool-in-goa"
+    },
+    {
+      "id": 559,
+      "slug": "veera-marina-3bhk-penthouse-with-pool-in-goa",
+      "name": "Veera Marina 3BHK Penthouse with Pool in Goa",
+      "url": "https://www.elivaas.com/villa-in-north-goa/veera-marina-3bhk-penthouse-with-pool-in-goa"
+    },
+    {
+      "id": 560,
+      "slug": "veera-prestige-2bhk-apartment-with-pool-in-goa",
+      "name": "Veera Prestige 2BHK Apartment with Pool in Goa",
+      "url": "https://www.elivaas.com/villa-in-north-goa/veera-prestige-2bhk-apartment-with-pool-in-goa"
+    },
+    {
+      "id": 561,
+      "slug": "veera-marina-3bhk-apartment-with-pool-in-goa",
+      "name": "Veera Marina 3BHK Apartment with Pool in Goa",
+      "url": "https://www.elivaas.com/villa-in-north-goa/veera-marina-3bhk-apartment-with-pool-in-goa"
+    },
+    {
+      "id": 562,
+      "slug": "villa-plume-4-bhk-pet-friendly-villa-with-private-pool",
+      "name": "Villa Plume 4 BHK Pet Friendly Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-north-goa/villa-plume-4-bhk-pet-friendly-villa-with-private-pool"
+    },
+    {
+      "id": 563,
+      "slug": "emperor-ozran-apartment-with-balcony-and-bathtub",
+      "name": "Emperor Ozran Apartment with Balcony and Bathtub",
+      "url": "https://www.elivaas.com/villa-in-north-goa/emperor-ozran-apartment-with-balcony-and-bathtub"
+    },
+    {
+      "id": 564,
+      "slug": "emperor-ozran-royal-suite-in-goa",
+      "name": "Emperor Ozran Royal Suite in Goa",
+      "url": "https://www.elivaas.com/villa-in-north-goa/emperor-ozran-royal-suite-in-goa"
+    },
+    {
+      "id": 565,
+      "slug": "emperor-ozran-premium-bathtab",
+      "name": "Emperor Ozran Premium Bathtab",
+      "url": "https://www.elivaas.com/villa-in-north-goa/emperor-ozran-premium-bathtab"
+    },
+    {
+      "id": 566,
+      "slug": "emperor-ozran-premium-room-in-goa",
+      "name": "Emperor Ozran Premium Room in Goa",
+      "url": "https://www.elivaas.com/villa-in-north-goa/emperor-ozran-premium-room-in-goa"
+    },
+    {
+      "id": 567,
+      "slug": "emperor-ozran-studio-with-pool-in-goa",
+      "name": "Emperor Ozran Studio with Pool in Goa",
+      "url": "https://www.elivaas.com/villa-in-north-goa/emperor-ozran-studio-with-pool-in-goa"
+    },
+    {
+      "id": 568,
+      "slug": "emperor-ozran-royal-suite-with-poolx-in-goa",
+      "name": "Emperor Ozran Royal Suite with Poolx in Goa",
+      "url": "https://www.elivaas.com/villa-in-north-goa/emperor-ozran-royal-suite-with-poolx-in-goa"
+    },
+    {
+      "id": 569,
+      "slug": "gracias-aquora-1-room-retreat-with-private-pool",
+      "name": "Gracias Aquora 1 Room Retreat with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-north-goa/gracias-aquora-1-room-retreat-with-private-pool"
+    },
+    {
+      "id": 570,
+      "slug": "gracias-bleu-resort-with-pool",
+      "name": "Gracias Bleu Resort with Pool",
+      "url": "https://www.elivaas.com/villa-in-north-goa/gracias-bleu-resort-with-pool"
+    },
+    {
+      "id": 571,
+      "slug": "gracia-seaora-resort-with-pool",
+      "name": "Gracia Seaora Resort with Pool",
+      "url": "https://www.elivaas.com/villa-in-north-goa/gracia-seaora-resort-with-pool"
+    },
+    {
+      "id": 572,
+      "slug": "house-of-neptune-1bhk-boutique-hut",
+      "name": "House of Neptune 1BHK Boutique Hut",
+      "url": "https://www.elivaas.com/villa-in-north-goa/house-of-neptune-1bhk-boutique-hut"
+    },
+    {
+      "id": 573,
+      "slug": "house-of-neptune-1bhk-cottage",
+      "name": "House of Neptune 1BHK Cottage",
+      "url": "https://www.elivaas.com/villa-in-north-goa/house-of-neptune-1bhk-cottage"
+    },
+    {
+      "id": 574,
+      "slug": "kamerios-maris-1bhk-apartment-with-pool",
+      "name": "Kamerios Maris 1BHK Apartment with Pool",
+      "url": "https://www.elivaas.com/villa-in-north-goa/kamerios-maris-1bhk-apartment-with-pool"
+    },
+    {
+      "id": 575,
+      "slug": "peace-and-calm-room-with-river-view-balconies",
+      "name": "Peace and Calm Room with River View Balconies",
+      "url": "https://www.elivaas.com/villa-in-north-goa/peace-and-calm-room-with-river-view-balconies"
+    },
+    {
+      "id": 576,
+      "slug": "veera-prestige-1bhk-apartment-with-pool-in-goa",
+      "name": "Veera Prestige 1BHK Apartment with Pool in Goa",
+      "url": "https://www.elivaas.com/villa-in-north-goa/veera-prestige-1bhk-apartment-with-pool-in-goa"
+    },
+    {
+      "id": 577,
+      "slug": "bludoor-5bhk-villa-with-private-pool",
+      "name": "Bludoor 5BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-north-goa/bludoor-5bhk-villa-with-private-pool"
+    },
+    {
+      "id": 578,
+      "slug": "coco-baia-6-3-bhk-pet-friendly-villa-with-private-pool",
+      "name": "Coco Baia 6 3 BHK Pet Friendly Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-north-goa/coco-baia-6-3-bhk-pet-friendly-villa-with-private-pool"
+    },
+    {
+      "id": 579,
+      "slug": "villa-riviere-9-bhk-private-estate-with-pool",
+      "name": "Villa Riviere 9 BHK Private Estate with Pool",
+      "url": "https://www.elivaas.com/villa-in-north-goa/villa-riviere-9-bhk-private-estate-with-pool"
+    }
+  ],
+  "state_name": "Goa",
+  "state_slug": "goa",
+  "hero": "tropical beaches palms private pool villa goa"
+}

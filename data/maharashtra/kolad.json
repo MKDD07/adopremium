@@ -1,0 +1,41 @@
+{
+  "id": 18,
+  "slug": "kolad",
+  "name": "Kolad",
+  "villa_count": 5,
+  "villas": [
+    {
+      "id": 418,
+      "slug": "junglebrooke-interconnected-pet-friendly-master-room-with-pool",
+      "name": "Junglebrooke Interconnected Pet Friendly Master Room with Pool",
+      "url": "https://www.elivaas.com/villa-in-kolad/junglebrooke-interconnected-pet-friendly-master-room-with-pool"
+    },
+    {
+      "id": 419,
+      "slug": "junglebrooke-premium-suite-room-pet-friendly-cottage",
+      "name": "Junglebrooke Premium Suite Room Pet Friendly Cottage",
+      "url": "https://www.elivaas.com/villa-in-kolad/junglebrooke-premium-suite-room-pet-friendly-cottage"
+    },
+    {
+      "id": 420,
+      "slug": "junglebrooke-standard-pet-friendly-master-room-with-pool",
+      "name": "Junglebrooke Standard Pet Friendly Master Room with Pool",
+      "url": "https://www.elivaas.com/villa-in-kolad/junglebrooke-standard-pet-friendly-master-room-with-pool"
+    },
+    {
+      "id": 421,
+      "slug": "junglebrooke-suite-suite-room-pet-friendly-cottage-estate-with-bathtub",
+      "name": "Junglebrooke Suite Suite Room Pet Friendly Cottage Estate with Bathtub",
+      "url": "https://www.elivaas.com/villa-in-kolad/junglebrooke-suite-suite-room-pet-friendly-cottage-estate-with-bathtub"
+    },
+    {
+      "id": 422,
+      "slug": "junglebrooke-8-room-pet-friendly-cottage-estate-with-swimming-pool",
+      "name": "Junglebrooke 8 Room Pet Friendly Cottage Estate with Swimming Pool",
+      "url": "https://www.elivaas.com/villa-in-kolad/junglebrooke-8-room-pet-friendly-cottage-estate-with-swimming-pool"
+    }
+  ],
+  "state_name": "Maharashtra",
+  "state_slug": "maharashtra",
+  "hero": "kolad riverside nature adventure villa"
+}

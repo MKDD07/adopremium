@@ -1,0 +1,4259 @@
+{
+  "source": "elivaas.com",
+  "total_locations": 35,
+  "total_villas": 662,
+  "locations": [
+    {
+      "id": 1,
+      "slug": "alappuzha",
+      "name": "Alappuzha",
+      "villa_count": 6,
+      "villas": [
+        {
+          "id": 1,
+          "slug": "breeze-and-grains-resort-3bhk",
+          "name": "Breeze and Grains Resort 3BHK",
+          "url": "https://www.elivaas.com/villa-in-alappuzha/breeze-and-grains-resort-3bhk"
+        },
+        {
+          "id": 2,
+          "slug": "palliath-house-one-room",
+          "name": "Palliath House One Room",
+          "url": "https://www.elivaas.com/villa-in-alappuzha/palliath-house-one-room"
+        },
+        {
+          "id": 3,
+          "slug": "palliath-house-3bhk-villa",
+          "name": "Palliath House 3BHK Villa",
+          "url": "https://www.elivaas.com/villa-in-alappuzha/palliath-house-3bhk-villa"
+        },
+        {
+          "id": 4,
+          "slug": "palm-dale-deluxe-suite-in-alappuzha",
+          "name": "Palm Dale Deluxe Suite in Alappuzha",
+          "url": "https://www.elivaas.com/villa-in-alappuzha/palm-dale-deluxe-suite-in-alappuzha"
+        },
+        {
+          "id": 5,
+          "slug": "palm-dale-premium-suite-in-alappuzha",
+          "name": "Palm Dale Premium Suite in Alappuzha",
+          "url": "https://www.elivaas.com/villa-in-alappuzha/palm-dale-premium-suite-in-alappuzha"
+        },
+        {
+          "id": 6,
+          "slug": "vembanad-house-4bhk-retreat-in-alappuzha",
+          "name": "Vembanad House 4BHK Retreat in Alappuzha",
+          "url": "https://www.elivaas.com/villa-in-alappuzha/vembanad-house-4bhk-retreat-in-alappuzha"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "alibaug",
+      "name": "Alibaug",
+      "villa_count": 3,
+      "villas": [
+        {
+          "id": 7,
+          "slug": "casa-mocha-5bhk-villa-with-private-pool",
+          "name": "Casa Mocha 5BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-alibaug/casa-mocha-5bhk-villa-with-private-pool"
+        },
+        {
+          "id": 8,
+          "slug": "the-fernstead-5bhk-villa-with-priavte-pool",
+          "name": "The Fernstead 5BHK Villa with Priavte Pool",
+          "url": "https://www.elivaas.com/villa-in-alibaug/the-fernstead-5bhk-villa-with-priavte-pool"
+        },
+        {
+          "id": 9,
+          "slug": "valdivian-villa-3-bhk-with-verandah",
+          "name": "Valdivian Villa 3 BHK with Verandah",
+          "url": "https://www.elivaas.com/villa-in-alibaug/valdivian-villa-3-bhk-with-verandah"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "slug": "alwar",
+      "name": "Alwar",
+      "villa_count": 3,
+      "villas": [
+        {
+          "id": 10,
+          "slug": "riveira-hills-3bhk-wooden-cottage-with-private-pool",
+          "name": "Riveira Hills 3BHK Wooden Cottage with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-alwar/riveira-hills-3bhk-wooden-cottage-with-private-pool"
+        },
+        {
+          "id": 11,
+          "slug": "ms-valley-blossoms-3-bhk-villa-with-private-pool",
+          "name": "MS Valley Blossoms 3 BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-alwar/ms-valley-blossoms-3-bhk-villa-with-private-pool"
+        },
+        {
+          "id": 12,
+          "slug": "ms-valley-groves-2-bhk-villa-with-private-pool",
+          "name": "MS Valley Groves 2 BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-alwar/ms-valley-groves-2-bhk-villa-with-private-pool"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "slug": "bengaluru",
+      "name": "Bengaluru",
+      "villa_count": 36,
+      "villas": [
+        {
+          "id": 13,
+          "slug": "anantha-bliss-fibre-tent-with-pool",
+          "name": "Anantha Bliss Fibre Tent with Pool",
+          "url": "https://www.elivaas.com/villa-in-bengaluru/anantha-bliss-fibre-tent-with-pool"
+        },
+        {
+          "id": 14,
+          "slug": "anantha-bliss-taksu-2bhk-villa-with-pool",
+          "name": "Anantha Bliss Taksu 2BHK Villa with Pool",
+          "url": "https://www.elivaas.com/villa-in-bengaluru/anantha-bliss-taksu-2bhk-villa-with-pool"
+        },
+        {
+          "id": 15,
+          "slug": "ananta-bliss-talam-2bhk-villas-and-tent-with-pool",
+          "name": "Ananta Bliss Talam 2BHK Villas and Tent with Pool",
+          "url": "https://www.elivaas.com/villa-in-bengaluru/ananta-bliss-talam-2bhk-villas-and-tent-with-pool"
+        },
+        {
+          "id": 16,
+          "slug": "bali-bay-nusa-nomad-2bhk-villa-with-pool",
+          "name": "Bali Bay Nusa Nomad 2BHK Villa with Pool",
+          "url": "https://www.elivaas.com/villa-in-bengaluru/bali-bay-nusa-nomad-2bhk-villa-with-pool"
+        },
+        {
+          "id": 17,
+          "slug": "bali-bay-gumuk-2bhk-villa-with-pool",
+          "name": "Bali Bay Gumuk 2BHK Villa with Pool",
+          "url": "https://www.elivaas.com/villa-in-bengaluru/bali-bay-gumuk-2bhk-villa-with-pool"
+        },
+        {
+          "id": 18,
+          "slug": "bali-bay-kuta-canvas-tent-glass-with-pool",
+          "name": "Bali Bay Kuta Canvas Tent Glass with Pool",
+          "url": "https://www.elivaas.com/villa-in-bengaluru/bali-bay-kuta-canvas-tent-glass-with-pool"
+        },
+        {
+          "id": 19,
+          "slug": "bali-bay-saung-tent-with-pool",
+          "name": "Bali Bay Saung Tent with Pool",
+          "url": "https://www.elivaas.com/villa-in-bengaluru/bali-bay-saung-tent-with-pool"
+        },
+        {
+          "id": 20,
+          "slug": "bali-bay-villa-with-pool",
+          "name": "Bali Bay Villa with Pool",
+          "url": "https://www.elivaas.com/villa-in-bengaluru/bali-bay-villa-with-pool"
+        },
+        {
+          "id": 21,
+          "slug": "saukhyam-luxurious-3-bhk-retreat-with-terrace",
+          "name": "Saukhyam Luxurious 3 BHK Retreat with Terrace",
+          "url": "https://www.elivaas.com/villa-in-bengaluru/saukhyam-luxurious-3-bhk-retreat-with-terrace"
+        },
+        {
+          "id": 22,
+          "slug": "tapovana-aroha-pet-friendly-boho-retreat-with-2-bhk-luxury-villa-Tent",
+          "name": "Tapovana Aroha Pet Friendly Boho Retreat with 2 BHK Luxury Villa Tent",
+          "url": "https://www.elivaas.com/villa-in-bengaluru/tapovana-aroha-pet-friendly-boho-retreat-with-2-bhk-luxury-villa-Tent"
+        },
+        {
+          "id": 23,
+          "slug": "tapavana-avani-2-bhk-villa",
+          "name": "Tapavana Avani 2 BHK Villa",
+          "url": "https://www.elivaas.com/villa-in-bengaluru/tapavana-avani-2-bhk-villa"
+        },
+        {
+          "id": 24,
+          "slug": "tapavana-zarae-tent-with-pool",
+          "name": "Tapavana Zarae Tent with Pool",
+          "url": "https://www.elivaas.com/villa-in-bengaluru/tapavana-zarae-tent-with-pool"
+        },
+        {
+          "id": 25,
+          "slug": "arevana-evara-3-bhk-villa-with-shared-pool",
+          "name": "Arevana Evara 3 BHK Villa with Shared Pool",
+          "url": "https://www.elivaas.com/villa-in-bengaluru/arevana-evara-3-bhk-villa-with-shared-pool"
+        },
+        {
+          "id": 26,
+          "slug": "courtyard-banyan-rustic-2-bhk-pet-friendly-villa-with-pool",
+          "name": "Courtyard Banyan Rustic 2 BHK Pet Friendly Villa with Pool",
+          "url": "https://www.elivaas.com/villa-in-bengaluru/courtyard-banyan-rustic-2-bhk-pet-friendly-villa-with-pool"
+        },
+        {
+          "id": 27,
+          "slug": "sravasthi-oria-2-bhk-pet-friendly-forest-view-with-private-jacuzzi",
+          "name": "Sravasthi Oria 2 BHK Pet Friendly Forest View with Private Jacuzzi",
+          "url": "https://www.elivaas.com/villa-in-bengaluru/sravasthi-oria-2-bhk-pet-friendly-forest-view-with-private-jacuzzi"
+        },
+        {
+          "id": 28,
+          "slug": "apr-one-room-suite",
+          "name": "APR One Room Suite",
+          "url": "https://www.elivaas.com/villa-in-bengaluru/apr-one-room-suite"
+        },
+        {
+          "id": 29,
+          "slug": "apr-one-room-suite-with-balcony",
+          "name": "APR One Room Suite with Balcony",
+          "url": "https://www.elivaas.com/villa-in-bengaluru/apr-one-room-suite-with-balcony"
+        },
+        {
+          "id": 30,
+          "slug": "crest-manor-countryside-3-bhk-villa-with-jacuzzi",
+          "name": "Crest Manor Countryside 3 BHK Villa with Jacuzzi",
+          "url": "https://www.elivaas.com/villa-in-bengaluru/crest-manor-countryside-3-bhk-villa-with-jacuzzi"
+        },
+        {
+          "id": 31,
+          "slug": "eco-serenity-2bhk-villa-with-private-pool",
+          "name": "Eco Serenity 2BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-bengaluru/eco-serenity-2bhk-villa-with-private-pool"
+        },
+        {
+          "id": 32,
+          "slug": "hsr-penthouse-spacious-4-bhk-apartment",
+          "name": "HSR Penthouse Spacious 4 BHK Apartment",
+          "url": "https://www.elivaas.com/villa-in-bengaluru/hsr-penthouse-spacious-4-bhk-apartment"
+        },
+        {
+          "id": 33,
+          "slug": "inara-retreat-1-cottage",
+          "name": "Inara Retreat 1 Cottage",
+          "url": "https://www.elivaas.com/villa-in-bengaluru/inara-retreat-1-cottage"
+        },
+        {
+          "id": 34,
+          "slug": "royal-valora-5bhk-villa",
+          "name": "Royal Valora 5BHK Villa",
+          "url": "https://www.elivaas.com/villa-in-bengaluru/royal-valora-5bhk-villa"
+        },
+        {
+          "id": 35,
+          "slug": "saffron-breeze-1-room",
+          "name": "Saffron Breeze 1 Room",
+          "url": "https://www.elivaas.com/villa-in-bengaluru/saffron-breeze-1-room"
+        },
+        {
+          "id": 36,
+          "slug": "saffroz-breeze-4bhk-apartment-in-bengaluru",
+          "name": "Saffroz Breeze 4BHK Apartment in Bengaluru",
+          "url": "https://www.elivaas.com/villa-in-bengaluru/saffroz-breeze-4bhk-apartment-in-bengaluru"
+        },
+        {
+          "id": 37,
+          "slug": "slv-ventures-abhignya-2bhk",
+          "name": "SLV Ventures Abhignya 2BHK",
+          "url": "https://www.elivaas.com/villa-in-bengaluru/slv-ventures-abhignya-2bhk"
+        },
+        {
+          "id": 38,
+          "slug": "slv-ventures-anagha-1bhk-apartment",
+          "name": "SLV Ventures Anagha 1BHK Apartment",
+          "url": "https://www.elivaas.com/villa-in-bengaluru/slv-ventures-anagha-1bhk-apartment"
+        },
+        {
+          "id": 39,
+          "slug": "slv-ventures-penthouse-4-bhk",
+          "name": "SLV Ventures Penthouse 4 BHK",
+          "url": "https://www.elivaas.com/villa-in-bengaluru/slv-ventures-penthouse-4-bhk"
+        },
+        {
+          "id": 40,
+          "slug": "tanira-farms-moonrise-contemporary-pet-friendly-igloo-cottage-with-pool",
+          "name": "Tanira Farms Moonrise Contemporary Pet Friendly Igloo Cottage with Pool",
+          "url": "https://www.elivaas.com/villa-in-bengaluru/tanira-farms-moonrise-contemporary-pet-friendly-igloo-cottage-with-pool"
+        },
+        {
+          "id": 41,
+          "slug": "arevana-vara-luxury-tent-with-shared-pool",
+          "name": "Arevana Vara Luxury Tent with Shared Pool",
+          "url": "https://www.elivaas.com/villa-in-bengaluru/arevana-vara-luxury-tent-with-shared-pool"
+        },
+        {
+          "id": 42,
+          "slug": "arevana-3-bhk-villa-with-private-pool",
+          "name": "Arevana 3 BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-bengaluru/arevana-3-bhk-villa-with-private-pool"
+        },
+        {
+          "id": 43,
+          "slug": "savian-suites-aurel-twin-beds-room-with-balcony",
+          "name": "Savian Suites Aurel Twin Beds Room with Balcony",
+          "url": "https://www.elivaas.com/villa-in-bengaluru/savian-suites-aurel-twin-beds-room-with-balcony"
+        },
+        {
+          "id": 44,
+          "slug": "savian-suites-avira-two-beds-room-suite-with-balcony",
+          "name": "Savian Suites Avira Two Beds Room Suite with Balcony",
+          "url": "https://www.elivaas.com/villa-in-bengaluru/savian-suites-avira-two-beds-room-suite-with-balcony"
+        },
+        {
+          "id": 45,
+          "slug": "savian-suites-azure-premium-room",
+          "name": "Savian Suites Azure Premium Room",
+          "url": "https://www.elivaas.com/villa-in-bengaluru/savian-suites-azure-premium-room"
+        },
+        {
+          "id": 46,
+          "slug": "savian-suites-eevan-queen-bed-room-with-balcony",
+          "name": "Savian Suites Eevan Queen Bed Room with Balcony",
+          "url": "https://www.elivaas.com/villa-in-bengaluru/savian-suites-eevan-queen-bed-room-with-balcony"
+        },
+        {
+          "id": 47,
+          "slug": "sravasthi-oryn-luxury-pet-friendly-outhouse-room-with-pvt-gazebo",
+          "name": "Sravasthi Oryn Luxury Pet Friendly Outhouse Room with Pvt Gazebo",
+          "url": "https://www.elivaas.com/villa-in-bengaluru/sravasthi-oryn-luxury-pet-friendly-outhouse-room-with-pvt-gazebo"
+        },
+        {
+          "id": 48,
+          "slug": "sreavasthi-villa-2-bhk-forest-view-villa-with-private-jacuzzi",
+          "name": "Sreavasthi Villa 2 BHK Forest View Villa with Private Jacuzzi",
+          "url": "https://www.elivaas.com/villa-in-bengaluru/sreavasthi-villa-2-bhk-forest-view-villa-with-private-jacuzzi"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "slug": "bhimtal",
+      "name": "Bhimtal",
+      "villa_count": 15,
+      "villas": [
+        {
+          "id": 49,
+          "slug": "antarmann-casa-ember-2bhk-apartment",
+          "name": "Antarmann Casa Ember 2BHK Apartment",
+          "url": "https://www.elivaas.com/villa-in-bhimtal/antarmann-casa-ember-2bhk-apartment"
+        },
+        {
+          "id": 50,
+          "slug": "antarmann-casa-mirage-3bhk-villa",
+          "name": "Antarmann Casa Mirage 3BHK Villa",
+          "url": "https://www.elivaas.com/villa-in-bhimtal/antarmann-casa-mirage-3bhk-villa"
+        },
+        {
+          "id": 51,
+          "slug": "antarmann-casa-nova-4bhk-villa",
+          "name": "Antarmann Casa Nova 4BHK Villa",
+          "url": "https://www.elivaas.com/villa-in-bhimtal/antarmann-casa-nova-4bhk-villa"
+        },
+        {
+          "id": 52,
+          "slug": "antarmann-casa-zenith-6bhk-villa",
+          "name": "Antarmann Casa Zenith 6BHK Villa",
+          "url": "https://www.elivaas.com/villa-in-bhimtal/antarmann-casa-zenith-6bhk-villa"
+        },
+        {
+          "id": 53,
+          "slug": "blushing-pines-3bhk-villa-with-pool",
+          "name": "Blushing Pines 3BHK Villa with Pool",
+          "url": "https://www.elivaas.com/villa-in-bhimtal/blushing-pines-3bhk-villa-with-pool"
+        },
+        {
+          "id": 54,
+          "slug": "casa-gaula-4-bhk-cottage-with-lawn",
+          "name": "Casa Gaula 4 BHK Cottage with Lawn",
+          "url": "https://www.elivaas.com/villa-in-bhimtal/casa-gaula-4-bhk-cottage-with-lawn"
+        },
+        {
+          "id": 55,
+          "slug": "lakeview-manor-5bhk-villa",
+          "name": "Lakeview Manor 5BHK Villa",
+          "url": "https://www.elivaas.com/villa-in-bhimtal/lakeview-manor-5bhk-villa"
+        },
+        {
+          "id": 56,
+          "slug": "elivaas-lakeview-manor-3-bhk",
+          "name": "Elivaas Lakeview Manor 3 BHK",
+          "url": "https://www.elivaas.com/villa-in-bhimtal/elivaas-lakeview-manor-3-bhk"
+        },
+        {
+          "id": 57,
+          "slug": "the-nakshatra-3-bhk-villa-near-kainchi-dham",
+          "name": "The Nakshatra 3 BHK Villa near Kainchi Dham",
+          "url": "https://www.elivaas.com/villa-in-bhimtal/the-nakshatra-3-bhk-villa-near-kainchi-dham"
+        },
+        {
+          "id": 58,
+          "slug": "cozy-nest-2bhk-villa-in-bhimtal",
+          "name": "Cozy Nest 2BHK Villa in Bhimtal",
+          "url": "https://www.elivaas.com/villa-in-bhimtal/cozy-nest-2bhk-villa-in-bhimtal"
+        },
+        {
+          "id": 59,
+          "slug": "irayna-4bhk-villa-in-bhimtal",
+          "name": "Irayna 4BHK Villa in Bhimtal",
+          "url": "https://www.elivaas.com/villa-in-bhimtal/irayna-4bhk-villa-in-bhimtal"
+        },
+        {
+          "id": 60,
+          "slug": "kingdom-heartz-studio-apartment-with-pool-in-bhimtal",
+          "name": "Kingdom Heartz Studio Apartment with Pool in Bhimtal",
+          "url": "https://www.elivaas.com/villa-in-bhimtal/kingdom-heartz-studio-apartment-with-pool-in-bhimtal"
+        },
+        {
+          "id": 61,
+          "slug": "kingdom-heartz-1bhk-apartment-with-pool-in-bhimtal",
+          "name": "Kingdom Heartz 1BHK Apartment with Pool in Bhimtal",
+          "url": "https://www.elivaas.com/villa-in-bhimtal/kingdom-heartz-1bhk-apartment-with-pool-in-bhimtal"
+        },
+        {
+          "id": 62,
+          "slug": "kingdom-heartz-2bhk-apartment-with-pool-in-bhimtal",
+          "name": "Kingdom Heartz 2BHK Apartment with Pool in Bhimtal",
+          "url": "https://www.elivaas.com/villa-in-bhimtal/kingdom-heartz-2bhk-apartment-with-pool-in-bhimtal"
+        },
+        {
+          "id": 63,
+          "slug": "thistle-house-4bhk-villa-in-bhimtal",
+          "name": "Thistle House 4BHK Villa in Bhimtal",
+          "url": "https://www.elivaas.com/villa-in-bhimtal/thistle-house-4bhk-villa-in-bhimtal"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "slug": "chennai",
+      "name": "Chennai",
+      "villa_count": 6,
+      "villas": [
+        {
+          "id": 64,
+          "slug": "gerrys-villa-chic-4-bhk-escape-with-lounge",
+          "name": "Gerrys Villa Chic 4 BHK Escape with Lounge",
+          "url": "https://www.elivaas.com/villa-in-chennai/gerrys-villa-chic-4-bhk-escape-with-lounge"
+        },
+        {
+          "id": 65,
+          "slug": "malai-2-room-suite",
+          "name": "Malai 2 Room Suite",
+          "url": "https://www.elivaas.com/villa-in-chennai/malai-2-room-suite"
+        },
+        {
+          "id": 66,
+          "slug": "malai-1-room",
+          "name": "Malai 1 Room",
+          "url": "https://www.elivaas.com/villa-in-chennai/malai-1-room"
+        },
+        {
+          "id": 67,
+          "slug": "casa-santorini-french-style-2-bhk-villa",
+          "name": "Casa Santorini French Style 2 BHK Villa",
+          "url": "https://www.elivaas.com/villa-in-chennai/casa-santorini-french-style-2-bhk-villa"
+        },
+        {
+          "id": 68,
+          "slug": "mira-forrest-cottage-with-private-pool",
+          "name": "Mira Forrest Cottage with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-chennai/mira-forrest-cottage-with-private-pool"
+        },
+        {
+          "id": 69,
+          "slug": "nila-forrest--timber-room-with-private-pool",
+          "name": "Nila Forrest Timber Room with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-chennai/nila-forrest--timber-room-with-private-pool"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "slug": "coorg",
+      "name": "Coorg",
+      "villa_count": 8,
+      "villas": [
+        {
+          "id": 70,
+          "slug": "tranquility-5bhk-villa-with-pool",
+          "name": "Tranquility 5BHK Villa with Pool",
+          "url": "https://www.elivaas.com/villa-in-coorg/tranquility-5bhk-villa-with-pool"
+        },
+        {
+          "id": 71,
+          "slug": "avocado-cottages-cozy-room-pet-friendly-garden-suite",
+          "name": "Avocado Cottages Cozy Room Pet Friendly Garden Suite",
+          "url": "https://www.elivaas.com/villa-in-coorg/avocado-cottages-cozy-room-pet-friendly-garden-suite"
+        },
+        {
+          "id": 72,
+          "slug": "avocado-cottages-deluxe-room-pet-friendly-stay",
+          "name": "Avocado Cottages Deluxe Room Pet Friendly Stay",
+          "url": "https://www.elivaas.com/villa-in-coorg/avocado-cottages-deluxe-room-pet-friendly-stay"
+        },
+        {
+          "id": 73,
+          "slug": "avocado-cottages-executive-room-pet-friendly-stay",
+          "name": "Avocado Cottages Executive Room Pet Friendly Stay",
+          "url": "https://www.elivaas.com/villa-in-coorg/avocado-cottages-executive-room-pet-friendly-stay"
+        },
+        {
+          "id": 74,
+          "slug": "avocado-cottages-premium-suite-pet-friendly-stay",
+          "name": "Avocado Cottages Premium Suite Pet Friendly Stay",
+          "url": "https://www.elivaas.com/villa-in-coorg/avocado-cottages-premium-suite-pet-friendly-stay"
+        },
+        {
+          "id": 75,
+          "slug": "twisted-tree-another-1-premium-room-with-shared-pool",
+          "name": "Twisted Tree Another 1 Premium Room with Shared Pool",
+          "url": "https://www.elivaas.com/villa-in-coorg/twisted-tree-another-1-premium-room-with-shared-pool"
+        },
+        {
+          "id": 76,
+          "slug": "twisted-tree-together-2-bhk-pet-friendly-villa-with-shared-pool",
+          "name": "Twisted Tree Together 2 BHK Pet Friendly Villa with Shared Pool",
+          "url": "https://www.elivaas.com/villa-in-coorg/twisted-tree-together-2-bhk-pet-friendly-villa-with-shared-pool"
+        },
+        {
+          "id": 77,
+          "slug": "twisted-tree-1-room-suite-pet-friendly-suite-with-shared-pool",
+          "name": "Twisted Tree 1 Room Suite Pet Friendly Suite with Shared Pool",
+          "url": "https://www.elivaas.com/villa-in-coorg/twisted-tree-1-room-suite-pet-friendly-suite-with-shared-pool"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "slug": "dehradun",
+      "name": "Dehradun",
+      "villa_count": 11,
+      "villas": [
+        {
+          "id": 78,
+          "slug": "serenita-abode-3bhk-villa-with-pool",
+          "name": "Serenita Abode 3BHK Villa with Pool",
+          "url": "https://www.elivaas.com/villa-in-dehradun/serenita-abode-3bhk-villa-with-pool"
+        },
+        {
+          "id": 79,
+          "slug": "the-kimadi-house-4-bhk-english-style-villa-with-rooftop",
+          "name": "The Kimadi House 4 BHK English Style Villa with Rooftop",
+          "url": "https://www.elivaas.com/villa-in-dehradun/the-kimadi-house-4-bhk-english-style-villa-with-rooftop"
+        },
+        {
+          "id": 80,
+          "slug": "alora-in-the-hills-dewfall-pet-friendly-1-bhk-with-jacuzzi",
+          "name": "Alora in the Hills Dewfall Pet Friendly 1 BHK with Jacuzzi",
+          "url": "https://www.elivaas.com/villa-in-dehradun/alora-in-the-hills-dewfall-pet-friendly-1-bhk-with-jacuzzi"
+        },
+        {
+          "id": 81,
+          "slug": "alora-in-the-hills-1-bhk",
+          "name": "Alora in the Hills 1 BHK",
+          "url": "https://www.elivaas.com/villa-in-dehradun/alora-in-the-hills-1-bhk"
+        },
+        {
+          "id": 82,
+          "slug": "alora-in-the-hills-two-1-bhk-and-a-2-bhk-with-jacuzzi",
+          "name": "Alora in the Hills Two 1 BHK and a 2 BHK with Jacuzzi",
+          "url": "https://www.elivaas.com/villa-in-dehradun/alora-in-the-hills-two-1-bhk-and-a-2-bhk-with-jacuzzi"
+        },
+        {
+          "id": 83,
+          "slug": "alora-in-the-hills-cloudveil-pet-friendly-2-bhk-with-jacuzzi",
+          "name": "Alora in the Hills Cloudveil Pet Friendly 2 BHK with Jacuzzi",
+          "url": "https://www.elivaas.com/villa-in-dehradun/alora-in-the-hills-cloudveil-pet-friendly-2-bhk-with-jacuzzi"
+        },
+        {
+          "id": 84,
+          "slug": "baramasa-3bhk-villa-with-private-pool-in-dehradun",
+          "name": "Baramasa 3BHK Villa with Private Pool in Dehradun",
+          "url": "https://www.elivaas.com/villa-in-dehradun/baramasa-3bhk-villa-with-private-pool-in-dehradun"
+        },
+        {
+          "id": 85,
+          "slug": "kalyan-mansion-cosmos-3-bhk",
+          "name": "Kalyan Mansion Cosmos 3 BHK",
+          "url": "https://www.elivaas.com/villa-in-dehradun/kalyan-mansion-cosmos-3-bhk"
+        },
+        {
+          "id": 86,
+          "slug": "kalyan-mansion-primrose",
+          "name": "Kalyan Mansion Primrose",
+          "url": "https://www.elivaas.com/villa-in-dehradun/kalyan-mansion-primrose"
+        },
+        {
+          "id": 87,
+          "slug": "rahta-3bhk-villa-in-dehradun",
+          "name": "Rahta 3BHK Villa in Dehradun",
+          "url": "https://www.elivaas.com/villa-in-dehradun/rahta-3bhk-villa-in-dehradun"
+        },
+        {
+          "id": 88,
+          "slug": "sky-paradise-3bhk-villa-in-dehradun",
+          "name": "Sky Paradise 3BHK Villa in Dehradun",
+          "url": "https://www.elivaas.com/villa-in-dehradun/sky-paradise-3bhk-villa-in-dehradun"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "slug": "delhi-ncr",
+      "name": "Delhi NCR",
+      "villa_count": 69,
+      "villas": [
+        {
+          "id": 89,
+          "slug": "heaven-farm-pet-friendly-6-bhk",
+          "name": "Heaven Farm Pet Friendly 6 BHK",
+          "url": "https://www.elivaas.com/villa-in-delhi-ncr/heaven-farm-pet-friendly-6-bhk"
+        },
+        {
+          "id": 90,
+          "slug": "raha-farms-2bhk-farmhouse-with-pool",
+          "name": "Raha Farms 2BHK Farmhouse with Pool",
+          "url": "https://www.elivaas.com/villa-in-delhi-ncr/raha-farms-2bhk-farmhouse-with-pool"
+        },
+        {
+          "id": 91,
+          "slug": "aanandam-resort-suite-with-pool",
+          "name": "Aanandam Resort Suite with Pool",
+          "url": "https://www.elivaas.com/villa-in-delhi-ncr/aanandam-resort-suite-with-pool"
+        },
+        {
+          "id": 92,
+          "slug": "adhiva-retreat-5bhk-farmhouse-with-private-pool",
+          "name": "Adhiva Retreat 5BHK Farmhouse with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-delhi-ncr/adhiva-retreat-5bhk-farmhouse-with-private-pool"
+        },
+        {
+          "id": 93,
+          "slug": "aravalli-reserve-the-bliss-pet-friendly-3-bhk-villa-with-pool",
+          "name": "Aravalli Reserve the Bliss Pet Friendly 3 BHK Villa with Pool",
+          "url": "https://www.elivaas.com/villa-in-delhi-ncr/aravalli-reserve-the-bliss-pet-friendly-3-bhk-villa-with-pool"
+        },
+        {
+          "id": 94,
+          "slug": "gardenia-4-bhk-farmhouse",
+          "name": "Gardenia 4 BHK Farmhouse",
+          "url": "https://www.elivaas.com/villa-in-delhi-ncr/gardenia-4-bhk-farmhouse"
+        },
+        {
+          "id": 95,
+          "slug": "house-of-tvara-pet-friendly-3-bhk-villa-with-private-pool",
+          "name": "House of Tvara Pet Friendly 3 BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-delhi-ncr/house-of-tvara-pet-friendly-3-bhk-villa-with-private-pool"
+        },
+        {
+          "id": 96,
+          "slug": "kimaya-with-private-plunge-pool",
+          "name": "Kimaya with Private Plunge Pool",
+          "url": "https://www.elivaas.com/villa-in-delhi-ncr/kimaya-with-private-plunge-pool"
+        },
+        {
+          "id": 97,
+          "slug": "kimaya-kove-shared-pool-resort-1bhk",
+          "name": "Kimaya Kove Shared Pool Resort 1BHK",
+          "url": "https://www.elivaas.com/villa-in-delhi-ncr/kimaya-kove-shared-pool-resort-1bhk"
+        },
+        {
+          "id": 98,
+          "slug": "levante-farms-5-bhk-villa-with-private-pool",
+          "name": "Levante Farms 5 BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-delhi-ncr/levante-farms-5-bhk-villa-with-private-pool"
+        },
+        {
+          "id": 99,
+          "slug": "prassanam-vatika-pet-friendly-2-bhk-hillside-villa-with-private-pool",
+          "name": "Prassanam Vatika Pet Friendly 2 BHK Hillside Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-delhi-ncr/prassanam-vatika-pet-friendly-2-bhk-hillside-villa-with-private-pool"
+        },
+        {
+          "id": 100,
+          "slug": "raha-luxury-cottage-with-pool",
+          "name": "Raha Luxury Cottage with Pool",
+          "url": "https://www.elivaas.com/villa-in-delhi-ncr/raha-luxury-cottage-with-pool"
+        },
+        {
+          "id": 101,
+          "slug": "raha-farms-duplex-suite-with-pool",
+          "name": "Raha Farms Duplex Suite with Pool",
+          "url": "https://www.elivaas.com/villa-in-delhi-ncr/raha-farms-duplex-suite-with-pool"
+        },
+        {
+          "id": 102,
+          "slug": "raha-4bhk-villa-with-private-pool",
+          "name": "Raha 4BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-delhi-ncr/raha-4bhk-villa-with-private-pool"
+        },
+        {
+          "id": 103,
+          "slug": "raj-farms-3-bhk-villa-with-private-pool",
+          "name": "Raj Farms 3 BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-delhi-ncr/raj-farms-3-bhk-villa-with-private-pool"
+        },
+        {
+          "id": 104,
+          "slug": "varsha-greens-4bhk-farmhouse-with-private-pool",
+          "name": "Varsha Greens 4BHK Farmhouse with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-delhi-ncr/varsha-greens-4bhk-farmhouse-with-private-pool"
+        },
+        {
+          "id": 105,
+          "slug": "vedaaz-farms-4bhk-villa-with-private-pool",
+          "name": "Vedaaz Farms 4BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-delhi-ncr/vedaaz-farms-4bhk-villa-with-private-pool"
+        },
+        {
+          "id": 106,
+          "slug": "zenora-5bhk-farmhouse-with-private-pool",
+          "name": "Zenora 5BHK Farmhouse with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-delhi-ncr/zenora-5bhk-farmhouse-with-private-pool"
+        },
+        {
+          "id": 107,
+          "slug": "esh-luxury-6bhk-villa-with-private-swimming-pool",
+          "name": "Esh Luxury 6BHK Villa with Private Swimming Pool",
+          "url": "https://www.elivaas.com/villa-in-delhi-ncr/esh-luxury-6bhk-villa-with-private-swimming-pool"
+        },
+        {
+          "id": 108,
+          "slug": "aarul-farm-4bhk-farmhouse-with-private-pool",
+          "name": "Aarul Farm 4BHK Farmhouse with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-delhi-ncr/aarul-farm-4bhk-farmhouse-with-private-pool"
+        },
+        {
+          "id": 109,
+          "slug": "amber-3bhk-villa-with-private-pool",
+          "name": "Amber 3BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-delhi-ncr/amber-3bhk-villa-with-private-pool"
+        },
+        {
+          "id": 110,
+          "slug": "handa-getaway-3bhk-villa-with-private-pool",
+          "name": "Handa Getaway 3BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-delhi-ncr/handa-getaway-3bhk-villa-with-private-pool"
+        },
+        {
+          "id": 111,
+          "slug": "sanisa-farm-3bhk-farmhouse-with-private-pool",
+          "name": "Sanisa Farm 3BHK Farmhouse with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-delhi-ncr/sanisa-farm-3bhk-farmhouse-with-private-pool"
+        },
+        {
+          "id": 112,
+          "slug": "aanandam-villa-and-resrot-pool",
+          "name": "Aanandam Villa and Resrot Pool",
+          "url": "https://www.elivaas.com/villa-in-delhi-ncr/aanandam-villa-and-resrot-pool"
+        },
+        {
+          "id": 113,
+          "slug": "aanandam-villas-and-resort-executive-suite-with-pool",
+          "name": "Aanandam Villas and Resort Executive Suite with Pool",
+          "url": "https://www.elivaas.com/villa-in-delhi-ncr/aanandam-villas-and-resort-executive-suite-with-pool"
+        },
+        {
+          "id": 114,
+          "slug": "aanandam-villas-and-resort-premium-room",
+          "name": "Aanandam Villas and Resort Premium Room",
+          "url": "https://www.elivaas.com/villa-in-delhi-ncr/aanandam-villas-and-resort-premium-room"
+        },
+        {
+          "id": 115,
+          "slug": "aanandam-villas-and-resort-super-deluxe-room-with-pool",
+          "name": "Aanandam Villas and Resort Super Deluxe Room with Pool",
+          "url": "https://www.elivaas.com/villa-in-delhi-ncr/aanandam-villas-and-resort-super-deluxe-room-with-pool"
+        },
+        {
+          "id": 116,
+          "slug": "aravalli-reserve-the-isley-pet-friendly-3-bhk-villa-with-private-pool",
+          "name": "Aravalli Reserve the Isley Pet Friendly 3 BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-delhi-ncr/aravalli-reserve-the-isley-pet-friendly-3-bhk-villa-with-private-pool"
+        },
+        {
+          "id": 117,
+          "slug": "aravalli-reserve-the-lotus-pet-friendly-3-bhk-villa-with-private-pool",
+          "name": "Aravalli Reserve the Lotus Pet Friendly 3 BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-delhi-ncr/aravalli-reserve-the-lotus-pet-friendly-3-bhk-villa-with-private-pool"
+        },
+        {
+          "id": 118,
+          "slug": "aravali-woods-4bhk-villa",
+          "name": "Aravali Woods 4BHK Villa",
+          "url": "https://www.elivaas.com/villa-in-delhi-ncr/aravali-woods-4bhk-villa"
+        },
+        {
+          "id": 119,
+          "slug": "ashirwad-5bhk-farm-with-private-pool-in-delhi-ncr",
+          "name": "Ashirwad 5BHK Farm with Private Pool in Delhi Ncr",
+          "url": "https://www.elivaas.com/villa-in-delhi-ncr/ashirwad-5bhk-farm-with-private-pool-in-delhi-ncr"
+        },
+        {
+          "id": 120,
+          "slug": "dacha-3bhk-villa-in-delhi-ncr",
+          "name": "Dacha 3BHK Villa in Delhi Ncr",
+          "url": "https://www.elivaas.com/villa-in-delhi-ncr/dacha-3bhk-villa-in-delhi-ncr"
+        },
+        {
+          "id": 121,
+          "slug": "fortezza-6bhk-farmhouse-with-private-pool-gurugram",
+          "name": "Fortezza 6BHK Farmhouse with Private Pool Gurugram",
+          "url": "https://www.elivaas.com/villa-in-delhi-ncr/fortezza-6bhk-farmhouse-with-private-pool-gurugram"
+        },
+        {
+          "id": 122,
+          "slug": "luxe-farmacre-4bhk-villa-in-delhi-ncr",
+          "name": "Luxe Farmacre 4BHK Villa in Delhi Ncr",
+          "url": "https://www.elivaas.com/villa-in-delhi-ncr/luxe-farmacre-4bhk-villa-in-delhi-ncr"
+        },
+        {
+          "id": 123,
+          "slug": "raga-2bhk-villa-with-private-pool-in-delhi-ncr",
+          "name": "Raga 2BHK Villa with Private Pool in Delhi Ncr",
+          "url": "https://www.elivaas.com/villa-in-delhi-ncr/raga-2bhk-villa-with-private-pool-in-delhi-ncr"
+        },
+        {
+          "id": 124,
+          "slug": "sheilma-farm-4bhk-private-pool-farmhouse-in-delhi-ncr",
+          "name": "Sheilma Farm 4BHK Private Pool Farmhouse in Delhi Ncr",
+          "url": "https://www.elivaas.com/villa-in-delhi-ncr/sheilma-farm-4bhk-private-pool-farmhouse-in-delhi-ncr"
+        },
+        {
+          "id": 125,
+          "slug": "tranquil-medows-5bhk-farmhouse-with-private-pool-delhi-ncr",
+          "name": "Tranquil Medows 5BHK Farmhouse with Private Pool Delhi Ncr",
+          "url": "https://www.elivaas.com/villa-in-delhi-ncr/tranquil-medows-5bhk-farmhouse-with-private-pool-delhi-ncr"
+        },
+        {
+          "id": 126,
+          "slug": "ask-farms-Refined-4-bhk-villa-with-pool",
+          "name": "ASK Farms Refined 4 BHK Villa with Pool",
+          "url": "https://www.elivaas.com/villa-in-delhi-ncr/ask-farms-Refined-4-bhk-villa-with-pool"
+        },
+        {
+          "id": 127,
+          "slug": "amaltas-aravali-4bhk-villa-with-private-pool",
+          "name": "Amaltas Aravali 4BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-delhi-ncr/amaltas-aravali-4bhk-villa-with-private-pool"
+        },
+        {
+          "id": 128,
+          "slug": "aravale-farm-4bhk-farmhouse-with-private-pool",
+          "name": "Aravale Farm 4BHK Farmhouse with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-delhi-ncr/aravale-farm-4bhk-farmhouse-with-private-pool"
+        },
+        {
+          "id": 129,
+          "slug": "aurea-4bhk-farmhouse-with-private-pool",
+          "name": "Aurea 4BHK Farmhouse with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-delhi-ncr/aurea-4bhk-farmhouse-with-private-pool"
+        },
+        {
+          "id": 130,
+          "slug": "daffodil-3bhk-villa-with-private-pool-in-delhi-ncr",
+          "name": "Daffodil 3BHK Villa with Private Pool in Delhi Ncr",
+          "url": "https://www.elivaas.com/villa-in-delhi-ncr/daffodil-3bhk-villa-with-private-pool-in-delhi-ncr"
+        },
+        {
+          "id": 131,
+          "slug": "emperor-palms-emperor-suite-apartment-in-delhi-ncr",
+          "name": "Emperor Palms Emperor Suite Apartment in Delhi Ncr",
+          "url": "https://www.elivaas.com/villa-in-delhi-ncr/emperor-palms-emperor-suite-apartment-in-delhi-ncr"
+        },
+        {
+          "id": 132,
+          "slug": "emperor-palms-executive-apartment-in-delhi-ncr",
+          "name": "Emperor Palms Executive Apartment in Delhi Ncr",
+          "url": "https://www.elivaas.com/villa-in-delhi-ncr/emperor-palms-executive-apartment-in-delhi-ncr"
+        },
+        {
+          "id": 133,
+          "slug": "emperor-palms-premium-suite-apartment-in-delhi-ncr",
+          "name": "Emperor Palms Premium Suite Apartment in Delhi Ncr",
+          "url": "https://www.elivaas.com/villa-in-delhi-ncr/emperor-palms-premium-suite-apartment-in-delhi-ncr"
+        },
+        {
+          "id": 134,
+          "slug": "freesia-3bhk-apartment",
+          "name": "Freesia 3BHK Apartment",
+          "url": "https://www.elivaas.com/villa-in-delhi-ncr/freesia-3bhk-apartment"
+        },
+        {
+          "id": 135,
+          "slug": "kv-ventures-fable-pet-friendly-cottage-with-shared-pool",
+          "name": "KV Ventures Fable Pet Friendly Cottage with Shared Pool",
+          "url": "https://www.elivaas.com/villa-in-delhi-ncr/kv-ventures-fable-pet-friendly-cottage-with-shared-pool"
+        },
+        {
+          "id": 136,
+          "slug": "kv-ventures-mirage-3-bhk-villa-with-common-pool",
+          "name": "KV Ventures Mirage 3 BHK Villa with Common Pool",
+          "url": "https://www.elivaas.com/villa-in-delhi-ncr/kv-ventures-mirage-3-bhk-villa-with-common-pool"
+        },
+        {
+          "id": 137,
+          "slug": "liv-regalia-serviced-apartments-1-bhk-suite-with-restaurant",
+          "name": "Liv Regalia Serviced Apartments 1 BHK Suite with Restaurant",
+          "url": "https://www.elivaas.com/villa-in-delhi-ncr/liv-regalia-serviced-apartments-1-bhk-suite-with-restaurant"
+        },
+        {
+          "id": 138,
+          "slug": "liv-regalia-serviced-apartments-2-room-suite-with-restaurant",
+          "name": "Liv Regalia Serviced Apartments 2 Room Suite with Restaurant",
+          "url": "https://www.elivaas.com/villa-in-delhi-ncr/liv-regalia-serviced-apartments-2-room-suite-with-restaurant"
+        },
+        {
+          "id": 139,
+          "slug": "liv-regalia-serviced-apartments-1-bhk-suite-with-restaurant-and-lift",
+          "name": "Liv Regalia Serviced Apartments 1 BHK Suite with Restaurant and Lift",
+          "url": "https://www.elivaas.com/villa-in-delhi-ncr/liv-regalia-serviced-apartments-1-bhk-suite-with-restaurant-and-lift"
+        },
+        {
+          "id": 140,
+          "slug": "vijeta-farms-3-bhk-with-private-pool",
+          "name": "Vijeta Farms 3 BHK with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-delhi-ncr/vijeta-farms-3-bhk-with-private-pool"
+        },
+        {
+          "id": 141,
+          "slug": "luxora-1-bhk-apartment",
+          "name": "Luxora 1 BHK Apartment",
+          "url": "https://www.elivaas.com/villa-in-delhi-ncr/luxora-1-bhk-apartment"
+        },
+        {
+          "id": 142,
+          "slug": "luxora-1-bhk-apartment-with-balcony",
+          "name": "Luxora 1 BHK Apartment with Balcony",
+          "url": "https://www.elivaas.com/villa-in-delhi-ncr/luxora-1-bhk-apartment-with-balcony"
+        },
+        {
+          "id": 143,
+          "slug": "pranita-farm-4-bhk-villa-with-private-pool",
+          "name": "Pranita Farm 4 BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-delhi-ncr/pranita-farm-4-bhk-villa-with-private-pool"
+        },
+        {
+          "id": 144,
+          "slug": "radhika-villa-2-bhk",
+          "name": "Radhika Villa 2 BHK",
+          "url": "https://www.elivaas.com/villa-in-delhi-ncr/radhika-villa-2-bhk"
+        },
+        {
+          "id": 145,
+          "slug": "rathore-3bhk-farmhouse-with-private-pool",
+          "name": "Rathore 3BHK Farmhouse with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-delhi-ncr/rathore-3bhk-farmhouse-with-private-pool"
+        },
+        {
+          "id": 146,
+          "slug": "ratikara-ullaas-2-bhk-with-private-pool",
+          "name": "Ratikara Ullaas 2 BHK with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-delhi-ncr/ratikara-ullaas-2-bhk-with-private-pool"
+        },
+        {
+          "id": 147,
+          "slug": "saroja-farm-3bhk",
+          "name": "Saroja Farm 3BHK",
+          "url": "https://www.elivaas.com/villa-in-delhi-ncr/saroja-farm-3bhk"
+        },
+        {
+          "id": 148,
+          "slug": "zinnia-2bhk-apartment",
+          "name": "Zinnia 2BHK Apartment",
+          "url": "https://www.elivaas.com/villa-in-delhi-ncr/zinnia-2bhk-apartment"
+        },
+        {
+          "id": 149,
+          "slug": "aarisha-villa-3-bhk-villa-with-private-pool",
+          "name": "Aarisha Villa 3 BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-delhi-ncr/aarisha-villa-3-bhk-villa-with-private-pool"
+        },
+        {
+          "id": 150,
+          "slug": "aroma-green-4-bhk-pet-friendly-farmhouse-with-private-pool",
+          "name": "Aroma Green 4 BHK Pet Friendly Farmhouse with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-delhi-ncr/aroma-green-4-bhk-pet-friendly-farmhouse-with-private-pool"
+        },
+        {
+          "id": 151,
+          "slug": "dsg-farm-pet-friendly-modern-house-inspired-3-bhk-with-bar",
+          "name": "DSG Farm Pet Friendly Modern House Inspired 3 BHK with Bar",
+          "url": "https://www.elivaas.com/villa-in-delhi-ncr/dsg-farm-pet-friendly-modern-house-inspired-3-bhk-with-bar"
+        },
+        {
+          "id": 152,
+          "slug": "jp-farm-stay-5-bhk-villa-featuring-kids-room",
+          "name": "JP Farm Stay 5 BHK Villa Featuring Kids Room",
+          "url": "https://www.elivaas.com/villa-in-delhi-ncr/jp-farm-stay-5-bhk-villa-featuring-kids-room"
+        },
+        {
+          "id": 153,
+          "slug": "jp-farm-6-bhk-pet-friendly-farmhouse-with-private-pool",
+          "name": "JP Farm 6 BHK Pet Friendly Farmhouse with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-delhi-ncr/jp-farm-6-bhk-pet-friendly-farmhouse-with-private-pool"
+        },
+        {
+          "id": 154,
+          "slug": "luxora-atrium-1bhk-with-restro-lift-gym",
+          "name": "Luxora Atrium 1BHK with Restro Lift Gym",
+          "url": "https://www.elivaas.com/villa-in-delhi-ncr/luxora-atrium-1bhk-with-restro-lift-gym"
+        },
+        {
+          "id": 155,
+          "slug": "malik-farms-countryside-wooden-cottage",
+          "name": "Malik Farms Countryside Wooden Cottage",
+          "url": "https://www.elivaas.com/villa-in-delhi-ncr/malik-farms-countryside-wooden-cottage"
+        },
+        {
+          "id": 156,
+          "slug": "royal-green-farm-2-bhk-farmhouse",
+          "name": "Royal Green Farm 2 BHK Farmhouse",
+          "url": "https://www.elivaas.com/villa-in-delhi-ncr/royal-green-farm-2-bhk-farmhouse"
+        },
+        {
+          "id": 157,
+          "slug": "shivoham-farm-9-bhk-pet-friendly-farmhouse-with-private-pool",
+          "name": "Shivoham Farm 9 BHK Pet Friendly Farmhouse with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-delhi-ncr/shivoham-farm-9-bhk-pet-friendly-farmhouse-with-private-pool"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "slug": "dharamshala",
+      "name": "Dharamshala",
+      "villa_count": 4,
+      "villas": [
+        {
+          "id": 158,
+          "slug": "esh-hazel-cottage-with-pool",
+          "name": "Esh Hazel Cottage with Pool",
+          "url": "https://www.elivaas.com/villa-in-dharamshala/esh-hazel-cottage-with-pool"
+        },
+        {
+          "id": 159,
+          "slug": "esh-willow-one-room-cottage-with-pool",
+          "name": "Esh Willow One Room Cottage with Pool",
+          "url": "https://www.elivaas.com/villa-in-dharamshala/esh-willow-one-room-cottage-with-pool"
+        },
+        {
+          "id": 160,
+          "slug": "esh-birch-4bhk-cottage-with-pool",
+          "name": "Esh Birch 4BHK Cottage with Pool",
+          "url": "https://www.elivaas.com/villa-in-dharamshala/esh-birch-4bhk-cottage-with-pool"
+        },
+        {
+          "id": 161,
+          "slug": "esh-moss-2bhk-villa-with-pool",
+          "name": "Esh Moss 2BHK Villa with Pool",
+          "url": "https://www.elivaas.com/villa-in-dharamshala/esh-moss-2bhk-villa-with-pool"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "slug": "dubai",
+      "name": "Dubai",
+      "villa_count": 131,
+      "villas": [
+        {
+          "id": 162,
+          "slug": "1b-by-marasi-drive-close-to-downtown-attractions",
+          "name": "1B by Marasi Drive Close to Downtown Attractions",
+          "url": "https://www.elivaas.com/villa-in-dubai/1b-by-marasi-drive-close-to-downtown-attractions"
+        },
+        {
+          "id": 163,
+          "slug": "livbnb-coastal-2b-with-marina-view-walk-to-beach",
+          "name": "Livbnb Coastal 2B with Marina View Walk to Beach",
+          "url": "https://www.elivaas.com/villa-in-dubai/livbnb-coastal-2b-with-marina-view-walk-to-beach"
+        },
+        {
+          "id": 164,
+          "slug": "1-bhk-with-marina-and-partial-sea-views",
+          "name": "1 BHK with Marina and Partial Sea Views",
+          "url": "https://www.elivaas.com/villa-in-dubai/1-bhk-with-marina-and-partial-sea-views"
+        },
+        {
+          "id": 165,
+          "slug": "1-br-by-the-beach-marina-view",
+          "name": "1 BR by the Beach Marina View",
+          "url": "https://www.elivaas.com/villa-in-dubai/1-br-by-the-beach-marina-view"
+        },
+        {
+          "id": 166,
+          "slug": "livbnb-suites-marina-1br",
+          "name": "Livbnb Suites Marina 1BR",
+          "url": "https://www.elivaas.com/villa-in-dubai/livbnb-suites-marina-1br"
+        },
+        {
+          "id": 167,
+          "slug": "1br-paragon-tower-burj-khalifa-canal-views",
+          "name": "1BR Paragon Tower Burj Khalifa Canal Views",
+          "url": "https://www.elivaas.com/villa-in-dubai/1br-paragon-tower-burj-khalifa-canal-views"
+        },
+        {
+          "id": 168,
+          "slug": "1br-retreat-in-binghatti-nova-jvc",
+          "name": "1BR Retreat in Binghatti Nova JVC",
+          "url": "https://www.elivaas.com/villa-in-dubai/1br-retreat-in-binghatti-nova-jvc"
+        },
+        {
+          "id": 169,
+          "slug": "1br-retreat-with-free-access-to-creek-lagoon",
+          "name": "1BR Retreat with Free Access to Creek Lagoon",
+          "url": "https://www.elivaas.com/villa-in-dubai/1br-retreat-with-free-access-to-creek-lagoon"
+        },
+        {
+          "id": 170,
+          "slug": "1br-sea-and-skyline-views-in-seven-palm",
+          "name": "1BR Sea and Skyline Views in Seven Palm",
+          "url": "https://www.elivaas.com/villa-in-dubai/1br-sea-and-skyline-views-in-seven-palm"
+        },
+        {
+          "id": 171,
+          "slug": "spectacular-1br",
+          "name": "Spectacular 1BR",
+          "url": "https://www.elivaas.com/villa-in-dubai/spectacular-1br"
+        },
+        {
+          "id": 172,
+          "slug": "1br-with-sea-view-in-palm-tower",
+          "name": "1BR with Sea View in Palm Tower",
+          "url": "https://www.elivaas.com/villa-in-dubai/1br-with-sea-view-in-palm-tower"
+        },
+        {
+          "id": 173,
+          "slug": "2b-maid-in-dunya-5-min-walk-to-dubai-mall",
+          "name": "2B Maid in Dunya 5 Min Walk to Dubai Mall",
+          "url": "https://www.elivaas.com/villa-in-dubai/2b-maid-in-dunya-5-min-walk-to-dubai-mall"
+        },
+        {
+          "id": 174,
+          "slug": "livbnb-2b-in-shams-walk-to-beach",
+          "name": "Livbnb 2B in Shams Walk to Beach",
+          "url": "https://www.elivaas.com/villa-in-dubai/livbnb-2b-in-shams-walk-to-beach"
+        },
+        {
+          "id": 175,
+          "slug": "2b-stunner-with-iconic-ain-dubai-view",
+          "name": "2B Stunner with Iconic Ain Dubai View",
+          "url": "https://www.elivaas.com/villa-in-dubai/2b-stunner-with-iconic-ain-dubai-view"
+        },
+        {
+          "id": 176,
+          "slug": "2b-with-skyline-views-steps-to-creek-marina",
+          "name": "2B with Skyline Views Steps to Creek Marina",
+          "url": "https://www.elivaas.com/villa-in-dubai/2b-with-skyline-views-steps-to-creek-marina"
+        },
+        {
+          "id": 177,
+          "slug": "2-br-apartment-with-breathtaking-marina-view",
+          "name": "2 BR Apartment with Breathtaking Marina View",
+          "url": "https://www.elivaas.com/villa-in-dubai/2-br-apartment-with-breathtaking-marina-view"
+        },
+        {
+          "id": 178,
+          "slug": "2br-beachfront-living-stunning-marina-views",
+          "name": "2BR Beachfront Living Stunning Marina Views",
+          "url": "https://www.elivaas.com/villa-in-dubai/2br-beachfront-living-stunning-marina-views"
+        },
+        {
+          "id": 179,
+          "slug": "2-br-in-central-marina",
+          "name": "2 BR in Central Marina",
+          "url": "https://www.elivaas.com/villa-in-dubai/2-br-in-central-marina"
+        },
+        {
+          "id": 180,
+          "slug": "stylish-2br-near-dubai-mall-and-burj-khalifa",
+          "name": "Stylish 2BR near Dubai Mall and Burj Khalifa",
+          "url": "https://www.elivaas.com/villa-in-dubai/stylish-2br-near-dubai-mall-and-burj-khalifa"
+        },
+        {
+          "id": 181,
+          "slug": "2br-in-safi",
+          "name": "2BR in Safi",
+          "url": "https://www.elivaas.com/villa-in-dubai/2br-in-safi"
+        },
+        {
+          "id": 182,
+          "slug": "bright-2-bedroom-suite-in-bluewaters",
+          "name": "Bright 2 Bedroom Suite in Bluewaters",
+          "url": "https://www.elivaas.com/villa-in-dubai/bright-2-bedroom-suite-in-bluewaters"
+        },
+        {
+          "id": 183,
+          "slug": "2br-sunset-view-suite-jumeirah-living-marina-gate",
+          "name": "2BR Sunset View Suite Jumeirah Living Marina Gate",
+          "url": "https://www.elivaas.com/villa-in-dubai/2br-sunset-view-suite-jumeirah-living-marina-gate"
+        },
+        {
+          "id": 184,
+          "slug": "2br-with-iconic-burj-and-dubai-fountain-views",
+          "name": "2BR with Iconic Burj and Dubai Fountain Views",
+          "url": "https://www.elivaas.com/villa-in-dubai/2br-with-iconic-burj-and-dubai-fountain-views"
+        },
+        {
+          "id": 185,
+          "slug": "2br-full-panoramic-sea-view-and-beach-access",
+          "name": "2BR Full Panoramic Sea View and Beach Access",
+          "url": "https://www.elivaas.com/villa-in-dubai/2br-full-panoramic-sea-view-and-beach-access"
+        },
+        {
+          "id": 186,
+          "slug": "livbnb-3b-with-marina-views-near-beach",
+          "name": "Livbnb 3B with Marina Views near Beach",
+          "url": "https://www.elivaas.com/villa-in-dubai/livbnb-3b-with-marina-views-near-beach"
+        },
+        {
+          "id": 187,
+          "slug": "livbnb-3-br-with-burh-and-fountain-view",
+          "name": "Livbnb 3 BR with Burh and Fountain View",
+          "url": "https://www.elivaas.com/villa-in-dubai/livbnb-3-br-with-burh-and-fountain-view"
+        },
+        {
+          "id": 188,
+          "slug": "3br-at-address-jbr-with-sea-ain-dubai-views",
+          "name": "3BR at Address JBR with Sea Ain Dubai Views",
+          "url": "https://www.elivaas.com/villa-in-dubai/3br-at-address-jbr-with-sea-ain-dubai-views"
+        },
+        {
+          "id": 189,
+          "slug": "3br-suite-next-to-dubai-mall-with-burj-view",
+          "name": "3BR Suite next to Dubai Mall with Burj View",
+          "url": "https://www.elivaas.com/villa-in-dubai/3br-suite-next-to-dubai-mall-with-burj-view"
+        },
+        {
+          "id": 190,
+          "slug": "3-br-suite-with-burj-abd-fountain-views",
+          "name": "3 BR Suite with Burj Abd Fountain Views",
+          "url": "https://www.elivaas.com/villa-in-dubai/3-br-suite-with-burj-abd-fountain-views"
+        },
+        {
+          "id": 191,
+          "slug": "3br-townhouse-rooftop-terrace-just-cavalli",
+          "name": "3BR Townhouse Rooftop Terrace just Cavalli",
+          "url": "https://www.elivaas.com/villa-in-dubai/3br-townhouse-rooftop-terrace-just-cavalli"
+        },
+        {
+          "id": 192,
+          "slug": "live-the-dubai-dream",
+          "name": "Live the Dubai Dream",
+          "url": "https://www.elivaas.com/villa-in-dubai/live-the-dubai-dream"
+        },
+        {
+          "id": 193,
+          "slug": "3br-with-marina-skyline-view-and-private-beach",
+          "name": "3BR with Marina Skyline View and Private Beach",
+          "url": "https://www.elivaas.com/villa-in-dubai/3br-with-marina-skyline-view-and-private-beach"
+        },
+        {
+          "id": 194,
+          "slug": "3br-with-marina-skyline-views",
+          "name": "3BR with Marina Skyline Views",
+          "url": "https://www.elivaas.com/villa-in-dubai/3br-with-marina-skyline-views"
+        },
+        {
+          "id": 195,
+          "slug": "4br-dubai-sea-view",
+          "name": "4BR Dubai Sea View",
+          "url": "https://www.elivaas.com/villa-in-dubai/4br-dubai-sea-view"
+        },
+        {
+          "id": 196,
+          "slug": "ain-dubai-panorama-3br-with-maids-room",
+          "name": "Ain Dubai Panorama 3BR with Maids Room",
+          "url": "https://www.elivaas.com/villa-in-dubai/ain-dubai-panorama-3br-with-maids-room"
+        },
+        {
+          "id": 197,
+          "slug": "livbnb-bluewaters-suite-alluring-3br-1-with-sea-ain-dubai-view",
+          "name": "Livbnb Bluewaters Suite Alluring 3BR 1 with Sea Ain Dubai View",
+          "url": "https://www.elivaas.com/villa-in-dubai/livbnb-bluewaters-suite-alluring-3br-1-with-sea-ain-dubai-view"
+        },
+        {
+          "id": 198,
+          "slug": "livbnb-beachfront-2b",
+          "name": "Livbnb Beachfront 2B",
+          "url": "https://www.elivaas.com/villa-in-dubai/livbnb-beachfront-2b"
+        },
+        {
+          "id": 199,
+          "slug": "beachfront-2br-with-palm-and-sea-views",
+          "name": "Beachfront 2BR with Palm and Sea Views",
+          "url": "https://www.elivaas.com/villa-in-dubai/beachfront-2br-with-palm-and-sea-views"
+        },
+        {
+          "id": 200,
+          "slug": "beachfront-2br-plus-maid-one-jbr-sea-and-palm-views",
+          "name": "Beachfront 2BR plus Maid One JBR Sea and Palm Views",
+          "url": "https://www.elivaas.com/villa-in-dubai/beachfront-2br-plus-maid-one-jbr-sea-and-palm-views"
+        },
+        {
+          "id": 201,
+          "slug": "beachfront-studio-with-dining-and-leisure-steps-away",
+          "name": "Beachfront Studio with Dining and Leisure Steps Away",
+          "url": "https://www.elivaas.com/villa-in-dubai/beachfront-studio-with-dining-and-leisure-steps-away"
+        },
+        {
+          "id": 202,
+          "slug": "beachfront-ultra-4br-duplex-sea-and-burj-views",
+          "name": "Beachfront Ultra 4BR Duplex Sea and Burj Views",
+          "url": "https://www.elivaas.com/villa-in-dubai/beachfront-ultra-4br-duplex-sea-and-burj-views"
+        },
+        {
+          "id": 203,
+          "slug": "bluewaters-2b-iconic-ain-dubai-and-sea-view",
+          "name": "Bluewaters 2B Iconic Ain Dubai and Sea View",
+          "url": "https://www.elivaas.com/villa-in-dubai/bluewaters-2b-iconic-ain-dubai-and-sea-view"
+        },
+        {
+          "id": 204,
+          "slug": "elegant-bluewaters-3br-maids-w-sea-view",
+          "name": "Elegant Bluewaters 3BR Maids w Sea View",
+          "url": "https://www.elivaas.com/villa-in-dubai/elegant-bluewaters-3br-maids-w-sea-view"
+        },
+        {
+          "id": 205,
+          "slug": "bright-1-br-suite-in-merano-tower",
+          "name": "Bright 1 BR Suite in Merano Tower",
+          "url": "https://www.elivaas.com/villa-in-dubai/bright-1-br-suite-in-merano-tower"
+        },
+        {
+          "id": 206,
+          "slug": "bright-1br-with-marina-and-city-views",
+          "name": "Bright 1BR with Marina and City Views",
+          "url": "https://www.elivaas.com/villa-in-dubai/bright-1br-with-marina-and-city-views"
+        },
+        {
+          "id": 207,
+          "slug": "your-beachfront-escape-modern-1br",
+          "name": "Your Beachfront Escape Modern 1BR",
+          "url": "https://www.elivaas.com/villa-in-dubai/your-beachfront-escape-modern-1br"
+        },
+        {
+          "id": 208,
+          "slug": "spacious-1-br-steps-to-burj-khalifa",
+          "name": "Spacious 1 BR Steps to Burj Khalifa",
+          "url": "https://www.elivaas.com/villa-in-dubai/spacious-1-br-steps-to-burj-khalifa"
+        },
+        {
+          "id": 209,
+          "slug": "bright-2br-in-jvc-pool-gym-and-modern-comfort",
+          "name": "Bright 2BR in JVC Pool Gym and Modern Comfort",
+          "url": "https://www.elivaas.com/villa-in-dubai/bright-2br-in-jvc-pool-gym-and-modern-comfort"
+        },
+        {
+          "id": 210,
+          "slug": "bright-studio-with-balcony-close-to-downtown-dubai",
+          "name": "Bright Studio with Balcony Close to Downtown Dubai",
+          "url": "https://www.elivaas.com/villa-in-dubai/bright-studio-with-balcony-close-to-downtown-dubai"
+        },
+        {
+          "id": 211,
+          "slug": "wake-up-to-burj-khalifa-elegant-2-br",
+          "name": "Wake Up to Burj Khalifa Elegant 2 BR",
+          "url": "https://www.elivaas.com/villa-in-dubai/wake-up-to-burj-khalifa-elegant-2-br"
+        },
+        {
+          "id": 212,
+          "slug": "analfront-gem-1br-in-zada-tower-by-livbnb",
+          "name": "Analfront Gem 1BR in Zada Tower by Livbnb",
+          "url": "https://www.elivaas.com/villa-in-dubai/analfront-gem-1br-in-zada-tower-by-livbnb"
+        },
+        {
+          "id": 213,
+          "slug": "casa-aruri-1b-marina-escape",
+          "name": "Casa Aruri 1B Marina Escape",
+          "url": "https://www.elivaas.com/villa-in-dubai/casa-aruri-1b-marina-escape"
+        },
+        {
+          "id": 214,
+          "slug": "centrally-located-1br-near-dubai-canal-and-downtown",
+          "name": "Centrally Located 1BR near Dubai Canal and Downtown",
+          "url": "https://www.elivaas.com/villa-in-dubai/centrally-located-1br-near-dubai-canal-and-downtown"
+        },
+        {
+          "id": 215,
+          "slug": "chic-1b-by-dubai-canal-marasi-drive-with-pool",
+          "name": "Chic 1B by Dubai Canal Marasi Drive with Pool",
+          "url": "https://www.elivaas.com/villa-in-dubai/chic-1b-by-dubai-canal-marasi-drive-with-pool"
+        },
+        {
+          "id": 216,
+          "slug": "chic-1b-in-nobles-city-views-prime-location",
+          "name": "Chic 1B in Nobles City Views Prime Location",
+          "url": "https://www.elivaas.com/villa-in-dubai/chic-1b-in-nobles-city-views-prime-location"
+        },
+        {
+          "id": 217,
+          "slug": "beachfront-1br-with-marina-and-city-views",
+          "name": "Beachfront 1BR with Marina and City Views",
+          "url": "https://www.elivaas.com/villa-in-dubai/beachfront-1br-with-marina-and-city-views"
+        },
+        {
+          "id": 218,
+          "slug": "chic-studio-with-pool-and-jacuzzi",
+          "name": "Chic Studio with Pool and Jacuzzi",
+          "url": "https://www.elivaas.com/villa-in-dubai/chic-studio-with-pool-and-jacuzzi"
+        },
+        {
+          "id": 219,
+          "slug": "classy-2-b-with-jacuzzi-and-burj-khalifa-view",
+          "name": "Classy 2 B with Jacuzzi and Burj Khalifa View",
+          "url": "https://www.elivaas.com/villa-in-dubai/classy-2-b-with-jacuzzi-and-burj-khalifa-view"
+        },
+        {
+          "id": 220,
+          "slug": "1-br-by-canal-view",
+          "name": "1 BR by Canal View",
+          "url": "https://www.elivaas.com/villa-in-dubai/1-br-by-canal-view"
+        },
+        {
+          "id": 221,
+          "slug": "convenient-loft-type-1b-dubai-sports-city",
+          "name": "Convenient Loft Type 1B Dubai Sports City",
+          "url": "https://www.elivaas.com/villa-in-dubai/convenient-loft-type-1b-dubai-sports-city"
+        },
+        {
+          "id": 222,
+          "slug": "cozy-2br-walk-to-creek-marina-and-beach",
+          "name": "Cozy 2BR Walk to Creek Marina and Beach",
+          "url": "https://www.elivaas.com/villa-in-dubai/cozy-2br-walk-to-creek-marina-and-beach"
+        },
+        {
+          "id": 223,
+          "slug": "upgraded-suite-with-marina-views",
+          "name": "Upgraded Suite with Marina Views",
+          "url": "https://www.elivaas.com/villa-in-dubai/upgraded-suite-with-marina-views"
+        },
+        {
+          "id": 224,
+          "slug": "designer-1br-at-emaar-beachfront",
+          "name": "Designer 1BR at Emaar Beachfront",
+          "url": "https://www.elivaas.com/villa-in-dubai/designer-1br-at-emaar-beachfront"
+        },
+        {
+          "id": 225,
+          "slug": "elegant-1br-in-jvc-with-pool",
+          "name": "Elegant 1BR in JVC with Pool",
+          "url": "https://www.elivaas.com/villa-in-dubai/elegant-1br-in-jvc-with-pool"
+        },
+        {
+          "id": 226,
+          "slug": "elegant-1br-with-balcony-and-skyline-views",
+          "name": "Elegant 1BR with Balcony and Skyline Views",
+          "url": "https://www.elivaas.com/villa-in-dubai/elegant-1br-with-balcony-and-skyline-views"
+        },
+        {
+          "id": 227,
+          "slug": "relaxing-2br-close-to-creek-beach-with-pool",
+          "name": "Relaxing 2BR Close to Creek Beach with Pool",
+          "url": "https://www.elivaas.com/villa-in-dubai/relaxing-2br-close-to-creek-beach-with-pool"
+        },
+        {
+          "id": 228,
+          "slug": "elegant-designer-studio-balcony-rooftop-pool",
+          "name": "Elegant Designer Studio Balcony Rooftop Pool",
+          "url": "https://www.elivaas.com/villa-in-dubai/elegant-designer-studio-balcony-rooftop-pool"
+        },
+        {
+          "id": 229,
+          "slug": "embrace-luxury-and-comfort-in-prime-1br-jlt",
+          "name": "Embrace Luxury and Comfort in Prime 1BR JLT",
+          "url": "https://www.elivaas.com/villa-in-dubai/embrace-luxury-and-comfort-in-prime-1br-jlt"
+        },
+        {
+          "id": 230,
+          "slug": "exquisite-studio-near-nakheel-mall",
+          "name": "Exquisite Studio near Nakheel Mall",
+          "url": "https://www.elivaas.com/villa-in-dubai/exquisite-studio-near-nakheel-mall"
+        },
+        {
+          "id": 231,
+          "slug": "glam-studio-next-to-marina-walk",
+          "name": "Glam Studio next to Marina Walk",
+          "url": "https://www.elivaas.com/villa-in-dubai/glam-studio-next-to-marina-walk"
+        },
+        {
+          "id": 232,
+          "slug": "livbnb-high-floor-2b-marina-view-walk-to-beach",
+          "name": "Livbnb High Floor 2B Marina View Walk to Beach",
+          "url": "https://www.elivaas.com/villa-in-dubai/livbnb-high-floor-2b-marina-view-walk-to-beach"
+        },
+        {
+          "id": 233,
+          "slug": "high-end-1br-bluewaters-luxury-near-ain-dubai",
+          "name": "High End 1BR Bluewaters Luxury near Ain Dubai",
+          "url": "https://www.elivaas.com/villa-in-dubai/high-end-1br-bluewaters-luxury-near-ain-dubai"
+        },
+        {
+          "id": 234,
+          "slug": "high-floor-1br-with-burj-khalifa-view",
+          "name": "High Floor 1BR with Burj Khalifa View",
+          "url": "https://www.elivaas.com/villa-in-dubai/high-floor-1br-with-burj-khalifa-view"
+        },
+        {
+          "id": 235,
+          "slug": "high-floor-2-br-skyline-sea-burj-khalifa-view",
+          "name": "High Floor 2 BR Skyline Sea Burj Khalifa View",
+          "url": "https://www.elivaas.com/villa-in-dubai/high-floor-2-br-skyline-sea-burj-khalifa-view"
+        },
+        {
+          "id": 236,
+          "slug": "homey-1b-with-spacious-terrace-in-jvc",
+          "name": "Homey 1B with Spacious Terrace in JVC",
+          "url": "https://www.elivaas.com/villa-in-dubai/homey-1b-with-spacious-terrace-in-jvc"
+        },
+        {
+          "id": 237,
+          "slug": "livbnb-suites-lavish-1-br-in-j-one-tower",
+          "name": "Livbnb Suites Lavish 1 BR in J One Tower",
+          "url": "https://www.elivaas.com/villa-in-dubai/livbnb-suites-lavish-1-br-in-j-one-tower"
+        },
+        {
+          "id": 238,
+          "slug": "lavish-2-bedroom-suite-with-burj-khalifa-view",
+          "name": "Lavish 2 Bedroom Suite with Burj Khalifa View",
+          "url": "https://www.elivaas.com/villa-in-dubai/lavish-2-bedroom-suite-with-burj-khalifa-view"
+        },
+        {
+          "id": 239,
+          "slug": "lush-2br-with-sea-and-ain-view",
+          "name": "Lush 2BR with Sea and Ain View",
+          "url": "https://www.elivaas.com/villa-in-dubai/lush-2br-with-sea-and-ain-view"
+        },
+        {
+          "id": 240,
+          "slug": "luxury-3-b-and-maid-with-burj-view",
+          "name": "Luxury 3 B and Maid with Burj View",
+          "url": "https://www.elivaas.com/villa-in-dubai/luxury-3-b-and-maid-with-burj-view"
+        },
+        {
+          "id": 241,
+          "slug": "livbnb-luxury-3b-with-maids-room-partial-sea-view",
+          "name": "Livbnb Luxury 3B with Maids Room Partial Sea View",
+          "url": "https://www.elivaas.com/villa-in-dubai/livbnb-luxury-3b-with-maids-room-partial-sea-view"
+        },
+        {
+          "id": 242,
+          "slug": "modern-1-bed-in-merano-tower",
+          "name": "Modern 1 Bed in Merano Tower",
+          "url": "https://www.elivaas.com/villa-in-dubai/modern-1-bed-in-merano-tower"
+        },
+        {
+          "id": 243,
+          "slug": "modern-1bhk-with-private-balcony",
+          "name": "Modern 1BHK with Private Balcony",
+          "url": "https://www.elivaas.com/villa-in-dubai/modern-1bhk-with-private-balcony"
+        },
+        {
+          "id": 244,
+          "slug": "modern-1br-oasis-with-stunning-terrace-jvc",
+          "name": "Modern 1BR Oasis with Stunning Terrace JVC",
+          "url": "https://www.elivaas.com/villa-in-dubai/modern-1br-oasis-with-stunning-terrace-jvc"
+        },
+        {
+          "id": 245,
+          "slug": "modern-2br-in-shams-marina-views",
+          "name": "Modern 2BR in Shams Marina Views",
+          "url": "https://www.elivaas.com/villa-in-dubai/modern-2br-in-shams-marina-views"
+        },
+        {
+          "id": 246,
+          "slug": "modern-2br-with-partial-burj-khalifa-view",
+          "name": "Modern 2BR with Partial Burj Khalifa View",
+          "url": "https://www.elivaas.com/villa-in-dubai/modern-2br-with-partial-burj-khalifa-view"
+        },
+        {
+          "id": 247,
+          "slug": "home-above-marina-3-br-with-sunset-views",
+          "name": "Home Above Marina 3 BR with Sunset Views",
+          "url": "https://www.elivaas.com/villa-in-dubai/home-above-marina-3-br-with-sunset-views"
+        },
+        {
+          "id": 248,
+          "slug": "modern-living-1-bhk-apartment",
+          "name": "Modern Living 1 BHK Apartment",
+          "url": "https://www.elivaas.com/villa-in-dubai/modern-living-1-bhk-apartment"
+        },
+        {
+          "id": 249,
+          "slug": "modern-loft-1br-next-to-metro-marina-walk",
+          "name": "Modern Loft 1BR next to Metro Marina Walk",
+          "url": "https://www.elivaas.com/villa-in-dubai/modern-loft-1br-next-to-metro-marina-walk"
+        },
+        {
+          "id": 250,
+          "slug": "modern-retreat-in-the-views-with-balcony-and-pool",
+          "name": "Modern Retreat in the Views with Balcony and Pool",
+          "url": "https://www.elivaas.com/villa-in-dubai/modern-retreat-in-the-views-with-balcony-and-pool"
+        },
+        {
+          "id": 251,
+          "slug": "modern-studio-in-jvc-near-parks-and-highways",
+          "name": "Modern Studio in JVC near Parks and Highways",
+          "url": "https://www.elivaas.com/villa-in-dubai/modern-studio-in-jvc-near-parks-and-highways"
+        },
+        {
+          "id": 252,
+          "slug": "modern-studio-near-dubai-mall",
+          "name": "Modern Studio near Dubai Mall",
+          "url": "https://www.elivaas.com/villa-in-dubai/modern-studio-near-dubai-mall"
+        },
+        {
+          "id": 253,
+          "slug": "oceanic-1br-sea-view-beach-access",
+          "name": "Oceanic 1BR Sea View Beach Access",
+          "url": "https://www.elivaas.com/villa-in-dubai/oceanic-1br-sea-view-beach-access"
+        },
+        {
+          "id": 254,
+          "slug": "penthouse-in-signature-jvc-with-huge-balcony",
+          "name": "Penthouse in Signature JVC with Huge Balcony",
+          "url": "https://www.elivaas.com/villa-in-dubai/penthouse-in-signature-jvc-with-huge-balcony"
+        },
+        {
+          "id": 255,
+          "slug": "perfect-1br-retreat-in-the-heart-of-jvc",
+          "name": "Perfect 1BR Retreat in the Heart of JVC",
+          "url": "https://www.elivaas.com/villa-in-dubai/perfect-1br-retreat-in-the-heart-of-jvc"
+        },
+        {
+          "id": 256,
+          "slug": "premium-3b-with-skyline-view",
+          "name": "Premium 3B with Skyline View",
+          "url": "https://www.elivaas.com/villa-in-dubai/premium-3b-with-skyline-view"
+        },
+        {
+          "id": 257,
+          "slug": "prime-1br-with-marina-views-and-beach-access",
+          "name": "Prime 1BR with Marina Views and Beach Access",
+          "url": "https://www.elivaas.com/villa-in-dubai/prime-1br-with-marina-views-and-beach-access"
+        },
+        {
+          "id": 258,
+          "slug": "prime-3br-1-suite-with-full-ain-dubai-view",
+          "name": "Prime 3BR 1 Suite with Full Ain Dubai View",
+          "url": "https://www.elivaas.com/villa-in-dubai/prime-3br-1-suite-with-full-ain-dubai-view"
+        },
+        {
+          "id": 259,
+          "slug": "relaxing-1br-peaceful-family-living-in-jvc",
+          "name": "Relaxing 1BR Peaceful Family Living in JVC",
+          "url": "https://www.elivaas.com/villa-in-dubai/relaxing-1br-peaceful-family-living-in-jvc"
+        },
+        {
+          "id": 260,
+          "slug": "sea-view-2b-beachfront-luxury-emaar-beachfront",
+          "name": "Sea View 2B Beachfront Luxury Emaar Beachfront",
+          "url": "https://www.elivaas.com/villa-in-dubai/sea-view-2b-beachfront-luxury-emaar-beachfront"
+        },
+        {
+          "id": 261,
+          "slug": "seaside-studio-in-pam-jumeirah",
+          "name": "Seaside Studio in Pam Jumeirah",
+          "url": "https://www.elivaas.com/villa-in-dubai/seaside-studio-in-pam-jumeirah"
+        },
+        {
+          "id": 262,
+          "slug": "serene-1br-canalfront-living-in-al-wasl",
+          "name": "Serene 1BR Canalfront Living in Al Wasl",
+          "url": "https://www.elivaas.com/villa-in-dubai/serene-1br-canalfront-living-in-al-wasl"
+        },
+        {
+          "id": 263,
+          "slug": "livbnb-serene-2b-marina-sea-view",
+          "name": "Livbnb Serene 2B Marina Sea View",
+          "url": "https://www.elivaas.com/villa-in-dubai/livbnb-serene-2b-marina-sea-view"
+        },
+        {
+          "id": 264,
+          "slug": "serene-studio-with-private-terrace-in-jvc",
+          "name": "Serene Studio with Private Terrace in JVC",
+          "url": "https://www.elivaas.com/villa-in-dubai/serene-studio-with-private-terrace-in-jvc"
+        },
+        {
+          "id": 265,
+          "slug": "sky-high-duplex-penthouse-marina-sea-views",
+          "name": "Sky High Duplex Penthouse Marina Sea Views",
+          "url": "https://www.elivaas.com/villa-in-dubai/sky-high-duplex-penthouse-marina-sea-views"
+        },
+        {
+          "id": 266,
+          "slug": "spacious-1br-in-shoreline-near-palm-mall",
+          "name": "Spacious 1BR in Shoreline near Palm Mall",
+          "url": "https://www.elivaas.com/villa-in-dubai/spacious-1br-in-shoreline-near-palm-mall"
+        },
+        {
+          "id": 267,
+          "slug": "spacious-2br-in-dubai-marina-with-balcony",
+          "name": "Spacious 2BR in Dubai Marina with Balcony",
+          "url": "https://www.elivaas.com/villa-in-dubai/spacious-2br-in-dubai-marina-with-balcony"
+        },
+        {
+          "id": 268,
+          "slug": "spacious-3br-in-marina-steps-to-the-beach",
+          "name": "Spacious 3BR in Marina Steps to the Beach",
+          "url": "https://www.elivaas.com/villa-in-dubai/spacious-3br-in-marina-steps-to-the-beach"
+        },
+        {
+          "id": 269,
+          "slug": "spacious-jvc-studio-prime-location",
+          "name": "Spacious JVC Studio Prime Location",
+          "url": "https://www.elivaas.com/villa-in-dubai/spacious-jvc-studio-prime-location"
+        },
+        {
+          "id": 270,
+          "slug": "feel-at-home-marina-view-studio-with-balcony",
+          "name": "Feel at Home Marina View Studio with Balcony",
+          "url": "https://www.elivaas.com/villa-in-dubai/feel-at-home-marina-view-studio-with-balcony"
+        },
+        {
+          "id": 271,
+          "slug": "stunning-1br-w-sea-view-beach-palm-jumeirah",
+          "name": "Stunning 1BR w Sea View Beach Palm Jumeirah",
+          "url": "https://www.elivaas.com/villa-in-dubai/stunning-1br-w-sea-view-beach-palm-jumeirah"
+        },
+        {
+          "id": 272,
+          "slug": "stylish-1b-with-spacious-balcony-in-jvc",
+          "name": "Stylish 1B with Spacious Balcony in JVC",
+          "url": "https://www.elivaas.com/villa-in-dubai/stylish-1b-with-spacious-balcony-in-jvc"
+        },
+        {
+          "id": 273,
+          "slug": "wake-up-to-sea-views-stylish-1br-in-jbr",
+          "name": "Wake Up to Sea Views Stylish 1BR in JBR",
+          "url": "https://www.elivaas.com/villa-in-dubai/wake-up-to-sea-views-stylish-1br-in-jbr"
+        },
+        {
+          "id": 274,
+          "slug": "stylish-1br-near-dubai-hills-mall-and-park",
+          "name": "Stylish 1BR near Dubai Hills Mall and Park",
+          "url": "https://www.elivaas.com/villa-in-dubai/stylish-1br-near-dubai-hills-mall-and-park"
+        },
+        {
+          "id": 275,
+          "slug": "stylish-1br-retreat-with-pool-stunning-city-view",
+          "name": "Stylish 1BR Retreat with Pool Stunning City View",
+          "url": "https://www.elivaas.com/villa-in-dubai/stylish-1br-retreat-with-pool-stunning-city-view"
+        },
+        {
+          "id": 276,
+          "slug": "stylish-2br-paramount-apt-near-downtown",
+          "name": "Stylish 2BR Paramount Apt near Downtown",
+          "url": "https://www.elivaas.com/villa-in-dubai/stylish-2br-paramount-apt-near-downtown"
+        },
+        {
+          "id": 277,
+          "slug": "stylish-and-spacious-1b-with-private-balcony",
+          "name": "Stylish and Spacious 1B with Private Balcony",
+          "url": "https://www.elivaas.com/villa-in-dubai/stylish-and-spacious-1b-with-private-balcony"
+        },
+        {
+          "id": 278,
+          "slug": "stylish-studio-in-jvc-near-parks-and-shops",
+          "name": "Stylish Studio in JVC near Parks and Shops",
+          "url": "https://www.elivaas.com/villa-in-dubai/stylish-studio-in-jvc-near-parks-and-shops"
+        },
+        {
+          "id": 279,
+          "slug": "livbnb-suites-2-bedroom-tranquillity-in-bluewaters",
+          "name": "Livbnb Suites 2 Bedroom Tranquillity in Bluewaters",
+          "url": "https://www.elivaas.com/villa-in-dubai/livbnb-suites-2-bedroom-tranquillity-in-bluewaters"
+        },
+        {
+          "id": 280,
+          "slug": "tranquil-family-home-4br-with-maids-room",
+          "name": "Tranquil Family Home 4BR with Maids Room",
+          "url": "https://www.elivaas.com/villa-in-dubai/tranquil-family-home-4br-with-maids-room"
+        },
+        {
+          "id": 281,
+          "slug": "stylish-1br-with-ain-dubai-and-sea-views-jbr",
+          "name": "Stylish 1BR with Ain Dubai and Sea Views JBR",
+          "url": "https://www.elivaas.com/villa-in-dubai/stylish-1br-with-ain-dubai-and-sea-views-jbr"
+        },
+        {
+          "id": 282,
+          "slug": "upgraded-1bhk-with-stunning-marina-views",
+          "name": "Upgraded 1BHK with Stunning Marina Views",
+          "url": "https://www.elivaas.com/villa-in-dubai/upgraded-1bhk-with-stunning-marina-views"
+        },
+        {
+          "id": 283,
+          "slug": "livbnb-upgraded-2br-maid's-room-with-sea-view",
+          "name": "Livbnb Upgraded 2BR Maid's Room with Sea View",
+          "url": "https://www.elivaas.com/villa-in-dubai/livbnb-upgraded-2br-maid's-room-with-sea-view"
+        },
+        {
+          "id": 284,
+          "slug": "upgraded-2br-near-shopping-and-dining-hubs",
+          "name": "Upgraded 2BR near Shopping and Dining Hubs",
+          "url": "https://www.elivaas.com/villa-in-dubai/upgraded-2br-near-shopping-and-dining-hubs"
+        },
+        {
+          "id": 285,
+          "slug": "upgraded-3b-with-marina-view-near-promenade",
+          "name": "Upgraded 3B with Marina View near Promenade",
+          "url": "https://www.elivaas.com/villa-in-dubai/upgraded-3b-with-marina-view-near-promenade"
+        },
+        {
+          "id": 286,
+          "slug": "studio-with-big-balcony-walk-to-beach",
+          "name": "Studio with Big Balcony Walk to Beach",
+          "url": "https://www.elivaas.com/villa-in-dubai/studio-with-big-balcony-walk-to-beach"
+        },
+        {
+          "id": 287,
+          "slug": "waterfront-2br-with-dubai-skyline-views",
+          "name": "Waterfront 2BR with Dubai Skyline Views",
+          "url": "https://www.elivaas.com/villa-in-dubai/waterfront-2br-with-dubai-skyline-views"
+        },
+        {
+          "id": 288,
+          "slug": "chic-high-floor-1br-in-the-greens-skyline-views",
+          "name": "Chic High Floor 1BR in the Greens Skyline Views",
+          "url": "https://www.elivaas.com/villa-in-dubai/chic-high-floor-1br-in-the-greens-skyline-views"
+        },
+        {
+          "id": 289,
+          "slug": "luxury-2br-with-sea",
+          "name": "Luxury 2BR with Sea",
+          "url": "https://www.elivaas.com/villa-in-dubai/luxury-2br-with-sea"
+        },
+        {
+          "id": 290,
+          "slug": "scenic-2bhk-with-amazing-marina-views",
+          "name": "Scenic 2BHK with Amazing Marina Views",
+          "url": "https://www.elivaas.com/villa-in-dubai/scenic-2bhk-with-amazing-marina-views"
+        },
+        {
+          "id": 291,
+          "slug": "wake-up-to-sea",
+          "name": "Wake Up to Sea",
+          "url": "https://www.elivaas.com/villa-in-dubai/wake-up-to-sea"
+        },
+        {
+          "id": 292,
+          "slug": "upgraded-1br-with-balcony-near-nakheel-mall",
+          "name": "Upgraded 1BR with Balcony near Nakheel Mall",
+          "url": "https://www.elivaas.com/villa-in-dubai/upgraded-1br-with-balcony-near-nakheel-mall"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "slug": "igatpuri",
+      "name": "Igatpuri",
+      "villa_count": 10,
+      "villas": [
+        {
+          "id": 293,
+          "slug": "vk-villa-10-bhk-villa-and-two-private-pools",
+          "name": "VK Villa 10 BHK Villa and Two Private Pools",
+          "url": "https://www.elivaas.com/villa-in-igatpuri/vk-villa-10-bhk-villa-and-two-private-pools"
+        },
+        {
+          "id": 294,
+          "slug": "lush-villa-6-bhk-pet-friendly-villa-with-pool",
+          "name": "Lush Villa 6 BHK Pet Friendly Villa with Pool",
+          "url": "https://www.elivaas.com/villa-in-igatpuri/lush-villa-6-bhk-pet-friendly-villa-with-pool"
+        },
+        {
+          "id": 295,
+          "slug": "white-house-3bhk-villa-with-pool",
+          "name": "White House 3BHK Villa with Pool",
+          "url": "https://www.elivaas.com/villa-in-igatpuri/white-house-3bhk-villa-with-pool"
+        },
+        {
+          "id": 296,
+          "slug": "white-house-4bhk-villa-with-pool",
+          "name": "White House 4BHK Villa with Pool",
+          "url": "https://www.elivaas.com/villa-in-igatpuri/white-house-4bhk-villa-with-pool"
+        },
+        {
+          "id": 297,
+          "slug": "white-house-7-bhk-with-panoramic-hill-views-with-pool",
+          "name": "White House 7 BHK with Panoramic Hill Views with Pool",
+          "url": "https://www.elivaas.com/villa-in-igatpuri/white-house-7-bhk-with-panoramic-hill-views-with-pool"
+        },
+        {
+          "id": 298,
+          "slug": "gauri-3bhk-villa-with-private-pool",
+          "name": "Gauri 3BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-igatpuri/gauri-3bhk-villa-with-private-pool"
+        },
+        {
+          "id": 299,
+          "slug": "timber-premium-suite-pet-friendly-bamboo-cottage",
+          "name": "Timber Premium Suite Pet Friendly Bamboo Cottage",
+          "url": "https://www.elivaas.com/villa-in-igatpuri/timber-premium-suite-pet-friendly-bamboo-cottage"
+        },
+        {
+          "id": 300,
+          "slug": "timber-standard-suite-pet-friendly-bamboo-cottage",
+          "name": "Timber Standard Suite Pet Friendly Bamboo Cottage",
+          "url": "https://www.elivaas.com/villa-in-igatpuri/timber-standard-suite-pet-friendly-bamboo-cottage"
+        },
+        {
+          "id": 301,
+          "slug": "vk-villa-galaxy-5-bhk-villa-with-private-indoor-pool",
+          "name": "VK Villa Galaxy 5 BHK Villa with Private Indoor Pool",
+          "url": "https://www.elivaas.com/villa-in-igatpuri/vk-villa-galaxy-5-bhk-villa-with-private-indoor-pool"
+        },
+        {
+          "id": 302,
+          "slug": "vk-villa-supreme-5-bhk-villa-with-private-indoor-pool",
+          "name": "VK Villa Supreme 5 BHK Villa with Private Indoor Pool",
+          "url": "https://www.elivaas.com/villa-in-igatpuri/vk-villa-supreme-5-bhk-villa-with-private-indoor-pool"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "slug": "jaipur",
+      "name": "Jaipur",
+      "villa_count": 38,
+      "villas": [
+        {
+          "id": 303,
+          "slug": "24-carat-4-bhk-villa-with-private-pool",
+          "name": "24 Carat 4 BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-jaipur/24-carat-4-bhk-villa-with-private-pool"
+        },
+        {
+          "id": 304,
+          "slug": "abhinandan-farms-7-bhk-villa-with-private-pool",
+          "name": "Abhinandan Farms 7 BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-jaipur/abhinandan-farms-7-bhk-villa-with-private-pool"
+        },
+        {
+          "id": 305,
+          "slug": "angelos-farm-pet-friendly-8bhk-villa-with-private-pool",
+          "name": "Angelos Farm Pet Friendly 8BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-jaipur/angelos-farm-pet-friendly-8bhk-villa-with-private-pool"
+        },
+        {
+          "id": 306,
+          "slug": "shobhit-villa-4-bhk-villa",
+          "name": "Shobhit Villa 4 BHK Villa",
+          "url": "https://www.elivaas.com/villa-in-jaipur/shobhit-villa-4-bhk-villa"
+        },
+        {
+          "id": 307,
+          "slug": "casa-horizon-6-bhk-villa-with-pool",
+          "name": "Casa Horizon 6 BHK Villa with Pool",
+          "url": "https://www.elivaas.com/villa-in-jaipur/casa-horizon-6-bhk-villa-with-pool"
+        },
+        {
+          "id": 308,
+          "slug": "stone-age-home-4-bhk-stone-retreat-with-private-pool",
+          "name": "Stone Age Home 4 BHK Stone Retreat with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-jaipur/stone-age-home-4-bhk-stone-retreat-with-private-pool"
+        },
+        {
+          "id": 309,
+          "slug": "echoes-by-aravali-5bhk-villa-with-private-pool",
+          "name": "Echoes by Aravali 5BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-jaipur/echoes-by-aravali-5bhk-villa-with-private-pool"
+        },
+        {
+          "id": 310,
+          "slug": "el-bosque-sapcious-4-bhk-villa-with-private-pool",
+          "name": "El Bosque Sapcious 4 BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-jaipur/el-bosque-sapcious-4-bhk-villa-with-private-pool"
+        },
+        {
+          "id": 311,
+          "slug": "fernwood-6-bhk-bamboo-cottage",
+          "name": "Fernwood 6 BHK Bamboo Cottage",
+          "url": "https://www.elivaas.com/villa-in-jaipur/fernwood-6-bhk-bamboo-cottage"
+        },
+        {
+          "id": 312,
+          "slug": "giri-2bhk-penthouse",
+          "name": "Giri 2BHK Penthouse",
+          "url": "https://www.elivaas.com/villa-in-jaipur/giri-2bhk-penthouse"
+        },
+        {
+          "id": 313,
+          "slug": "hari-bagh-4bhk-villa",
+          "name": "Hari Bagh 4BHK Villa",
+          "url": "https://www.elivaas.com/villa-in-jaipur/hari-bagh-4bhk-villa"
+        },
+        {
+          "id": 314,
+          "slug": "hathnoda-bagh-cascade-cottage-with-open-shower-and-shared-pool",
+          "name": "Hathnoda Bagh Cascade Cottage with Open Shower and Shared Pool",
+          "url": "https://www.elivaas.com/villa-in-jaipur/hathnoda-bagh-cascade-cottage-with-open-shower-and-shared-pool"
+        },
+        {
+          "id": 315,
+          "slug": "hathnoda-bagh-lagoon-cottage-within-a-mini-resort-with-pool",
+          "name": "Hathnoda Bagh Lagoon Cottage Within a Mini Resort with Pool",
+          "url": "https://www.elivaas.com/villa-in-jaipur/hathnoda-bagh-lagoon-cottage-within-a-mini-resort-with-pool"
+        },
+        {
+          "id": 316,
+          "slug": "jamun-2bhk-villa-with-private-pool",
+          "name": "Jamun 2BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-jaipur/jamun-2bhk-villa-with-private-pool"
+        },
+        {
+          "id": 317,
+          "slug": "lush-haven-chic-4-bhk-retreat-with-private-pool",
+          "name": "Lush Haven Chic 4 BHK Retreat with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-jaipur/lush-haven-chic-4-bhk-retreat-with-private-pool"
+        },
+        {
+          "id": 318,
+          "slug": "nirvana-farms-5bhk-farmhouse-with-private-pool",
+          "name": "Nirvana Farms 5BHK Farmhouse with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-jaipur/nirvana-farms-5bhk-farmhouse-with-private-pool"
+        },
+        {
+          "id": 319,
+          "slug": "the-kanota-retreat-4bhk-villa-with-private-pool",
+          "name": "The Kanota Retreat 4BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-jaipur/the-kanota-retreat-4bhk-villa-with-private-pool"
+        },
+        {
+          "id": 320,
+          "slug": "fiorita-3bhk-villa-with-private-pool",
+          "name": "Fiorita 3BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-jaipur/fiorita-3bhk-villa-with-private-pool"
+        },
+        {
+          "id": 321,
+          "slug": "autum-villa-pet-friendly-4-bhk-villa-with-private-pool",
+          "name": "Autum Villa Pet Friendly 4 BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-jaipur/autum-villa-pet-friendly-4-bhk-villa-with-private-pool"
+        },
+        {
+          "id": 322,
+          "slug": "fable-farm-4-bhk-villa-with-private-pool",
+          "name": "Fable Farm 4 BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-jaipur/fable-farm-4-bhk-villa-with-private-pool"
+        },
+        {
+          "id": 323,
+          "slug": "gold-palm-granola-elegant-room-with-shared-pool",
+          "name": "Gold Palm Granola Elegant Room with Shared Pool",
+          "url": "https://www.elivaas.com/villa-in-jaipur/gold-palm-granola-elegant-room-with-shared-pool"
+        },
+        {
+          "id": 324,
+          "slug": "gold-palm-ivory-sophisticated-room-with-shared-pool",
+          "name": "Gold Palm Ivory Sophisticated Room with Shared Pool",
+          "url": "https://www.elivaas.com/villa-in-jaipur/gold-palm-ivory-sophisticated-room-with-shared-pool"
+        },
+        {
+          "id": 325,
+          "slug": "gold-palm-macaroon-family-suite-with-shared-pool",
+          "name": "Gold Palm Macaroon Family Suite with Shared Pool",
+          "url": "https://www.elivaas.com/villa-in-jaipur/gold-palm-macaroon-family-suite-with-shared-pool"
+        },
+        {
+          "id": 326,
+          "slug": "haven-villa-3-bhk-villa-with-pool",
+          "name": "Haven Villa 3 BHK Villa with Pool",
+          "url": "https://www.elivaas.com/villa-in-jaipur/haven-villa-3-bhk-villa-with-pool"
+        },
+        {
+          "id": 327,
+          "slug": "jsp-farm-4bhk-farmstay-with-private-pool",
+          "name": "Jsp Farm 4BHK Farmstay with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-jaipur/jsp-farm-4bhk-farmstay-with-private-pool"
+        },
+        {
+          "id": 328,
+          "slug": "kuber-vatika-6-bhk-pet-friendly-villa-with-private-pool",
+          "name": "Kuber Vatika 6 BHK Pet Friendly Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-jaipur/kuber-vatika-6-bhk-pet-friendly-villa-with-private-pool"
+        },
+        {
+          "id": 329,
+          "slug": "lamp-house-3-bhk-villa",
+          "name": "Lamp House 3 BHK Villa",
+          "url": "https://www.elivaas.com/villa-in-jaipur/lamp-house-3-bhk-villa"
+        },
+        {
+          "id": 330,
+          "slug": "ramalaya-8bhk-villa-in-jaipur",
+          "name": "Ramalaya 8BHK Villa in Jaipur",
+          "url": "https://www.elivaas.com/villa-in-jaipur/ramalaya-8bhk-villa-in-jaipur"
+        },
+        {
+          "id": 331,
+          "slug": "ramalaya-4bhk-villa-with-kitchen-in-jaipur",
+          "name": "Ramalaya 4BHK Villa with Kitchen in Jaipur",
+          "url": "https://www.elivaas.com/villa-in-jaipur/ramalaya-4bhk-villa-with-kitchen-in-jaipur"
+        },
+        {
+          "id": 332,
+          "slug": "ramalaya-one-room-in-jaipur",
+          "name": "Ramalaya One Room in Jaipur",
+          "url": "https://www.elivaas.com/villa-in-jaipur/ramalaya-one-room-in-jaipur"
+        },
+        {
+          "id": 333,
+          "slug": "ramgarh-wild-retreat-2bhk-villa-with-private-pool-in-jaipur",
+          "name": "Ramgarh Wild Retreat 2BHK Villa with Private Pool in Jaipur",
+          "url": "https://www.elivaas.com/villa-in-jaipur/ramgarh-wild-retreat-2bhk-villa-with-private-pool-in-jaipur"
+        },
+        {
+          "id": 334,
+          "slug": "aura-sky-urban-3-bhk-apartment-with-hill-view",
+          "name": "Aura Sky Urban 3 BHK Apartment with Hill View",
+          "url": "https://www.elivaas.com/villa-in-jaipur/aura-sky-urban-3-bhk-apartment-with-hill-view"
+        },
+        {
+          "id": 335,
+          "slug": "bargoti-villa-5-bhk-villa-with-private-swimming-pool",
+          "name": "Bargoti Villa 5 BHK Villa with Private Swimming Pool",
+          "url": "https://www.elivaas.com/villa-in-jaipur/bargoti-villa-5-bhk-villa-with-private-swimming-pool"
+        },
+        {
+          "id": 336,
+          "slug": "cabana-3-bhk-villa-with-private-pool",
+          "name": "Cabana 3 BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-jaipur/cabana-3-bhk-villa-with-private-pool"
+        },
+        {
+          "id": 337,
+          "slug": "hathnoda-bagh-calista-mini-resort-with-bathtub",
+          "name": "Hathnoda Bagh Calista Mini Resort with Bathtub",
+          "url": "https://www.elivaas.com/villa-in-jaipur/hathnoda-bagh-calista-mini-resort-with-bathtub"
+        },
+        {
+          "id": 338,
+          "slug": "laurels-villa-3-bhk-with-private-pool",
+          "name": "Laurels Villa 3 BHK with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-jaipur/laurels-villa-3-bhk-with-private-pool"
+        },
+        {
+          "id": 339,
+          "slug": "skylark-estate-5-bhk-forest-view-villa-with-private-pool",
+          "name": "Skylark Estate 5 BHK Forest View Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-jaipur/skylark-estate-5-bhk-forest-view-villa-with-private-pool"
+        },
+        {
+          "id": 340,
+          "slug": "vijaypura-bagh-heritage-style-6-bhk-retreat-with-private-swimming-pool",
+          "name": "Vijaypura Bagh Heritage Style 6 BHK Retreat with Private Swimming Pool",
+          "url": "https://www.elivaas.com/villa-in-jaipur/vijaypura-bagh-heritage-style-6-bhk-retreat-with-private-swimming-pool"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "slug": "jim-corbett",
+      "name": "Jim Corbett",
+      "villa_count": 13,
+      "villas": [
+        {
+          "id": 341,
+          "slug": "aranya-library-aria-3-bhk-villa-with-kids-room-private-pool",
+          "name": "Aranya Library Aria 3 BHK Villa with Kids Room Private Pool",
+          "url": "https://www.elivaas.com/villa-in-jim-corbett/aranya-library-aria-3-bhk-villa-with-kids-room-private-pool"
+        },
+        {
+          "id": 342,
+          "slug": "aranya-library-maison-6-bhk-villa-with-private-pool",
+          "name": "Aranya Library Maison 6 BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-jim-corbett/aranya-library-maison-6-bhk-villa-with-private-pool"
+        },
+        {
+          "id": 343,
+          "slug": "aranya-library-zuri-3-bhk-villa-with-private-pool",
+          "name": "Aranya Library Zuri 3 BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-jim-corbett/aranya-library-zuri-3-bhk-villa-with-private-pool"
+        },
+        {
+          "id": 344,
+          "slug": "puvalgarh-farms-thistle-cottage-style-suite-with-shared-pool",
+          "name": "Puvalgarh Farms Thistle Cottage Style Suite with Shared Pool",
+          "url": "https://www.elivaas.com/villa-in-jim-corbett/puvalgarh-farms-thistle-cottage-style-suite-with-shared-pool"
+        },
+        {
+          "id": 345,
+          "slug": "puvalgarh-farms-4-bhk-villa",
+          "name": "Puvalgarh Farms 4 BHK Villa",
+          "url": "https://www.elivaas.com/villa-in-jim-corbett/puvalgarh-farms-4-bhk-villa"
+        },
+        {
+          "id": 346,
+          "slug": "sylvaara-private-pool-cottage-with-restaurant",
+          "name": "Sylvaara Private Pool Cottage with Restaurant",
+          "url": "https://www.elivaas.com/villa-in-jim-corbett/sylvaara-private-pool-cottage-with-restaurant"
+        },
+        {
+          "id": 347,
+          "slug": "sylvaara-standard-room-with-restaurant",
+          "name": "Sylvaara Standard Room with Restaurant",
+          "url": "https://www.elivaas.com/villa-in-jim-corbett/sylvaara-standard-room-with-restaurant"
+        },
+        {
+          "id": 348,
+          "slug": "sylvaara-suite-room-with-restaurant",
+          "name": "Sylvaara Suite Room with Restaurant",
+          "url": "https://www.elivaas.com/villa-in-jim-corbett/sylvaara-suite-room-with-restaurant"
+        },
+        {
+          "id": 349,
+          "slug": "dhela-jungle-retreat-cobblestone-duplex-2-bhk-with-pool",
+          "name": "Dhela Jungle Retreat Cobblestone Duplex 2 BHK with Pool",
+          "url": "https://www.elivaas.com/villa-in-jim-corbett/dhela-jungle-retreat-cobblestone-duplex-2-bhk-with-pool"
+        },
+        {
+          "id": 350,
+          "slug": "dhela-jungle-pet-friendly",
+          "name": "Dhela Jungle Pet Friendly",
+          "url": "https://www.elivaas.com/villa-in-jim-corbett/dhela-jungle-pet-friendly"
+        },
+        {
+          "id": 351,
+          "slug": "dhela-jungle-retreat-pet-friendly-2-bhk-resort-with-pool",
+          "name": "Dhela Jungle Retreat Pet Friendly 2 BHK Resort with Pool",
+          "url": "https://www.elivaas.com/villa-in-jim-corbett/dhela-jungle-retreat-pet-friendly-2-bhk-resort-with-pool"
+        },
+        {
+          "id": 352,
+          "slug": "farm-naturelle-3bhk-farmhouse-in-jim-corbett",
+          "name": "Farm Naturelle 3BHK Farmhouse in Jim Corbett",
+          "url": "https://www.elivaas.com/villa-in-jim-corbett/farm-naturelle-3bhk-farmhouse-in-jim-corbett"
+        },
+        {
+          "id": 353,
+          "slug": "mannat-villa-4-bhk-english-style-forest-view-villa-with-covered-deck",
+          "name": "Mannat Villa 4 BHK English Style Forest View Villa with Covered Deck",
+          "url": "https://www.elivaas.com/villa-in-jim-corbett/mannat-villa-4-bhk-english-style-forest-view-villa-with-covered-deck"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "slug": "karjat",
+      "name": "Karjat",
+      "villa_count": 6,
+      "villas": [
+        {
+          "id": 354,
+          "slug": "aaraa-villa-4-bhk-luxury-villa-with-private-pool",
+          "name": "Aaraa Villa 4 BHK Luxury Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-karjat/aaraa-villa-4-bhk-luxury-villa-with-private-pool"
+        },
+        {
+          "id": 355,
+          "slug": "heavenly-homes-villa-2-bhk-villa-with-private-pool",
+          "name": "Heavenly Homes Villa 2 BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-karjat/heavenly-homes-villa-2-bhk-villa-with-private-pool"
+        },
+        {
+          "id": 356,
+          "slug": "lavender-crest-4-bhk-with-private-pool",
+          "name": "Lavender Crest 4 BHK with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-karjat/lavender-crest-4-bhk-with-private-pool"
+        },
+        {
+          "id": 357,
+          "slug": "ansh-villa-4-bhk-private-pool-retreat",
+          "name": "Ansh Villa 4 BHK Private Pool Retreat",
+          "url": "https://www.elivaas.com/villa-in-karjat/ansh-villa-4-bhk-private-pool-retreat"
+        },
+        {
+          "id": 358,
+          "slug": "soulskape-villa-4-bhk-villa-with-pool",
+          "name": "Soulskape Villa 4 BHK Villa with Pool",
+          "url": "https://www.elivaas.com/villa-in-karjat/soulskape-villa-4-bhk-villa-with-pool"
+        },
+        {
+          "id": 359,
+          "slug": "sreelakam-villa-4-bhk-hillside-hideaway-with-pool",
+          "name": "Sreelakam Villa 4 BHK Hillside Hideaway with Pool",
+          "url": "https://www.elivaas.com/villa-in-karjat/sreelakam-villa-4-bhk-hillside-hideaway-with-pool"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "slug": "kasauli",
+      "name": "Kasauli",
+      "villa_count": 52,
+      "villas": [
+        {
+          "id": 360,
+          "slug": "cliff-side-3bhk-villa",
+          "name": "Cliff Side 3BHK Villa",
+          "url": "https://www.elivaas.com/villa-in-kasauli/cliff-side-3bhk-villa"
+        },
+        {
+          "id": 361,
+          "slug": "royce-4bhk-cottage",
+          "name": "Royce 4BHK Cottage",
+          "url": "https://www.elivaas.com/villa-in-kasauli/royce-4bhk-cottage"
+        },
+        {
+          "id": 362,
+          "slug": "the-retreat-villa-4-bhk-hillside-retreat-with-indoor-pool",
+          "name": "The Retreat Villa 4 BHK Hillside Retreat with Indoor Pool",
+          "url": "https://www.elivaas.com/villa-in-kasauli/the-retreat-villa-4-bhk-hillside-retreat-with-indoor-pool"
+        },
+        {
+          "id": 363,
+          "slug": "royce-4bhk-villa-with-private-pool",
+          "name": "Royce 4BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-kasauli/royce-4bhk-villa-with-private-pool"
+        },
+        {
+          "id": 364,
+          "slug": "the-royce-lily-4-bhk",
+          "name": "The Royce Lily 4 BHK",
+          "url": "https://www.elivaas.com/villa-in-kasauli/the-royce-lily-4-bhk"
+        },
+        {
+          "id": 365,
+          "slug": "royce-orchid-4bk-villa-private-pool",
+          "name": "Royce Orchid 4BHK Villa Private Pool",
+          "url": "https://www.elivaas.com/villa-in-kasauli/royce-orchid-4bk-villa-private-pool"
+        },
+        {
+          "id": 366,
+          "slug": "the-royce-rose-4bhk-villa-with-private-pool",
+          "name": "The Royce Rose 4BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-kasauli/the-royce-rose-4bhk-villa-with-private-pool"
+        },
+        {
+          "id": 367,
+          "slug": "royce-silver-oak-pet-friendly-4-bhk-apartment-with-pool",
+          "name": "Royce Silver Oak Pet Friendly 4 BHK Apartment with Pool",
+          "url": "https://www.elivaas.com/villa-in-kasauli/royce-silver-oak-pet-friendly-4-bhk-apartment-with-pool"
+        },
+        {
+          "id": 368,
+          "slug": "royce-silver-oak-opal-pet-friendly-2-bhk-apartment-with-pool",
+          "name": "Royce Silver Oak Opal Pet Friendly 2 BHK Apartment with Pool",
+          "url": "https://www.elivaas.com/villa-in-kasauli/royce-silver-oak-opal-pet-friendly-2-bhk-apartment-with-pool"
+        },
+        {
+          "id": 369,
+          "slug": "aaram-bagh-pet-friendly-4-bhk-escape",
+          "name": "Aaram Bagh Pet Friendly 4 BHK Escape",
+          "url": "https://www.elivaas.com/villa-in-kasauli/aaram-bagh-pet-friendly-4-bhk-escape"
+        },
+        {
+          "id": 370,
+          "slug": "aashiyana-secret-escape-pet-friendly-2-bhk-retreat-with-patio",
+          "name": "Aashiyana Secret Escape Pet Friendly 2 BHK Retreat with Patio",
+          "url": "https://www.elivaas.com/villa-in-kasauli/aashiyana-secret-escape-pet-friendly-2-bhk-retreat-with-patio"
+        },
+        {
+          "id": 371,
+          "slug": "alpenglow-luxury-4bhk-villa",
+          "name": "Alpenglow Luxury 4BHK Villa",
+          "url": "https://www.elivaas.com/villa-in-kasauli/alpenglow-luxury-4bhk-villa"
+        },
+        {
+          "id": 372,
+          "slug": "bask-and-blessings-highlands-pet-friendly-7-bhk-retreat",
+          "name": "Bask and Blessings Highlands Pet Friendly 7 BHK Retreat",
+          "url": "https://www.elivaas.com/villa-in-kasauli/bask-and-blessings-highlands-pet-friendly-7-bhk-retreat"
+        },
+        {
+          "id": 373,
+          "slug": "bask-and-blessings-meadows-3-bhk-pet-friendly-villa-with-jacuzzi",
+          "name": "Bask and Blessings Meadows 3 BHK Pet Friendly Villa with Jacuzzi",
+          "url": "https://www.elivaas.com/villa-in-kasauli/bask-and-blessings-meadows-3-bhk-pet-friendly-villa-with-jacuzzi"
+        },
+        {
+          "id": 374,
+          "slug": "bask-and-blessings-mist-pet-friendly-suite-with-jacuzzi",
+          "name": "Bask and Blessings Mist Pet Friendly Suite with Jacuzzi",
+          "url": "https://www.elivaas.com/villa-in-kasauli/bask-and-blessings-mist-pet-friendly-suite-with-jacuzzi"
+        },
+        {
+          "id": 375,
+          "slug": "beyond-the-curb-3-bhk-villa-with-private-jacuzzi",
+          "name": "Beyond the Curb 3 BHK Villa with Private Jacuzzi",
+          "url": "https://www.elivaas.com/villa-in-kasauli/beyond-the-curb-3-bhk-villa-with-private-jacuzzi"
+        },
+        {
+          "id": 376,
+          "slug": "dilli-3bhk-villa-private-pool",
+          "name": "Dilli 3BHK Villa Private Pool",
+          "url": "https://www.elivaas.com/villa-in-kasauli/dilli-3bhk-villa-private-pool"
+        },
+        {
+          "id": 377,
+          "slug": "fleur-de-lis-luxury-4bhk-villa",
+          "name": "Fleur De Lis Luxury 4BHK Villa",
+          "url": "https://www.elivaas.com/villa-in-kasauli/fleur-de-lis-luxury-4bhk-villa"
+        },
+        {
+          "id": 378,
+          "slug": "goldencrest-6bhk-villa",
+          "name": "Goldencrest 6BHK Villa",
+          "url": "https://www.elivaas.com/villa-in-kasauli/goldencrest-6bhk-villa"
+        },
+        {
+          "id": 379,
+          "slug": "ivory-ridge-9bhk-villa",
+          "name": "Ivory Ridge 9BHK Villa",
+          "url": "https://www.elivaas.com/villa-in-kasauli/ivory-ridge-9bhk-villa"
+        },
+        {
+          "id": 380,
+          "slug": "kavya-villa-4-bhk-pet-friendly-villa-with-lounge",
+          "name": "Kavya Villa 4 BHK Pet Friendly Villa with Lounge",
+          "url": "https://www.elivaas.com/villa-in-kasauli/kavya-villa-4-bhk-pet-friendly-villa-with-lounge"
+        },
+        {
+          "id": 381,
+          "slug": "konifer-greyvine-9bhk-villa",
+          "name": "Konifer Greyvine 9BHK Villa",
+          "url": "https://www.elivaas.com/villa-in-kasauli/konifer-greyvine-9bhk-villa"
+        },
+        {
+          "id": 382,
+          "slug": "konifer-pinegrove-3bhk-villa",
+          "name": "Konifer Pinegrove 3BHK Villa",
+          "url": "https://www.elivaas.com/villa-in-kasauli/konifer-pinegrove-3bhk-villa"
+        },
+        {
+          "id": 383,
+          "slug": "konifer-rosewood-one-room",
+          "name": "Konifer Rosewood One Room",
+          "url": "https://www.elivaas.com/villa-in-kasauli/konifer-rosewood-one-room"
+        },
+        {
+          "id": 384,
+          "slug": "konifer-wildfern-2bhk-villa",
+          "name": "Konifer Wildfern 2BHK Villa",
+          "url": "https://www.elivaas.com/villa-in-kasauli/konifer-wildfern-2bhk-villa"
+        },
+        {
+          "id": 385,
+          "slug": "kosh-villa-glenhaven-3-bhk-villa-with-private-balcnoies",
+          "name": "Kosh Villa Glenhaven 3 BHK Villa with Private Balcnoies",
+          "url": "https://www.elivaas.com/villa-in-kasauli/kosh-villa-glenhaven-3-bhk-villa-with-private-balcnoies"
+        },
+        {
+          "id": 386,
+          "slug": "kosh-villa-pinevale-2-bhk-with-pool-table",
+          "name": "Kosh Villa Pinevale 2 BHK with Pool Table",
+          "url": "https://www.elivaas.com/villa-in-kasauli/kosh-villa-pinevale-2-bhk-with-pool-table"
+        },
+        {
+          "id": 387,
+          "slug": "kosh-5-bhk-villa",
+          "name": "Kosh 5 BHK Villa",
+          "url": "https://www.elivaas.com/villa-in-kasauli/kosh-5-bhk-villa"
+        },
+        {
+          "id": 388,
+          "slug": "swaran-secret-escape-luxury-pet-friendly-room-with-private-balcony",
+          "name": "Swaran Secret Escape Luxury Pet Friendly Room with Private Balcony",
+          "url": "https://www.elivaas.com/villa-in-kasauli/swaran-secret-escape-luxury-pet-friendly-room-with-private-balcony"
+        },
+        {
+          "id": 389,
+          "slug": "panchvati-veloraa-pet-friendly-3-bhk-apartment",
+          "name": "Panchvati Veloraa Pet Friendly 3 BHK Apartment",
+          "url": "https://www.elivaas.com/villa-in-kasauli/panchvati-veloraa-pet-friendly-3-bhk-apartment"
+        },
+        {
+          "id": 390,
+          "slug": "panchvati-veloraa-spacious-pet-friendly-6-bhk-apartment",
+          "name": "Panchvati Veloraa Spacious Pet Friendly 6 BHK Apartment",
+          "url": "https://www.elivaas.com/villa-in-kasauli/panchvati-veloraa-spacious-pet-friendly-6-bhk-apartment"
+        },
+        {
+          "id": 391,
+          "slug": "pine-view-resort-1-suite",
+          "name": "Pine View Resort 1 Suite",
+          "url": "https://www.elivaas.com/villa-in-kasauli/pine-view-resort-1-suite"
+        },
+        {
+          "id": 392,
+          "slug": "pinehill-manor-6bhk-villa",
+          "name": "Pinehill Manor 6BHK Villa",
+          "url": "https://www.elivaas.com/villa-in-kasauli/pinehill-manor-6bhk-villa"
+        },
+        {
+          "id": 393,
+          "slug": "stars-and-windsong-terrace-suite-with-pool",
+          "name": "Stars and Windsong Terrace Suite with Pool",
+          "url": "https://www.elivaas.com/villa-in-kasauli/stars-and-windsong-terrace-suite-with-pool"
+        },
+        {
+          "id": 394,
+          "slug": "stars-and-windsongs-suite-with-shared-pool",
+          "name": "Stars and Windsongs Suite with Shared Pool",
+          "url": "https://www.elivaas.com/villa-in-kasauli/stars-and-windsongs-suite-with-shared-pool"
+        },
+        {
+          "id": 395,
+          "slug": "swaran-secret-escape-pet-friendly-2-bhk-apartment-with-valley-view",
+          "name": "Swaran Secret Escape Pet Friendly 2 BHK Apartment with Valley View",
+          "url": "https://www.elivaas.com/villa-in-kasauli/swaran-secret-escape-pet-friendly-2-bhk-apartment-with-valley-view"
+        },
+        {
+          "id": 396,
+          "slug": "golden-meadow-3bhk-villa",
+          "name": "Golden Meadow 3BHK Villa",
+          "url": "https://www.elivaas.com/villa-in-kasauli/golden-meadow-3bhk-villa"
+        },
+        {
+          "id": 397,
+          "slug": "archee-6bhk-villa-in-kasauli",
+          "name": "Archee 6BHK Villa in Kasauli",
+          "url": "https://www.elivaas.com/villa-in-kasauli/archee-6bhk-villa-in-kasauli"
+        },
+        {
+          "id": 398,
+          "slug": "captain-nest-3bhk-cottage-in-kasauli",
+          "name": "Captain Nest 3BHK Cottage in Kasauli",
+          "url": "https://www.elivaas.com/villa-in-kasauli/captain-nest-3bhk-cottage-in-kasauli"
+        },
+        {
+          "id": 399,
+          "slug": "chalet-vie-4bhk-villa-in-kasauli",
+          "name": "Chalet Vie 4BHK Villa in Kasauli",
+          "url": "https://www.elivaas.com/villa-in-kasauli/chalet-vie-4bhk-villa-in-kasauli"
+        },
+        {
+          "id": 400,
+          "slug": "cloudcatcher-4bhk-villa",
+          "name": "Cloudcatcher 4BHK Villa",
+          "url": "https://www.elivaas.com/villa-in-kasauli/cloudcatcher-4bhk-villa"
+        },
+        {
+          "id": 401,
+          "slug": "dilli-villa-suite",
+          "name": "Dilli Villa Suite",
+          "url": "https://www.elivaas.com/villa-in-kasauli/dilli-villa-suite"
+        },
+        {
+          "id": 402,
+          "slug": "woods-cottage-3bhk-villa-in-kasauli",
+          "name": "Woods Cottage 3BHK Villa in Kasauli",
+          "url": "https://www.elivaas.com/villa-in-kasauli/woods-cottage-3bhk-villa-in-kasauli"
+        },
+        {
+          "id": 403,
+          "slug": "live-life-cottage-2bhk-apartment-in-kasauli",
+          "name": "Live Life Cottage 2BHK Apartment in Kasauli",
+          "url": "https://www.elivaas.com/villa-in-kasauli/live-life-cottage-2bhk-apartment-in-kasauli"
+        },
+        {
+          "id": 404,
+          "slug": "mehar-3bhk-villa-in-kasauli",
+          "name": "Mehar 3BHK Villa in Kasauli",
+          "url": "https://www.elivaas.com/villa-in-kasauli/mehar-3bhk-villa-in-kasauli"
+        },
+        {
+          "id": 405,
+          "slug": "mist-manor-cedar-pet-friendly-3-bhk-apartment",
+          "name": "Mist Manor Cedar Pet Friendly 3 BHK Apartment",
+          "url": "https://www.elivaas.com/villa-in-kasauli/mist-manor-cedar-pet-friendly-3-bhk-apartment"
+        },
+        {
+          "id": 406,
+          "slug": "mist-and-manor-maple-pet-friendly-6-bhk-apartment",
+          "name": "Mist and Manor Maple Pet Friendly 6 BHK Apartment",
+          "url": "https://www.elivaas.com/villa-in-kasauli/mist-and-manor-maple-pet-friendly-6-bhk-apartment"
+        },
+        {
+          "id": 407,
+          "slug": "pine-view-3bhk-cottage-in-kasauli",
+          "name": "Pine View 3BHK Cottage in Kasauli",
+          "url": "https://www.elivaas.com/villa-in-kasauli/pine-view-3bhk-cottage-in-kasauli"
+        },
+        {
+          "id": 408,
+          "slug": "querencia-5bhk-villa-in-kasauli",
+          "name": "Querencia 5BHK Villa in Kasauli",
+          "url": "https://www.elivaas.com/villa-in-kasauli/querencia-5bhk-villa-in-kasauli"
+        },
+        {
+          "id": 409,
+          "slug": "serene-woods-one-room-with-balcony-in-kasauli",
+          "name": "Serene Woods One Room with Balcony in Kasauli",
+          "url": "https://www.elivaas.com/villa-in-kasauli/serene-woods-one-room-with-balcony-in-kasauli"
+        },
+        {
+          "id": 410,
+          "slug": "woodbine-chalet-1bedroom-cottage-in-shimla",
+          "name": "Woodbine Chalet 1bedroom Cottage in Shimla",
+          "url": "https://www.elivaas.com/villa-in-kasauli/woodbine-chalet-1bedroom-cottage-in-shimla"
+        },
+        {
+          "id": 411,
+          "slug": "woodcrest-chalet-1bedroom-cottage-in-shimla",
+          "name": "Woodcrest Chalet 1bedroom Cottage in Shimla",
+          "url": "https://www.elivaas.com/villa-in-kasauli/woodcrest-chalet-1bedroom-cottage-in-shimla"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "slug": "kochi",
+      "name": "Kochi",
+      "villa_count": 6,
+      "villas": [
+        {
+          "id": 412,
+          "slug": "nedumbally-4-bhk",
+          "name": "Nedumbally 4 BHK",
+          "url": "https://www.elivaas.com/villa-in-kochi/nedumbally-4-bhk"
+        },
+        {
+          "id": 413,
+          "slug": "tales-by-tamarind-3-bhk",
+          "name": "Tales by Tamarind 3 BHK",
+          "url": "https://www.elivaas.com/villa-in-kochi/tales-by-tamarind-3-bhk"
+        },
+        {
+          "id": 414,
+          "slug": "valiyaveetil-mansion-5-bhk-villa-with-private-pool",
+          "name": "Valiyaveetil Mansion 5 BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-kochi/valiyaveetil-mansion-5-bhk-villa-with-private-pool"
+        },
+        {
+          "id": 415,
+          "slug": "vintage-retreat-5-bhk-riverfront-heritage-villa",
+          "name": "Vintage Retreat 5 BHK Riverfront Heritage Villa",
+          "url": "https://www.elivaas.com/villa-in-kochi/vintage-retreat-5-bhk-riverfront-heritage-villa"
+        },
+        {
+          "id": 416,
+          "slug": "mangaly-heritage-3bhk-heritage-villa",
+          "name": "Mangaly Heritage 3BHK Heritage Villa",
+          "url": "https://www.elivaas.com/villa-in-kochi/mangaly-heritage-3bhk-heritage-villa"
+        },
+        {
+          "id": 417,
+          "slug": "pochans-zen-3-bhk-heritage-home-with-banquet",
+          "name": "Pochans Zen 3 BHK Heritage Home with Banquet",
+          "url": "https://www.elivaas.com/villa-in-kochi/pochans-zen-3-bhk-heritage-home-with-banquet"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "slug": "kolad",
+      "name": "Kolad",
+      "villa_count": 5,
+      "villas": [
+        {
+          "id": 418,
+          "slug": "junglebrooke-interconnected-pet-friendly-master-room-with-pool",
+          "name": "Junglebrooke Interconnected Pet Friendly Master Room with Pool",
+          "url": "https://www.elivaas.com/villa-in-kolad/junglebrooke-interconnected-pet-friendly-master-room-with-pool"
+        },
+        {
+          "id": 419,
+          "slug": "junglebrooke-premium-suite-room-pet-friendly-cottage",
+          "name": "Junglebrooke Premium Suite Room Pet Friendly Cottage",
+          "url": "https://www.elivaas.com/villa-in-kolad/junglebrooke-premium-suite-room-pet-friendly-cottage"
+        },
+        {
+          "id": 420,
+          "slug": "junglebrooke-standard-pet-friendly-master-room-with-pool",
+          "name": "Junglebrooke Standard Pet Friendly Master Room with Pool",
+          "url": "https://www.elivaas.com/villa-in-kolad/junglebrooke-standard-pet-friendly-master-room-with-pool"
+        },
+        {
+          "id": 421,
+          "slug": "junglebrooke-suite-suite-room-pet-friendly-cottage-estate-with-bathtub",
+          "name": "Junglebrooke Suite Suite Room Pet Friendly Cottage Estate with Bathtub",
+          "url": "https://www.elivaas.com/villa-in-kolad/junglebrooke-suite-suite-room-pet-friendly-cottage-estate-with-bathtub"
+        },
+        {
+          "id": 422,
+          "slug": "junglebrooke-8-room-pet-friendly-cottage-estate-with-swimming-pool",
+          "name": "Junglebrooke 8 Room Pet Friendly Cottage Estate with Swimming Pool",
+          "url": "https://www.elivaas.com/villa-in-kolad/junglebrooke-8-room-pet-friendly-cottage-estate-with-swimming-pool"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "slug": "lonavala",
+      "name": "Lonavala",
+      "villa_count": 21,
+      "villas": [
+        {
+          "id": 423,
+          "slug": "villa-39-6bhk-villa-with-private-pool",
+          "name": "Villa 39 6BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-lonavala/villa-39-6bhk-villa-with-private-pool"
+        },
+        {
+          "id": 424,
+          "slug": "aamy-3bhk-villa-with-private-pool",
+          "name": "Aamy 3BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-lonavala/aamy-3bhk-villa-with-private-pool"
+        },
+        {
+          "id": 425,
+          "slug": "eulophia-luxurious-3-bhk-retreat-with-private-pool",
+          "name": "Eulophia Luxurious 3 BHK Retreat with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-lonavala/eulophia-luxurious-3-bhk-retreat-with-private-pool"
+        },
+        {
+          "id": 426,
+          "slug": "meraki-4-bhk-villa-with-private-pool",
+          "name": "Meraki 4 BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-lonavala/meraki-4-bhk-villa-with-private-pool"
+        },
+        {
+          "id": 427,
+          "slug": "nimishka-5bhk-villa-with-private-pool",
+          "name": "Nimishka 5BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-lonavala/nimishka-5bhk-villa-with-private-pool"
+        },
+        {
+          "id": 428,
+          "slug": "rk-villa-4-bhk-hideaway-with-private-pool",
+          "name": "RK Villa 4 BHK Hideaway with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-lonavala/rk-villa-4-bhk-hideaway-with-private-pool"
+        },
+        {
+          "id": 429,
+          "slug": "sakura-villa-japanese-themed-4-bhk-villa-with-pool",
+          "name": "Sakura Villa Japanese Themed 4 BHK Villa with Pool",
+          "url": "https://www.elivaas.com/villa-in-lonavala/sakura-villa-japanese-themed-4-bhk-villa-with-pool"
+        },
+        {
+          "id": 430,
+          "slug": "sk-villa-4-bhk-retreat-with-private-pool",
+          "name": "SK Villa 4 BHK Retreat with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-lonavala/sk-villa-4-bhk-retreat-with-private-pool"
+        },
+        {
+          "id": 431,
+          "slug": "adarsh-3bhk-villa-with-private-pool",
+          "name": "Adarsh 3BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-lonavala/adarsh-3bhk-villa-with-private-pool"
+        },
+        {
+          "id": 432,
+          "slug": "adarsh-3bhk-villa-in-lonavala",
+          "name": "Adarsh 3BHK Villa in Lonavala",
+          "url": "https://www.elivaas.com/villa-in-lonavala/adarsh-3bhk-villa-in-lonavala"
+        },
+        {
+          "id": 433,
+          "slug": "imperial-calista-4bhk-villa-with-pool-in-lonavala",
+          "name": "Imperial Calista 4BHK Villa with Pool in Lonavala",
+          "url": "https://www.elivaas.com/villa-in-lonavala/imperial-calista-4bhk-villa-with-pool-in-lonavala"
+        },
+        {
+          "id": 434,
+          "slug": "imperial-mystara-5bhk-villa-with-pool-in-lonavala",
+          "name": "Imperial Mystara 5BHK Villa with Pool in Lonavala",
+          "url": "https://www.elivaas.com/villa-in-lonavala/imperial-mystara-5bhk-villa-with-pool-in-lonavala"
+        },
+        {
+          "id": 435,
+          "slug": "imperial-serenia-3bhk-villa-with-pool-in-lonavala",
+          "name": "Imperial Serenia 3BHK Villa with Pool in Lonavala",
+          "url": "https://www.elivaas.com/villa-in-lonavala/imperial-serenia-3bhk-villa-with-pool-in-lonavala"
+        },
+        {
+          "id": 436,
+          "slug": "lavender-hills-3bhk-villa-with-private-pool-in-lonavala",
+          "name": "Lavender Hills 3BHK Villa with Private Pool in Lonavala",
+          "url": "https://www.elivaas.com/villa-in-lonavala/lavender-hills-3bhk-villa-with-private-pool-in-lonavala"
+        },
+        {
+          "id": 437,
+          "slug": "moonstone-meadows-1-room-with-shared-pool",
+          "name": "Moonstone Meadows 1 Room with Shared Pool",
+          "url": "https://www.elivaas.com/villa-in-lonavala/moonstone-meadows-1-room-with-shared-pool"
+        },
+        {
+          "id": 438,
+          "slug": "ayur-kutir-9-bhk-retreat-with-private-pool",
+          "name": "Ayur Kutir 9 BHK Retreat with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-lonavala/ayur-kutir-9-bhk-retreat-with-private-pool"
+        },
+        {
+          "id": 439,
+          "slug": "nest-4bhk-villa-with-private-pool-in-lonavala",
+          "name": "Nest 4BHK Villa with Private Pool in Lonavala",
+          "url": "https://www.elivaas.com/villa-in-lonavala/nest-4bhk-villa-with-private-pool-in-lonavala"
+        },
+        {
+          "id": 440,
+          "slug": "rainmist-villa-4-bhk-pet-friendly-villa-with-private-pool",
+          "name": "Rainmist Villa 4 BHK Pet Friendly Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-lonavala/rainmist-villa-4-bhk-pet-friendly-villa-with-private-pool"
+        },
+        {
+          "id": 441,
+          "slug": "rosilia-3-bhk-with-pool",
+          "name": "Rosilia 3 BHK with Pool",
+          "url": "https://www.elivaas.com/villa-in-lonavala/rosilia-3-bhk-with-pool"
+        },
+        {
+          "id": 442,
+          "slug": "aster-villa-pet-friendly-4-bhk-retreat-with-private-swimming-pool",
+          "name": "Aster Villa Pet Friendly 4 BHK Retreat with Private Swimming Pool",
+          "url": "https://www.elivaas.com/villa-in-lonavala/aster-villa-pet-friendly-4-bhk-retreat-with-private-swimming-pool"
+        },
+        {
+          "id": 443,
+          "slug": "begonia-paradise-3-bhk-with-private-pool",
+          "name": "Begonia Paradise 3 BHK with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-lonavala/begonia-paradise-3-bhk-with-private-pool"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "slug": "mukteshwar",
+      "name": "Mukteshwar",
+      "villa_count": 7,
+      "villas": [
+        {
+          "id": 444,
+          "slug": "hill-homes-cottages-mallow-1-bhk-with-workstation-sit-out-area",
+          "name": "Hill Homes Cottages Mallow 1 BHK with Workstation Sit Out Area",
+          "url": "https://www.elivaas.com/villa-in-mukteshwar/hill-homes-cottages-mallow-1-bhk-with-workstation-sit-out-area"
+        },
+        {
+          "id": 445,
+          "slug": "hill-homes-cottages-mauve-1-room-suite-with-outdoor-sit-out-area",
+          "name": "Hill Homes Cottages Mauve 1 Room Suite with Outdoor Sit Out Area",
+          "url": "https://www.elivaas.com/villa-in-mukteshwar/hill-homes-cottages-mauve-1-room-suite-with-outdoor-sit-out-area"
+        },
+        {
+          "id": 446,
+          "slug": "hill-homes-cottages-mulberry-2-bhk-with-workstation-patios",
+          "name": "Hill Homes Cottages Mulberry 2 BHK with Workstation Patios",
+          "url": "https://www.elivaas.com/villa-in-mukteshwar/hill-homes-cottages-mulberry-2-bhk-with-workstation-patios"
+        },
+        {
+          "id": 447,
+          "slug": "trios-top-one-room-in-mukteshwar",
+          "name": "Trios Top One Room in Mukteshwar",
+          "url": "https://www.elivaas.com/villa-in-mukteshwar/trios-top-one-room-in-mukteshwar"
+        },
+        {
+          "id": 448,
+          "slug": "trios-top-1bhk-apartment-in-mukteshwar",
+          "name": "Trios Top 1BHK Apartment in Mukteshwar",
+          "url": "https://www.elivaas.com/villa-in-mukteshwar/trios-top-1bhk-apartment-in-mukteshwar"
+        },
+        {
+          "id": 449,
+          "slug": "trios-top-pet-friendly-2bhk-apartment-in-mukteshwar",
+          "name": "Trios Top Pet Friendly 2BHK Apartment in Mukteshwar",
+          "url": "https://www.elivaas.com/villa-in-mukteshwar/trios-top-pet-friendly-2bhk-apartment-in-mukteshwar"
+        },
+        {
+          "id": 450,
+          "slug": "trios-top-2bhk-apartment-in-mukteshwar",
+          "name": "Trios Top 2BHK Apartment in Mukteshwar",
+          "url": "https://www.elivaas.com/villa-in-mukteshwar/trios-top-2bhk-apartment-in-mukteshwar"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "slug": "munnar",
+      "name": "Munnar",
+      "villa_count": 2,
+      "villas": [
+        {
+          "id": 451,
+          "slug": "jai-hill-4-room-cottage-with-garden",
+          "name": "Jai Hill 4 Room Cottage with Garden",
+          "url": "https://www.elivaas.com/villa-in-munnar/jai-hill-4-room-cottage-with-garden"
+        },
+        {
+          "id": 452,
+          "slug": "kavyath-valley-4bhk-villa-with-pool",
+          "name": "Kavyath Valley 4BHK Villa with Pool",
+          "url": "https://www.elivaas.com/villa-in-munnar/kavyath-valley-4bhk-villa-with-pool"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "slug": "mussoorie",
+      "name": "Mussoorie",
+      "villa_count": 15,
+      "villas": [
+        {
+          "id": 453,
+          "slug": "zephyr-bliss-one-premium-room",
+          "name": "Zephyr Bliss One Premium Room",
+          "url": "https://www.elivaas.com/villa-in-mussoorie/zephyr-bliss-one-premium-room"
+        },
+        {
+          "id": 454,
+          "slug": "zephyr-classic-cottage-with-pool",
+          "name": "Zephyr Classic Cottage with Pool",
+          "url": "https://www.elivaas.com/villa-in-mussoorie/zephyr-classic-cottage-with-pool"
+        },
+        {
+          "id": 455,
+          "slug": "zephyr-classic-tent-with-pool",
+          "name": "Zephyr Classic Tent with Pool",
+          "url": "https://www.elivaas.com/villa-in-mussoorie/zephyr-classic-tent-with-pool"
+        },
+        {
+          "id": 456,
+          "slug": "zephyr-heaven-1-hillview-room-with-common-pool",
+          "name": "Zephyr Heaven 1 Hillview Room with Common Pool",
+          "url": "https://www.elivaas.com/villa-in-mussoorie/zephyr-heaven-1-hillview-room-with-common-pool"
+        },
+        {
+          "id": 457,
+          "slug": "zephyr-imperial-luxury-tent-with-pool",
+          "name": "Zephyr Imperial Luxury Tent with Pool",
+          "url": "https://www.elivaas.com/villa-in-mussoorie/zephyr-imperial-luxury-tent-with-pool"
+        },
+        {
+          "id": 458,
+          "slug": "zephyr-kumaon-cottage-with-pool",
+          "name": "Zephyr Kumaon Cottage with Pool",
+          "url": "https://www.elivaas.com/villa-in-mussoorie/zephyr-kumaon-cottage-with-pool"
+        },
+        {
+          "id": 459,
+          "slug": "zephyr-sierra-2bhk-villa-with-pool",
+          "name": "Zephyr Sierra 2BHK Villa with Pool",
+          "url": "https://www.elivaas.com/villa-in-mussoorie/zephyr-sierra-2bhk-villa-with-pool"
+        },
+        {
+          "id": 460,
+          "slug": "zephyr-stoneva-cottage-with-pool",
+          "name": "Zephyr Stoneva Cottage with Pool",
+          "url": "https://www.elivaas.com/villa-in-mussoorie/zephyr-stoneva-cottage-with-pool"
+        },
+        {
+          "id": 461,
+          "slug": "zephyr-timberhill-cottage-with-pool",
+          "name": "Zephyr Timberhill Cottage with Pool",
+          "url": "https://www.elivaas.com/villa-in-mussoorie/zephyr-timberhill-cottage-with-pool"
+        },
+        {
+          "id": 462,
+          "slug": "zephyr-utopia-one-premium-room",
+          "name": "Zephyr Utopia One Premium Room",
+          "url": "https://www.elivaas.com/villa-in-mussoorie/zephyr-utopia-one-premium-room"
+        },
+        {
+          "id": 463,
+          "slug": "evara-2bhk-villa-in-mussoorie",
+          "name": "Evara 2BHK Villa in Mussoorie",
+          "url": "https://www.elivaas.com/villa-in-mussoorie/evara-2bhk-villa-in-mussoorie"
+        },
+        {
+          "id": 464,
+          "slug": "evara-4bhk-villa",
+          "name": "Evara 4BHK Villa",
+          "url": "https://www.elivaas.com/villa-in-mussoorie/evara-4bhk-villa"
+        },
+        {
+          "id": 465,
+          "slug": "hilltop-villa-4bhk-villa-with-terrace-and-balconies",
+          "name": "Hilltop Villa 4BHK Villa with Terrace and Balconies",
+          "url": "https://www.elivaas.com/villa-in-mussoorie/hilltop-villa-4bhk-villa-with-terrace-and-balconies"
+        },
+        {
+          "id": 466,
+          "slug": "snowdrop-glamps-pet-friendly-dome-cottage-with-mountain-views",
+          "name": "Snowdrop Glamps Pet Friendly Dome Cottage with Mountain Views",
+          "url": "https://www.elivaas.com/villa-in-mussoorie/snowdrop-glamps-pet-friendly-dome-cottage-with-mountain-views"
+        },
+        {
+          "id": 467,
+          "slug": "snowdrop-3bhk-apartment",
+          "name": "Snowdrop 3BHK Apartment",
+          "url": "https://www.elivaas.com/villa-in-mussoorie/snowdrop-3bhk-apartment"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "slug": "nainital",
+      "name": "Nainital",
+      "villa_count": 15,
+      "villas": [
+        {
+          "id": 468,
+          "slug": "the-meadows-luxury-3bhk-villa",
+          "name": "The Meadows Luxury 3BHK Villa",
+          "url": "https://www.elivaas.com/villa-in-nainital/the-meadows-luxury-3bhk-villa"
+        },
+        {
+          "id": 469,
+          "slug": "twin-chalets-4bhk-villa",
+          "name": "Twin Chalets 4BHK Villa",
+          "url": "https://www.elivaas.com/villa-in-nainital/twin-chalets-4bhk-villa"
+        },
+        {
+          "id": 470,
+          "slug": "aether-1bhk-villa-in-nainital",
+          "name": "Aether 1BHK Villa in Nainital",
+          "url": "https://www.elivaas.com/villa-in-nainital/aether-1bhk-villa-in-nainital"
+        },
+        {
+          "id": 471,
+          "slug": "dawn-4bhk-villa-in-nainital",
+          "name": "Dawn 4BHK Villa in Nainital",
+          "url": "https://www.elivaas.com/villa-in-nainital/dawn-4bhk-villa-in-nainital"
+        },
+        {
+          "id": 472,
+          "slug": "dusk-4bhk-villa-in-nainital",
+          "name": "Dusk 4BHK Villa in Nainital",
+          "url": "https://www.elivaas.com/villa-in-nainital/dusk-4bhk-villa-in-nainital"
+        },
+        {
+          "id": 473,
+          "slug": "twilight-2bhk-villa-in-nainital",
+          "name": "Twilight 2BHK Villa in Nainital",
+          "url": "https://www.elivaas.com/villa-in-nainital/twilight-2bhk-villa-in-nainital"
+        },
+        {
+          "id": 474,
+          "slug": "farsauli-3bhk-cottage-in-bhowali",
+          "name": "Farsauli 3BHK Cottage in Bhowali",
+          "url": "https://www.elivaas.com/villa-in-nainital/farsauli-3bhk-cottage-in-bhowali"
+        },
+        {
+          "id": 475,
+          "slug": "headingly-suite-apartment-in-nainital",
+          "name": "Headingly Suite Apartment in Nainital",
+          "url": "https://www.elivaas.com/villa-in-nainital/headingly-suite-apartment-in-nainital"
+        },
+        {
+          "id": 476,
+          "slug": "karinya-villa-fennel-2-bhk-villa-in-talla-nainital",
+          "name": "Karinya Villa Fennel 2 BHK Villa in Talla Nainital",
+          "url": "https://www.elivaas.com/villa-in-nainital/karinya-villa-fennel-2-bhk-villa-in-talla-nainital"
+        },
+        {
+          "id": 477,
+          "slug": "karinya-villas-fern-1-bhk-villa-in-talla",
+          "name": "Karinya Villas Fern 1 BHK Villa in Talla",
+          "url": "https://www.elivaas.com/villa-in-nainital/karinya-villas-fern-1-bhk-villa-in-talla"
+        },
+        {
+          "id": 478,
+          "slug": "karinya-villas-frond-scenic-hill-view-3bhk-villa-with-gazebo",
+          "name": "Karinya Villas Frond Scenic Hill View 3BHK Villa with Gazebo",
+          "url": "https://www.elivaas.com/villa-in-nainital/karinya-villas-frond-scenic-hill-view-3bhk-villa-with-gazebo"
+        },
+        {
+          "id": 479,
+          "slug": "harmony-2bhk-villa-in-bhowali",
+          "name": "Harmony 2BHK Villa in Bhowali",
+          "url": "https://www.elivaas.com/villa-in-nainital/harmony-2bhk-villa-in-bhowali"
+        },
+        {
+          "id": 480,
+          "slug": "woodbury-mansion-3-bhk-villa-with-naini-valley-views",
+          "name": "Woodbury Mansion 3 BHK Villa with Naini Valley Views",
+          "url": "https://www.elivaas.com/villa-in-nainital/woodbury-mansion-3-bhk-villa-with-naini-valley-views"
+        },
+        {
+          "id": 481,
+          "slug": "key-shree-bhawan-2-bhk-apartment-with-balcony",
+          "name": "Key Shree Bhawan 2 BHK Apartment with Balcony",
+          "url": "https://www.elivaas.com/villa-in-nainital/key-shree-bhawan-2-bhk-apartment-with-balcony"
+        },
+        {
+          "id": 482,
+          "slug": "key-shree-bhawan-elegant-1-bhk-hill-home-with-balcony",
+          "name": "Key Shree Bhawan Elegant 1 BHK Hill Home with Balcony",
+          "url": "https://www.elivaas.com/villa-in-nainital/key-shree-bhawan-elegant-1-bhk-hill-home-with-balcony"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "slug": "nashik",
+      "name": "Nashik",
+      "villa_count": 13,
+      "villas": [
+        {
+          "id": 483,
+          "slug": "energise-soul-resort-aranya-angan-4bhk-villa",
+          "name": "Energise Soul Resort Aranya Angan 4BHK Villa",
+          "url": "https://www.elivaas.com/villa-in-nashik/energise-soul-resort-aranya-angan-4bhk-villa"
+        },
+        {
+          "id": 484,
+          "slug": "energise-soul-ajna-3bhk-villa-with-pool",
+          "name": "Energise Soul Ajna 3BHK Villa with Pool",
+          "url": "https://www.elivaas.com/villa-in-nashik/energise-soul-ajna-3bhk-villa-with-pool"
+        },
+        {
+          "id": 485,
+          "slug": "energise-soul-resort-anahata-aalaya-3bhk-villa",
+          "name": "Energise Soul Resort Anahata Aalaya 3BHK Villa",
+          "url": "https://www.elivaas.com/villa-in-nashik/energise-soul-resort-anahata-aalaya-3bhk-villa"
+        },
+        {
+          "id": 486,
+          "slug": "enrgise-soul-retreat-karuna-kutir-villa-2bhk",
+          "name": "Enrgise Soul Retreat Karuna Kutir Villa 2BHK",
+          "url": "https://www.elivaas.com/villa-in-nashik/enrgise-soul-retreat-karuna-kutir-villa-2bhk"
+        },
+        {
+          "id": 487,
+          "slug": "energise-soul-retreat-premium-room-1bhk-villa",
+          "name": "Energise Soul Retreat Premium Room 1BHK Villa",
+          "url": "https://www.elivaas.com/villa-in-nashik/energise-soul-retreat-premium-room-1bhk-villa"
+        },
+        {
+          "id": 488,
+          "slug": "energise-soul-retreat-standard-room",
+          "name": "Energise Soul Retreat Standard Room",
+          "url": "https://www.elivaas.com/villa-in-nashik/energise-soul-retreat-standard-room"
+        },
+        {
+          "id": 489,
+          "slug": "energise-soul-retreat-vasudha-3bhk-villa-with-pool",
+          "name": "Energise Soul Retreat Vasudha 3BHK Villa with Pool",
+          "url": "https://www.elivaas.com/villa-in-nashik/energise-soul-retreat-vasudha-3bhk-villa-with-pool"
+        },
+        {
+          "id": 490,
+          "slug": "energise-soul-retreat-3-bhk",
+          "name": "Energise Soul Retreat 3 BHK",
+          "url": "https://www.elivaas.com/villa-in-nashik/energise-soul-retreat-3-bhk"
+        },
+        {
+          "id": 491,
+          "slug": "advay-villa-by-phalke-luxurious-3-bhk-retreat-with-private-swimming-pool",
+          "name": "Advay Villa by Phalke Luxurious 3 BHK Retreat with Private Swimming Pool",
+          "url": "https://www.elivaas.com/villa-in-nashik/advay-villa-by-phalke-luxurious-3-bhk-retreat-with-private-swimming-pool"
+        },
+        {
+          "id": 492,
+          "slug": "bahava-villa-4-bhk-heritage-laterite-stone-villa-with-private-pool",
+          "name": "Bahava Villa 4 BHK Heritage Laterite Stone Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-nashik/bahava-villa-4-bhk-heritage-laterite-stone-villa-with-private-pool"
+        },
+        {
+          "id": 493,
+          "slug": "sierra-vista-anjaneri-3-rooms-with-hill-view",
+          "name": "Sierra Vista Anjaneri 3 Rooms with Hill View",
+          "url": "https://www.elivaas.com/villa-in-nashik/sierra-vista-anjaneri-3-rooms-with-hill-view"
+        },
+        {
+          "id": 494,
+          "slug": "sierra-vista-brahmagiri-cottage-with-bathtub",
+          "name": "Sierra Vista Brahmagiri Cottage with Bathtub",
+          "url": "https://www.elivaas.com/villa-in-nashik/sierra-vista-brahmagiri-cottage-with-bathtub"
+        },
+        {
+          "id": 495,
+          "slug": "sierra-vista-dhodap-cottage-with-hill-view",
+          "name": "Sierra Vista Dhodap Cottage with Hill View",
+          "url": "https://www.elivaas.com/villa-in-nashik/sierra-vista-dhodap-cottage-with-hill-view"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "slug": "neemrana",
+      "name": "Neemrana",
+      "villa_count": 1,
+      "villas": [
+        {
+          "id": 496,
+          "slug": "anantara-3bhk-villa-with-private-pool-in-neemrana",
+          "name": "Anantara 3BHK Villa with Private Pool in Neemrana",
+          "url": "https://www.elivaas.com/villa-in-neemrana/anantara-3bhk-villa-with-private-pool-in-neemrana"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "slug": "north-goa",
+      "name": "North Goa",
+      "villa_count": 83,
+      "villas": [
+        {
+          "id": 497,
+          "slug": "fleuve-6bhk-villa-with-infinity-pool",
+          "name": "Fleuve 6BHK Villa with Infinity Pool",
+          "url": "https://www.elivaas.com/villa-in-north-goa/fleuve-6bhk-villa-with-infinity-pool"
+        },
+        {
+          "id": 498,
+          "slug": "bellavie-3bhk-villa-with-private-pool",
+          "name": "Bellavie 3BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-north-goa/bellavie-3bhk-villa-with-private-pool"
+        },
+        {
+          "id": 499,
+          "slug": "waves-cloud-7-luxury-villas-4bhk",
+          "name": "Waves Cloud 7 Luxury Villas 4BHK",
+          "url": "https://www.elivaas.com/villa-in-north-goa/waves-cloud-7-luxury-villas-4bhk"
+        },
+        {
+          "id": 500,
+          "slug": "house-of-neptune-3-bhk-cottage-with-gazebo",
+          "name": "House of Neptune 3 BHK Cottage with Gazebo",
+          "url": "https://www.elivaas.com/villa-in-north-goa/house-of-neptune-3-bhk-cottage-with-gazebo"
+        },
+        {
+          "id": 501,
+          "slug": "yashgeet-4bhk-villa-with-private-pool",
+          "name": "Yashgeet 4BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-north-goa/yashgeet-4bhk-villa-with-private-pool"
+        },
+        {
+          "id": 502,
+          "slug": "amayah-rasa-4bhk-villa-with-private-pool",
+          "name": "Amayah Rasa 4BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-north-goa/amayah-rasa-4bhk-villa-with-private-pool"
+        },
+        {
+          "id": 503,
+          "slug": "casa-zyra-4bhk-villa-with-private-pool",
+          "name": "Casa Zyra 4BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-north-goa/casa-zyra-4bhk-villa-with-private-pool"
+        },
+        {
+          "id": 504,
+          "slug": "celest-4bhk-villa-with-private-pool",
+          "name": "Celest 4BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-north-goa/celest-4bhk-villa-with-private-pool"
+        },
+        {
+          "id": 505,
+          "slug": "mirai-aries-3bhk-villa-with-private-pool",
+          "name": "Mirai Aries 3BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-north-goa/mirai-aries-3bhk-villa-with-private-pool"
+        },
+        {
+          "id": 506,
+          "slug": "serenica-4bhk-villa-with-private-pool",
+          "name": "Serenica 4BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-north-goa/serenica-4bhk-villa-with-private-pool"
+        },
+        {
+          "id": 507,
+          "slug": "paraiso-4bhk-villa-with-private-pool",
+          "name": "Paraiso 4BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-north-goa/paraiso-4bhk-villa-with-private-pool"
+        },
+        {
+          "id": 508,
+          "slug": "orion-3bhk-villa-with-private-pool",
+          "name": "Orion 3BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-north-goa/orion-3bhk-villa-with-private-pool"
+        },
+        {
+          "id": 509,
+          "slug": "mirai-taurus-luxury-3bhk-villa-with-private-pool",
+          "name": "Mirai Taurus Luxury 3BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-north-goa/mirai-taurus-luxury-3bhk-villa-with-private-pool"
+        },
+        {
+          "id": 510,
+          "slug": "casa-ikkebana-luxury-4bhk-villa-with-private-pool",
+          "name": "Casa Ikkebana Luxury 4BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-north-goa/casa-ikkebana-luxury-4bhk-villa-with-private-pool"
+        },
+        {
+          "id": 511,
+          "slug": "casa-iris-luxury-4bhk-villa-with-private-pool",
+          "name": "Casa Iris Luxury 4BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-north-goa/casa-iris-luxury-4bhk-villa-with-private-pool"
+        },
+        {
+          "id": 512,
+          "slug": "the-suntuarios-casa-ivy-4bhk-villa-with-private-pool",
+          "name": "The Suntuarios Casa Ivy 4BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-north-goa/the-suntuarios-casa-ivy-4bhk-villa-with-private-pool"
+        },
+        {
+          "id": 513,
+          "slug": "valerie-3bhk-villa-with-private-pool",
+          "name": "Valerie 3BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-north-goa/valerie-3bhk-villa-with-private-pool"
+        },
+        {
+          "id": 514,
+          "slug": "amayah-neer-3bhk-villa",
+          "name": "Amayah Neer 3BHK Villa",
+          "url": "https://www.elivaas.com/villa-in-north-goa/amayah-neer-3bhk-villa"
+        },
+        {
+          "id": 515,
+          "slug": "amayah-vayu-6bhk-villa-with-pool",
+          "name": "Amayah Vayu 6BHK Villa with Pool",
+          "url": "https://www.elivaas.com/villa-in-north-goa/amayah-vayu-6bhk-villa-with-pool"
+        },
+        {
+          "id": 516,
+          "slug": "azalea-luxury-3bhk-villa-with-private-pool",
+          "name": "Azalea Luxury 3BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-north-goa/azalea-luxury-3bhk-villa-with-private-pool"
+        },
+        {
+          "id": 517,
+          "slug": "bauhinia-5bhk-villa-with-private-pool",
+          "name": "Bauhinia 5BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-north-goa/bauhinia-5bhk-villa-with-private-pool"
+        },
+        {
+          "id": 518,
+          "slug": "bogen-3bhk-villa-with-private-pool",
+          "name": "Bogen 3BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-north-goa/bogen-3bhk-villa-with-private-pool"
+        },
+        {
+          "id": 519,
+          "slug": "casa-boa-vida-4bhk-villa-with-private-pool",
+          "name": "Casa Boa Vida 4BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-north-goa/casa-boa-vida-4bhk-villa-with-private-pool"
+        },
+        {
+          "id": 520,
+          "slug": "casa-bonita-4bhk-villa-with-private-pool",
+          "name": "Casa Bonita 4BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-north-goa/casa-bonita-4bhk-villa-with-private-pool"
+        },
+        {
+          "id": 521,
+          "slug": "casa-da-sol-3bhk-villa-with-private-pool",
+          "name": "Casa Da Sol 3BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-north-goa/casa-da-sol-3bhk-villa-with-private-pool"
+        },
+        {
+          "id": 522,
+          "slug": "casa-del-mer-4bhk-villa-with-pool",
+          "name": "Casa Del Mer 4BHK Villa with Pool",
+          "url": "https://www.elivaas.com/villa-in-north-goa/casa-del-mer-4bhk-villa-with-pool"
+        },
+        {
+          "id": 523,
+          "slug": "casa-del-mundo-4bhk-villa-with-private-pool",
+          "name": "Casa Del Mundo 4BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-north-goa/casa-del-mundo-4bhk-villa-with-private-pool"
+        },
+        {
+          "id": 524,
+          "slug": "casa-florencia-2-exotic-3-bhk-retreats-with-pool",
+          "name": "Casa Florencia 2 Exotic 3 BHK Retreats with Pool",
+          "url": "https://www.elivaas.com/villa-in-north-goa/casa-florencia-2-exotic-3-bhk-retreats-with-pool"
+        },
+        {
+          "id": 525,
+          "slug": "casa-lotus-3bhk-villa-with-private-pool",
+          "name": "Casa Lotus 3BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-north-goa/casa-lotus-3bhk-villa-with-private-pool"
+        },
+        {
+          "id": 526,
+          "slug": "casa-mandala-4-bhk",
+          "name": "Casa Mandala 4 BHK",
+          "url": "https://www.elivaas.com/villa-in-north-goa/casa-mandala-4-bhk"
+        },
+        {
+          "id": 527,
+          "slug": "casa-ritzy-5bhk-villa-with-private-pool",
+          "name": "Casa Ritzy 5BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-north-goa/casa-ritzy-5bhk-villa-with-private-pool"
+        },
+        {
+          "id": 528,
+          "slug": "casa-verdea-4bhk-villa-with-private-pool",
+          "name": "Casa Verdea 4BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-north-goa/casa-verdea-4bhk-villa-with-private-pool"
+        },
+        {
+          "id": 529,
+          "slug": "casa-eden-3-bhk-villa-with-private-pool",
+          "name": "Casa Eden 3 BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-north-goa/casa-eden-3-bhk-villa-with-private-pool"
+        },
+        {
+          "id": 530,
+          "slug": "cygnus-4bhk-villa-with-private-pool",
+          "name": "Cygnus 4BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-north-goa/cygnus-4bhk-villa-with-private-pool"
+        },
+        {
+          "id": 531,
+          "slug": "elysium-villa-portuguese-Inspired-3-bhk-villa-with-jacuzzi-pool",
+          "name": "Elysium Villa Portuguese Inspired 3 BHK Villa with Jacuzzi Pool",
+          "url": "https://www.elivaas.com/villa-in-north-goa/elysium-villa-portuguese-Inspired-3-bhk-villa-with-jacuzzi-pool"
+        },
+        {
+          "id": 532,
+          "slug": "fernweh-4bhk-villa-with-private-pool",
+          "name": "Fernweh 4BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-north-goa/fernweh-4bhk-villa-with-private-pool"
+        },
+        {
+          "id": 533,
+          "slug": "lumin-luxury-4bhk-villa-with-private-swimming-pool",
+          "name": "Lumin Luxury 4BHK Villa with Private Swimming Pool",
+          "url": "https://www.elivaas.com/villa-in-north-goa/lumin-luxury-4bhk-villa-with-private-swimming-pool"
+        },
+        {
+          "id": 534,
+          "slug": "mainsion10-4bhk-villa-with-private-pool",
+          "name": "Mainsion10 4BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-north-goa/mainsion10-4bhk-villa-with-private-pool"
+        },
+        {
+          "id": 535,
+          "slug": "mirai-gemini-luxury-3bhk-villa-with-private-pool",
+          "name": "Mirai Gemini Luxury 3BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-north-goa/mirai-gemini-luxury-3bhk-villa-with-private-pool"
+        },
+        {
+          "id": 536,
+          "slug": "mirai-sukoon-3bhk-villa-with-private-pool",
+          "name": "Mirai Sukoon 3BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-north-goa/mirai-sukoon-3bhk-villa-with-private-pool"
+        },
+        {
+          "id": 537,
+          "slug": "ayada-3bhk-villa-with-private-pool",
+          "name": "Ayada 3BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-north-goa/ayada-3bhk-villa-with-private-pool"
+        },
+        {
+          "id": 538,
+          "slug": "panache-3bhk-villa-with-private-pool",
+          "name": "Panache 3BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-north-goa/panache-3bhk-villa-with-private-pool"
+        },
+        {
+          "id": 539,
+          "slug": "pinksky-4bhk-villa-with-private-pool",
+          "name": "Pinksky 4BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-north-goa/pinksky-4bhk-villa-with-private-pool"
+        },
+        {
+          "id": 540,
+          "slug": "purosol-3bhk-villa-with-private-pool",
+          "name": "Purosol 3BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-north-goa/purosol-3bhk-villa-with-private-pool"
+        },
+        {
+          "id": 541,
+          "slug": "purple-coral-5bhk-villa-with-private-pool",
+          "name": "Purple Coral 5BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-north-goa/purple-coral-5bhk-villa-with-private-pool"
+        },
+        {
+          "id": 542,
+          "slug": "solace-aquavista-5bhk-villa-with-private-pool",
+          "name": "Solace Aquavista 5BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-north-goa/solace-aquavista-5bhk-villa-with-private-pool"
+        },
+        {
+          "id": 543,
+          "slug": "solace-teal-5bhk-villa-with-private-pool",
+          "name": "Solace Teal 5BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-north-goa/solace-teal-5bhk-villa-with-private-pool"
+        },
+        {
+          "id": 544,
+          "slug": "vacasa-a-luxurious-5bhk-villa-with-a-private-pool",
+          "name": "Vacasa a Luxurious 5BHK Villa with a Private Pool",
+          "url": "https://www.elivaas.com/villa-in-north-goa/vacasa-a-luxurious-5bhk-villa-with-a-private-pool"
+        },
+        {
+          "id": 545,
+          "slug": "valley-view",
+          "name": "Valley View",
+          "url": "https://www.elivaas.com/villa-in-north-goa/valley-view"
+        },
+        {
+          "id": 546,
+          "slug": "elysee-3bhk-villa-with-private-pool",
+          "name": "Elysee 3BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-north-goa/elysee-3bhk-villa-with-private-pool"
+        },
+        {
+          "id": 547,
+          "slug": "euphoria-4bhk-villa-with-private-pool",
+          "name": "Euphoria 4BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-north-goa/euphoria-4bhk-villa-with-private-pool"
+        },
+        {
+          "id": 548,
+          "slug": "frienders-5bhk-villa-with-private-pool",
+          "name": "Frienders 5BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-north-goa/frienders-5bhk-villa-with-private-pool"
+        },
+        {
+          "id": 549,
+          "slug": "judiline-luxury-3bhk-villa-with-a-private-pool",
+          "name": "Judiline Luxury 3BHK Villa with a Private Pool",
+          "url": "https://www.elivaas.com/villa-in-north-goa/judiline-luxury-3bhk-villa-with-a-private-pool"
+        },
+        {
+          "id": 550,
+          "slug": "seine-villa-3bhk",
+          "name": "Seine Villa 3BHK",
+          "url": "https://www.elivaas.com/villa-in-north-goa/seine-villa-3bhk"
+        },
+        {
+          "id": 551,
+          "slug": "shai-luxury-4bhk-villa-with-private-pool",
+          "name": "Shai Luxury 4BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-north-goa/shai-luxury-4bhk-villa-with-private-pool"
+        },
+        {
+          "id": 552,
+          "slug": "villa-verde-4-bhk-villa-with-private-pool",
+          "name": "Villa Verde 4 BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-north-goa/villa-verde-4-bhk-villa-with-private-pool"
+        },
+        {
+          "id": 553,
+          "slug": "mirai-leo-3bhk-villa-with-private-pool",
+          "name": "Mirai Leo 3BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-north-goa/mirai-leo-3bhk-villa-with-private-pool"
+        },
+        {
+          "id": 554,
+          "slug": "amayah-tattva-3bhk-villa-with-private-pool",
+          "name": "Amayah Tattva 3BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-north-goa/amayah-tattva-3bhk-villa-with-private-pool"
+        },
+        {
+          "id": 555,
+          "slug": "casa-bella-vista-3bhk-villa-with-plunge-pool-in-goa",
+          "name": "Casa Bella Vista 3BHK Villa with Plunge Pool in Goa",
+          "url": "https://www.elivaas.com/villa-in-north-goa/casa-bella-vista-3bhk-villa-with-plunge-pool-in-goa"
+        },
+        {
+          "id": 556,
+          "slug": "casa-do-mar-4bhk-villa-with-private-pool-in-goa",
+          "name": "Casa Do Mar 4BHK Villa with Private Pool in Goa",
+          "url": "https://www.elivaas.com/villa-in-north-goa/casa-do-mar-4bhk-villa-with-private-pool-in-goa"
+        },
+        {
+          "id": 557,
+          "slug": "cavalo-marinho-3bhk-villa-with-private-pool-in-goa",
+          "name": "Cavalo Marinho 3BHK Villa with Private Pool in Goa",
+          "url": "https://www.elivaas.com/villa-in-north-goa/cavalo-marinho-3bhk-villa-with-private-pool-in-goa"
+        },
+        {
+          "id": 558,
+          "slug": "emperor-ozran-2bhk-villa-with-pool-in-goa",
+          "name": "Emperor Ozran 2BHK Villa with Pool in Goa",
+          "url": "https://www.elivaas.com/villa-in-north-goa/emperor-ozran-2bhk-villa-with-pool-in-goa"
+        },
+        {
+          "id": 559,
+          "slug": "veera-marina-3bhk-penthouse-with-pool-in-goa",
+          "name": "Veera Marina 3BHK Penthouse with Pool in Goa",
+          "url": "https://www.elivaas.com/villa-in-north-goa/veera-marina-3bhk-penthouse-with-pool-in-goa"
+        },
+        {
+          "id": 560,
+          "slug": "veera-prestige-2bhk-apartment-with-pool-in-goa",
+          "name": "Veera Prestige 2BHK Apartment with Pool in Goa",
+          "url": "https://www.elivaas.com/villa-in-north-goa/veera-prestige-2bhk-apartment-with-pool-in-goa"
+        },
+        {
+          "id": 561,
+          "slug": "veera-marina-3bhk-apartment-with-pool-in-goa",
+          "name": "Veera Marina 3BHK Apartment with Pool in Goa",
+          "url": "https://www.elivaas.com/villa-in-north-goa/veera-marina-3bhk-apartment-with-pool-in-goa"
+        },
+        {
+          "id": 562,
+          "slug": "villa-plume-4-bhk-pet-friendly-villa-with-private-pool",
+          "name": "Villa Plume 4 BHK Pet Friendly Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-north-goa/villa-plume-4-bhk-pet-friendly-villa-with-private-pool"
+        },
+        {
+          "id": 563,
+          "slug": "emperor-ozran-apartment-with-balcony-and-bathtub",
+          "name": "Emperor Ozran Apartment with Balcony and Bathtub",
+          "url": "https://www.elivaas.com/villa-in-north-goa/emperor-ozran-apartment-with-balcony-and-bathtub"
+        },
+        {
+          "id": 564,
+          "slug": "emperor-ozran-royal-suite-in-goa",
+          "name": "Emperor Ozran Royal Suite in Goa",
+          "url": "https://www.elivaas.com/villa-in-north-goa/emperor-ozran-royal-suite-in-goa"
+        },
+        {
+          "id": 565,
+          "slug": "emperor-ozran-premium-bathtab",
+          "name": "Emperor Ozran Premium Bathtab",
+          "url": "https://www.elivaas.com/villa-in-north-goa/emperor-ozran-premium-bathtab"
+        },
+        {
+          "id": 566,
+          "slug": "emperor-ozran-premium-room-in-goa",
+          "name": "Emperor Ozran Premium Room in Goa",
+          "url": "https://www.elivaas.com/villa-in-north-goa/emperor-ozran-premium-room-in-goa"
+        },
+        {
+          "id": 567,
+          "slug": "emperor-ozran-studio-with-pool-in-goa",
+          "name": "Emperor Ozran Studio with Pool in Goa",
+          "url": "https://www.elivaas.com/villa-in-north-goa/emperor-ozran-studio-with-pool-in-goa"
+        },
+        {
+          "id": 568,
+          "slug": "emperor-ozran-royal-suite-with-poolx-in-goa",
+          "name": "Emperor Ozran Royal Suite with Poolx in Goa",
+          "url": "https://www.elivaas.com/villa-in-north-goa/emperor-ozran-royal-suite-with-poolx-in-goa"
+        },
+        {
+          "id": 569,
+          "slug": "gracias-aquora-1-room-retreat-with-private-pool",
+          "name": "Gracias Aquora 1 Room Retreat with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-north-goa/gracias-aquora-1-room-retreat-with-private-pool"
+        },
+        {
+          "id": 570,
+          "slug": "gracias-bleu-resort-with-pool",
+          "name": "Gracias Bleu Resort with Pool",
+          "url": "https://www.elivaas.com/villa-in-north-goa/gracias-bleu-resort-with-pool"
+        },
+        {
+          "id": 571,
+          "slug": "gracia-seaora-resort-with-pool",
+          "name": "Gracia Seaora Resort with Pool",
+          "url": "https://www.elivaas.com/villa-in-north-goa/gracia-seaora-resort-with-pool"
+        },
+        {
+          "id": 572,
+          "slug": "house-of-neptune-1bhk-boutique-hut",
+          "name": "House of Neptune 1BHK Boutique Hut",
+          "url": "https://www.elivaas.com/villa-in-north-goa/house-of-neptune-1bhk-boutique-hut"
+        },
+        {
+          "id": 573,
+          "slug": "house-of-neptune-1bhk-cottage",
+          "name": "House of Neptune 1BHK Cottage",
+          "url": "https://www.elivaas.com/villa-in-north-goa/house-of-neptune-1bhk-cottage"
+        },
+        {
+          "id": 574,
+          "slug": "kamerios-maris-1bhk-apartment-with-pool",
+          "name": "Kamerios Maris 1BHK Apartment with Pool",
+          "url": "https://www.elivaas.com/villa-in-north-goa/kamerios-maris-1bhk-apartment-with-pool"
+        },
+        {
+          "id": 575,
+          "slug": "peace-and-calm-room-with-river-view-balconies",
+          "name": "Peace and Calm Room with River View Balconies",
+          "url": "https://www.elivaas.com/villa-in-north-goa/peace-and-calm-room-with-river-view-balconies"
+        },
+        {
+          "id": 576,
+          "slug": "veera-prestige-1bhk-apartment-with-pool-in-goa",
+          "name": "Veera Prestige 1BHK Apartment with Pool in Goa",
+          "url": "https://www.elivaas.com/villa-in-north-goa/veera-prestige-1bhk-apartment-with-pool-in-goa"
+        },
+        {
+          "id": 577,
+          "slug": "bludoor-5bhk-villa-with-private-pool",
+          "name": "Bludoor 5BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-north-goa/bludoor-5bhk-villa-with-private-pool"
+        },
+        {
+          "id": 578,
+          "slug": "coco-baia-6-3-bhk-pet-friendly-villa-with-private-pool",
+          "name": "Coco Baia 6 3 BHK Pet Friendly Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-north-goa/coco-baia-6-3-bhk-pet-friendly-villa-with-private-pool"
+        },
+        {
+          "id": 579,
+          "slug": "villa-riviere-9-bhk-private-estate-with-pool",
+          "name": "Villa Riviere 9 BHK Private Estate with Pool",
+          "url": "https://www.elivaas.com/villa-in-north-goa/villa-riviere-9-bhk-private-estate-with-pool"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "slug": "ooty",
+      "name": "Ooty",
+      "villa_count": 2,
+      "villas": [
+        {
+          "id": 580,
+          "slug": "mihirkas-nirvana-5bhk-villa",
+          "name": "Mihirkas Nirvana 5BHK Villa",
+          "url": "https://www.elivaas.com/villa-in-ooty/mihirkas-nirvana-5bhk-villa"
+        },
+        {
+          "id": 581,
+          "slug": "cleft-3bhk-villa-in-ooty",
+          "name": "Cleft 3BHK Villa in Ooty",
+          "url": "https://www.elivaas.com/villa-in-ooty/cleft-3bhk-villa-in-ooty"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "slug": "pushkar",
+      "name": "Pushkar",
+      "villa_count": 2,
+      "villas": [
+        {
+          "id": 582,
+          "slug": "tuscun-villa-5-bhk-pet-friendly-retreat-with-private-pool",
+          "name": "Tuscun Villa 5 BHK Pet Friendly Retreat with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-pushkar/tuscun-villa-5-bhk-pet-friendly-retreat-with-private-pool"
+        },
+        {
+          "id": 583,
+          "slug": "krishna-serenity-villa-pet-friendly-7-bhk-farmhouse-with-private-pool",
+          "name": "Krishna Serenity Villa Pet Friendly 7 BHK Farmhouse with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-pushkar/krishna-serenity-villa-pet-friendly-7-bhk-farmhouse-with-private-pool"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "slug": "ranikhet",
+      "name": "Ranikhet",
+      "villa_count": 1,
+      "villas": [
+        {
+          "id": 584,
+          "slug": "snowpeak-3-bhk",
+          "name": "Snowpeak 3 BHK",
+          "url": "https://www.elivaas.com/villa-in-ranikhet/snowpeak-3-bhk"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "slug": "ranthambore",
+      "name": "Ranthambore",
+      "villa_count": 5,
+      "villas": [
+        {
+          "id": 585,
+          "slug": "tiger-cave-suite-1-room-with-private-pool",
+          "name": "Tiger Cave Suite 1 Room with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-ranthambore/tiger-cave-suite-1-room-with-private-pool"
+        },
+        {
+          "id": 586,
+          "slug": "tiger-cave-suite-pet-friendly-room-with-shared-pool",
+          "name": "Tiger Cave Suite Pet Friendly Room with Shared Pool",
+          "url": "https://www.elivaas.com/villa-in-ranthambore/tiger-cave-suite-pet-friendly-room-with-shared-pool"
+        },
+        {
+          "id": 587,
+          "slug": "bagh-serai-cottage",
+          "name": "Bagh Serai Cottage",
+          "url": "https://www.elivaas.com/villa-in-ranthambore/bagh-serai-cottage"
+        },
+        {
+          "id": 588,
+          "slug": "bagh-serai-with-plunge-pool",
+          "name": "Bagh Serai with Plunge Pool",
+          "url": "https://www.elivaas.com/villa-in-ranthambore/bagh-serai-with-plunge-pool"
+        },
+        {
+          "id": 589,
+          "slug": "bagh-serai-tree-house",
+          "name": "Bagh Serai Tree House",
+          "url": "https://www.elivaas.com/villa-in-ranthambore/bagh-serai-tree-house"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "slug": "rishikesh",
+      "name": "Rishikesh",
+      "villa_count": 3,
+      "villas": [
+        {
+          "id": 590,
+          "slug": "indigo-suite-with-restaurant",
+          "name": "Indigo Suite with Restaurant",
+          "url": "https://www.elivaas.com/villa-in-rishikesh/indigo-suite-with-restaurant"
+        },
+        {
+          "id": 591,
+          "slug": "violet-triple-sharing-suite-with-restaurant",
+          "name": "Violet Triple Sharing Suite with Restaurant",
+          "url": "https://www.elivaas.com/villa-in-rishikesh/violet-triple-sharing-suite-with-restaurant"
+        },
+        {
+          "id": 592,
+          "slug": "vanasutra-one-room",
+          "name": "Vanasutra One Room",
+          "url": "https://www.elivaas.com/villa-in-rishikesh/vanasutra-one-room"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "slug": "shimla",
+      "name": "Shimla",
+      "villa_count": 13,
+      "villas": [
+        {
+          "id": 593,
+          "slug": "everly-1bhk-villa",
+          "name": "Everly 1BHK Villa",
+          "url": "https://www.elivaas.com/villa-in-shimla/everly-1bhk-villa"
+        },
+        {
+          "id": 594,
+          "slug": "silvana-3bhk-villa",
+          "name": "Silvana 3BHK Villa",
+          "url": "https://www.elivaas.com/villa-in-shimla/silvana-3bhk-villa"
+        },
+        {
+          "id": 595,
+          "slug": "skylounge-4bhk-villa",
+          "name": "Skylounge 4BHK Villa",
+          "url": "https://www.elivaas.com/villa-in-shimla/skylounge-4bhk-villa"
+        },
+        {
+          "id": 596,
+          "slug": "divine-1bhk-apartment-in-shimla",
+          "name": "Divine 1BHK Apartment in Shimla",
+          "url": "https://www.elivaas.com/villa-in-shimla/divine-1bhk-apartment-in-shimla"
+        },
+        {
+          "id": 597,
+          "slug": "utopia-1bhk-apartment-in-shimla",
+          "name": "Utopia 1BHK Apartment in Shimla",
+          "url": "https://www.elivaas.com/villa-in-shimla/utopia-1bhk-apartment-in-shimla"
+        },
+        {
+          "id": 598,
+          "slug": "fir-holiday-in-homestay-4-bhk-attic-apartment",
+          "name": "Fir Holiday in Homestay 4 BHK Attic Apartment",
+          "url": "https://www.elivaas.com/villa-in-shimla/fir-holiday-in-homestay-4-bhk-attic-apartment"
+        },
+        {
+          "id": 599,
+          "slug": "hill-top-farmstead-3bhk-villa-in-shimla",
+          "name": "Hill Top Farmstead 3BHK Villa in Shimla",
+          "url": "https://www.elivaas.com/villa-in-shimla/hill-top-farmstead-3bhk-villa-in-shimla"
+        },
+        {
+          "id": 600,
+          "slug": "juniper-holiday-in-homestay-3-bhk-valley-view-apartment",
+          "name": "Juniper Holiday in Homestay 3 BHK Valley View Apartment",
+          "url": "https://www.elivaas.com/villa-in-shimla/juniper-holiday-in-homestay-3-bhk-valley-view-apartment"
+        },
+        {
+          "id": 601,
+          "slug": "kail-holiday-in-homestay-1-bhk-hill-view-apartment",
+          "name": "Kail Holiday in Homestay 1 BHK Hill View Apartment",
+          "url": "https://www.elivaas.com/villa-in-shimla/kail-holiday-in-homestay-1-bhk-hill-view-apartment"
+        },
+        {
+          "id": 602,
+          "slug": "spurce-holiday-in-homestay-2-bhk-valley-view-apartment",
+          "name": "Spurce Holiday in Homestay 2 BHK Valley View Apartment",
+          "url": "https://www.elivaas.com/villa-in-shimla/spurce-holiday-in-homestay-2-bhk-valley-view-apartment"
+        },
+        {
+          "id": 603,
+          "slug": "the-ridgeview-retreat-amelia-hillside-2-room-suite",
+          "name": "The Ridgeview Retreat Amelia Hillside 2 Room Suite",
+          "url": "https://www.elivaas.com/villa-in-shimla/the-ridgeview-retreat-amelia-hillside-2-room-suite"
+        },
+        {
+          "id": 604,
+          "slug": "the-ridgeview-retreat-arabella-pet-friendly-hillside-room",
+          "name": "The Ridgeview Retreat Arabella Pet Friendly Hillside Room",
+          "url": "https://www.elivaas.com/villa-in-shimla/the-ridgeview-retreat-arabella-pet-friendly-hillside-room"
+        },
+        {
+          "id": 605,
+          "slug": "the-ridgeview-retreat-olivia-pet-friendly-room",
+          "name": "The Ridgeview Retreat Olivia Pet Friendly Room",
+          "url": "https://www.elivaas.com/villa-in-shimla/the-ridgeview-retreat-olivia-pet-friendly-room"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "slug": "south-goa",
+      "name": "South Goa",
+      "villa_count": 9,
+      "villas": [
+        {
+          "id": 606,
+          "slug": "kensho-marigold-3bhk-villa-with-pool",
+          "name": "Kensho Marigold 3BHK Villa with Pool",
+          "url": "https://www.elivaas.com/villa-in-south-goa/kensho-marigold-3bhk-villa-with-pool"
+        },
+        {
+          "id": 607,
+          "slug": "kensho-daisy-5bhk-villa-with-private-pool",
+          "name": "Kensho Daisy 5BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-south-goa/kensho-daisy-5bhk-villa-with-private-pool"
+        },
+        {
+          "id": 608,
+          "slug": "kensho-hibiscus-3bhk-villa-with-pool",
+          "name": "Kensho Hibiscus 3BHK Villa with Pool",
+          "url": "https://www.elivaas.com/villa-in-south-goa/kensho-hibiscus-3bhk-villa-with-pool"
+        },
+        {
+          "id": 609,
+          "slug": "midpoint-uno-pet-friendly-7-bhk-villa-with-private-pool",
+          "name": "Midpoint Uno Pet Friendly 7 BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-south-goa/midpoint-uno-pet-friendly-7-bhk-villa-with-private-pool"
+        },
+        {
+          "id": 610,
+          "slug": "goan-bliss-deluxe-room-aesthetic-suite-with-pool",
+          "name": "Goan Bliss Deluxe Room Aesthetic Suite with Pool",
+          "url": "https://www.elivaas.com/villa-in-south-goa/goan-bliss-deluxe-room-aesthetic-suite-with-pool"
+        },
+        {
+          "id": 611,
+          "slug": "goan-bliss-executive-suite",
+          "name": "Goan Bliss Executive Suite",
+          "url": "https://www.elivaas.com/villa-in-south-goa/goan-bliss-executive-suite"
+        },
+        {
+          "id": 612,
+          "slug": "goan-bliss-junior-suite",
+          "name": "Goan Bliss Junior Suite",
+          "url": "https://www.elivaas.com/villa-in-south-goa/goan-bliss-junior-suite"
+        },
+        {
+          "id": 613,
+          "slug": "goan-bliss-premium-room",
+          "name": "Goan Bliss Premium Room",
+          "url": "https://www.elivaas.com/villa-in-south-goa/goan-bliss-premium-room"
+        },
+        {
+          "id": 614,
+          "slug": "midpoint-uno-suite-pet-friendly-1-room",
+          "name": "Midpoint Uno Suite Pet Friendly 1 Room",
+          "url": "https://www.elivaas.com/villa-in-south-goa/midpoint-uno-suite-pet-friendly-1-room"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "slug": "udaipur",
+      "name": "Udaipur",
+      "villa_count": 45,
+      "villas": [
+        {
+          "id": 615,
+          "slug": "mountain-creek-one-room-with-pool",
+          "name": "Mountain Creek One Room with Pool",
+          "url": "https://www.elivaas.com/villa-in-udaipur/mountain-creek-one-room-with-pool"
+        },
+        {
+          "id": 616,
+          "slug": "amber-royale-3bhk-villa-with-private-pool",
+          "name": "Amber Royale 3BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-udaipur/amber-royale-3bhk-villa-with-private-pool"
+        },
+        {
+          "id": 617,
+          "slug": "casa-llios-country-style-3-bhk-villa-with-private-pool",
+          "name": "Casa Llios Country Style 3 BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-udaipur/casa-llios-country-style-3-bhk-villa-with-private-pool"
+        },
+        {
+          "id": 618,
+          "slug": "casa-meraki-country-style-3-bhk-villa-with-private-pool",
+          "name": "Casa Meraki Country Style 3 BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-udaipur/casa-meraki-country-style-3-bhk-villa-with-private-pool"
+        },
+        {
+          "id": 619,
+          "slug": "cow-cuddles-4bhk-villa-with-private-pool",
+          "name": "Cow Cuddles 4BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-udaipur/cow-cuddles-4bhk-villa-with-private-pool"
+        },
+        {
+          "id": 620,
+          "slug": "shourya-sereno-4-bhk-villa-with-pvt-pool",
+          "name": "Shourya Sereno 4 BHK Villa with Pvt Pool",
+          "url": "https://www.elivaas.com/villa-in-udaipur/shourya-sereno-4-bhk-villa-with-pvt-pool"
+        },
+        {
+          "id": 621,
+          "slug": "festiva-mansion-3bhk-villa-with-private-pool",
+          "name": "Festiva Mansion 3BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-udaipur/festiva-mansion-3bhk-villa-with-private-pool"
+        },
+        {
+          "id": 622,
+          "slug": "godan-6-bhk-retreat-with-private-pool",
+          "name": "Godan 6 BHK Retreat with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-udaipur/godan-6-bhk-retreat-with-private-pool"
+        },
+        {
+          "id": 623,
+          "slug": "godan-10-bhk-riverside-retreat-with-pool",
+          "name": "Godan 10 BHK Riverside Retreat with Pool",
+          "url": "https://www.elivaas.com/villa-in-udaipur/godan-10-bhk-riverside-retreat-with-pool"
+        },
+        {
+          "id": 624,
+          "slug": "godan-1-room-suite-with-private-balcony",
+          "name": "Godan 1 Room Suite with Private Balcony",
+          "url": "https://www.elivaas.com/villa-in-udaipur/godan-1-room-suite-with-private-balcony"
+        },
+        {
+          "id": 625,
+          "slug": "heaven-in-hills-kahili-2bhk-villa-with-private-pool",
+          "name": "Heaven in Hills Kahili 2BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-udaipur/heaven-in-hills-kahili-2bhk-villa-with-private-pool"
+        },
+        {
+          "id": 626,
+          "slug": "heaven-in-hills-mountara-3bhk-villa-with-private-pool",
+          "name": "Heaven in Hills Mountara 3BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-udaipur/heaven-in-hills-mountara-3bhk-villa-with-private-pool"
+        },
+        {
+          "id": 627,
+          "slug": "lakemount-2-bhk-with-private-pool",
+          "name": "Lakemount 2 BHK with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-udaipur/lakemount-2-bhk-with-private-pool"
+        },
+        {
+          "id": 628,
+          "slug": "mandovar-mountain-valley-retreat-1-pet-friendly-suite-with-shared-pool",
+          "name": "Mandovar Mountain Valley Retreat 1 Pet Friendly Suite with Shared Pool",
+          "url": "https://www.elivaas.com/villa-in-udaipur/mandovar-mountain-valley-retreat-1-pet-friendly-suite-with-shared-pool"
+        },
+        {
+          "id": 629,
+          "slug": "mandovar-mountain-valley-retreat-4-room-pet-friendly-with-shared-pool",
+          "name": "Mandovar Mountain Valley Retreat 4 Room Pet Friendly with Shared Pool",
+          "url": "https://www.elivaas.com/villa-in-udaipur/mandovar-mountain-valley-retreat-4-room-pet-friendly-with-shared-pool"
+        },
+        {
+          "id": 630,
+          "slug": "miraan-by-the-lake-pet-friendly-boutique-room-in-a-retreat-with-pool",
+          "name": "Miraan by the Lake Pet Friendly Boutique Room in a Retreat with Pool",
+          "url": "https://www.elivaas.com/villa-in-udaipur/miraan-by-the-lake-pet-friendly-boutique-room-in-a-retreat-with-pool"
+        },
+        {
+          "id": 631,
+          "slug": "palazao-country-style-3-bhk-villa-with-private-pool",
+          "name": "Palazao Country Style 3 BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-udaipur/palazao-country-style-3-bhk-villa-with-private-pool"
+        },
+        {
+          "id": 632,
+          "slug": "raas-stays-4-bhk-retreat-with-private-pool",
+          "name": "Raas Stays 4 BHK Retreat with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-udaipur/raas-stays-4-bhk-retreat-with-private-pool"
+        },
+        {
+          "id": 633,
+          "slug": "raj-villas-alvora-pet-friendly-1-room-hotel-suite",
+          "name": "Raj Villas Alvora Pet Friendly 1 Room Hotel Suite",
+          "url": "https://www.elivaas.com/villa-in-udaipur/raj-villas-alvora-pet-friendly-1-room-hotel-suite"
+        },
+        {
+          "id": 634,
+          "slug": "raj-villas-astera-pet-friendly-1-room-with-pool",
+          "name": "Raj Villas Astera Pet Friendly 1 Room with Pool",
+          "url": "https://www.elivaas.com/villa-in-udaipur/raj-villas-astera-pet-friendly-1-room-with-pool"
+        },
+        {
+          "id": 635,
+          "slug": "raj-villas-aurelia-pet-friendly-1-room-with-jacuzzi",
+          "name": "Raj Villas Aurelia Pet Friendly 1 Room with Jacuzzi",
+          "url": "https://www.elivaas.com/villa-in-udaipur/raj-villas-aurelia-pet-friendly-1-room-with-jacuzzi"
+        },
+        {
+          "id": 636,
+          "slug": "shourya-aravalli-4bhk-villa-with-private-pool",
+          "name": "Shourya Aravalli 4BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-udaipur/shourya-aravalli-4bhk-villa-with-private-pool"
+        },
+        {
+          "id": 637,
+          "slug": "shourya-villa-3-bhk-villa-with-swimming-pool",
+          "name": "Shourya Villa 3 BHK Villa with Swimming Pool",
+          "url": "https://www.elivaas.com/villa-in-udaipur/shourya-villa-3-bhk-villa-with-swimming-pool"
+        },
+        {
+          "id": 638,
+          "slug": "shourya-3bhk-villa-with-private-pool",
+          "name": "Shourya 3BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-udaipur/shourya-3bhk-villa-with-private-pool"
+        },
+        {
+          "id": 639,
+          "slug": "celesta-luxury-3bhk-villa-with-private-pool",
+          "name": "Celesta Luxury 3BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-udaipur/celesta-luxury-3bhk-villa-with-private-pool"
+        },
+        {
+          "id": 640,
+          "slug": "shourya-eden-3bhk-villa-with-private-pool",
+          "name": "Shourya Eden 3BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-udaipur/shourya-eden-3bhk-villa-with-private-pool"
+        },
+        {
+          "id": 641,
+          "slug": "shourya-viola-3-bhk-villa-with-private-pool",
+          "name": "Shourya Viola 3 BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-udaipur/shourya-viola-3-bhk-villa-with-private-pool"
+        },
+        {
+          "id": 642,
+          "slug": "zenna-luxury-3bhk-villa-with-private-pool",
+          "name": "Zenna Luxury 3BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-udaipur/zenna-luxury-3bhk-villa-with-private-pool"
+        },
+        {
+          "id": 643,
+          "slug": "shreya-blossom-retreat-4-bhk",
+          "name": "Shreya Blossom Retreat 4 BHK",
+          "url": "https://www.elivaas.com/villa-in-udaipur/shreya-blossom-retreat-4-bhk"
+        },
+        {
+          "id": 644,
+          "slug": "abhimanyu-mansion-6bhk-villa-in-udaipur",
+          "name": "Abhimanyu Mansion 6BHK Villa in Udaipur",
+          "url": "https://www.elivaas.com/villa-in-udaipur/abhimanyu-mansion-6bhk-villa-in-udaipur"
+        },
+        {
+          "id": 645,
+          "slug": "abhimanyu-mansion-sapphire-4bhk-villa-in-udaipur",
+          "name": "Abhimanyu Mansion Sapphire 4BHK Villa in Udaipur",
+          "url": "https://www.elivaas.com/villa-in-udaipur/abhimanyu-mansion-sapphire-4bhk-villa-in-udaipur"
+        },
+        {
+          "id": 646,
+          "slug": "abhimanyu-mansion-topaz-2bhk-villa-in-udaipur",
+          "name": "Abhimanyu Mansion Topaz 2BHK Villa in Udaipur",
+          "url": "https://www.elivaas.com/villa-in-udaipur/abhimanyu-mansion-topaz-2bhk-villa-in-udaipur"
+        },
+        {
+          "id": 647,
+          "slug": "bluebell-2bhk-villa-with-private-pool",
+          "name": "Bluebell 2BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-udaipur/bluebell-2bhk-villa-with-private-pool"
+        },
+        {
+          "id": 648,
+          "slug": "colonel-retreat-3bhk-villa-with-private-pool",
+          "name": "Colonel Retreat 3BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-udaipur/colonel-retreat-3bhk-villa-with-private-pool"
+        },
+        {
+          "id": 649,
+          "slug": "mountain-creek-retreat-pet-friendly-7-bhk-with-pool",
+          "name": "Mountain Creek Retreat Pet Friendly 7 BHK with Pool",
+          "url": "https://www.elivaas.com/villa-in-udaipur/mountain-creek-retreat-pet-friendly-7-bhk-with-pool"
+        },
+        {
+          "id": 650,
+          "slug": "mountain-creek-retreat-pet-friendly-ultra-luxe-suite-with-pool",
+          "name": "Mountain Creek Retreat Pet Friendly Ultra Luxe Suite with Pool",
+          "url": "https://www.elivaas.com/villa-in-udaipur/mountain-creek-retreat-pet-friendly-ultra-luxe-suite-with-pool"
+        },
+        {
+          "id": 651,
+          "slug": "parvam-retreat-2bhk-villa-with-private-pool-in-udaipur",
+          "name": "Parvam Retreat 2BHK Villa with Private Pool in Udaipur",
+          "url": "https://www.elivaas.com/villa-in-udaipur/parvam-retreat-2bhk-villa-with-private-pool-in-udaipur"
+        },
+        {
+          "id": 652,
+          "slug": "roohmon-farm-5bhk-villa-with-private-pool-in-udaipur",
+          "name": "Roohmon Farm 5BHK Villa with Private Pool in Udaipur",
+          "url": "https://www.elivaas.com/villa-in-udaipur/roohmon-farm-5bhk-villa-with-private-pool-in-udaipur"
+        },
+        {
+          "id": 653,
+          "slug": "the-monolith-4-bhk-villa-with-private-pool",
+          "name": "The Monolith 4 BHK Villa with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-udaipur/the-monolith-4-bhk-villa-with-private-pool"
+        },
+        {
+          "id": 654,
+          "slug": "the-naori-suite-with-balcony",
+          "name": "The Naori Suite with Balcony",
+          "url": "https://www.elivaas.com/villa-in-udaipur/the-naori-suite-with-balcony"
+        },
+        {
+          "id": 655,
+          "slug": "the-naori-suite-without-balcony",
+          "name": "The Naori Suite Without Balcony",
+          "url": "https://www.elivaas.com/villa-in-udaipur/the-naori-suite-without-balcony"
+        },
+        {
+          "id": 656,
+          "slug": "aria-amar-villa-3-bhk-retreat-with-private-pool",
+          "name": "Aria Amar Villa 3 BHK Retreat with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-udaipur/aria-amar-villa-3-bhk-retreat-with-private-pool"
+        },
+        {
+          "id": 657,
+          "slug": "leora-amar-villa-6-bhk-retreat-with-private-pool",
+          "name": "Leora Amar Villa 6 BHK Retreat with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-udaipur/leora-amar-villa-6-bhk-retreat-with-private-pool"
+        },
+        {
+          "id": 658,
+          "slug": "miraan-by-the-lake-5-room-lakeside-pet-friendly-retreat-with-infinity-edge-pool",
+          "name": "Miraan by the Lake 5 Room Lakeside Pet Friendly Retreat with Infinity Edge Pool",
+          "url": "https://www.elivaas.com/villa-in-udaipur/miraan-by-the-lake-5-room-lakeside-pet-friendly-retreat-with-infinity-edge-pool"
+        },
+        {
+          "id": 659,
+          "slug": "riva-amar-villa-3-bhk-retreat-with-private-pool",
+          "name": "Riva Amar Villa 3 BHK Retreat with Private Pool",
+          "url": "https://www.elivaas.com/villa-in-udaipur/riva-amar-villa-3-bhk-retreat-with-private-pool"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "slug": "varkala",
+      "name": "Varkala",
+      "villa_count": 3,
+      "villas": [
+        {
+          "id": 660,
+          "slug": "still-waters-club-one-room-with-pool",
+          "name": "Still Waters Club One Room with Pool",
+          "url": "https://www.elivaas.com/villa-in-varkala/still-waters-club-one-room-with-pool"
+        },
+        {
+          "id": 661,
+          "slug": "still-waters-luxury-suite-two-room-with-pool",
+          "name": "Still Waters Luxury Suite Two Room with Pool",
+          "url": "https://www.elivaas.com/villa-in-varkala/still-waters-luxury-suite-two-room-with-pool"
+        },
+        {
+          "id": 662,
+          "slug": "still-waters-premium-one-room-with-pool",
+          "name": "Still Waters Premium One Room with Pool",
+          "url": "https://www.elivaas.com/villa-in-varkala/still-waters-premium-one-room-with-pool"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,540 @@
+{
+  "title": "Raha Farms | 2-BHK Pet-friendly Retreat with a Garden, Shared pool, Restaurant, Library, & Game zone",
+  "summary": "Exceptional hospitality and polite staff praised by multiple guests. Beautiful property with great ambiance enhances the experience. Delicious food and excellent service make it ideal for family vacations.",
+  "location": {
+    "city": "Faridabad",
+    "region": "Delhi NCR",
+    "points_of_interest": [
+      {
+        "name": "Khori Jamalpur Jheel",
+        "distance_km": 4.2
+      },
+      {
+        "name": "Mini Ladakh",
+        "distance_km": 4.5
+      },
+      {
+        "name": "Raja Nahar Palace",
+        "distance_km": 15.5
+      },
+      {
+        "name": "Damdama Lake",
+        "distance_km": 17.4
+      },
+      {
+        "name": "The Garden of Five Senses",
+        "distance_km": 34
+      }
+    ],
+    "latitude": 28.3150123,
+    "longitude": 77.188384
+  },
+  "capacity": {
+    "standard_occupancy": 4,
+    "maximum_occupancy": 4,
+    "guests": 4,
+    "bedrooms": 2,
+    "beds": 2,
+    "bathrooms": 2
+  },
+  "pricing": null,
+  "rooms": [
+    {
+      "name": "Bedroom 1",
+      "floor": null,
+      "size_sqft": null,
+      "bed_type": "King",
+      "features": null,
+      "attached_bathroom": null
+    },
+    {
+      "name": "Bedroom 2",
+      "floor": null,
+      "size_sqft": null,
+      "bed_type": "King",
+      "features": null,
+      "attached_bathroom": null
+    }
+  ],
+  "amenities": [
+    "Bed linen",
+    "Extra pillows and blankets",
+    "Hangers",
+    "Iron",
+    "TV",
+    "Wifi",
+    "Indoor games",
+    "Books and Reading Material",
+    "Fire extinguisher",
+    "First aid kit",
+    "Airconditioning",
+    "Ceiling fan",
+    "Lift",
+    "Welcome basket",
+    "Eco-friendly hygiene kit",
+    "Loungers",
+    "Swimming pool",
+    "Restaurant",
+    "Gazebo",
+    "Wardrobe space",
+    "Housekeeping staff",
+    "Bathtub",
+    "Shower",
+    "Geyser",
+    "Jet spray",
+    "Western commode",
+    "Shampoo",
+    "Soap",
+    "Conditioner",
+    "Towels",
+    "Garden",
+    "Shower gel",
+    "Coffee sachets",
+    "Parking",
+    "Common pool"
+  ],
+  "outdoor_spaces": {
+    "pool": {
+      "private": false,
+      "jacuzzi": false
+    },
+    "garden": true,
+    "gazebo": true,
+    "other": [
+      "Common garden",
+      "Poolside gazebo",
+      "Reception",
+      "Restaurant",
+      "Game zone",
+      "Gym",
+      "Sauna room",
+      "Common pool",
+      "Gazebo",
+      "Living area",
+      "Library"
+    ]
+  },
+  "rules": {
+    "check_in": "2 PM",
+    "check_out": "11 AM",
+    "noise": "Keep noise levels reasonable, especially between 10 pm and 7 am; no loud parties or events.",
+    "smoking": "Smoking is strictly prohibited inside the villa. Designated smoking areas are available outdoors.",
+    "chewing_tobacco": "Strictly prohibited with no exceptions.",
+    "pets_allowed": true,
+    "pet_policy": {
+      "security_deposit_per_pet": {
+        "1 Pet": 10000,
+        "2 Pets": 15000
+      },
+      "sanitation_fee": {
+        "1BHK": 1000,
+        "2/3BHK": 2000,
+        "4/5BHK+": 3000,
+        "Prive Collection": 4000
+      },
+      "pool_restriction": "Pets are not allowed in the pool – A care charge of ₹10,000 will apply if this is overlooked."
+    },
+    "security_deposit": 8000,
+    "damage_responsibility": "Guests are responsible for any damages or breakages during their stay. Please report any incidents to the management promptly. Charges may apply for repairs or replacements.",
+    "cleanliness": "Please keep the villa clean, use the designated trash bins and avoid littering the property.",
+    "safety_security": "Lock all doors and windows when leaving. We will not be responsible for any loss or theft of personal belongings.",
+    "occupancy_limits": "Follow maximum occupancy limits. Additional guests need prior approval."
+  },
+  "contact_info": null,
+  "coordinates": {
+    "latitude": 28.3150123,
+    "longitude": 77.188384
+  },
+  "spaces": [
+    {
+      "description": "1.5-acre garden with seating capacity of 30 people",
+      "details": [
+        "1.5-acre garden with seating capacity of 30 people"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/8_G9_A1175_5fcb997d94.jpg"
+      ],
+      "title": "Common garden"
+    },
+    {
+      "description": "Relaxed seating spot under the shade",
+      "details": [
+        "Relaxed seating spot under the shade"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/8_G9_A1169_c8aed1847a.jpg"
+      ],
+      "title": "Poolside gazebo"
+    },
+    {
+      "description": "Outdoor seating setup for relaxed gatherings",
+      "details": [
+        "Outdoor seating setup for relaxed gatherings"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/8_G9_A0614_0d083bf83a.jpg"
+      ],
+      "title": "Garden"
+    },
+    {
+      "description": "Welcoming space with cosy seating at the entrance",
+      "details": [
+        "Welcoming space with cosy seating at the entrance"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/8_G9_A0927_a1f64f6f95.jpg"
+      ],
+      "title": "Reception"
+    },
+    {
+      "description": "Spacious dining with cushioned seating for 60",
+      "details": [
+        "Spacious dining with cushioned seating for 60"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/8_G9_A0964_7cf04de78c.jpg"
+      ],
+      "title": "Restaurant"
+    },
+    {
+      "description": "Relax with chess, pool & more in a lively setting",
+      "details": [
+        "Relax with chess, pool & more in a lively setting"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/8_G9_A0958_b189e7360a.jpg"
+      ],
+      "title": "Game zone"
+    },
+    {
+      "description": "180 sq. ft fitness space with modern equipment",
+      "details": [
+        "180 sq. ft fitness space with modern equipment"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/8_G9_A0942_5a0d67c223.jpg"
+      ],
+      "title": "Gym"
+    },
+    {
+      "description": "Relaxing space designed for warmth and rejuvenation",
+      "details": [
+        "Relaxing space designed for warmth and rejuvenation"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/2_V7_A0110_42ee2d5067.jpg"
+      ],
+      "title": "Sauna room"
+    },
+    {
+      "description": "Outdoor pool with loungers, deck seating & views",
+      "details": [
+        "Outdoor pool with loungers, deck seating & views"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/8_G9_A1200_7c10b59323.jpg"
+      ],
+      "title": "Common pool"
+    },
+    {
+      "description": "Closed seating area with comfortable seating",
+      "details": [
+        "Closed seating area with comfortable seating"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/8_G9_A1170_ecc0220585.jpg"
+      ],
+      "title": "Gazebo"
+    },
+    {
+      "description": "A cosy living room with comfortable seating",
+      "details": [
+        "A cosy living room with comfortable seating"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/8_G9_A0581_e849631001.jpg"
+      ],
+      "title": "Living area"
+    },
+    {
+      "description": "Lounge-style space with sofas, chairs & bookshelves",
+      "details": [
+        "Lounge-style space with sofas, chairs & bookshelves"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/K81_A4408_88ef6fce64.jpg"
+      ],
+      "title": "Library"
+    },
+    {
+      "description": "1 king-sized bed",
+      "details": [
+        "1 king-sized bed"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/8_G9_A0547_882f0218a4.jpg"
+      ],
+      "title": "Bedroom 1"
+    },
+    {
+      "description": "1 king-sized bed",
+      "details": [
+        "1 king-sized bed"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/8_G9_A0562_d970d1445f.jpg"
+      ],
+      "title": "Bedroom 2"
+    }
+  ],
+  "villa_snapshot": [
+    "Property snapshot",
+    "Close to Khori Jamalpur Jheel and Mini Ladakh, this 2-BHK villa in a peaceful forest resort offers the perfect retreat to explore nature and culture in complete comfort.",
+    "Tucked away in the heart of the forest, the property blends rustic charm with modern ease. Surrounded by lush gardens and plantations of fruits and vegetables, it carries a refreshing farm-to-table appeal. With wide lawns, open greenery, and a serene natural setting, it’s ideal for family escapes, intimate getaways, or grand celebrations and events.",
+    "The rooms are warm and inviting, featuring king-size beds, soft lighting, elegant décor, and windows opening to tranquil forest views. Each ensuite bathroom comes with modern fittings, showers, and organic toiletries, ensuring both comfort and care. The living spaces flow with natural light, cosy sofas, cushioned chairs, and curated art—perfect for relaxed conversations or quiet downtime.",
+    "Guests can enjoy the vibrant reception lounge, dine in style at the 60-seater restaurant with indoor and scenic outdoor seating, or unwind in the library with plush seating and a collection of books. Leisure comes alive with a dedicated game zone, a gym and sauna for wellness, and a beautiful swimming pool framed by palm trees, stone pathways, and a spacious deck. The poolside gazebo adds a laid-back charm, offering the perfect spot to unwind with garden and cottage views.",
+    "Trained under the ethos of Atithi Devo Bhava, our hospitality team ensures every guest feels deeply cared for. Every corner of the resort is designed for relaxation, from its music-filled common areas to its peaceful outdoor garden spaces.",
+    "Bedrooms",
+    "Bedroom 1",
+    "One king-sized bed | Ensuite bathroom | 182 sq. ft. | Ceiling fan | AC unit | Wall-mounted lamps | Bed light fixture | Corner table with lamp | Wall-mounted scenery painting | Window alcove | Wardrobes | Classy mirror | Forest view | Located on the ground floor",
+    "Bathroom 1",
+    "Shower | Geyser | Hand bidet spray | Organic toiletries | Towels | Western commode",
+    "Bedroom 2",
+    "One king-sized bed | Ensuite bathroom | 182 sq. ft. | Ceiling fan | AC unit | Wall-mounted lamps | Bed light fixture | Corner table with lamp | Wall-mounted scenery painting | Window alcove | Wardrobes | Classy mirror | Forest view | Located on the ground floor",
+    "Bathroom 2",
+    "Shower | Geyser | Hand bidet spray | Organic toiletries | Towels | Western commode |",
+    "Living room",
+    "552 sq. ft. | AC unit | Ceiling fan | 3-seater sofa with centre table | Comfortable cushioned chairs | Wall-mounted decorative art | Curtains for privacy and light control | Sideboard cabinet | Ambient ghting fixtures | Large windows for natural light | Window seating with cushions | Round coffee table | Sheer curtains for natural light and privacy | Wall-mounted decorative lighting | Wall décor | Rug under the table | Located on the ground floor",
+    "Garden",
+    "Outdoor seating setup | round table with glass top | four wicker-style chairs | natural lawn space | dense creeper wall backdrop | multiple trees and plants.",
+    "Reception",
+    "400 sq. ft. | Sofa sets & chairs (18 pax) | 2 AC units | Ceiling fans | Music system | Nearby powder room | 2 common washrooms | Located on the ground floor | Vibrant décor with accent walls | Friendly staff assistance | Natural light & ambient lighting",
+    "Restaurant",
+    "464 sq. ft. | Cushioned chairs (60 pax) | 3 AC units | Ceiling fans | Music system | Elegant wooden ceiling | Modern chandeliers | Large glass windows with garden view | Outside seating available with scenic views | Neat table setup with crockery & cutlery | Green décor accents on walls",
+    "Library",
+    "500 sq. ft. | Sofa sets & chairs (25 pax) | 2 AC units | Ceiling fans | Music system | Cosy lounge seating | Stylish bookshelf with décor & books | Modern chandelier lighting | Glass-top tables with planters | Wooden ceiling with warm ambience | Natural light through frosted windows",
+    "Game zone",
+    "400 sq. ft. | TV | Sofa sets & chairs (10 pax) | 2 ACs | Ceiling fans | Music system | Indoor games like chess and pool | Comfortable seating with green chairs | Wooden flooring & ceiling | Glass walls with natural views",
+    "Gym",
+    "180 sq. ft. | Ceiling fans | Music system | Located on the ground floor | Gym equipment: punching bag | Exercise cycle | Elliptical trainer | Workout bench | Yoga mat & stability ball | Hula hoops | AC unit | Glass wall with garden view",
+    "Sauna room",
+    "Built-in bench seating | Warm, ambient lighting | Temperature & humidity gauge on the wall | Wooden water bucket with ladle | Digital control panel outside for easy operation",
+    "Note: The sauna room is available at an additional cost.",
+    "Outdoor swimming pool",
+    "Area 840 sq. ft. | Depth: 5 ft. | Loungers | Tiled, spacious deck for walking or seating | Steps for easy access | Freeform shape with curved edges | Palm trees | Ornamental shrubs | Grass borders | Stone-tiled pathways around pool | Natural, greenery-rich surroundings",
+    "Gazebo",
+    "Outdoor seating area | Hanging lamp | Pergola-style roof | Poolside seating | Leather chairs + round table | Greenery & cottage view | Stone flooring",
+    "Garden",
+    "Size: 65,340 sq. ft. (1.5 acres) | Natural grass lawn | Outdoor seating areas with tables and chairs | Seating capacity: 30 people | Outdoor sports equipment | Paved walkway with lamp posts | Garden with trees, palms, and plants | Decorative lighting along path | Open lawn area suitable for gatherings/events",
+    "Show Less"
+  ],
+  "description_sections": [
+    {
+      "bullets": [],
+      "heading": "Overview",
+      "paragraphs": [
+        "Close to Khori Jamalpur Jheel and Mini Ladakh, this 2-BHK villa in a peaceful forest resort offers the perfect retreat to explore nature and culture in complete comfort.",
+        "Tucked away in the heart of the forest, the property blends rustic charm with modern ease. Surrounded by lush gardens and plantations of fruits and vegetables, it carries a refreshing farm-to-table appeal. With wide lawns, open greenery, and a serene natural setting, it’s ideal for family escapes, intimate getaways, or grand celebrations and events.",
+        "The rooms are warm and inviting, featuring king-size beds, soft lighting, elegant décor, and windows opening to tranquil forest views. Each ensuite bathroom comes with modern fittings, showers, and organic toiletries, ensuring both comfort and care. The living spaces flow with natural light, cosy sofas, cushioned chairs, and curated art—perfect for relaxed conversations or quiet downtime.",
+        "Guests can enjoy the vibrant reception lounge, dine in style at the 60-seater restaurant with indoor and scenic outdoor seating, or unwind in the library with plush seating and a collection of books. Leisure comes alive with a dedicated game zone, a gym and sauna for wellness, and a beautiful swimming pool framed by palm trees, stone pathways, and a spacious deck. The poolside gazebo adds a laid-back charm, offering the perfect spot to unwind with garden and cottage views.",
+        "Trained under the ethos of Atithi Devo Bhava, our hospitality team ensures every guest feels deeply cared for. Every corner of the resort is designed for relaxation, from its music-filled common areas to its peaceful outdoor garden spaces."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Bedrooms — Bedroom 1",
+      "paragraphs": [
+        "One king-sized bed | Ensuite bathroom | 182 sq. ft. | Ceiling fan | AC unit | Wall-mounted lamps | Bed light fixture | Corner table with lamp | Wall-mounted scenery painting | Window alcove | Wardrobes | Classy mirror | Forest view | Located on the ground floor"
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Bathroom 1",
+      "paragraphs": [
+        "Shower | Geyser | Hand bidet spray | Organic toiletries | Towels | Western commode"
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Bedroom 2",
+      "paragraphs": [
+        "One king-sized bed | Ensuite bathroom | 182 sq. ft. | Ceiling fan | AC unit | Wall-mounted lamps | Bed light fixture | Corner table with lamp | Wall-mounted scenery painting | Window alcove | Wardrobes | Classy mirror | Forest view | Located on the ground floor"
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Bathroom 2",
+      "paragraphs": [
+        "Shower | Geyser | Hand bidet spray | Organic toiletries | Towels | Western commode |"
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Living room",
+      "paragraphs": [
+        "552 sq. ft. | AC unit | Ceiling fan | 3-seater sofa with centre table | Comfortable cushioned chairs | Wall-mounted decorative art | Curtains for privacy and light control | Sideboard cabinet | Ambient ghting fixtures | Large windows for natural light | Window seating with cushions | Round coffee table | Sheer curtains for natural light and privacy | Wall-mounted decorative lighting | Wall décor | Rug under the table | Located on the ground floor"
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Garden",
+      "paragraphs": [
+        "Outdoor seating setup | round table with glass top | four wicker-style chairs | natural lawn space | dense creeper wall backdrop | multiple trees and plants."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Reception",
+      "paragraphs": [
+        "400 sq. ft. | Sofa sets & chairs (18 pax) | 2 AC units | Ceiling fans | Music system | Nearby powder room | 2 common washrooms | Located on the ground floor | Vibrant décor with accent walls | Friendly staff assistance | Natural light & ambient lighting"
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Restaurant",
+      "paragraphs": [
+        "464 sq. ft. | Cushioned chairs (60 pax) | 3 AC units | Ceiling fans | Music system | Elegant wooden ceiling | Modern chandeliers | Large glass windows with garden view | Outside seating available with scenic views | Neat table setup with crockery & cutlery | Green décor accents on walls"
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Library",
+      "paragraphs": [
+        "500 sq. ft. | Sofa sets & chairs (25 pax) | 2 AC units | Ceiling fans | Music system | Cosy lounge seating | Stylish bookshelf with décor & books | Modern chandelier lighting | Glass-top tables with planters | Wooden ceiling with warm ambience | Natural light through frosted windows"
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Game zone",
+      "paragraphs": [
+        "400 sq. ft. | TV | Sofa sets & chairs (10 pax) | 2 ACs | Ceiling fans | Music system | Indoor games like chess and pool | Comfortable seating with green chairs | Wooden flooring & ceiling | Glass walls with natural views"
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Gym",
+      "paragraphs": [
+        "180 sq. ft. | Ceiling fans | Music system | Located on the ground floor | Gym equipment: punching bag | Exercise cycle | Elliptical trainer | Workout bench | Yoga mat & stability ball | Hula hoops | AC unit | Glass wall with garden view"
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Sauna room",
+      "paragraphs": [
+        "Built-in bench seating | Warm, ambient lighting | Temperature & humidity gauge on the wall | Wooden water bucket with ladle | Digital control panel outside for easy operation",
+        "Note: The sauna room is available at an additional cost."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Outdoor swimming pool",
+      "paragraphs": [
+        "Area 840 sq. ft. | Depth: 5 ft. | Loungers | Tiled, spacious deck for walking or seating | Steps for easy access | Freeform shape with curved edges | Palm trees | Ornamental shrubs | Grass borders | Stone-tiled pathways around pool | Natural, greenery-rich surroundings"
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Gazebo",
+      "paragraphs": [
+        "Outdoor seating area | Hanging lamp | Pergola-style roof | Poolside seating | Leather chairs + round table | Greenery & cottage view | Stone flooring"
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Garden",
+      "paragraphs": [
+        "Size: 65,340 sq. ft. (1.5 acres) | Natural grass lawn | Outdoor seating areas with tables and chairs | Seating capacity: 30 people | Outdoor sports equipment | Paved walkway with lamp posts | Garden with trees, palms, and plants | Decorative lighting along path | Open lawn area suitable for gatherings/events"
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Overview",
+      "paragraphs": [
+        "Bedrooms"
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Overview",
+      "paragraphs": [
+        "Enjoy a selection of veg and non-veg meals during your stay."
+      ]
+    },
+    {
+      "bullets": [
+        "Guests are not allowed to access the kitchen.",
+        "A chef-on-call service is available"
+      ],
+      "heading": "Additional features",
+      "paragraphs": []
+    },
+    {
+      "bullets": [],
+      "heading": "Overview",
+      "paragraphs": [
+        "Check-in Instructions: Check-in: 2 PM | Check-out: 11 AM",
+        "Refund Policy: For cancellations that comply with our policy terms, refunds will be processed as per the details below:",
+        "1. Refunds are only available if the full payment has been made; partial payments are non-refundable.",
+        "2. Refunds will be processed within 7-9 days post cancellation request.",
+        "3. Refunds are only available if the full payment has been made; partial payments are non-refundable.",
+        "**Refunds will be processed within 7-9 days post-cancellation request.",
+        "Security Deposit Amount: 8,000",
+        "Security Deposit Refund Policy: Refunds will be processed within 4-7 working days after property inspection. Your adherence to this timeline is appreciated.",
+        "Noise & disturbances: Keep noise levels reasonable, especially between 10 pm and 7 am; no loud parties or events.",
+        "Smoking: Smoking is strictly prohibited inside the villa. Designated smoking areas are available outdoors.",
+        "Chewing tobacco: Strictly prohibited with no exceptions.",
+        "Pets: Pets are allowed on the property.",
+        "*Pet Friendly Property | Pet Policy*",
+        "Pets Are Family – And They’re Welcome Here!",
+        "We’re thrilled to host your furry friends at our pet-friendly homes. To ensure a safe and comfortable stay for all, here’s everything you need to know:",
+        "Pet Security Deposit",
+        "• 1 Pet – ₹10,000 (Refundable)",
+        "• 2 Pets – ₹15,000 (Refundable)",
+        "Collected in addition to the standard security deposit.",
+        "Pet Sanitation Fee (One-time, collected at check-in)",
+        "• 1BHK – ₹1,000",
+        "• 2/3BHK – ₹2,000",
+        "• 4/5BHK+ – ₹3,000",
+        "• Prive Collection – ₹4,000"
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Kindly Note",
+      "paragraphs": [
+        "• Pets are not allowed in the pool – A care charge of ₹10,000 will apply if this is overlooked.",
+        "• Clean-up is your responsibility – Please pick up after your pets.",
+        "• Damages, if any, will be charged at actuals.",
+        "We love pets—and we’re so glad you brought yours along! Thank you for helping us keep our spaces clean, safe, and welcoming for everyone",
+        "Occupancy: Follow maximum occupancy limits. Additional guests need prior approval.",
+        "Damages: Guests are responsible for any damages or breakages during their stay. Please report any incidents to the management promptly. Charges may apply for repairs or replacements.",
+        "Cleanliness: Please keep the villa clean, use the designated trash bins and avoid littering the property.",
+        "Safety & security: Lock all doors and windows when leaving. We will not be responsible for any loss or theft of personal belongings.",
+        "Amenities & facilities: Use the provided amenities responsibly and adhere to any posted guidelines.",
+        "Compliance: Follow local laws and regulations. Illegal activities will result in eviction and potential legal action.",
+        "Upkeep: Daily cleaning is compulsory. Kindly cooperate with our housekeeping team.",
+        "Standard occupancy: 4 guests​",
+        "Maximum occupancy: 4 guests (Additional charges apply for extra guests beyond standard occupancy.)"
+      ]
+    },
+    {
+      "bullets": [
+        "Khori Jamalpur Jheel - 4.2 km",
+        "Mini Ladakh - 4.5 km",
+        "Raja Nahar Palace - 15.5 km",
+        "Damdama Lake - 17.4 km",
+        "The Garden of Five Senses - 34 km"
+      ],
+      "heading": "Overview",
+      "paragraphs": []
+    }
+  ],
+  "images": [
+    "https://cpjlcwamma.cloudimg.io/DJI_20250825183910_0135_D_9f661a1695.jpg",
+    "https://cpjlcwamma.cloudimg.io/DJI_20250825183815_0134_D_412c4ae6b6.jpg",
+    "https://cpjlcwamma.cloudimg.io/DJI_20250824174046_0101_D_f95d322299.jpg",
+    "https://cpjlcwamma.cloudimg.io/ELIVAAS_CARD_25be846f0f.jpg",
+    "https://cpjlcwamma.cloudimg.io/8_G9_A0617_0d255cab62.jpg"
+  ],
+  "image_count": 5
+}

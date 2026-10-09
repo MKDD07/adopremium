@@ -1,0 +1,17 @@
+{
+  "id": 29,
+  "slug": "ranikhet",
+  "name": "Ranikhet",
+  "villa_count": 1,
+  "villas": [
+    {
+      "id": 584,
+      "slug": "snowpeak-3-bhk",
+      "name": "Snowpeak 3 BHK",
+      "url": "https://www.elivaas.com/villa-in-ranikhet/snowpeak-3-bhk"
+    }
+  ],
+  "state_name": "Uttarakhand",
+  "state_slug": "uttarakhand",
+  "hero": "ranikhet pine forests pine view villa"
+}

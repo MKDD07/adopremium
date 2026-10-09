@@ -1,0 +1,77 @@
+{
+  "id": 8,
+  "slug": "dehradun",
+  "name": "Dehradun",
+  "villa_count": 11,
+  "villas": [
+    {
+      "id": 78,
+      "slug": "serenita-abode-3bhk-villa-with-pool",
+      "name": "Serenita Abode 3BHK Villa with Pool",
+      "url": "https://www.elivaas.com/villa-in-dehradun/serenita-abode-3bhk-villa-with-pool"
+    },
+    {
+      "id": 79,
+      "slug": "the-kimadi-house-4-bhk-english-style-villa-with-rooftop",
+      "name": "The Kimadi House 4 BHK English Style Villa with Rooftop",
+      "url": "https://www.elivaas.com/villa-in-dehradun/the-kimadi-house-4-bhk-english-style-villa-with-rooftop"
+    },
+    {
+      "id": 80,
+      "slug": "alora-in-the-hills-dewfall-pet-friendly-1-bhk-with-jacuzzi",
+      "name": "Alora in the Hills Dewfall Pet Friendly 1 BHK with Jacuzzi",
+      "url": "https://www.elivaas.com/villa-in-dehradun/alora-in-the-hills-dewfall-pet-friendly-1-bhk-with-jacuzzi"
+    },
+    {
+      "id": 81,
+      "slug": "alora-in-the-hills-1-bhk",
+      "name": "Alora in the Hills 1 BHK",
+      "url": "https://www.elivaas.com/villa-in-dehradun/alora-in-the-hills-1-bhk"
+    },
+    {
+      "id": 82,
+      "slug": "alora-in-the-hills-two-1-bhk-and-a-2-bhk-with-jacuzzi",
+      "name": "Alora in the Hills Two 1 BHK and a 2 BHK with Jacuzzi",
+      "url": "https://www.elivaas.com/villa-in-dehradun/alora-in-the-hills-two-1-bhk-and-a-2-bhk-with-jacuzzi"
+    },
+    {
+      "id": 83,
+      "slug": "alora-in-the-hills-cloudveil-pet-friendly-2-bhk-with-jacuzzi",
+      "name": "Alora in the Hills Cloudveil Pet Friendly 2 BHK with Jacuzzi",
+      "url": "https://www.elivaas.com/villa-in-dehradun/alora-in-the-hills-cloudveil-pet-friendly-2-bhk-with-jacuzzi"
+    },
+    {
+      "id": 84,
+      "slug": "baramasa-3bhk-villa-with-private-pool-in-dehradun",
+      "name": "Baramasa 3BHK Villa with Private Pool in Dehradun",
+      "url": "https://www.elivaas.com/villa-in-dehradun/baramasa-3bhk-villa-with-private-pool-in-dehradun"
+    },
+    {
+      "id": 85,
+      "slug": "kalyan-mansion-cosmos-3-bhk",
+      "name": "Kalyan Mansion Cosmos 3 BHK",
+      "url": "https://www.elivaas.com/villa-in-dehradun/kalyan-mansion-cosmos-3-bhk"
+    },
+    {
+      "id": 86,
+      "slug": "kalyan-mansion-primrose",
+      "name": "Kalyan Mansion Primrose",
+      "url": "https://www.elivaas.com/villa-in-dehradun/kalyan-mansion-primrose"
+    },
+    {
+      "id": 87,
+      "slug": "rahta-3bhk-villa-in-dehradun",
+      "name": "Rahta 3BHK Villa in Dehradun",
+      "url": "https://www.elivaas.com/villa-in-dehradun/rahta-3bhk-villa-in-dehradun"
+    },
+    {
+      "id": 88,
+      "slug": "sky-paradise-3bhk-villa-in-dehradun",
+      "name": "Sky Paradise 3BHK Villa in Dehradun",
+      "url": "https://www.elivaas.com/villa-in-dehradun/sky-paradise-3bhk-villa-in-dehradun"
+    }
+  ],
+  "state_name": "Uttarakhand",
+  "state_slug": "uttarakhand",
+  "hero": "dehradun hills doon valley luxury villa"
+}

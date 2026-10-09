@@ -1,0 +1,59 @@
+{
+  "id": 7,
+  "slug": "coorg",
+  "name": "Coorg",
+  "villa_count": 8,
+  "villas": [
+    {
+      "id": 70,
+      "slug": "tranquility-5bhk-villa-with-pool",
+      "name": "Tranquility 5BHK Villa with Pool",
+      "url": "https://www.elivaas.com/villa-in-coorg/tranquility-5bhk-villa-with-pool"
+    },
+    {
+      "id": 71,
+      "slug": "avocado-cottages-cozy-room-pet-friendly-garden-suite",
+      "name": "Avocado Cottages Cozy Room Pet Friendly Garden Suite",
+      "url": "https://www.elivaas.com/villa-in-coorg/avocado-cottages-cozy-room-pet-friendly-garden-suite"
+    },
+    {
+      "id": 72,
+      "slug": "avocado-cottages-deluxe-room-pet-friendly-stay",
+      "name": "Avocado Cottages Deluxe Room Pet Friendly Stay",
+      "url": "https://www.elivaas.com/villa-in-coorg/avocado-cottages-deluxe-room-pet-friendly-stay"
+    },
+    {
+      "id": 73,
+      "slug": "avocado-cottages-executive-room-pet-friendly-stay",
+      "name": "Avocado Cottages Executive Room Pet Friendly Stay",
+      "url": "https://www.elivaas.com/villa-in-coorg/avocado-cottages-executive-room-pet-friendly-stay"
+    },
+    {
+      "id": 74,
+      "slug": "avocado-cottages-premium-suite-pet-friendly-stay",
+      "name": "Avocado Cottages Premium Suite Pet Friendly Stay",
+      "url": "https://www.elivaas.com/villa-in-coorg/avocado-cottages-premium-suite-pet-friendly-stay"
+    },
+    {
+      "id": 75,
+      "slug": "twisted-tree-another-1-premium-room-with-shared-pool",
+      "name": "Twisted Tree Another 1 Premium Room with Shared Pool",
+      "url": "https://www.elivaas.com/villa-in-coorg/twisted-tree-another-1-premium-room-with-shared-pool"
+    },
+    {
+      "id": 76,
+      "slug": "twisted-tree-together-2-bhk-pet-friendly-villa-with-shared-pool",
+      "name": "Twisted Tree Together 2 BHK Pet Friendly Villa with Shared Pool",
+      "url": "https://www.elivaas.com/villa-in-coorg/twisted-tree-together-2-bhk-pet-friendly-villa-with-shared-pool"
+    },
+    {
+      "id": 77,
+      "slug": "twisted-tree-1-room-suite-pet-friendly-suite-with-shared-pool",
+      "name": "Twisted Tree 1 Room Suite Pet Friendly Suite with Shared Pool",
+      "url": "https://www.elivaas.com/villa-in-coorg/twisted-tree-1-room-suite-pet-friendly-suite-with-shared-pool"
+    }
+  ],
+  "state_name": "Karnataka",
+  "state_slug": "karnataka",
+  "hero": "coorg coffee plantation luxury estate resort"
+}

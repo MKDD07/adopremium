@@ -1,0 +1,550 @@
+{
+  "title": "Royce Cottage | Luxe Hilltop 4-BHK Retreat With Indoor Bar, Terrace, Clubhouse, & Scenic Views",
+  "summary": "Beautiful location surrounded by nature, perfect for a peaceful escape.",
+  "location": {
+    "city": "Kasauli",
+    "region": null,
+    "points_of_interest": [
+      {
+        "name": "Kasauli Church",
+        "distance_km": 5.7
+      },
+      {
+        "name": "Kasauli Mall Road",
+        "distance_km": 5.8
+      },
+      {
+        "name": "Manki Point",
+        "distance_km": 9.4
+      }
+    ],
+    "latitude": 30.8787323,
+    "longitude": 76.9819662
+  },
+  "capacity": {
+    "standard_occupancy": 8,
+    "maximum_occupancy": 10,
+    "guests": 10,
+    "bedrooms": 4,
+    "beds": 4,
+    "bathrooms": 5
+  },
+  "pricing": null,
+  "rooms": [
+    {
+      "name": "Club House",
+      "floor": null,
+      "size_sqft": null,
+      "bed_type": null,
+      "features": "peaceful escape with a serene pool, elegant bar",
+      "attached_bathroom": null
+    },
+    {
+      "name": "Lounge Den",
+      "floor": null,
+      "size_sqft": null,
+      "bed_type": null,
+      "features": "Cosy lounge with L-shaped sofa & statement table",
+      "attached_bathroom": null
+    },
+    {
+      "name": "Sky Deck",
+      "floor": null,
+      "size_sqft": null,
+      "bed_type": null,
+      "features": "Spacious terrace with panoramic views",
+      "attached_bathroom": null
+    },
+    {
+      "name": "Indoor bar",
+      "floor": null,
+      "size_sqft": null,
+      "bed_type": null,
+      "features": "Stylish indoor bar for leisurely evenings",
+      "attached_bathroom": null
+    },
+    {
+      "name": "The Golden Pavillion",
+      "floor": null,
+      "size_sqft": null,
+      "bed_type": null,
+      "features": "Elegant decor with chandelier and scenic hill views",
+      "attached_bathroom": null
+    },
+    {
+      "name": "Dining area",
+      "floor": null,
+      "size_sqft": null,
+      "bed_type": null,
+      "features": "Chic setup with teal bench & floral chairs",
+      "attached_bathroom": null
+    },
+    {
+      "name": "Kitchen",
+      "floor": null,
+      "size_sqft": null,
+      "bed_type": null,
+      "features": "Modern kitchen with top appliances",
+      "attached_bathroom": null
+    },
+    {
+      "name": "Solana Manor",
+      "floor": null,
+      "size_sqft": null,
+      "bed_type": "king-sized",
+      "features": null,
+      "attached_bathroom": null
+    },
+    {
+      "name": "Monte Suite",
+      "floor": null,
+      "size_sqft": null,
+      "bed_type": "king-sized",
+      "features": null,
+      "attached_bathroom": null
+    },
+    {
+      "name": "Celestial Chamber",
+      "floor": null,
+      "size_sqft": null,
+      "bed_type": "king-sized",
+      "features": null,
+      "attached_bathroom": null
+    },
+    {
+      "name": "Alpine Lodge",
+      "floor": null,
+      "size_sqft": null,
+      "bed_type": "king-sized",
+      "features": null,
+      "attached_bathroom": null
+    }
+  ],
+  "amenities": [
+    "TV",
+    "Wifi",
+    "Speaker",
+    "Indoor games",
+    "CCTV",
+    "Fire extinguisher",
+    "First aid kit",
+    "Terrace",
+    "Airconditioning",
+    "Ceiling fan",
+    "Eco-friendly hygiene kit",
+    "Bar",
+    "Common pool",
+    "Gas cooktop",
+    "Induction",
+    "Crockery",
+    "Cutlery",
+    "Water purifier/RO",
+    "Coffee sachets",
+    "Rice Cooker",
+    "Chef on Call",
+    "Dining Table",
+    "Refrigerator",
+    "Microwave",
+    "Kettle",
+    "Oven",
+    "Bed linen",
+    "Extra pillows and blankets",
+    "Hangers",
+    "Iron",
+    "Housekeeping staff",
+    "Powder room",
+    "Towels",
+    "Hot water",
+    "Shower",
+    "Jet spray",
+    "Western commode",
+    "Shampoo",
+    "Soap",
+    "Conditioner",
+    "Wardrobe space",
+    "Hair dryer",
+    "Shower gel",
+    "Parking"
+  ],
+  "outdoor_spaces": {
+    "pool": {
+      "private": true,
+      "jacuzzi": false
+    },
+    "garden": false,
+    "gazebo": false,
+    "other": []
+  },
+  "rules": {
+    "check_in": "2 PM",
+    "check_out": "10 AM",
+    "noise": "Keep noise levels reasonable; no loud parties or events after 10 PM.",
+    "smoking": "Smoking is strictly prohibited inside the villa. Designated smoking areas are available outdoors.",
+    "chewing_tobacco": "Strictly prohibited with no exceptions.",
+    "pets_allowed": false,
+    "pet_policy": null,
+    "security_deposit": 15000,
+    "damage_responsibility": "Guests are responsible for any damages or breakages during their stay.",
+    "cleanliness": "Please keep the villa clean, use the designated trash bins and avoid littering the property.",
+    "safety_security": "Lock all doors and windows when leaving. We will not be responsible for any loss or theft of personal belongings.",
+    "occupancy_limits": "Follow maximum occupancy limits. Additional guests need prior approval."
+  },
+  "contact_info": null,
+  "coordinates": {
+    "latitude": 30.8787323,
+    "longitude": 76.9819662
+  },
+  "spaces": [
+    {
+      "description": "A peaceful escape with a serene pool, elegant bar",
+      "details": [
+        "A peaceful escape with a serene pool, elegant bar"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/P1038557_e00deb9585.jpg"
+      ],
+      "title": "Club House"
+    },
+    {
+      "description": "Cosy lounge with L-shaped sofa & statement table",
+      "details": [
+        "Cosy lounge with L-shaped sofa & statement table"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/DSC_06382_80a28232fd.webp"
+      ],
+      "title": "Lounge Den"
+    },
+    {
+      "description": "Spacious terrace with panoramic views",
+      "details": [
+        "Spacious terrace with panoramic views"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/DSC_06335_ae25da1ba6.webp"
+      ],
+      "title": "Sky Deck"
+    },
+    {
+      "description": "Stylish indoor bar for leisurely evenings",
+      "details": [
+        "Stylish indoor bar for leisurely evenings"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/DSC_06297_HDR_53bc0bd5ee.webp"
+      ],
+      "title": "Indoor bar"
+    },
+    {
+      "description": "Elegant decor with chandelier and scenic hill views",
+      "details": [
+        "Elegant decor with chandelier and scenic hill views"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/DSC_06256_08fc72f12f.webp"
+      ],
+      "title": "The Golden Pavillion"
+    },
+    {
+      "description": "Chic setup with teal bench & floral chairs",
+      "details": [
+        "Chic setup with teal bench & floral chairs"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/DSC_06466_d6a6dc0dff.webp"
+      ],
+      "title": "Dining area"
+    },
+    {
+      "description": "Modern kitchen with top appliances",
+      "details": [
+        "Modern kitchen with top appliances"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/DSC_06473_84bcc33d93.webp"
+      ],
+      "title": "Kitchen"
+    },
+    {
+      "description": "1 king-sized bed",
+      "details": [
+        "1 king-sized bed"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/DSC_06393_c63677d23a.webp"
+      ],
+      "title": "Solana Manor"
+    },
+    {
+      "description": "1 king-sized bed",
+      "details": [
+        "1 king-sized bed"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/DSC_06368_2a8fb1cc4f.webp"
+      ],
+      "title": "Monte Suite"
+    },
+    {
+      "description": "1 king-sized bed",
+      "details": [
+        "1 king-sized bed"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/DSC_06436_42c679893b.webp"
+      ],
+      "title": "Celestial Chamber"
+    },
+    {
+      "description": "1 king-sized bed",
+      "details": [
+        "1 king-sized bed"
+      ],
+      "images": [
+        "https://cpjlcwamma.cloudimg.io/DSC_06349_56bdde034f.webp"
+      ],
+      "title": "Alpine Lodge"
+    }
+  ],
+  "villa_snapshot": [
+    "Villa snapshot",
+    "Tucked within a serene, gated hillside enclave, this luxe 4-BHK cottage is designed for those who find joy in quiet luxury and thoughtful details!",
+    "Surrounded by pine-covered slopes and panoramic valley vistas, it blends Alpine-inspired architecture with natural stone elements that mirror the landscape. Cobbled pathways, bordered by manicured planters lead to the entrance, softly lit by old-world street lamps that set a calming tone.",
+    "Stepping indoors, the living room is anchored by a brown, tufted leather chesterfield sofa and teal wingback armchairs, radiating understated elegance. A statement crystal chandelier glimmers overhead, along with stylish decor and large windows.",
+    "The adjacent dining area features a tufted teal bench on one side of the table, paired with four floral-patterned high-back chairs on the other. The modern kitchen is outfitted with high-gloss taupe cabinetry, premium finishes, and state-of-the-art appliances.",
+    "The charming lounge area on the first floor boasts an L-shaped sofa and a uniquely shaped wooden coffee table, blending comfort with modern design. Floor-to-ceiling windows frame sweeping views from every bedroom, while the master bedroom on the first floor opens to a private balcony.",
+    "Beneath a sloped ceiling with exposed wooden beams, the indoor bar area is ideal for leisurely evenings. It features a dark wood counter, two cushioned black stools, a vibrant sofa and air conditioning for added comfort. Just beyond, the spacious terrace opens up to breathtaking 360° views of the surrounding hills, framed by a border of colourful flowers.",
+    "A premium clubhouse for peaceful escapes and memorable evenings, with a serene pool, elegant bar, and more for refined indulgence.",
+    "To elevate this experience, a dedicated 5-star hospitality team is always on hand, ready to assist with a warm smile and genuine care, embodying the true essence of \"Atithi Devo Bhava.\" From a butler and chef-on-call to a premium welcome basket and a thoughtful farewell gift, every detail is arranged to make guests feel cared for and pampered!",
+    "Indoor Bar",
+    "Beneath a sloped ceiling with exposed wooden beams, the indoor bar area features a dark wood counter, two cushioned black stools, a vibrant sofa and air conditioning for added comfort.",
+    "Sky Deck",
+    "The spacious terrace opens up to breathtaking 360° views of the surrounding hills, framed by a border of colourful flowers.",
+    "Lounge Den",
+    "The cosy lounge on the first floor boasts an L-shaped sofa and a uniquely shaped wooden coffee table, blending comfort with modern design.",
+    "The Golden Pavillion",
+    "The living room is anchored by a brown, tufted leather chesterfield sofa and teal wingback armchairs, radiating understated elegance. A statement crystal chandelier glimmers overhead, along with stylish decor and large windows, with a powder room nearby.",
+    "Bedroom 1 Solana Manor",
+    "A charming retreat on the first floor, this suite boasts panoramic views through floor-to-ceiling windows, an attached balcony, a four-poster king-sized bed, central hot & cold AC, a 62” TV, and an ensuite bathroom.",
+    "Bathroom 1",
+    "Designed with a shower, signature organic toiletries, plush towels, and a hairdryer.",
+    "Bedroom 2 Monte Suite",
+    "Framed by picturesque hill views, this serene retreat on the first floor offers a king-sized bed, a lounge chair with an ottoman, and an ensuite bathroom.",
+    "Bathroom 2",
+    "Features a shower, soft towels, a hairdryer, and premium organic essentials.",
+    "Bedroom 3 Celestial Chamber",
+    "Located on the ground floor, this suite boasts a king-sized bed, an ensuite bathroom, comfortable armchairs, and floor-to-ceiling windows that showcase the scenic hillside.",
+    "Bathroom 3",
+    "Equipped with a shower, soft towels, a hairdryer, and organic toiletries.",
+    "Bedroom 4 Alpine Lodge",
+    "Perched on the second floor, this cosy attic retreat features a king-sized bed, a slatted wooden ceiling, a floor-to-ceiling window with scenic views, and access to a shared bathroom.",
+    "Bathroom 4",
+    "Offers a shower, soft towels, premium toiletries, and a hairdryer.",
+    "Dining Delight",
+    "The modern kitchen is outfitted with high-gloss taupe cabinetry, premium finishes, and state-of-the-art appliances. The dining area features a tufted teal bench on one side of the table, paired with four floral-patterned high-back chairs on the other.",
+    "Clubhouse",
+    "Swimming Pool",
+    "Serene outdoor pool with clean, modern edges | Infinity-style waterline with scenic views | Lined with vibrant potted flowering plants | Calm, nature-facing pool setting | Indoor games: chess, mini table tennis | Ideal for relaxed dips and leisurely swims | Well-maintained pool and surroundings | Peaceful ambience with forested backdrop | Perfect spot for unwinding and photos | Poolside plush seating | Umbrella patios",
+    "Restaurant",
+    "Sophisticated indoor-outdoor dining and lounge experience featuring luxurious furnishings, designer interiors, warm ambient lighting, stylish seating arrangements, seamless open-air integration, elegant alfresco dining under the stars, inviting social spaces, and an exclusive rooftop lounge offering breathtaking panoramic mountain views.",
+    "Bar & restaurant",
+    "Elegant wooden bar counter with classic panel detailing | Backlit display shelves for bottles and glassware | Warm ambient lighting with vintage chandelier | Rich wooden ceiling with exposed beams | Textured stone-finish accent walls | Spacious bar frontage for smooth service flow | Premium, old-world lounge vibe | Intimate and upscale drinking experience",
+    "Show Less"
+  ],
+  "description_sections": [
+    {
+      "bullets": [],
+      "heading": "Overview",
+      "paragraphs": [
+        "Tucked within a serene, gated hillside enclave, this luxe 4-BHK cottage is designed for those who find joy in quiet luxury and thoughtful details!",
+        "Surrounded by pine-covered slopes and panoramic valley vistas, it blends Alpine-inspired architecture with natural stone elements that mirror the landscape. Cobbled pathways, bordered by manicured planters lead to the entrance, softly lit by old-world street lamps that set a calming tone.",
+        "Stepping indoors, the living room is anchored by a brown, tufted leather chesterfield sofa and teal wingback armchairs, radiating understated elegance. A statement crystal chandelier glimmers overhead, along with stylish decor and large windows.",
+        "The adjacent dining area features a tufted teal bench on one side of the table, paired with four floral-patterned high-back chairs on the other. The modern kitchen is outfitted with high-gloss taupe cabinetry, premium finishes, and state-of-the-art appliances.",
+        "The charming lounge area on the first floor boasts an L-shaped sofa and a uniquely shaped wooden coffee table, blending comfort with modern design. Floor-to-ceiling windows frame sweeping views from every bedroom, while the master bedroom on the first floor opens to a private balcony.",
+        "Beneath a sloped ceiling with exposed wooden beams, the indoor bar area is ideal for leisurely evenings. It features a dark wood counter, two cushioned black stools, a vibrant sofa and air conditioning for added comfort. Just beyond, the spacious terrace opens up to breathtaking 360° views of the surrounding hills, framed by a border of colourful flowers.",
+        "A premium clubhouse for peaceful escapes and memorable evenings, with a serene pool, elegant bar, and more for refined indulgence.",
+        "To elevate this experience, a dedicated 5-star hospitality team is always on hand, ready to assist with a warm smile and genuine care, embodying the true essence of \"Atithi Devo Bhava.\" From a butler and chef-on-call to a premium welcome basket and a thoughtful farewell gift, every detail is arranged to make guests feel cared for and pampered!"
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Indoor Bar",
+      "paragraphs": [
+        "Beneath a sloped ceiling with exposed wooden beams, the indoor bar area features a dark wood counter, two cushioned black stools, a vibrant sofa and air conditioning for added comfort."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Sky Deck",
+      "paragraphs": [
+        "The spacious terrace opens up to breathtaking 360° views of the surrounding hills, framed by a border of colourful flowers."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Lounge Den",
+      "paragraphs": [
+        "The cosy lounge on the first floor boasts an L-shaped sofa and a uniquely shaped wooden coffee table, blending comfort with modern design."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "The Golden Pavillion",
+      "paragraphs": [
+        "The living room is anchored by a brown, tufted leather chesterfield sofa and teal wingback armchairs, radiating understated elegance. A statement crystal chandelier glimmers overhead, along with stylish decor and large windows, with a powder room nearby."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Bedroom 1 Solana Manor",
+      "paragraphs": [
+        "A charming retreat on the first floor, this suite boasts panoramic views through floor-to-ceiling windows, an attached balcony, a four-poster king-sized bed, central hot & cold AC, a 62” TV, and an ensuite bathroom."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Bathroom 1",
+      "paragraphs": [
+        "Designed with a shower, signature organic toiletries, plush towels, and a hairdryer."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Bedroom 2 Monte Suite",
+      "paragraphs": [
+        "Framed by picturesque hill views, this serene retreat on the first floor offers a king-sized bed, a lounge chair with an ottoman, and an ensuite bathroom."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Bathroom 2",
+      "paragraphs": [
+        "Features a shower, soft towels, a hairdryer, and premium organic essentials."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Bedroom 3 Celestial Chamber",
+      "paragraphs": [
+        "Located on the ground floor, this suite boasts a king-sized bed, an ensuite bathroom, comfortable armchairs, and floor-to-ceiling windows that showcase the scenic hillside."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Bathroom 3",
+      "paragraphs": [
+        "Equipped with a shower, soft towels, a hairdryer, and organic toiletries."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Bedroom 4 Alpine Lodge",
+      "paragraphs": [
+        "Perched on the second floor, this cosy attic retreat features a king-sized bed, a slatted wooden ceiling, a floor-to-ceiling window with scenic views, and access to a shared bathroom."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Bathroom 4",
+      "paragraphs": [
+        "Offers a shower, soft towels, premium toiletries, and a hairdryer."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Dining Delight",
+      "paragraphs": [
+        "The modern kitchen is outfitted with high-gloss taupe cabinetry, premium finishes, and state-of-the-art appliances. The dining area features a tufted teal bench on one side of the table, paired with four floral-patterned high-back chairs on the other."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Clubhouse — Swimming Pool",
+      "paragraphs": [
+        "Serene outdoor pool with clean, modern edges | Infinity-style waterline with scenic views | Lined with vibrant potted flowering plants | Calm, nature-facing pool setting | Indoor games: chess, mini table tennis | Ideal for relaxed dips and leisurely swims | Well-maintained pool and surroundings | Peaceful ambience with forested backdrop | Perfect spot for unwinding and photos | Poolside plush seating | Umbrella patios"
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Restaurant",
+      "paragraphs": [
+        "Sophisticated indoor-outdoor dining and lounge experience featuring luxurious furnishings, designer interiors, warm ambient lighting, stylish seating arrangements, seamless open-air integration, elegant alfresco dining under the stars, inviting social spaces, and an exclusive rooftop lounge offering breathtaking panoramic mountain views."
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Bar & restaurant",
+      "paragraphs": [
+        "Elegant wooden bar counter with classic panel detailing | Backlit display shelves for bottles and glassware | Warm ambient lighting with vintage chandelier | Rich wooden ceiling with exposed beams | Textured stone-finish accent walls | Spacious bar frontage for smooth service flow | Premium, old-world lounge vibe | Intimate and upscale drinking experience"
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Overview",
+      "paragraphs": [
+        "Clubhouse"
+      ]
+    },
+    {
+      "bullets": [],
+      "heading": "Overview",
+      "paragraphs": [
+        "Veg Non-veg"
+      ]
+    },
+    {
+      "bullets": [
+        "A chef-on-call service is available along with an exclusive in-house menu.",
+        "Guests are allowed to access the kitchen for light cooking.",
+        "Ordering food from outside is permitted."
+      ],
+      "heading": "Additional features:",
+      "paragraphs": []
+    },
+    {
+      "bullets": [],
+      "heading": "Overview",
+      "paragraphs": [
+        "Check-in Instructions: Check-in: 2 PM | Check-out: 10 AM",
+        "Refund Policy: For cancellations that comply with our policy terms, refunds will be processed as per the details below:",
+        "1. Refunds are only available if the full payment has been made; partial payments are non-refundable.",
+        "2. Refunds will be processed within 7-9 days post cancellation request.",
+        "3. Refunds are only available if the full payment has been made; partial payments are non-refundable.",
+        "**Refunds will be processed within 7-9 days post-cancellation request.",
+        "Security Deposit Amount: 15,000",
+        "Security Deposit Refund Policy: Refunds will be processed within 4-7 working days after property inspection. Your adherence to this timeline is appreciated.",
+        "Noise & disturbances: Keep noise levels reasonable; no loud parties or events after 10 PM.",
+        "Smoking: Smoking is strictly prohibited inside the villa. Designated smoking areas are available outdoors.",
+        "Chewing tobacco: Strictly prohibited with no exceptions.",
+        "Pets: Pets are NOT allowed on the property.",
+        "Occupancy: Follow maximum occupancy limits. Additional guests need prior approval.",
+        "Damages: Guests are responsible for any damages or breakages during their stay. Please report any incidents to the management promptly. Charges may apply for repairs or replacements.",
+        "Cleanliness: Please keep the villa clean, use the designated trash bins and avoid littering the property.",
+        "Safety & security: Lock all doors and windows when leaving. We will not be responsible for any loss or theft of personal belongings.",
+        "Amenities & facilities: Use the provided amenities responsibly and adhere to any posted guidelines.",
+        "Compliance: Follow local laws and regulations. Illegal activities will result in eviction and potential legal action.",
+        "Upkeep: Daily cleaning is compulsory. Kindly cooperate with our housekeeping team.",
+        "Standard occupancy: 8 guests​",
+        "Maximum occupancy: 10 guests (Additional charges apply for extra guests beyond standard occupancy.)"
+      ]
+    },
+    {
+      "bullets": [
+        "Kasauli Church - 5.7 km",
+        "Kasauli Mall Road - 5.8 km",
+        "Manki Point - 9.4 km"
+      ],
+      "heading": "Overview",
+      "paragraphs": []
+    }
+  ],
+  "images": [
+    "https://cpjlcwamma.cloudimg.io/ELIVAAS_prive_1_0452857cb6.svg",
+    "https://cpjlcwamma.cloudimg.io/DJI_20250417165411_0307_D_Edit_1_7e7a5f66cd.jpg",
+    "https://cpjlcwamma.cloudimg.io/P1038557_e00deb9585.jpg",
+    "https://cpjlcwamma.cloudimg.io/DSC_06285_HDR_e8840b5555.webp",
+    "https://cpjlcwamma.cloudimg.io/DSC_06466_d6a6dc0dff.webp",
+    "https://cpjlcwamma.cloudimg.io/DSC_06318_HDR_d1a586f7ad.webp"
+  ],
+  "image_count": 6
+}

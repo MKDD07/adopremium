@@ -1,0 +1,47 @@
+{
+  "id": 6,
+  "slug": "chennai",
+  "name": "Chennai",
+  "villa_count": 6,
+  "villas": [
+    {
+      "id": 64,
+      "slug": "gerrys-villa-chic-4-bhk-escape-with-lounge",
+      "name": "Gerrys Villa Chic 4 BHK Escape with Lounge",
+      "url": "https://www.elivaas.com/villa-in-chennai/gerrys-villa-chic-4-bhk-escape-with-lounge"
+    },
+    {
+      "id": 65,
+      "slug": "malai-2-room-suite",
+      "name": "Malai 2 Room Suite",
+      "url": "https://www.elivaas.com/villa-in-chennai/malai-2-room-suite"
+    },
+    {
+      "id": 66,
+      "slug": "malai-1-room",
+      "name": "Malai 1 Room",
+      "url": "https://www.elivaas.com/villa-in-chennai/malai-1-room"
+    },
+    {
+      "id": 67,
+      "slug": "casa-santorini-french-style-2-bhk-villa",
+      "name": "Casa Santorini French Style 2 BHK Villa",
+      "url": "https://www.elivaas.com/villa-in-chennai/casa-santorini-french-style-2-bhk-villa"
+    },
+    {
+      "id": 68,
+      "slug": "mira-forrest-cottage-with-private-pool",
+      "name": "Mira Forrest Cottage with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-chennai/mira-forrest-cottage-with-private-pool"
+    },
+    {
+      "id": 69,
+      "slug": "nila-forrest--timber-room-with-private-pool",
+      "name": "Nila Forrest Timber Room with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-chennai/nila-forrest--timber-room-with-private-pool"
+    }
+  ],
+  "state_name": "Tamil Nadu",
+  "state_slug": "tamil-nadu",
+  "hero": "chennai coastal luxury beach house resort"
+}

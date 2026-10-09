@@ -1,0 +1,101 @@
+{
+  "id": 22,
+  "slug": "mussoorie",
+  "name": "Mussoorie",
+  "villa_count": 15,
+  "villas": [
+    {
+      "id": 453,
+      "slug": "zephyr-bliss-one-premium-room",
+      "name": "Zephyr Bliss One Premium Room",
+      "url": "https://www.elivaas.com/villa-in-mussoorie/zephyr-bliss-one-premium-room"
+    },
+    {
+      "id": 454,
+      "slug": "zephyr-classic-cottage-with-pool",
+      "name": "Zephyr Classic Cottage with Pool",
+      "url": "https://www.elivaas.com/villa-in-mussoorie/zephyr-classic-cottage-with-pool"
+    },
+    {
+      "id": 455,
+      "slug": "zephyr-classic-tent-with-pool",
+      "name": "Zephyr Classic Tent with Pool",
+      "url": "https://www.elivaas.com/villa-in-mussoorie/zephyr-classic-tent-with-pool"
+    },
+    {
+      "id": 456,
+      "slug": "zephyr-heaven-1-hillview-room-with-common-pool",
+      "name": "Zephyr Heaven 1 Hillview Room with Common Pool",
+      "url": "https://www.elivaas.com/villa-in-mussoorie/zephyr-heaven-1-hillview-room-with-common-pool"
+    },
+    {
+      "id": 457,
+      "slug": "zephyr-imperial-luxury-tent-with-pool",
+      "name": "Zephyr Imperial Luxury Tent with Pool",
+      "url": "https://www.elivaas.com/villa-in-mussoorie/zephyr-imperial-luxury-tent-with-pool"
+    },
+    {
+      "id": 458,
+      "slug": "zephyr-kumaon-cottage-with-pool",
+      "name": "Zephyr Kumaon Cottage with Pool",
+      "url": "https://www.elivaas.com/villa-in-mussoorie/zephyr-kumaon-cottage-with-pool"
+    },
+    {
+      "id": 459,
+      "slug": "zephyr-sierra-2bhk-villa-with-pool",
+      "name": "Zephyr Sierra 2BHK Villa with Pool",
+      "url": "https://www.elivaas.com/villa-in-mussoorie/zephyr-sierra-2bhk-villa-with-pool"
+    },
+    {
+      "id": 460,
+      "slug": "zephyr-stoneva-cottage-with-pool",
+      "name": "Zephyr Stoneva Cottage with Pool",
+      "url": "https://www.elivaas.com/villa-in-mussoorie/zephyr-stoneva-cottage-with-pool"
+    },
+    {
+      "id": 461,
+      "slug": "zephyr-timberhill-cottage-with-pool",
+      "name": "Zephyr Timberhill Cottage with Pool",
+      "url": "https://www.elivaas.com/villa-in-mussoorie/zephyr-timberhill-cottage-with-pool"
+    },
+    {
+      "id": 462,
+      "slug": "zephyr-utopia-one-premium-room",
+      "name": "Zephyr Utopia One Premium Room",
+      "url": "https://www.elivaas.com/villa-in-mussoorie/zephyr-utopia-one-premium-room"
+    },
+    {
+      "id": 463,
+      "slug": "evara-2bhk-villa-in-mussoorie",
+      "name": "Evara 2BHK Villa in Mussoorie",
+      "url": "https://www.elivaas.com/villa-in-mussoorie/evara-2bhk-villa-in-mussoorie"
+    },
+    {
+      "id": 464,
+      "slug": "evara-4bhk-villa",
+      "name": "Evara 4BHK Villa",
+      "url": "https://www.elivaas.com/villa-in-mussoorie/evara-4bhk-villa"
+    },
+    {
+      "id": 465,
+      "slug": "hilltop-villa-4bhk-villa-with-terrace-and-balconies",
+      "name": "Hilltop Villa 4BHK Villa with Terrace and Balconies",
+      "url": "https://www.elivaas.com/villa-in-mussoorie/hilltop-villa-4bhk-villa-with-terrace-and-balconies"
+    },
+    {
+      "id": 466,
+      "slug": "snowdrop-glamps-pet-friendly-dome-cottage-with-mountain-views",
+      "name": "Snowdrop Glamps Pet Friendly Dome Cottage with Mountain Views",
+      "url": "https://www.elivaas.com/villa-in-mussoorie/snowdrop-glamps-pet-friendly-dome-cottage-with-mountain-views"
+    },
+    {
+      "id": 467,
+      "slug": "snowdrop-3bhk-apartment",
+      "name": "Snowdrop 3BHK Apartment",
+      "url": "https://www.elivaas.com/villa-in-mussoorie/snowdrop-3bhk-apartment"
+    }
+  ],
+  "state_name": "Uttarakhand",
+  "state_slug": "uttarakhand",
+  "hero": "mussoorie hills queen misty luxury estate"
+}

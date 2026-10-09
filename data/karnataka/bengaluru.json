@@ -1,0 +1,227 @@
+{
+  "id": 4,
+  "slug": "bengaluru",
+  "name": "Bengaluru",
+  "villa_count": 36,
+  "villas": [
+    {
+      "id": 13,
+      "slug": "anantha-bliss-fibre-tent-with-pool",
+      "name": "Anantha Bliss Fibre Tent with Pool",
+      "url": "https://www.elivaas.com/villa-in-bengaluru/anantha-bliss-fibre-tent-with-pool"
+    },
+    {
+      "id": 14,
+      "slug": "anantha-bliss-taksu-2bhk-villa-with-pool",
+      "name": "Anantha Bliss Taksu 2BHK Villa with Pool",
+      "url": "https://www.elivaas.com/villa-in-bengaluru/anantha-bliss-taksu-2bhk-villa-with-pool"
+    },
+    {
+      "id": 15,
+      "slug": "ananta-bliss-talam-2bhk-villas-and-tent-with-pool",
+      "name": "Ananta Bliss Talam 2BHK Villas and Tent with Pool",
+      "url": "https://www.elivaas.com/villa-in-bengaluru/ananta-bliss-talam-2bhk-villas-and-tent-with-pool"
+    },
+    {
+      "id": 16,
+      "slug": "bali-bay-nusa-nomad-2bhk-villa-with-pool",
+      "name": "Bali Bay Nusa Nomad 2BHK Villa with Pool",
+      "url": "https://www.elivaas.com/villa-in-bengaluru/bali-bay-nusa-nomad-2bhk-villa-with-pool"
+    },
+    {
+      "id": 17,
+      "slug": "bali-bay-gumuk-2bhk-villa-with-pool",
+      "name": "Bali Bay Gumuk 2BHK Villa with Pool",
+      "url": "https://www.elivaas.com/villa-in-bengaluru/bali-bay-gumuk-2bhk-villa-with-pool"
+    },
+    {
+      "id": 18,
+      "slug": "bali-bay-kuta-canvas-tent-glass-with-pool",
+      "name": "Bali Bay Kuta Canvas Tent Glass with Pool",
+      "url": "https://www.elivaas.com/villa-in-bengaluru/bali-bay-kuta-canvas-tent-glass-with-pool"
+    },
+    {
+      "id": 19,
+      "slug": "bali-bay-saung-tent-with-pool",
+      "name": "Bali Bay Saung Tent with Pool",
+      "url": "https://www.elivaas.com/villa-in-bengaluru/bali-bay-saung-tent-with-pool"
+    },
+    {
+      "id": 20,
+      "slug": "bali-bay-villa-with-pool",
+      "name": "Bali Bay Villa with Pool",
+      "url": "https://www.elivaas.com/villa-in-bengaluru/bali-bay-villa-with-pool"
+    },
+    {
+      "id": 21,
+      "slug": "saukhyam-luxurious-3-bhk-retreat-with-terrace",
+      "name": "Saukhyam Luxurious 3 BHK Retreat with Terrace",
+      "url": "https://www.elivaas.com/villa-in-bengaluru/saukhyam-luxurious-3-bhk-retreat-with-terrace"
+    },
+    {
+      "id": 22,
+      "slug": "tapovana-aroha-pet-friendly-boho-retreat-with-2-bhk-luxury-villa-Tent",
+      "name": "Tapovana Aroha Pet Friendly Boho Retreat with 2 BHK Luxury Villa Tent",
+      "url": "https://www.elivaas.com/villa-in-bengaluru/tapovana-aroha-pet-friendly-boho-retreat-with-2-bhk-luxury-villa-Tent"
+    },
+    {
+      "id": 23,
+      "slug": "tapavana-avani-2-bhk-villa",
+      "name": "Tapavana Avani 2 BHK Villa",
+      "url": "https://www.elivaas.com/villa-in-bengaluru/tapavana-avani-2-bhk-villa"
+    },
+    {
+      "id": 24,
+      "slug": "tapavana-zarae-tent-with-pool",
+      "name": "Tapavana Zarae Tent with Pool",
+      "url": "https://www.elivaas.com/villa-in-bengaluru/tapavana-zarae-tent-with-pool"
+    },
+    {
+      "id": 25,
+      "slug": "arevana-evara-3-bhk-villa-with-shared-pool",
+      "name": "Arevana Evara 3 BHK Villa with Shared Pool",
+      "url": "https://www.elivaas.com/villa-in-bengaluru/arevana-evara-3-bhk-villa-with-shared-pool"
+    },
+    {
+      "id": 26,
+      "slug": "courtyard-banyan-rustic-2-bhk-pet-friendly-villa-with-pool",
+      "name": "Courtyard Banyan Rustic 2 BHK Pet Friendly Villa with Pool",
+      "url": "https://www.elivaas.com/villa-in-bengaluru/courtyard-banyan-rustic-2-bhk-pet-friendly-villa-with-pool"
+    },
+    {
+      "id": 27,
+      "slug": "sravasthi-oria-2-bhk-pet-friendly-forest-view-with-private-jacuzzi",
+      "name": "Sravasthi Oria 2 BHK Pet Friendly Forest View with Private Jacuzzi",
+      "url": "https://www.elivaas.com/villa-in-bengaluru/sravasthi-oria-2-bhk-pet-friendly-forest-view-with-private-jacuzzi"
+    },
+    {
+      "id": 28,
+      "slug": "apr-one-room-suite",
+      "name": "APR One Room Suite",
+      "url": "https://www.elivaas.com/villa-in-bengaluru/apr-one-room-suite"
+    },
+    {
+      "id": 29,
+      "slug": "apr-one-room-suite-with-balcony",
+      "name": "APR One Room Suite with Balcony",
+      "url": "https://www.elivaas.com/villa-in-bengaluru/apr-one-room-suite-with-balcony"
+    },
+    {
+      "id": 30,
+      "slug": "crest-manor-countryside-3-bhk-villa-with-jacuzzi",
+      "name": "Crest Manor Countryside 3 BHK Villa with Jacuzzi",
+      "url": "https://www.elivaas.com/villa-in-bengaluru/crest-manor-countryside-3-bhk-villa-with-jacuzzi"
+    },
+    {
+      "id": 31,
+      "slug": "eco-serenity-2bhk-villa-with-private-pool",
+      "name": "Eco Serenity 2BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-bengaluru/eco-serenity-2bhk-villa-with-private-pool"
+    },
+    {
+      "id": 32,
+      "slug": "hsr-penthouse-spacious-4-bhk-apartment",
+      "name": "HSR Penthouse Spacious 4 BHK Apartment",
+      "url": "https://www.elivaas.com/villa-in-bengaluru/hsr-penthouse-spacious-4-bhk-apartment"
+    },
+    {
+      "id": 33,
+      "slug": "inara-retreat-1-cottage",
+      "name": "Inara Retreat 1 Cottage",
+      "url": "https://www.elivaas.com/villa-in-bengaluru/inara-retreat-1-cottage"
+    },
+    {
+      "id": 34,
+      "slug": "royal-valora-5bhk-villa",
+      "name": "Royal Valora 5BHK Villa",
+      "url": "https://www.elivaas.com/villa-in-bengaluru/royal-valora-5bhk-villa"
+    },
+    {
+      "id": 35,
+      "slug": "saffron-breeze-1-room",
+      "name": "Saffron Breeze 1 Room",
+      "url": "https://www.elivaas.com/villa-in-bengaluru/saffron-breeze-1-room"
+    },
+    {
+      "id": 36,
+      "slug": "saffroz-breeze-4bhk-apartment-in-bengaluru",
+      "name": "Saffroz Breeze 4BHK Apartment in Bengaluru",
+      "url": "https://www.elivaas.com/villa-in-bengaluru/saffroz-breeze-4bhk-apartment-in-bengaluru"
+    },
+    {
+      "id": 37,
+      "slug": "slv-ventures-abhignya-2bhk",
+      "name": "SLV Ventures Abhignya 2BHK",
+      "url": "https://www.elivaas.com/villa-in-bengaluru/slv-ventures-abhignya-2bhk"
+    },
+    {
+      "id": 38,
+      "slug": "slv-ventures-anagha-1bhk-apartment",
+      "name": "SLV Ventures Anagha 1BHK Apartment",
+      "url": "https://www.elivaas.com/villa-in-bengaluru/slv-ventures-anagha-1bhk-apartment"
+    },
+    {
+      "id": 39,
+      "slug": "slv-ventures-penthouse-4-bhk",
+      "name": "SLV Ventures Penthouse 4 BHK",
+      "url": "https://www.elivaas.com/villa-in-bengaluru/slv-ventures-penthouse-4-bhk"
+    },
+    {
+      "id": 40,
+      "slug": "tanira-farms-moonrise-contemporary-pet-friendly-igloo-cottage-with-pool",
+      "name": "Tanira Farms Moonrise Contemporary Pet Friendly Igloo Cottage with Pool",
+      "url": "https://www.elivaas.com/villa-in-bengaluru/tanira-farms-moonrise-contemporary-pet-friendly-igloo-cottage-with-pool"
+    },
+    {
+      "id": 41,
+      "slug": "arevana-vara-luxury-tent-with-shared-pool",
+      "name": "Arevana Vara Luxury Tent with Shared Pool",
+      "url": "https://www.elivaas.com/villa-in-bengaluru/arevana-vara-luxury-tent-with-shared-pool"
+    },
+    {
+      "id": 42,
+      "slug": "arevana-3-bhk-villa-with-private-pool",
+      "name": "Arevana 3 BHK Villa with Private Pool",
+      "url": "https://www.elivaas.com/villa-in-bengaluru/arevana-3-bhk-villa-with-private-pool"
+    },
+    {
+      "id": 43,
+      "slug": "savian-suites-aurel-twin-beds-room-with-balcony",
+      "name": "Savian Suites Aurel Twin Beds Room with Balcony",
+      "url": "https://www.elivaas.com/villa-in-bengaluru/savian-suites-aurel-twin-beds-room-with-balcony"
+    },
+    {
+      "id": 44,
+      "slug": "savian-suites-avira-two-beds-room-suite-with-balcony",
+      "name": "Savian Suites Avira Two Beds Room Suite with Balcony",
+      "url": "https://www.elivaas.com/villa-in-bengaluru/savian-suites-avira-two-beds-room-suite-with-balcony"
+    },
+    {
+      "id": 45,
+      "slug": "savian-suites-azure-premium-room",
+      "name": "Savian Suites Azure Premium Room",
+      "url": "https://www.elivaas.com/villa-in-bengaluru/savian-suites-azure-premium-room"
+    },
+    {
+      "id": 46,
+      "slug": "savian-suites-eevan-queen-bed-room-with-balcony",
+      "name": "Savian Suites Eevan Queen Bed Room with Balcony",
+      "url": "https://www.elivaas.com/villa-in-bengaluru/savian-suites-eevan-queen-bed-room-with-balcony"
+    },
+    {
+      "id": 47,
+      "slug": "sravasthi-oryn-luxury-pet-friendly-outhouse-room-with-pvt-gazebo",
+      "name": "Sravasthi Oryn Luxury Pet Friendly Outhouse Room with Pvt Gazebo",
+      "url": "https://www.elivaas.com/villa-in-bengaluru/sravasthi-oryn-luxury-pet-friendly-outhouse-room-with-pvt-gazebo"
+    },
+    {
+      "id": 48,
+      "slug": "sreavasthi-villa-2-bhk-forest-view-villa-with-private-jacuzzi",
+      "name": "Sreavasthi Villa 2 BHK Forest View Villa with Private Jacuzzi",
+      "url": "https://www.elivaas.com/villa-in-bengaluru/sreavasthi-villa-2-bhk-forest-view-villa-with-private-jacuzzi"
+    }
+  ],
+  "state_name": "Karnataka",
+  "state_slug": "karnataka",
+  "hero": "bengaluru garden luxury retreat villa pool"
+}
