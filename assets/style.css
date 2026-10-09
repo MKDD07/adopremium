@@ -123,7 +123,7 @@ body{padding-bottom:60px}
 }
 .menu{display:none;position:fixed;top:16px;left:16px;z-index:70;background:#fff;border:1px solid var(--line);padding:10px 14px;border-radius:var(--radius);font-size:13px;box-shadow:var(--shadow-sm)}
 main{margin-left:var(--side);min-height:100vh;background:var(--bg)}
-section{padding:36px clamp(20px,5vw,72px);border-bottom:1px solid var(--line)}
+section{padding:36px clamp(20px,5vw,72px);}
 h1,h2.t,h3{font-family:var(--body);font-weight:300;line-height:1.1;color:var(--text)}
 h2.t{font-size:clamp(28px, 5vw, 48px);margin-bottom:12px}
 h3{font-size:clamp(24px, 3.2vw, 34px);margin-bottom:8px}
@@ -692,3 +692,29 @@ body{padding-bottom:calc(80px + env(safe-area-inset-bottom))}
 .villa-brochure footer{display:flex;flex-direction:column}
 }
 @media print{.brochure-chapters,.cover-actions,.brochure-back{display:none!important}.villa-brochure .hero{height:650px;min-height:0}.villa-brochure>section:not(.hero){scroll-margin-top:0}.villa-brochure .triptych-grid{display:grid!important;grid-template-columns:repeat(2,minmax(0,1fr))!important}.villa-brochure .swiper-wrapper{transform:none!important}.villa-brochure .swiper-slide{width:auto!important}.villa-brochure .stat-card{background:#eee}.villa-brochure .stat-val,.villa-brochure .stat-label,.villa-brochure .stat-sub{color:#000}}
+
+.contact-modal-backdrop{display:none;position:fixed;inset:0;z-index:1200;background:#0009;backdrop-filter:blur(6px);padding:24px;overflow-y:auto;align-items:center;justify-content:center}
+.contact-modal-backdrop.open{display:flex}
+.contact-modal-dialog{width:min(100%,650px);max-height:calc(100dvh - 48px);overflow:auto;background:#fff;border-radius:20px;box-shadow:0 24px 80px #0005;color:#000}
+.contact-modal-header{display:flex;align-items:center;justify-content:space-between;gap:16px;padding:24px;background:#FDE300}
+.contact-modal-kicker{font-size:10px;letter-spacing:.12em;text-transform:uppercase}
+.contact-modal-title{font:400 28px/1.2 Georgia,serif;margin-top:8px}
+.contact-modal-close{display:grid;place-items:center;flex-shrink:0;width:40px;height:40px;border:1px solid #0003;border-radius:50%;background:transparent}
+.contact-modal-close svg{width:20px;height:20px}
+.contact-modal-body{padding:24px}
+.contact-section+.contact-section{margin-top:26px}
+.contact-section-label{display:flex;align-items:center;gap:10px;font-size:12px;font-weight:500;margin-bottom:12px}
+.contact-sec-icon{width:18px;height:18px}
+.contact-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+.contact-option-card{display:flex;align-items:center;gap:10px;padding:14px 10px;border:1px solid #e4e4e4;border-radius:10px;min-width:0}
+.contact-option-card:hover{border-color:#000;background:#fffde5}
+.contact-option-icon{background:#FDE300;border-radius:8px;padding:9px;display:flex;flex-shrink:0}
+.contact-option-icon svg,.contact-arrow{width:16px;height:16px}
+.contact-option-info{display:flex;flex-direction:column;gap:4px;min-width:0}
+.contact-option-label{font-size:10px;color:#666}
+.contact-option-val{font-size:12px;overflow-wrap:anywhere}
+.contact-arrow{margin-left:auto;flex-shrink:0}
+.wa-full{grid-column:1/-1}
+.email-btn{background:#FDE300;border-color:#FDE300;color:#000}
+@media(max-width:575.98px){.contact-modal-backdrop{padding:12px}.contact-modal-dialog{max-height:calc(100dvh - 24px)}.contact-grid{grid-template-columns:1fr}.contact-modal-header,.contact-modal-body{padding:20px}.contact-modal-title{font-size:25px}}
+@media print{.contact-modal-backdrop{display:none!important}}

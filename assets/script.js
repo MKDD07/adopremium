@@ -593,7 +593,7 @@ function renderSnapshotSection(snapshotList, spreadNum = 1) {
     </div>
 
     <div class="snapshot-narrative">
-      ${introParas.map(p => `<p class="lead" style="font-size:15.5px;line-height:1.9;margin-bottom:18px;color:var(--text)">${esc(p)}</p>`).join("")}
+      ${introParas.map(p => `<p class="lead" style="line-height:1.9;margin-bottom:18px;">${esc(p)}</p>`).join("")}
     </div>
   </section>`;
 }
@@ -1023,7 +1023,8 @@ function renderMobBottomNav({ stateSlug = "", stateName = "", locSlug = "", locN
     `);
   }
 
-  items.push(`<a href="tel:+919876543210" class="mob-bottom-item"><i data-lucide="phone"></i><span>Call</span></a>`);
+  items.push(`<button type="button" onclick="openContactModal('call')" class="mob-bottom-item"><i data-lucide="phone"></i><span>Call</span></button>`);
+  items.push(`<button type="button" onclick="openContactModal('email')" class="mob-bottom-item"><i data-lucide="mail"></i><span>Email</span></button>`);
   items.push(`<button type="button" class="mob-bottom-item" onclick="location.reload()"><i data-lucide="lock-keyhole"></i><span>Lock</span></button>`);
   el.innerHTML = items.join("");
   el.querySelectorAll(".active").forEach(a => a.setAttribute("aria-current", "page"));
@@ -1068,9 +1069,9 @@ function renderDirectory({eyebrow, title, description, back, items, searchLabel,
 
 /* 1. STATE-WISE MAIN PAGE (LEVEL 1) */
 function home(){
-  document.title = "ADO Premium — Luxury Villa Portfolio";
+  document.title = "Adopremium — Luxury Villa Portfolio";
   const totalV = STATES_DATA.reduce((a, s) => a + s.total_villas, 0);
-  setSideHeader("ADO Premium", `${STATES_DATA.length} ${STATES_DATA.length === 1 ? 'State' : 'States'} · ${totalV} ${totalV === 1 ? 'Villa' : 'Villas'}`);
+  setSideHeader("Adopremium", `${STATES_DATA.length} ${STATES_DATA.length === 1 ? 'State' : 'States'} · ${totalV} ${totalV === 1 ? 'Villa' : 'Villas'}`);
   setHeaderBreadcrumb([
     { label: "States", url: "" }
   ]);
@@ -1093,7 +1094,7 @@ function home(){
   renderDirectory({
     eyebrow: 'The ADO destination collection', title: 'Somewhere extraordinary.',
     description: 'From slow mornings in the hills to sunlit days by the pool. Discover a destination, then find a place to call your own.',
-    back: {href:'#/',label:'ADO Premium / India'}, searchLabel:'Search a state or location',
+    back: {href:'#/',label:'Adopremium / India'}, searchLabel:'Search a state or location',
     stats:[{value:STATES_DATA.length,label:'States & regions'},{value:totalV,label:'Private villas'}],
     items: STATES_DATA.map(st=>({name:st.name,href:`#/state/${st.slug}`,query:st.hero,
       search:st.locations.map(l=>l.name).join(' '),badge:`${st.total_villas} ${st.total_villas===1?'villa':'villas'}`,
@@ -1107,7 +1108,7 @@ function statePage(stateSlug){
   const st = STATES_MAP[stateSlug];
   if(!st) return notFound(stateSlug);
 
-  document.title = `${st.name} Luxury Villas — ADO Premium`;
+  document.title = `${st.name} Luxury Villas — Adopremium`;
   setSideHeader(st.name, `${st.total_locations} Locations · ${st.total_villas} Villas`);
   setHeaderBreadcrumb([
     { label: "States", url: "#/" },
@@ -1149,7 +1150,7 @@ function locationPage(locSlug){
   const stateName = loc.state_name || "Destinations";
   const stateSlug = loc.state_slug || "";
 
-  document.title = `${loc.name}, ${stateName} — ADO Premium`;
+  document.title = `${loc.name}, ${stateName} — Adopremium`;
   setSideHeader(loc.name, `${loc.villa_count} Luxury ${loc.villa_count === 1 ? 'Villa' : 'Villas'}`);
   setHeaderBreadcrumb([
     { label: "States", url: "#/" },
@@ -1251,7 +1252,7 @@ function villa(slug, sec){
   if(!v) return notFound(slug);
 
   app.classList.add("villa-brochure");
-  document.title = `${v.name || v.code || "Private Villa"} — ADO Premium`;
+  document.title = `${v.name || v.code || "Private Villa"} — Adopremium`;
   setSideHeader(v.code, `${v.config} · ${v.place}`);
 
   const breadcrumbs = [
@@ -1416,10 +1417,10 @@ function villa(slug, sec){
     ${pic(v.name, 0, "bg", heroImg, false)}
     <div class="in brochure-cover">
       <a class="brochure-back" href="${locSlug ? `#/location/${locSlug}` : '#/'}">← Back to the collection</a>
-      <div class="brochure-cover-content"><p class="cover-label">ADO PREMIUM / PRIVATE COLLECTION</p>
+      <div class="brochure-cover-content"><p class="cover-label">Adopremium / PRIVATE COLLECTION</p>
       <h1>${esc(v.name || v.code || 'Your private escape')}</h1>
       <p class="cover-location">${esc(v.config || 'Private villa')} <span>·</span> ${esc(v.place || locName)}</p>
-      <div class="cover-actions"><a class="brochure-button" href="#/${slug}/overview">Explore the villa <span aria-hidden="true">↗</span></a><button class="brochure-button brochure-button-outline" type="button" id="printBrochure">Save brochure <i data-lucide="download"></i></button></div></div>
+      <div class="cover-actions"><a class="brochure-button" href="#/${slug}/overview">Explore the villa <span aria-hidden="true">↗</span></a><button class="brochure-button d-none brochure-button-outline" type="button" id="printBrochure">Save brochure <i data-lucide="download"></i></button></div></div>
       <div class="cover-caption"><span>${esc(v.code || 'ADO COLLECTION')}</span><span>A place to make your own.</span></div>
     </div>
   </section>
@@ -1537,19 +1538,66 @@ function observe(){
   document.querySelectorAll(".ph.load[data-target]").forEach(el => io.observe(el));
 }
 
-/* scroll-spy */
+/* Track the section below the sticky header and keep its chapter tab visible. */
 let spyIO;
 function spy(){
   spyIO?.disconnect();
-  spyIO = new IntersectionObserver(es => es.forEach(e => {
-    if(e.isIntersecting) document.querySelectorAll('#nav a[data-s], .brochure-chapters a').forEach(a => {
-      const active = a.dataset.s === e.target.id;
-      a.classList.toggle("on", active);
-      if (active) a.setAttribute("aria-current", "location");
-      else a.removeAttribute("aria-current");
+  const bar = app.querySelector('.brochure-chapters');
+  if (!bar) return;
+  const tabs = Array.from(bar.querySelectorAll('a[data-s]'));
+  const sections = tabs.map(tab => document.getElementById(tab.dataset.s)).filter(Boolean);
+  const links = document.querySelectorAll('#nav a[data-s], .brochure-chapters a[data-s]');
+  let frame = 0;
+  let activeId = '';
+  let revealActive = true;
+  const update = () => {
+    frame = 0;
+    const headerBottom = document.getElementById('editorialHeader')?.getBoundingClientRect().bottom || 0;
+    const threshold = headerBottom + bar.offsetHeight + 24;
+    let active = sections[0];
+    for (const section of sections) {
+      if (section.getBoundingClientRect().top <= threshold) active = section;
+      else break;
+    }
+    // The final chapter may be too short to reach the sticky navigation.
+    if (window.scrollY > 0 && window.innerHeight + window.scrollY >= document.documentElement.scrollHeight - 4) {
+      active = sections[sections.length - 1];
+    }
+    if (!active) return;
+    const changed = active.id !== activeId;
+    if (!changed && !revealActive) return;
+    activeId = active.id;
+    revealActive = false;
+    links.forEach(link => {
+      const selected = link.dataset.s === activeId;
+      link.classList.toggle('on', selected);
+      if (selected) link.setAttribute('aria-current', 'location');
+      else link.removeAttribute('aria-current');
     });
-  }), {rootMargin: "-40% 0px -55% 0px"});
-  app.querySelectorAll("main > section, #app > section").forEach(s => spyIO.observe(s));
+    const tab = tabs.find(link => link.dataset.s === activeId);
+    if (!tab) return;
+    const bounds = bar.getBoundingClientRect();
+    const rect = tab.getBoundingClientRect();
+    if (rect.left < bounds.left + 12 || rect.right > bounds.right - 12) {
+      bar.scrollTo({
+        left: bar.scrollLeft + rect.left - bounds.left - (bar.clientWidth - rect.width) / 2,
+        behavior: window.matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth'
+      });
+    }
+  };
+  const schedule = () => { if (!frame) frame = requestAnimationFrame(update); };
+  const resize = () => { revealActive = true; schedule(); };
+  window.addEventListener('scroll', schedule, {passive:true});
+  window.addEventListener('resize', resize, {passive:true});
+  const resizeObserver = typeof ResizeObserver !== 'undefined' ? new ResizeObserver(resize) : null;
+  resizeObserver?.observe(app);
+  spyIO = {disconnect(){
+    window.removeEventListener('scroll', schedule);
+    window.removeEventListener('resize', resize);
+    resizeObserver?.disconnect();
+    cancelAnimationFrame(frame);
+  }};
+  update();
 }
 
 /* ============================================================
@@ -2013,46 +2061,96 @@ addEventListener("keydown", e => {
   }
 });
 
+/* Contact dialog: explicit links open the user's phone or email app. */
+let contactOpener;
+let contactPreviousOverflow = '';
+const contactDetails = {
+  call: {
+    title: 'Call Our Expert',
+    groups: [
+      {title:'For Reservation', items:[['Reservation Line 1','+91-9311663765','tel:+919311663765'],['Reservation Line 2','+91-9311663766','tel:+919311663766']]},
+      {title:'Get In Touch with Monica', items:[['Monica (Mobile)','+91-9560020687','tel:+919560020687'],['Office Landline','+91-11 4010 8586','tel:+911140108586']]}
+    ]
+  },
+  email: {
+    title: 'Email Our Expert',
+    groups: [{title:'Send us your enquiry',items:[['Monica','monica@adopremium.com','mailto:monica@adopremium.com'],['Sales Team','sales@adopremium.com','mailto:sales@adopremium.com']]}]
+  }
+};
+function openContactModal(type = 'call') {
+  const modal = document.getElementById('contactModal');
+  if (!modal || modal.classList.contains('open')) return;
+  const mode = type === 'email' ? 'email' : 'call';
+  const details = contactDetails[mode];
+  document.getElementById('contactModalTitle').textContent = details.title;
+  modal.dataset.mode = mode;
+  modal.querySelector('.contact-modal-body').innerHTML = details.groups.map(group => `
+    <div class="contact-section">
+      <div class="contact-section-label">${esc(group.title)}</div>
+      <div class="contact-grid">${group.items.map(([label,value,href]) => `
+        <a href="${href}" class="contact-option-card">
+          <div class="contact-option-icon"><i data-lucide="${mode === 'email' ? 'mail' : 'phone'}"></i></div>
+          <div class="contact-option-info"><span class="contact-option-label">${esc(label)}</span><span class="contact-option-val">${esc(value)}</span></div>
+          <i data-lucide="chevron-right" class="contact-arrow"></i>
+        </a>`).join('')}</div>
+    </div>`).join('');
+  contactOpener = document.activeElement;
+  contactPreviousOverflow = document.body.style.overflow;
+  modal.classList.add('open');
+  modal.setAttribute('aria-hidden','false');
+  document.body.style.overflow = 'hidden';
+  refreshLucide();
+  document.getElementById('contactModalClose').focus();
+}
+function closeContactModal() {
+  const modal = document.getElementById('contactModal');
+  if (!modal?.classList.contains('open')) return;
+  modal.classList.remove('open');
+  modal.setAttribute('aria-hidden','true');
+  document.body.style.overflow = contactPreviousOverflow;
+  contactOpener?.focus();
+}
+document.getElementById('contactModal')?.addEventListener('click', e => {
+  if (e.target.id === 'contactModal') closeContactModal();
+});
+document.getElementById('contactModal')?.addEventListener('keydown', e => {
+  if (e.key === 'Escape') { e.stopPropagation(); closeContactModal(); }
+  if (e.key !== 'Tab') return;
+  const nodes = e.currentTarget.querySelectorAll('a[href],button');
+  const first = nodes[0], last = nodes[nodes.length-1];
+  if (e.shiftKey && document.activeElement === first) {e.preventDefault();last.focus();}
+  else if (!e.shiftKey && document.activeElement === last) {e.preventDefault();first.focus();}
+});
+
+async function fetchPortfolioJson(url) {
+  const controller = new AbortController();
+  const timer = setTimeout(() => controller.abort(), 12000);
+  try {
+    const response = await fetch(url, {signal:controller.signal});
+    if (!response.ok) throw new Error(`Portfolio request failed (${response.status})`);
+    return await response.json();
+  } finally {clearTimeout(timer);}
+}
+function loadPortfolioFallback() {
+  if (window.ADO_PORTFOLIO_FALLBACK) return Promise.resolve(window.ADO_PORTFOLIO_FALLBACK);
+  return new Promise((resolve,reject) => {
+    const script = document.createElement('script');
+    script.src = new URL('assets/data/portfolio-fallback.js', document.baseURI).href;
+    const timer = setTimeout(() => {script.remove();reject(new Error('Portfolio fallback timed out'));},12000);
+    script.onload = () => {clearTimeout(timer);resolve(window.ADO_PORTFOLIO_FALLBACK || []);script.remove();};
+    script.onerror = () => {clearTimeout(timer);script.remove();reject(new Error('Portfolio data files are unavailable'));};
+    document.head.appendChild(script);
+  });
+}
+let portfolioRouterBound = false;
 /* ============================================================
    INITIALIZATION — Auto-detects data from location/*
    ============================================================ */
 async function initPortfolio(){
   try {
-    const fileSet = new Set();
-
-    // 1. Try to load location manifest index.json
-    try {
-      const idxRes = await fetch("./assets/data/location/index.json", {signal: AbortSignal.timeout(12000)});
-      if(idxRes.ok){
-        const list = await idxRes.json();
-        if(Array.isArray(list)) list.forEach(f => fileSet.add(f));
-      }
-    } catch(e){}
-
-    // 2. Proactively probe candidate files (0001.json - 0025.json, default.json, etc.)
-    if (!fileSet.size) {
-    fileSet.add("default.json");
-    for(let i = 1; i <= 25; i++){
-      fileSet.add(String(i).padStart(4, "0") + ".json");
-      fileSet.add(String(i) + ".json");
-    }
-
-    }
-    const fileList = Array.from(fileSet);
-
-    // 3. Fetch all candidate location JSON files
-    const loadedList = await Promise.all(
-      fileList.map(async fn => {
-        try {
-          const r = await fetch(`./assets/data/location/${fn}`, {signal: AbortSignal.timeout(12000)});
-          if(r.ok){
-            const data = await r.json();
-            return { data, filename: fn };
-          }
-        } catch(err){}
-        return null;
-      })
-    );
+    // Load the packaged collection directly: works on static hosting and file previews.
+    // Keep this bundle synchronized with assets/data/location when villa data changes.
+    const loadedList = await loadPortfolioFallback();
 
     // Filter valid objects that have title or data and deduplicate by title
     const validMap = new Map();
@@ -2073,7 +2171,7 @@ async function initPortfolio(){
     buildPortfolioFromLocationJsons(validList);
 
     // 5. Start Router
-    addEventListener("hashchange", route);
+    if (!portfolioRouterBound) {addEventListener("hashchange", route);portfolioRouterBound = true;}
     route();
 
   } catch(err) {
@@ -2084,12 +2182,12 @@ async function initPortfolio(){
 }
 
 
-/* Temporary client-side gate, not server authentication. No persistent unlock token.
-   PBKDF2 slows password guessing; public static files remain directly accessible. */
+/* Simple temporary frontend password gate. This is not server authentication. */
 const accessForm = document.getElementById("accessForm");
 const passwordInput = document.getElementById("accessPassword");
 const accessError = document.getElementById("accessError");
 const accessSubmit = document.getElementById("accessSubmit");
+let accessVerified = false;
 let failedAttempts = 0;
 let retryAfter = 0;
 document.getElementById("togglePassword").addEventListener("click", e => {
@@ -2109,12 +2207,8 @@ accessForm.addEventListener("submit", async e => {
   accessSubmit.disabled = true;
   accessError.textContent = "Checking your access…";
   try {
-    if (!globalThis.crypto?.subtle) throw new Error("Open this page over HTTPS or localhost to enter your password.");
-    const encoder = new TextEncoder();
-    const key = await crypto.subtle.importKey("raw", encoder.encode(passwordInput.value), "PBKDF2", false, ["deriveBits"]);
-    const bits = await crypto.subtle.deriveBits({name:"PBKDF2", salt:encoder.encode("ado-private-collection-v1"), iterations:310000, hash:"SHA-256"}, key, 256);
-    const derived = Array.from(new Uint8Array(bits), b => b.toString(16).padStart(2,"0")).join("");
-    if (derived !== "41d8bf11c793aca23df0731f5daac69490349b775493afdfacd2bf928fd6e340") {
+    if (!accessVerified) {
+    if (passwordInput.value !== "adopremium") {
       failedAttempts++;
       if (failedAttempts >= 5) retryAfter = Date.now() + 30000;
       accessError.textContent = failedAttempts >= 5 ? "Too many attempts. Please wait 30 seconds." : "That password isn’t correct. Please try again.";
@@ -2122,10 +2216,12 @@ accessForm.addEventListener("submit", async e => {
       passwordInput.select();
       return;
     }
+    accessVerified = true;
+    }
     passwordInput.value = "";
     passwordInput.removeAttribute("aria-invalid");
     accessForm.hidden = true;
-    document.getElementById("accessTitle").textContent = "Welcome to ADO Premium";
+    document.getElementById("accessTitle").textContent = "Welcome";
     document.getElementById("accessCopy").textContent = "Your next exceptional escape awaits.";
     document.getElementById("portfolioLoading").hidden = false;
     await initPortfolio();
@@ -2137,7 +2233,10 @@ accessForm.addEventListener("submit", async e => {
   } catch (err) {
     accessForm.hidden = false;
     document.getElementById("portfolioLoading").hidden = true;
-    accessError.textContent = err.message.includes("HTTPS") ? err.message : "We couldn’t load the collection. Check your connection and try again.";
+    console.error('Collection startup failed:', err);
+    passwordInput.required = !accessVerified;
+    accessSubmit.textContent = accessVerified ? 'Retry loading collection' : 'Explore the collection →';
+    accessError.textContent = 'Unable to open the collection: ' + err.message;
   } finally {
     accessSubmit.disabled = false;
   }

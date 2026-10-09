@@ -47,14 +47,14 @@
 
   <div class="header-right">
     <div class="header-contact-actions">
-      <a href="tel:+919876543210" class="contact-action-btn call-btn" aria-label="Call for reservations" title="Call Us">
+      <button type="button" class="contact-action-btn call-btn" onclick="openContactModal('call')" aria-label="Call for reservations" title="Get In Touch">
         <i data-lucide="phone" class="btn-icon"></i>
         <span class="btn-text">Call</span>
-      </a>
-      <a href="https://wa.me/919876543210" target="_blank" rel="noopener noreferrer" class="contact-action-btn whatsapp-btn" aria-label="WhatsApp enquiry" title="WhatsApp">
-        <i data-lucide="message-circle" class="btn-icon"></i>
-        <span class="btn-text">WhatsApp</span>
-      </a>
+      </button>
+      <button type="button" class="contact-action-btn email-btn" onclick="openContactModal('email')" aria-label="Email our team" title="Get In Touch">
+        <i data-lucide="mail" class="btn-icon"></i>
+        <span class="btn-text">Email</span>
+      </button>
     </div>
     <button class="menu-btn" id="menuBtn" aria-label="Open navigation menu">
       <i data-lucide="menu" class="menu-icon"></i>
@@ -92,8 +92,111 @@
     <div class="gal-modal-thumbs-track" id="lbThumbsTrack"></div>
   </div>
 </div>
+<!-- GET IN TOUCH CONTACT MODAL -->
+<div class="contact-modal-backdrop" id="contactModal" aria-hidden="true">
+  <div class="contact-modal-dialog" role="dialog" aria-modal="true" tabindex="-1" aria-labelledby="contactModalTitle">
+    <div class="contact-modal-header">
+      <div>
+        <span class="contact-modal-kicker">ADO Premium Concierge</span>
+        <h2 class="contact-modal-title" id="contactModalTitle">Get In Touch with Our Expert</h2>
+      </div>
+      <button type="button" class="contact-modal-close" id="contactModalClose" onclick="closeContactModal()" aria-label="Close modal">
+        <i data-lucide="x"></i>
+      </button>
+    </div>
+
+    <div class="contact-modal-body">
+      <!-- Section 1: For Reservation -->
+      <div class="contact-section">
+        <div class="contact-section-label">
+          <i data-lucide="phone-call" class="contact-sec-icon"></i>
+          <span>For Reservation</span>
+        </div>
+        <div class="contact-grid">
+          <a href="tel:+919311663765" class="contact-option-card">
+            <div class="contact-option-icon call-bg"><i data-lucide="phone"></i></div>
+            <div class="contact-option-info">
+              <span class="contact-option-label">Reservation Line 1</span>
+              <span class="contact-option-val">+91-9311663765</span>
+            </div>
+            <i data-lucide="chevron-right" class="contact-arrow"></i>
+          </a>
+          <a href="tel:+919311663766" class="contact-option-card">
+            <div class="contact-option-icon call-bg"><i data-lucide="phone"></i></div>
+            <div class="contact-option-info">
+              <span class="contact-option-label">Reservation Line 2</span>
+              <span class="contact-option-val">+91-9311663766</span>
+            </div>
+            <i data-lucide="chevron-right" class="contact-arrow"></i>
+          </a>
+        </div>
+      </div>
+
+      <!-- Section 2: Direct Expert Contact -->
+      <div class="contact-section">
+        <div class="contact-section-label">
+          <i data-lucide="user-check" class="contact-sec-icon"></i>
+          <span>Direct Expert Contact</span>
+        </div>
+        <div class="contact-grid">
+          <a href="tel:+919560020687" class="contact-option-card">
+            <div class="contact-option-icon call-bg"><i data-lucide="smartphone"></i></div>
+            <div class="contact-option-info">
+              <span class="contact-option-label">Monica (Mobile)</span>
+              <span class="contact-option-val">+91-9560020687</span>
+            </div>
+            <i data-lucide="chevron-right" class="contact-arrow"></i>
+          </a>
+          <a href="tel:+911140108586" class="contact-option-card">
+            <div class="contact-option-icon call-bg"><i data-lucide="phone-forwarded"></i></div>
+            <div class="contact-option-info">
+              <span class="contact-option-label">Office Landline</span>
+              <span class="contact-option-val">+91-11 4010 8586</span>
+            </div>
+            <i data-lucide="chevron-right" class="contact-arrow"></i>
+          </a>
+        </div>
+      </div>
+
+      <!-- Section 3: Email & WhatsApp -->
+      <div class="contact-section">
+        <div class="contact-section-label">
+          <i data-lucide="mail" class="contact-sec-icon"></i>
+          <span>Email &amp; Instant Support</span>
+        </div>
+        <div class="contact-grid">
+          <a href="mailto:monica@adopremium.com" class="contact-option-card">
+            <div class="contact-option-icon mail-bg"><i data-lucide="mail"></i></div>
+            <div class="contact-option-info">
+              <span class="contact-option-label">Direct Email</span>
+              <span class="contact-option-val">monica@adopremium.com</span>
+            </div>
+            <i data-lucide="chevron-right" class="contact-arrow"></i>
+          </a>
+          <a href="mailto:sales@adopremium.com" class="contact-option-card">
+            <div class="contact-option-icon mail-bg"><i data-lucide="send"></i></div>
+            <div class="contact-option-info">
+              <span class="contact-option-label">Sales Enquiry</span>
+              <span class="contact-option-val">sales@adopremium.com</span>
+            </div>
+            <i data-lucide="chevron-right" class="contact-arrow"></i>
+          </a>
+          <a href="https://wa.me/919311663765" target="_blank" rel="noopener noreferrer" class="contact-option-card wa-full">
+            <div class="contact-option-icon wa-bg"><i data-lucide="message-circle"></i></div>
+            <div class="contact-option-info">
+              <span class="contact-option-label">WhatsApp Concierge</span>
+              <span class="contact-option-val">+91-9311663765 (Instant Chat)</span>
+            </div>
+            <i data-lucide="external-link" class="contact-arrow"></i>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 
 <nav class="mob-bottom-nav" id="mobBottomNav" aria-label="Mobile bottom navigation"></nav>
+<script src="assets/data/portfolio-fallback.js"></script>
 <script src="assets/script.js"></script>
 
 </body>
