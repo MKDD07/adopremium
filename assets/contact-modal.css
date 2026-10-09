@@ -1,0 +1,27 @@
+/* Contact dialogs: loaded separately from brochure layout styles. */
+.contact-modal-backdrop,.contact-modal-backdrop *{box-sizing:border-box}
+.contact-modal-backdrop{display:none;position:fixed;inset:0;z-index:1200;background:#0009;backdrop-filter:blur(6px);padding:24px;overflow-y:auto;align-items:center;justify-content:center}
+.contact-modal-backdrop.open{display:flex}
+.contact-modal-dialog{position:relative;display:flex;flex-direction:column;width:100%;max-width:650px;min-width:0;max-height:calc(100vh - 48px);max-height:calc(100dvh - 48px);margin:auto;overflow:hidden;background:#fff;border:1px solid #e4e4e4;border-radius:20px;box-shadow:0 24px 80px #0005;color:#000;font:400 14px/1.6 "Poppins",Arial,sans-serif}
+.contact-modal-header{flex-shrink:0;display:flex;align-items:center;justify-content:space-between;gap:16px;padding:24px;background:#FDE300}
+.contact-modal-kicker{font-size:10px;letter-spacing:.12em;text-transform:uppercase}
+.contact-modal-title{font:400 28px/1.2 Georgia,serif;margin-top:8px}
+.contact-modal-close{display:grid;place-items:center;flex-shrink:0;width:40px;height:40px;border:1px solid #0003;border-radius:50%;background:transparent}
+.contact-modal-close svg{width:20px;height:20px}
+.contact-modal-body{padding:24px;min-height:0;overflow-y:auto;overscroll-behavior:contain}
+.contact-section+.contact-section{margin-top:26px}
+.contact-section-label{display:flex;align-items:center;gap:10px;font-size:12px;font-weight:500;margin-bottom:12px}
+.contact-sec-icon{width:18px;height:18px}
+.contact-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+.contact-option-card{display:flex;align-items:center;gap:10px;padding:14px 10px;border:1px solid #e4e4e4;border-radius:10px;min-width:0}
+.contact-option-card:hover{border-color:#000;background:#fffde5}
+.contact-option-icon{background:#FDE300;border-radius:8px;padding:9px;display:flex;flex-shrink:0}
+.contact-option-icon svg,.contact-arrow{width:16px;height:16px}
+.contact-option-info{display:flex;flex-direction:column;gap:4px;min-width:0}
+.contact-option-label{font-size:10px;color:#666}
+.contact-option-val{font-size:12px;overflow-wrap:anywhere}
+.contact-arrow{margin-left:auto;flex-shrink:0}
+.wa-full{grid-column:1/-1}
+.email-btn{background:#FDE300;border-color:#FDE300;color:#000}
+@media(max-width:575.98px){.contact-modal-backdrop{padding:12px}.contact-modal-dialog{max-height:calc(100dvh - 24px)}.contact-grid{grid-template-columns:1fr}.contact-modal-header,.contact-modal-body{padding:20px}.contact-modal-title{font-size:25px}}
+@media print{.contact-modal-backdrop{display:none!important}}
